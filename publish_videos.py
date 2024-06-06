@@ -75,6 +75,10 @@ def get_videos(lang):
                     if not 'id' in content:
                         continue
 
+                    if content['duration'] > 600:
+                        print(f"Skipped {content['id']}: {content['title']} ({int(content['duration']/60)}m)")
+                        continue
+
                     now = datetime.now().isoformat()
                     if not 'mainContentImage' in content or content['mainContentImage'] == None:
                         continue
