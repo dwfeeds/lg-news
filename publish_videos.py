@@ -23,10 +23,7 @@ def get_videos(lang):
                         contents {
                             ... on Video {
                                 id
-                                name
                                 title
-                                shortTeaser
-                                teaser
                                 duration
                                 regions { name }
                                 categories { name }
@@ -91,6 +88,7 @@ def get_videos(lang):
                         'titleText': content['title'],
                         'category': content['categories'][0]['name'],
                         'subCategory': sub_category,
+                        'regions': [r['name'] for r in content['regions']],
                         'runningTime': content['duration'],
                         'updateTime': content['contentDate'],
                         'onClick': {
