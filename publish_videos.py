@@ -1,4 +1,5 @@
 from datetime import datetime
+import re
 import requests
 import json
 
@@ -94,6 +95,8 @@ def get_videos(lang):
                         'onClick': {
                             'targetAppId': 'com.dw.app.dwforsmarttv',
                             'contentId': f"v={content['id']}&list={comp['type']}:{comp['order']}",
+                            'type': 'video',
+                            'id': content['id'],
                             'launchParam': None
                         },
                         'providerLogo': {
@@ -119,12 +122,35 @@ def get_videos(lang):
             
 
 if __name__ == '__main__':
+    videos_per_language = []
+    all_american = []
+
     for l, lang in {
         'en': 'ENGLISH',
         'es': 'SPANISH',
         'de': 'GERMAN'
     }.items():
-        fname = f"videos_{l}.json"  
+        fname = f"videos_{l}.json"
+        videos_per_language = get_videos(lang)
+
+        american_videos = []
+        for v in videos_per_language:
+            v['language'] = l
+            for r in v['regions']:
+                if re.search('ameri', r, re.IGNORECASE) or r == 'Estados Unidos':
+                    american_videos.append(v)
+                    all_american.append(v)
+
         with open(fname, 'w') as f:
-            f.write(json.dumps(get_videos(lang), indent=2))
+            f.write(json.dumps(videos_per_language, indent=2))
         print(f"Saved {fname}")
+
+        fname = f"videos_{l}_america.json"
+        with open(fname, 'w') as f:
+            f.write(json.dumps(american_videos, indent=2))
+        print(f"Saved {fname}")
+
+    fname = f"videos_all_america.json"
+    with open(fname, 'w') as f:
+        f.write(json.dumps(all_american, indent=2))
+    print(f"Saved {fname}")
