@@ -26,7 +26,7 @@ def get_videos(lang):
                                 id
                                 title
                                 duration
-                                regions { name }
+                                regions { name originId }
                                 categories { name }
                                 duration
                                 contentDate
@@ -89,7 +89,8 @@ def get_videos(lang):
                         'titleText': content['title'],
                         'category': content['categories'][0]['name'],
                         'subCategory': sub_category,
-                        'regions': [r['name'] for r in content['regions']],
+                        'region_ids': dict([ (r['originId'], r['name']) for r in content['regions'] ]),
+                        'regions': [ r['name'] for r in content['regions'] ],
                         'runningTime': content['duration'],
                         'updateTime': content['contentDate'],
                         'onClick': {
@@ -136,10 +137,11 @@ if __name__ == '__main__':
         american_videos = []
         for v in videos_per_language:
             v['language'] = l
-            for r in v['regions']:
-                if re.search('ameri', r, re.IGNORECASE) or r == 'Estados Unidos':
+            for origin, name in v['region_ids'].items():
+                if re.match('region:northamerica:', origin) or re.match('region:cala:', origin) or origin == 'region:global':
                     american_videos.append(v)
                     all_american.append(v)
+            del v['region_ids']
 
         with open(fname, 'w') as f:
             f.write(json.dumps(videos_per_language, indent=2))
