@@ -141,7 +141,7 @@ if __name__ == '__main__':
         'es': 'SPANISH',
         'de': 'GERMAN'
     }.items():
-        videos = sorted(get_videos(lang), reverse=True, key=lambda(v): return v['updateTime'])
+        videos = sorted(get_videos(lang), reverse=True, key=lambda v: v['updateTime'])
         
         for v in videos:
             v['language'] = l
