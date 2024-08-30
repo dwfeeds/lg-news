@@ -30,4 +30,5 @@ jobs:
           git config --local user.name "Olav Schettler"
           git add *.json
           git commit -m 'Updated videos'
+          git pull origin main
           git push origin main
