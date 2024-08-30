@@ -2,7 +2,7 @@ name: run publish_videos.py
 
 on:
   schedule:
-    - cron: '20 * * * *' # every hour 
+    - cron: '10 * * * *' # every hour
 
 jobs:
   build:
@@ -23,3 +23,16 @@ jobs:
 
       - name: execute py script # run main.py
         run: python publish_videos.py
+
+      - name: commit files
+        run: |
+          git config --local user.email "olav@schettler.net"
+          git config --local user.name "Olav Schettler"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
