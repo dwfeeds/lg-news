@@ -141,8 +141,8 @@ if __name__ == '__main__':
         'es': 'SPANISH',
         'de': 'GERMAN'
     }.items():
-        videos = get_videos(lang)
-
+        videos = sorted(get_videos(lang), reverse=True, key=lambda(v): return v['updateTime'])
+        
         for v in videos:
             v['language'] = l
             all_videos.append(clone(v))
