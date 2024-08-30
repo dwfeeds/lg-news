@@ -2,7 +2,7 @@ name: run publish_videos.py
 
 on:
   schedule:
-    - cron: '30 * * * *' # every hour
+    - cron: '40 * * * *' # every hour
 
 jobs:
   build:
