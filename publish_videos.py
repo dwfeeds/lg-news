@@ -1,3 +1,4 @@
+from copy import deepcopy as clone
 from datetime import datetime
 import re
 import requests
@@ -123,36 +124,70 @@ def get_videos(lang):
             
 
 if __name__ == '__main__':
-    videos_per_language = []
-    all_american = []
+    
+    results = {
+        'en-us': [], 
+        'es-us': [],
+        'de-de': [],
+        'en-de': [],
+        'de-de': [],
+        'en-uk': [],
+    }
+
+    all_videos = []
 
     for l, lang in {
         'en': 'ENGLISH',
         'es': 'SPANISH',
         'de': 'GERMAN'
     }.items():
-        fname = f"videos_{l}.json"
-        videos_per_language = get_videos(lang)
+        videos = get_videos(lang)
 
-        american_videos = []
-        for v in videos_per_language:
+        for v in videos:
             v['language'] = l
-            for origin, name in v['region_ids'].items():
-                if re.match('region:northamerica:', origin) or re.match('region:cala:', origin) or origin == 'region:global':
-                    american_videos.append(v)
-                    all_american.append(v)
+            all_videos.append(clone(v))
+
+            if l == 'en':
+                if not v['region_ids']:
+                    results['en-us'].append(v)
+                    results['en-de'].append(v)
+                    results['en-uk'].append(v)
+                else:
+                    for origin, name in v['region_ids'].items():
+                        if re.match('region:northamerica:', origin) or re.match('region:cala:', origin):
+                            results['en-us'].append(v)
+                            break
+                        elif re.match('region:europe:', origin) or re.match('region:global:', origin):
+                            results['en-de'].append(v)
+                            results['en-uk'].append(v)
+                            break
+            elif l == 'es':
+                if not v['region_ids']:
+                    results['es-us'].append(v)
+                else:
+                    for origin, name in v['region_ids'].items():
+                        if re.match('region:northamerica:', origin) or re.match('region:cala:', origin):
+                            results['es-us'].append(v)
+                            break
+            elif l == 'de':
+                if not v['region_ids']:
+                    results['de-de'].append(v)
+                else:
+                    for origin, name in v['region_ids'].items():
+                        if re.match('region:europe:', origin) or re.match('region:global', origin):
+                            results['de-de'].append(v)
+                            break
+
             del v['region_ids']
+            del v['regions']
 
-        with open(fname, 'w') as f:
-            f.write(json.dumps(videos_per_language, indent=2))
-        print(f"Saved {fname}")
-
-        fname = f"videos_{l}_america.json"
-        with open(fname, 'w') as f:
-            f.write(json.dumps(american_videos, indent=2))
-        print(f"Saved {fname}")
-
-    fname = f"videos_all_america.json"
+    fname = "videos_all.json"
     with open(fname, 'w') as f:
-        f.write(json.dumps(all_american, indent=2))
+        f.write(json.dumps(all_videos, indent=2))
     print(f"Saved {fname}")
+
+    for locale, videos in results.items():
+        fname = f"videos_{locale}.json"
+        with open(fname, 'w') as f:
+            f.write(json.dumps(videos, indent=2)) 
+        print(f"Saved {fname}")
