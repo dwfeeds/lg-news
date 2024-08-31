@@ -1,5 +1,167 @@
 [
   {
+    "titleText": "Art with societal impact",
+    "category": "Arts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:MW": "Malawi"
+    },
+    "regions": [
+      "Africa",
+      "Malawi"
+    ],
+    "runningTime": 388,
+    "updateTime": "2024-08-31T02:36:14.509Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69957785&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69957785,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69943688_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69943688_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The benefits of rammed earth houses",
+    "category": "Architecture",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 360,
+    "updateTime": "2024-08-31T02:32:41.69Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69957814&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69957814,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69943740_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69943740_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fashion as an identity creator",
+    "category": "Design",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "Africa",
+      "South Africa"
+    ],
+    "runningTime": 363,
+    "updateTime": "2024-08-31T02:30:36.541Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69957812&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69957812,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69943774_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69943774_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 89,
+    "updateTime": "2024-08-31T02:22:57.061Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:6",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70087523_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70087523_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "A robot at the wheel",
     "category": "Cars and Transportation",
     "subCategory": "Technology",
@@ -32,45 +194,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69887739_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-08-30T21:39:07.027Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:6",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70087523_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70087523_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3465,125 +3588,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70003122_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "From jollof rice to suya, here are Nigeria's best snacks",
-    "category": "Lifestyle",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 404,
-    "updateTime": "2024-08-20T16:33:01.234Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69957729&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69957729,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69943712_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69943712_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Meet the woman who drove solo from the UK to Nigeria",
-    "category": "Travel",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "Nigeria",
-      "United Kingdom"
-    ],
-    "runningTime": 338,
-    "updateTime": "2024-08-20T16:29:12.67Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69957619&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69957619,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69943726_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69943726_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sinenhlanhla Chauke\u2019s 99 perspectives on art ",
-    "category": "Arts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 287,
-    "updateTime": "2024-08-20T16:24:44.829Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69957601&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69957601,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69951073_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69951073_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
