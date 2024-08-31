@@ -78,7 +78,6 @@ def get_videos(lang):
                         print(f"Skipped {content['id']}: {content['title']} ({int(content['duration']/60)}m)")
                         continue
 
-                    now = datetime.now().isoformat()
                     if not 'mainContentImage' in content or content['mainContentImage'] == None:
                         continue
                     
@@ -191,3 +190,11 @@ if __name__ == '__main__':
         with open(fname, 'w') as f:
             f.write(json.dumps(videos, indent=2)) 
         print(f"Saved {fname}")
+
+    now = datetime.now().isoformat()[:16].replace("T", " ")
+    html = ''
+    with open("index.tpl") as f:
+        html = f.read()
+    with open("index.html", 'w') as f:
+        f.write(html.replace("%NOW%", now))
+    print("Saved index.html")

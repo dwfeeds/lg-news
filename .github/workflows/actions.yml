@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email "olav@schettler.net"
           git config --local user.name "Olav Schettler"
-          git add *.json
+          git add *.json index.html
           git commit -m 'Updated videos' --allow-empty
           git pull origin main
           git push origin main
