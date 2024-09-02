@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "German voters give far-right first major post-war win",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 146,
+    "updateTime": "2024-09-02T13:38:33.835Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70113122&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70113122,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70109186_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70109186_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Should teachers carry guns in Tennessee?",
     "category": "Society",
     "subCategory": null,
@@ -6281,47 +6320,6 @@
     "language": "en"
   },
   {
-    "titleText": "Russia, West complete historic prisoner swap",
-    "category": "Politics",
-    "subCategory": "Law and Justice",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 153,
-    "updateTime": "2024-08-02T08:09:48.768Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69836678&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 69836678,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69835890_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69835890_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenyan villages hit by floods see rise in tropical diseases",
     "category": "Health",
     "subCategory": null,
@@ -9875,7 +9873,7 @@
     "updateTime": "2024-08-31T11:45:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70097142&list=REPORTS_VIDEO:1",
+      "contentId": "v=70097142&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70097142,
       "launchParam": null
@@ -10070,7 +10068,7 @@
     "updateTime": "2024-08-29T16:09:55.205Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70077586&list=TOPIC_CLUSTER_VIDEO:2",
+      "contentId": "v=70077586&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 70077586,
       "launchParam": null
@@ -10128,45 +10126,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70060993_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Bj\u00f6rn H\u00f6cke (AfD) in Th\u00fcringen: antidemokratische Vorbilder",
-    "category": "Video-Nachrichten",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 296,
-    "updateTime": "2024-08-29T09:01:42.044Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70078283&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 70078283,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69919781_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69919781_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11441,6 +11400,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69813328_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Ukraine: Rettung von Hilfsbed\u00fcrftigen aus der Kampfzone",
+    "category": "Gesellschaft",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 198,
+    "updateTime": "2024-07-25T04:30:20.046Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69754917&list=TOPIC_CLUSTER_VIDEO:2",
+      "type": "video",
+      "id": 69754917,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69756509_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69756509_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
