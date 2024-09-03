@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 91,
+    "updateTime": "2024-09-03T12:16:32.636Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:6",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70116343_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70116343_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ukraine contemplates peace as Russia relaunches offensive",
     "category": "Conflicts",
     "subCategory": null,
@@ -71,45 +110,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70082392_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 91,
-    "updateTime": "2024-09-03T08:09:48.078Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:6",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70116343_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70116343_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -234,7 +234,7 @@
     "language": "en"
   },
   {
-    "titleText": "Thousands pay respects to killed American-Israeli hostage",
+    "titleText": "Thousands pay respects to US-Israeli hostage killed in Gaza",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -548,7 +548,7 @@
     "language": "en"
   },
   {
-    "titleText": "Mollywood's #MeToo movement a wake-up call for industry",
+    "titleText": "Mollywood's #MeToo a wake-up call for film industry",
     "category": "Society",
     "subCategory": "Business",
     "region_ids": {
