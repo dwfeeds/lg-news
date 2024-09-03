@@ -1,5 +1,5 @@
 from copy import deepcopy as clone
-from datetime import datetime
+from datetime import datetime, timezone
 import re
 import requests
 import json
@@ -191,7 +191,7 @@ if __name__ == '__main__':
             f.write(json.dumps(videos, indent=2)) 
         print(f"Saved {fname}")
 
-    now = datetime.now().isoformat()[:16].replace("T", " ")
+    now = datetime.now(timezone.utc).isoformat()[:16].replace("T", " ")
     html = ''
     with open("index.tpl") as f:
         html = f.read()

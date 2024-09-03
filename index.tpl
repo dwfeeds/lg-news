@@ -11,6 +11,6 @@
     </ul>
   </main>
   <footer>
-    <p>Last update: %NOW% | <a href="mailto:appdev@dw.com">Contact</a></p>
+    <p>Last update: %NOW% (UTC)  | <a href="mailto:appdev@dw.com">Contact</a></p>
   </footer>
 </html>
