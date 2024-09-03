@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2024-09-03T17:11:50.851Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:6",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70121916_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70121916_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israeli troops carry out raids in occupied West Bank",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 157,
+    "updateTime": "2024-09-03T16:50:00.559Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70124423&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70124423,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70092219_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70092219_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ukraine's morgues push to identify dead soldiers",
     "category": "Conflicts",
     "subCategory": null,
@@ -151,45 +231,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70077160_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 91,
-    "updateTime": "2024-09-03T12:16:32.636Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:6",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70116343_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70116343_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5397,47 +5438,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israeli strikes in Gaza wipe out whole families",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 138,
-    "updateTime": "2024-08-14T11:47:13.382Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69934540&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 69934540,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69907082_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69907082_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel's treatment of Palestinian detainees under scrutiny",
     "category": "Human Rights",
     "subCategory": "Conflicts",
@@ -8590,41 +8590,6 @@
       "bgColor": ""
     },
     "language": "en"
-  },
-  {
-    "titleText": "Noticias - \u00daltima hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 183,
-    "updateTime": "2024-09-03T06:17:28.414Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70116322_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70116322_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
   },
   {
     "titleText": "\u00bfQu\u00e9 son los aranceles punitivos?",
