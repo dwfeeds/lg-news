@@ -1,5 +1,124 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2024-09-04T16:32:25.145Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70121916_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70121916_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Congo prison break: What we know so far ",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 119,
+    "updateTime": "2024-09-04T15:41:55.887Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70135093&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70135093,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68963085_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68963085_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russian attack on Lviv kills at least seven, wounds dozens",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 82,
+    "updateTime": "2024-09-04T15:11:07.1Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70134879&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70134879,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70127973_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70127973_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "12 dead in the English Channel, calls for action grow",
     "category": "Migration",
     "subCategory": "Politics",
@@ -39,47 +158,8 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-09-04T13:09:54.981Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:6",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70121916_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70121916_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenya struggles to escape debt cycle after Chinese loans",
-    "category": "Politics",
+    "category": "Society",
     "subCategory": "Business",
     "region_ids": {
       "region:africa:KE": "Kenya"
@@ -91,7 +171,7 @@
     "updateTime": "2024-09-04T09:50:16.016Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70130033&list=REGION_VIDEO:8",
+      "contentId": "v=70130033&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70130033,
       "launchParam": null
@@ -1158,7 +1238,7 @@
     "updateTime": "2024-09-02T08:40:46.891Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70093738&list=REGION_VIDEO:8",
+      "contentId": "v=70093738&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70093738,
       "launchParam": null
@@ -1573,45 +1653,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70105416_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "German president leads Solingen memorial service",
-    "category": "Terrorism",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 306,
-    "updateTime": "2024-09-01T15:39:51.306Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70105202&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70105202,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70104044_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70104044_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2342,7 +2383,7 @@
     "updateTime": "2024-08-30T09:51:24.94Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69991873&list=REGION_VIDEO:8",
+      "contentId": "v=69991873&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69991873,
       "launchParam": null
@@ -3585,6 +3626,47 @@
     "language": "en"
   },
   {
+    "titleText": "Afrobeats vs Amapiano \u2013 Do you know your music facts?",
+    "category": "Music",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZA": "South Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "South Africa",
+      "Nigeria"
+    ],
+    "runningTime": 170,
+    "updateTime": "2024-08-26T08:52:43.089Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69998746&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69998746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69963820_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69963820_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Dentists care for frontline soldiers in Ukraine",
     "category": "Conflicts",
     "subCategory": "Society",
@@ -3812,6 +3894,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70025498_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How an app is combatting illegal deforestation in Ghana",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 280,
+    "updateTime": "2024-08-23T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69991792&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69991792,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70060527_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70060527_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5516,6 +5637,45 @@
     "language": "en"
   },
   {
+    "titleText": "The challenge of car-battery recycling",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 415,
+    "updateTime": "2024-08-14T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69922385&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69922385,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69892173_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69892173_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Alternative fish farming: good for the fish and environment?",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -5791,22 +5951,22 @@
     "language": "en"
   },
   {
-    "titleText": "Can right-wing groups gain an upper hand in Bangladesh?",
-    "category": "Politics",
-    "subCategory": null,
+    "titleText": "Malawi cafe combines great food with zero-waste concept",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
     "region_ids": {
-      "region:asia:BD": "Bangladesh"
+      "region:africa:MW": "Malawi"
     },
     "regions": [
-      "Bangladesh"
+      "Malawi"
     ],
     "runningTime": 388,
-    "updateTime": "2024-08-09T16:13:10.021Z",
+    "updateTime": "2024-08-09T08:01:15.102Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69903291&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=69831435&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 69903291,
+      "id": 69831435,
       "launchParam": null
     },
     "providerLogo": {
@@ -5816,13 +5976,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69864731_6.jpg",
+      "url": "https://static.dw.com/image/69830771_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69864731_7.jpg",
+      "url": "https://static.dw.com/image/69830771_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6223,6 +6383,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69840673_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Turning trash into beautiful art ",
+    "category": "Arts",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 375,
+    "updateTime": "2024-08-02T13:26:21.42Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69753953&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69753953,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69751867_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69751867_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6860,6 +7059,45 @@
     "language": "en"
   },
   {
+    "titleText": "Old clothes: recycled or dumped in landfills?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 105,
+    "updateTime": "2024-07-25T12:42:22.249Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69711122&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69711122,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69685989_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69685989_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Drought, fire destroy Pantanal wetlands",
     "category": "Catastrophe",
     "subCategory": "Nature and Environment",
@@ -7009,6 +7247,88 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69618205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Bukavu's queen of recycling",
+    "category": "Society",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:CG": "Republic of the Congo"
+    },
+    "regions": [
+      "Africa",
+      "Republic of the Congo"
+    ],
+    "runningTime": 179,
+    "updateTime": "2024-07-18T09:41:24.713Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69620423&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69620423,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69576899_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69576899_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Recycling an old US military base",
+    "category": "Business",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Germany",
+      "United States of America"
+    ],
+    "runningTime": 526,
+    "updateTime": "2024-07-18T07:19:26.375Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69661772&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69661772,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69647155_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69647155_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7408,6 +7728,45 @@
     "language": "en"
   },
   {
+    "titleText": "Trash Center in Tamil Nadu",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 231,
+    "updateTime": "2024-07-08T12:28:52.657Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69560339&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69560339,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69560193_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69560193_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chinese capital flows into Hungary",
     "category": "Business",
     "subCategory": null,
@@ -7730,6 +8089,45 @@
     "language": "en"
   },
   {
+    "titleText": "The Indonesian doctor combating plastic waste",
+    "category": "Nature and Environment",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 359,
+    "updateTime": "2024-07-01T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69502384&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69502384,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69482911_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69482911_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Africa's Great Green Wall struggles to halt desertification ",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -7966,6 +8364,45 @@
     "language": "en"
   },
   {
+    "titleText": "German brewery makes beer with sewage water",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 154,
+    "updateTime": "2024-06-26T07:36:27.946Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69430566&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69430566,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69435586_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69435586_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Will Indonesia's Nusantara be the world's greenest capital?",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -8154,6 +8591,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69431083_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Indonesia explores eco-friendly Eid al-Adha",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 102,
+    "updateTime": "2024-06-19T11:52:34.155Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69412693&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69412693,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69412713_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69412713_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8436,6 +8912,45 @@
     "language": "en"
   },
   {
+    "titleText": "Activists build an island while cleaning up Lake Kivu",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 240,
+    "updateTime": "2024-06-04T14:21:00.994Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69226026&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69226026,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69225467_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69225467_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ivory Coast sees green jobs boom",
     "category": "Business",
     "subCategory": null,
@@ -8546,6 +9061,365 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69182979_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Congo: Kinshasa band rocks with recycled instruments",
+    "category": "Culture",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Africa"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-05-22T10:25:45.714Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69148601&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 69148601,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68796750_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68796750_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Drought leads Spanish hotels to redesign water use",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 364,
+    "updateTime": "2024-05-08T11:58:46.294Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68980101&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68980101,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68979985_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68979985_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What to do with old EV batteries? Recycle them!",
+    "category": "Business",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 255,
+    "updateTime": "2024-05-01T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68950816&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68950816,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68923037_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68923037_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A Nigerian museum turns waste into art",
+    "category": "Arts",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 96,
+    "updateTime": "2024-04-22T14:16:18.63Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68891062&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68891062,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68798227_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68798227_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How India is making new roads from recycled old tires",
+    "category": "Nature and Environment",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 372,
+    "updateTime": "2024-04-22T08:37:42.978Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68857469&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68857469,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68855504_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68855504_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Turning trash into cash in Uganda",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:UG": "Uganda",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Uganda",
+      "Africa"
+    ],
+    "runningTime": 347,
+    "updateTime": "2024-04-16T10:36:32.315Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68795989&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68795989,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68795818_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68795818_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Young Nigerian turns trash into model airplanes",
+    "category": "Society",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 89,
+    "updateTime": "2024-03-28T09:45:35.886Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68512279&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68512279,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68505869_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68505869_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Avoiding landfill: Recycling batteries in Poland",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 114,
+    "updateTime": "2024-03-26T08:12:26.931Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68633992&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68633992,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68632663_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68632663_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A truly head turning accessories brand from Lagos",
+    "category": "Lifestyle",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 275,
+    "updateTime": "2024-03-22T11:30:47.232Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68620646&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68620646,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68512093_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68512093_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9419,6 +10293,45 @@
     "language": "es"
   },
   {
+    "titleText": "Das paralympische Fl\u00fcchtlingsteam  - erkl\u00e4rt",
+    "category": "Sport",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 57,
+    "updateTime": "2024-09-04T16:15:14.667Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70135228&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70135228,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70135010_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70135010_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Hadi Hassanzada: Aus Afghanistan zu den Paralympics",
     "category": "Video-Nachrichten",
     "subCategory": "Sport",
@@ -9880,45 +10793,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70106179_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kretschmer: Gro\u00dfes Urvertrauen in die s\u00e4chsische Union",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 61,
-    "updateTime": "2024-09-01T20:45:06.125Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70106095&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70106095,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70106094_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70106094_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
