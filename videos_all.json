@@ -171,7 +171,7 @@
     "updateTime": "2024-09-04T09:50:16.016Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70130033&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70130033&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70130033,
       "launchParam": null
@@ -528,7 +528,7 @@
     "updateTime": "2024-09-03T14:49:31.803Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70123209&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70123209&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70123209,
       "launchParam": null
@@ -3626,47 +3626,6 @@
     "language": "en"
   },
   {
-    "titleText": "Afrobeats vs Amapiano \u2013 Do you know your music facts?",
-    "category": "Music",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:ZA": "South Africa",
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "South Africa",
-      "Nigeria"
-    ],
-    "runningTime": 170,
-    "updateTime": "2024-08-26T08:52:43.089Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69998746&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69998746,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69963820_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69963820_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Dentists care for frontline soldiers in Ukraine",
     "category": "Conflicts",
     "subCategory": "Society",
@@ -3894,45 +3853,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70025498_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How an app is combatting illegal deforestation in Ghana",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 280,
-    "updateTime": "2024-08-23T19:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69991792&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69991792,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70060527_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70060527_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5944,6 +5864,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69907341_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can right-wing groups gain an upper hand in Bangladesh?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:BD": "Bangladesh"
+    },
+    "regions": [
+      "Bangladesh"
+    ],
+    "runningTime": 388,
+    "updateTime": "2024-08-09T16:13:10.021Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69903291&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 69903291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69864731_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69864731_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8669,6 +8628,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69388032_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Scottish farmers cultivating algae to tackle climate crisis",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 158,
+    "updateTime": "2024-06-15T10:15:47.761Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69371811&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69371811,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69370568_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69370568_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
