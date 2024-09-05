@@ -1,6 +1,86 @@
 [
   {
-    "titleText": "Police shoot gunman near Israeli consulate in Munich",
+    "titleText": "US moves to counter Russian influence in 2024 election",
+    "category": "Politics",
+    "subCategory": "Law and Justice",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 114,
+    "updateTime": "2024-09-05T14:45:08.273Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70145497&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70145497,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70136393_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70136393_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iran: Why suicide rates are rising among doctors",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Asia",
+      "Iran"
+    ],
+    "runningTime": 93,
+    "updateTime": "2024-09-05T14:17:26.86Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70145156&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 70145156,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70133583_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70133583_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Social media video shows Munich gunman",
     "category": "Crime",
     "subCategory": null,
     "region_ids": {
@@ -25,13 +105,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70139674_6.jpg",
+      "url": "https://static.dw.com/image/70139017_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70139674_7.jpg",
+      "url": "https://static.dw.com/image/70139017_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -56,7 +136,7 @@
     "updateTime": "2024-09-05T13:42:08.174Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70144658&list=REGION_VIDEO:6",
+      "contentId": "v=70144658&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70144658,
       "launchParam": null
@@ -95,7 +175,7 @@
     "updateTime": "2024-09-05T12:28:23.899Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70143033&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70143033&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70143033,
       "launchParam": null
@@ -6513,47 +6593,6 @@
     "language": "en"
   },
   {
-    "titleText": "US-Russia prisoner swap: Who did the two sides get back?",
-    "category": "Politics",
-    "subCategory": "Law and Justice",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 132,
-    "updateTime": "2024-08-02T11:17:59.331Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69839318&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 69839318,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69836047_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69836047_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenyan villages hit by floods see rise in tropical diseases",
     "category": "Health",
     "subCategory": null,
@@ -8721,45 +8760,6 @@
     "language": "en"
   },
   {
-    "titleText": "Scottish farmers cultivating algae to tackle climate crisis",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 158,
-    "updateTime": "2024-06-15T10:15:47.761Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69371811&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 69371811,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69370568_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69370568_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "A fair game through tech?",
     "category": "Digital World",
     "subCategory": "Sports",
@@ -9113,45 +9113,6 @@
     "language": "en"
   },
   {
-    "titleText": "UN: More than 190 nations agree landmark biopiracy treaty",
-    "category": "Trade",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 142,
-    "updateTime": "2024-05-25T17:46:26.588Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69182933&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 69182933,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69182979_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69182979_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Congo: Kinshasa band rocks with recycled instruments",
     "category": "Culture",
     "subCategory": null,
@@ -9463,6 +9424,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68632663_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A truly head turning accessories brand from Lagos",
+    "category": "Lifestyle",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 275,
+    "updateTime": "2024-03-22T11:30:47.232Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68620646&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68620646,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68512093_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68512093_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
