@@ -405,7 +405,7 @@
     "updateTime": "2024-09-04T09:50:16.016Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70130033&list=REGION_VIDEO:8",
+      "contentId": "v=70130033&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70130033,
       "launchParam": null
@@ -1310,7 +1310,7 @@
     "updateTime": "2024-09-02T13:35:39.816Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70092936&list=REGION_VIDEO:5",
+      "contentId": "v=70092936&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70092936,
       "launchParam": null
@@ -1390,7 +1390,7 @@
     "updateTime": "2024-09-02T10:37:30.975Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70110503&list=FEATURED_VIDEO:1",
+      "contentId": "v=70110503&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70110503,
       "launchParam": null
@@ -1809,45 +1809,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69272406_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How Rostock recruits foreign health care staff to Germany ",
-    "category": "Migration",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-01T11:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70032051&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 70032051,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70020475_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70020475_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3782,6 +3743,47 @@
     "language": "en"
   },
   {
+    "titleText": "Afrobeats vs Amapiano \u2013 Do you know your music facts?",
+    "category": "Music",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZA": "South Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "South Africa",
+      "Nigeria"
+    ],
+    "runningTime": 170,
+    "updateTime": "2024-08-26T08:52:43.089Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69998746&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 69998746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69963820_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69963820_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Dentists care for frontline soldiers in Ukraine",
     "category": "Conflicts",
     "subCategory": "Society",
@@ -5243,45 +5245,6 @@
     "language": "en"
   },
   {
-    "titleText": "Bangladesh: Relatives of disappeared hope for answers ",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:BD": "Bangladesh"
-    },
-    "regions": [
-      "Bangladesh"
-    ],
-    "runningTime": 115,
-    "updateTime": "2024-08-16T12:01:42.462Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69962516&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 69962516,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65187706_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65187706_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "AI in schools \u2013 pros and cons",
     "category": "Digital World",
     "subCategory": "Innovation",
@@ -6459,6 +6422,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69840422_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US-Russia prisoner swap: Who did the two sides get back?",
+    "category": "Politics",
+    "subCategory": "Law and Justice",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "United States of America",
+      "Russian Federation"
+    ],
+    "runningTime": 132,
+    "updateTime": "2024-08-02T11:17:59.331Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69839318&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 69839318,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69836047_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69836047_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
