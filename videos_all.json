@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "Ukraine: Donetsk cities brace for approaching front line   ",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 235,
+    "updateTime": "2024-09-07T12:41:52.623Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70161734&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70161734,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70156727_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70156727_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Super Typhoon Yagi reaches northern Vietnam",
+    "category": "Catastrophe",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:asia:VN": "Vietnam",
+      "region:asia:CN": "China",
+      "region:asia:PH": "Philippines"
+    },
+    "regions": [
+      "Vietnam",
+      "China",
+      "Philippines"
+    ],
+    "runningTime": 72,
+    "updateTime": "2024-09-07T12:37:00.269Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70161723&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70161723,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70160275_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70160275_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -78,24 +160,26 @@
     "language": "en"
   },
   {
-    "titleText": "From London to Lagos: Solo-Traveler Pelumi Nubi  ",
+    "titleText": "Solo traveler Pelumi Nubi drives from London to Lagos",
     "category": "Travel",
     "subCategory": "Culture",
     "region_ids": {
-      "region:europe:GB": "United Kingdom",
-      "region:africa:MA": "Morocco",
-      "region:africa:NG": "Nigeria"
+      "region:africa": "Africa",
+      "region:europe": "Europe",
+      "region:africa:NG": "Nigeria",
+      "region:europe:GB": "United Kingdom"
     },
     "regions": [
-      "United Kingdom",
-      "Morocco",
-      "Nigeria"
+      "Africa",
+      "Europe",
+      "Nigeria",
+      "United Kingdom"
     ],
     "runningTime": 337,
     "updateTime": "2024-09-07T10:08:08.13Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70154791&list=REGION_VIDEO:7",
+      "contentId": "v=70154791&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70154791,
       "launchParam": null
@@ -4107,45 +4191,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Nigerians love German football coaches ",
-    "category": "Sports",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 101,
-    "updateTime": "2024-08-29T08:42:45.155Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70077812&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70077812,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/6406539_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/6406539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israeli forces carry out raids in occupied West Bank",
     "category": "Conflicts",
     "subCategory": null,
@@ -5405,47 +5450,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68457812_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bangladesh crisis creates chaos along border with India",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:BD": "Bangladesh",
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "Bangladesh",
-      "India"
-    ],
-    "runningTime": 198,
-    "updateTime": "2024-08-20T15:29:26.508Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69998047&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 69998047,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69997269_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69997269_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
