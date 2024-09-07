@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Venice Film Festival readies for awards ceremony",
+    "category": "Film",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 156,
+    "updateTime": "2024-09-07T09:08:15.449Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70160845&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70160845,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70106645_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70106645_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Devastating wildfires cover South America in smoke",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -292,45 +331,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70155008_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Turkish-American woman killed in occupied West Bank",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 192,
-    "updateTime": "2024-09-06T19:40:11.153Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70158994&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70158994,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70158340_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70158340_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2243,45 +2243,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70092219_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukraine's morgues push to identify dead soldiers",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 287,
-    "updateTime": "2024-09-03T15:41:34.495Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70116037&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70116037,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70115841_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70115841_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5756,6 +5717,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69966208_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Palestinians mourn Israeli settler attack in West Bank",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 136,
+    "updateTime": "2024-08-16T21:20:33.593Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69966187&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 69966187,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69957762_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69957762_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11312,7 +11312,7 @@
     "language": "de"
   },
   {
-    "titleText": "\"Starliner\"- Probleme im All",
+    "titleText": "Warum k\u00f6nnen zwei NASA-Astronauten nicht zur Erde zur\u00fcck?",
     "category": "Panorama",
     "subCategory": "Wissenschaft",
     "region_ids": {
