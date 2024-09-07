@@ -1,5 +1,50 @@
 [
   {
+    "titleText": "Devastating wildfires cover South America in smoke",
+    "category": "Catastrophe",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:cala": "Latin America",
+      "region:cala:BR": "Brazil",
+      "region:cala:PE": "Peru",
+      "region:cala:BO": "Bolivia"
+    },
+    "regions": [
+      "Latin America",
+      "Brazil",
+      "Peru",
+      "Bolivia"
+    ],
+    "runningTime": 104,
+    "updateTime": "2024-09-07T08:15:03.665Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70160657&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 70160657,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70069043_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70069043_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -8309,51 +8354,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69531221_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hurricane Beryl intensifies in the Caribbean",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BB": "Barbados",
-      "region:cala:GD": "Grenada",
-      "region:cala:JM": "Jamaica",
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Barbados",
-      "Grenada",
-      "Jamaica",
-      "Mexico"
-    ],
-    "runningTime": 95,
-    "updateTime": "2024-07-02T07:47:28.817Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69535128&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 69535128,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69534126_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69534126_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
