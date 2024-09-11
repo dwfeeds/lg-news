@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 106,
+    "updateTime": "2024-09-11T05:37:27.438Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70177793_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70177793_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gaza: Deadly Israeli strike on al-Mawasi refugee camp",
     "category": "Conflicts",
     "subCategory": null,
@@ -198,7 +237,7 @@
   },
   {
     "titleText": "Nigerians head for Russia to study",
-    "category": "Politics",
+    "category": "Education",
     "subCategory": "Society",
     "region_ids": {
       "region:africa:NG": "Nigeria",
@@ -231,45 +270,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70182927_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 106,
-    "updateTime": "2024-09-10T16:33:51.476Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70177793_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70177793_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -316,7 +316,7 @@
     "language": "en"
   },
   {
-    "titleText": "Russia-Ukraine war: Suicides surge in India's 'Diamond City'",
+    "titleText": "Sanctions on Russia spark suicides in India's 'Diamond City'",
     "category": "Society",
     "subCategory": "Business",
     "region_ids": {
