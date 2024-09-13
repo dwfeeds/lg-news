@@ -1,19 +1,56 @@
 [
   {
+    "titleText": "Russia launches counteroffensive in Kursk",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-09-13T18:41:28.249Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70215570&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70215570,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70199532_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70199532_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US, UK leaders to discuss weapons for Ukraine",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
       "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation",
-      "region:northamerica:US": "United States of America",
-      "region:europe:GB": "United Kingdom"
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
       "Ukraine",
-      "Russian Federation",
-      "United States of America",
-      "United Kingdom"
+      "Russian Federation"
     ],
     "runningTime": 142,
     "updateTime": "2024-09-13T18:40:45.251Z",
@@ -2685,45 +2722,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70142772_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Greece's water shortages spare tourists, leave farmers dry",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GR": "Greece"
-    },
-    "regions": [
-      "Greece"
-    ],
-    "runningTime": 212,
-    "updateTime": "2024-09-09T10:44:17.026Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70169374&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70169374,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70079846_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70079846_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9247,45 +9245,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/43843991_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Construcci\u00f3n con arcilla a prueba de sismos",
-    "category": "Ciencia",
-    "subCategory": "Arquitectura",
-    "region_ids": {
-      "region:cala:MX": "M\u00e9xico"
-    },
-    "regions": [
-      "M\u00e9xico"
-    ],
-    "runningTime": 448,
-    "updateTime": "2024-09-12T12:31:48.269Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69829991&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 69829991,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/45517126_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/45517126_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
