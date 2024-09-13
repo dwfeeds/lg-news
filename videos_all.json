@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Rail Baltica: Connecting the Baltics states to Europe",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:EE": "Estonia",
+      "region:europe:LV": "Latvia",
+      "region:europe:LT": "Lithuania"
+    },
+    "regions": [
+      "Estonia",
+      "Latvia",
+      "Lithuania"
+    ],
+    "runningTime": 237,
+    "updateTime": "2024-09-13T13:35:28.883Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70168446&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70168446,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70155326_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70155326_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -132,7 +175,7 @@
     "updateTime": "2024-09-13T08:40:26.945Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70206967&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70206967&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70206967,
       "launchParam": null
@@ -2991,45 +3034,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70141287_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What do Germans buy at the supermarket?",
-    "category": "Lifestyle",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 292,
-    "updateTime": "2024-09-08T11:43:50.018Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70154794&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70154794,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70142764_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70142764_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7134,6 +7138,45 @@
     "language": "en"
   },
   {
+    "titleText": "Pakistan: Breaking taboos through tattoos",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 95,
+    "updateTime": "2024-08-16T12:55:21.422Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69962940&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 69962940,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69962922_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69962922_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Grenada: Spice island in danger",
     "category": "Climate",
     "subCategory": "Trade",
@@ -8926,41 +8969,6 @@
       "bgColor": ""
     },
     "language": "en"
-  },
-  {
-    "titleText": "Noticias - \u00daltima hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 178,
-    "updateTime": "2024-09-13T12:04:32.978Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70206169_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70206169_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
   },
   {
     "titleText": "Comida indonesia, \u00bft\u00edpicamente neerlandesa?",
