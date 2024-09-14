@@ -9,8 +9,8 @@
     "regions": [
       "Europe"
     ],
-    "runningTime": 77,
-    "updateTime": "2024-09-14T00:08:31.669Z",
+    "runningTime": 90,
+    "updateTime": "2024-09-14T04:09:50.155Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:8",
@@ -845,10 +845,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me:IL": "Israel"
+      "region:me:IL": "Israel",
+      "region:me": "Middle East"
     },
     "regions": [
-      "Israel"
+      "Israel",
+      "Middle East"
     ],
     "runningTime": 207,
     "updateTime": "2024-09-12T08:19:37.578Z",
@@ -9987,13 +9989,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/65844567_6.jpg",
+      "url": "https://static.dw.com/image/70142429_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/65844567_7.jpg",
+      "url": "https://static.dw.com/image/70142429_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10038,7 +10040,7 @@
   {
     "titleText": "Was passiert mit ausgedienten Satelliten?",
     "category": "Wissenschaft",
-    "subCategory": null,
+    "subCategory": "Panorama",
     "region_ids": {
       "region:global": "Global"
     },
