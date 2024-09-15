@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 102,
+    "updateTime": "2024-09-15T19:16:42.135Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70219859_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70219859_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Storm Boris lashes large parts of Central, Eastern Europe ",
     "category": "Catastrophe",
     "subCategory": null,
@@ -112,45 +151,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70211072_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2024-09-15T11:29:23.145Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70219859_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70219859_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3641,51 +3641,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70160359_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Solo traveler Pelumi Nubi drives from London to Lagos",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:europe": "Europe",
-      "region:africa:NG": "Nigeria",
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "Africa",
-      "Europe",
-      "Nigeria",
-      "United Kingdom"
-    ],
-    "runningTime": 337,
-    "updateTime": "2024-09-07T10:08:08.13Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70154791&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70154791,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70142809_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70142809_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10184,7 +10139,7 @@
     "updateTime": "2024-09-14T05:33:45.98Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70208746&list=REPORTS_VIDEO:1",
+      "contentId": "v=70208746&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70208746,
       "launchParam": null
@@ -10414,7 +10369,7 @@
     "updateTime": "2024-09-12T10:29:37.076Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70190467&list=REPORTS_VIDEO:1",
+      "contentId": "v=70190467&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70190467,
       "launchParam": null
@@ -11256,45 +11211,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70130341_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Spanien: Unterwegs mit Mallorcas \"Seegras-Polizei\"",
-    "category": "Gesellschaft",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:europe:ES": "Spanien"
-    },
-    "regions": [
-      "Spanien"
-    ],
-    "runningTime": 193,
-    "updateTime": "2024-09-03T13:28:36.152Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70070444&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70070444,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70057467_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70057467_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
