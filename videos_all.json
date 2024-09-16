@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 102,
+    "updateTime": "2024-09-16T12:35:53.392Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70219859_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70219859_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How Maasai women protect their communities with green skills",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 329,
+    "updateTime": "2024-09-16T12:15:11.609Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70084150&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70084150,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70077160_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70077160_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine: The residents switching to alternative energy",
+    "category": "Nature and Environment",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 160,
+    "updateTime": "2024-09-16T11:56:20.826Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70228957&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70228957,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68794921_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68794921_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ghana: Teaching parents to support special needs children",
     "category": "Health",
     "subCategory": null,
@@ -112,45 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70201408_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 102,
-    "updateTime": "2024-09-16T06:11:24.165Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70219859_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70219859_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -485,7 +563,7 @@
     "updateTime": "2024-09-15T07:53:34.159Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70170859&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70170859&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70170859,
       "launchParam": null
@@ -575,13 +653,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70226739_6.jpg",
+      "url": "https://static.dw.com/image/70226714_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70226739_7.jpg",
+      "url": "https://static.dw.com/image/70226714_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2300,45 +2378,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukraine adds 'dragon drones' to its weaponry",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 87,
-    "updateTime": "2024-09-11T10:29:14.656Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70185928&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70185928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70185877_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70185877_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Fisherman and artist depict ocean changes",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -3838,51 +3877,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70160359_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Solo traveler Pelumi Nubi drives from London to Lagos",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:europe": "Europe",
-      "region:africa:NG": "Nigeria",
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "Africa",
-      "Europe",
-      "Nigeria",
-      "United Kingdom"
-    ],
-    "runningTime": 337,
-    "updateTime": "2024-09-07T10:08:08.13Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70154791&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70154791,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70142809_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70142809_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6789,6 +6783,47 @@
     "language": "en"
   },
   {
+    "titleText": "Rediscovering the breadnut tree in Colombia",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CO": "Colombia",
+      "region:cala": "Latin America"
+    },
+    "regions": [
+      "Colombia",
+      "Latin America"
+    ],
+    "runningTime": 447,
+    "updateTime": "2024-08-24T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70229607&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 70229607,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/19191528_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/19191528_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Brazil: Free courses offered to tackle adult illiteracy",
     "category": "Education",
     "subCategory": null,
@@ -7516,7 +7551,7 @@
     "updateTime": "2024-08-19T16:37:29.236Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69985121&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=69985121&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 69985121,
       "launchParam": null
@@ -9506,6 +9541,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ivory Coast sees green jobs boom",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CI": "Ivory Coast"
+    },
+    "regions": [
+      "Ivory Coast"
+    ],
+    "runningTime": 358,
+    "updateTime": "2024-05-27T14:18:34.023Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69165730&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 69165730,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69150910_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69150910_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ghana\u2019s Eco Hospital helps patients heal",
     "category": "Nature and Environment",
     "subCategory": "Health",
@@ -9738,7 +9812,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2024-09-16T09:31:45.69Z",
+    "updateTime": "2024-09-16T12:35:33.608Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
