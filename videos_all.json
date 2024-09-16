@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "The secret of Deggendorf dumplings ",
+    "category": "Lifestyle",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 308,
+    "updateTime": "2024-09-16T06:54:20.175Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70210927&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 70210927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201408_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201408_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2024-09-16T04:50:13.319Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70199299&list=REGION_VIDEO:4",
+      "contentId": "v=70199299&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70199299,
       "launchParam": null
@@ -2181,45 +2220,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukraine adds 'dragon drones' to its weaponry",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 87,
-    "updateTime": "2024-09-11T10:29:14.656Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70185928&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70185928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70185877_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70185877_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Fisherman and artist depict ocean changes",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -2430,7 +2430,7 @@
     "updateTime": "2024-09-10T17:52:23.13Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70183212&list=FEATURED_VIDEO:1",
+      "contentId": "v=70183212&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70183212,
       "launchParam": null
@@ -3560,51 +3560,6 @@
     "language": "en"
   },
   {
-    "titleText": "World Literacy Day: Seychelles leads Africa in literacy",
-    "category": "Society",
-    "subCategory": "Literature",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana",
-      "region:africa:NG": "Nigeria",
-      "region:africa:ET": "Ethiopia"
-    },
-    "regions": [
-      "Africa",
-      "Ghana",
-      "Nigeria",
-      "Ethiopia"
-    ],
-    "runningTime": 76,
-    "updateTime": "2024-09-07T18:06:03.496Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70146418&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70146418,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70122769_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70122769_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Super Typhoon Yagi reaches northern Vietnam",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -4086,45 +4041,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70154963_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How a Greek innovation helps wheelchair users enjoy the sea",
-    "category": "Innovation",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:europe:GR": "Greece"
-    },
-    "regions": [
-      "Greece"
-    ],
-    "runningTime": 269,
-    "updateTime": "2024-09-06T12:50:58.766Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70151479&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 70151479,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/57528717_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/57528717_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5444,6 +5360,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70082323_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A robot at the wheel",
+    "category": "Cars and Transportation",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 68,
+    "updateTime": "2024-08-31T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69903705&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 69903705,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69887739_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69887739_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9960,6 +9915,45 @@
     "language": "es"
   },
   {
+    "titleText": "Das Geheimnis der Deggendorfer Kn\u00f6del",
+    "category": "Kultur",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 309,
+    "updateTime": "2024-09-16T06:53:13.683Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70209954&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70209954,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201408_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201408_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Wie eine Wasserstoffbombe im All",
     "category": "Wissenschaft",
     "subCategory": "Panorama",
@@ -10310,45 +10304,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70189263_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Fl\u00fcchtlinge beraten traumatisierte Fl\u00fcchtlinge",
-    "category": "Konflikte",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:CH": "Schweiz"
-    },
-    "regions": [
-      "Schweiz"
-    ],
-    "runningTime": 248,
-    "updateTime": "2024-09-13T00:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70173163&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70173163,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70128669_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70128669_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
