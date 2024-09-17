@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Amsterdam tests new ideas to combat overtourism",
+    "category": "Travel",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:NL": "Netherlands"
+    },
+    "regions": [
+      "Netherlands"
+    ],
+    "runningTime": 279,
+    "updateTime": "2024-09-17T07:10:34.222Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70210902&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70210902,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201414_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201414_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -169,7 +208,7 @@
     "updateTime": "2024-09-16T16:09:24.266Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70232889&list=REGION_VIDEO:7",
+      "contentId": "v=70232889&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70232889,
       "launchParam": null
@@ -208,7 +247,7 @@
     "updateTime": "2024-09-16T15:26:44.745Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70232629&list=REGION_VIDEO:8",
+      "contentId": "v=70232629&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70232629,
       "launchParam": null
@@ -3945,6 +3984,51 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70153407_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "World Literacy Day: Seychelles leads Africa in literacy",
+    "category": "Society",
+    "subCategory": "Literature",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana",
+      "region:africa:NG": "Nigeria",
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Africa",
+      "Ghana",
+      "Nigeria",
+      "Ethiopia"
+    ],
+    "runningTime": 76,
+    "updateTime": "2024-09-07T18:06:03.496Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70146418&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70146418,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70122769_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70122769_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7766,45 +7850,6 @@
     "language": "en"
   },
   {
-    "titleText": "LA's lack of affordable housing worsens homelessness",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 388,
-    "updateTime": "2024-08-16T09:09:20.509Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68863309&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 68863309,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68850888_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68850888_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Lesotho is Africa's coolest country",
     "category": "Travel",
     "subCategory": "Lifestyle",
@@ -9379,45 +9424,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kashmir tour guides risk their lives to earn a living",
-    "category": "Society",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 125,
-    "updateTime": "2024-06-24T13:53:31.167Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69458371&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 69458371,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69457548_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69457548_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan: Next federal budget 'will fall on us like a bomb'",
     "category": "Business",
     "subCategory": "Society",
@@ -10824,6 +10830,45 @@
     "language": "es"
   },
   {
+    "titleText": "Ideen gegen \u00dcbertourismus: So wehrt sich Amsterdam",
+    "category": "Reise",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:NL": "Niederlande"
+    },
+    "regions": [
+      "Niederlande"
+    ],
+    "runningTime": 279,
+    "updateTime": "2024-09-17T07:12:09.152Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70209905&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70209905,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201414_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201414_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Aus Kamerun in den Brandenburger Landtag?",
     "category": "Politik",
     "subCategory": null,
@@ -11094,47 +11139,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70201422_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Droht \"X\" jetzt auch in der EU eine Blockade?",
-    "category": "Digitale Welt",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europa",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Europa",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 140,
-    "updateTime": "2024-09-14T14:14:12.055Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70211180&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70211180,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69888634_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69888634_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
