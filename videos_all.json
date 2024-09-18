@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-09-18T12:40:56.751Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70242526_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70242526_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fighting child malnutrition with games and gardens in India",
+    "category": "Food Security",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 390,
+    "updateTime": "2024-09-18T12:14:36.489Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70199299&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70199299,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70199254_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70199254_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Proposed mine threatens nature refuge in US state of Georgia",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 353,
+    "updateTime": "2024-09-18T12:12:41.087Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70211416&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70211416,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201898_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201898_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan: Why these displaced people can't return home",
     "category": "Conflicts",
     "subCategory": "Society",
@@ -97,7 +214,7 @@
     "updateTime": "2024-09-18T08:45:01.346Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70246892&list=FEATURED_VIDEO:1",
+      "contentId": "v=70246892&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 70246892,
       "launchParam": null
@@ -116,45 +233,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65015693_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 94,
-    "updateTime": "2024-09-18T06:48:25.901Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70242526_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70242526_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -283,7 +361,7 @@
     "language": "en"
   },
   {
-    "titleText": "Sustainable and tasty \u2013 Traditional dry fish makes comeback ",
+    "titleText": "Sustainable and tasty \u2014 Traditional dry fish makes comeback ",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
     "region_ids": {
@@ -393,45 +471,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70073312_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fighting child malnutrition with games and gardens in Inida",
-    "category": "Food Security",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 390,
-    "updateTime": "2024-09-17T10:42:12.286Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70199299&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 70199299,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70199254_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70199254_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4157,6 +4196,45 @@
     "language": "en"
   },
   {
+    "titleText": "Lagos' area boys collect fees, keep buses moving",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 234,
+    "updateTime": "2024-09-09T08:54:08.433Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70141766&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70141766,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70096765_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70096765_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Attacker kills 3 Israeli guards at Allenby Bridge",
     "category": "Conflicts",
     "subCategory": null,
@@ -6592,45 +6670,6 @@
     "language": "en"
   },
   {
-    "titleText": "Journalists convicted in Hong Kong sedition case",
-    "category": "Politics",
-    "subCategory": "Law and Justice",
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 98,
-    "updateTime": "2024-08-29T16:10:20.855Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70084664&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70084664,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/60282757_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/60282757_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US national security advisor wraps up talks in Beijing",
     "category": "Politics",
     "subCategory": null,
@@ -7651,47 +7690,6 @@
     "language": "en"
   },
   {
-    "titleText": "Silberhorn: Europe must do 'homework' to remain relevant",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "Europe"
-    ],
-    "runningTime": 365,
-    "updateTime": "2024-08-22T11:58:52.823Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70016896&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70016896,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70017004_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70017004_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Bangladeshi Hindus still waiting to cross into India",
     "category": "Human Rights",
     "subCategory": null,
@@ -7806,45 +7804,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69997269_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Famine looms in Sudan after 16 months of civil war",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:SD": "Sudan"
-    },
-    "regions": [
-      "Sudan"
-    ],
-    "runningTime": 183,
-    "updateTime": "2024-08-20T13:51:18.625Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69994329&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 69994329,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66634790_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66634790_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10906,6 +10865,115 @@
     "language": "es"
   },
   {
+    "titleText": "Bergbau bedroht ein Naturparadies in Georgia",
+    "category": "Natur und Umwelt",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 353,
+    "updateTime": "2024-09-18T12:14:01.942Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70233155&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70233155,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70201898_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70201898_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Sri Lanka vor der Wahl",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 215,
+    "updateTime": "2024-09-18T12:10:18.202Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70248461&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70248461,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70245895_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70245895_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Griechenland wirbt um LGBTQ-Touristen ",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2024-09-18T12:07:07.485Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70248474&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70248474,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69907709_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69907709_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Deutsche Brigade soll Ostflanke der NATO sch\u00fctzen",
     "category": "Konflikte",
     "subCategory": null,
@@ -11269,45 +11337,6 @@
     "language": "de"
   },
   {
-    "titleText": "Aus Kamerun in den Brandenburger Landtag?",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 177,
-    "updateTime": "2024-09-16T19:22:11.591Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70172873&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70172873,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70170370_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70170370_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Das Geheimnis der Deggendorfer Kn\u00f6del",
     "category": "Kultur",
     "subCategory": "Panorama",
@@ -11321,7 +11350,7 @@
     "updateTime": "2024-09-16T06:53:13.683Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70209954&list=REPORTS_VIDEO:1",
+      "contentId": "v=70209954&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70209954,
       "launchParam": null
@@ -11360,7 +11389,7 @@
     "updateTime": "2024-09-16T04:49:21.909Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70214208&list=REPORTS_VIDEO:1",
+      "contentId": "v=70214208&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70214208,
       "launchParam": null
@@ -12099,86 +12128,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70077665_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Schweizer K\u00e4se vor dem Aus?",
-    "category": "Gesellschaft",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:CH": "Schweiz",
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Schweiz",
-      "Deutschland"
-    ],
-    "runningTime": 193,
-    "updateTime": "2024-09-07T13:10:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70070486&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70070486,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70027007_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70027007_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Von London nach Lagos: Die Solo-Reisende Pelumi Nubi ",
-    "category": "Reise",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GB": "Vereinigtes K\u00f6nigreich"
-    },
-    "regions": [
-      "Vereinigtes K\u00f6nigreich"
-    ],
-    "runningTime": 337,
-    "updateTime": "2024-09-07T10:07:39.833Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70155064&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70155064,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70142809_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70142809_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
