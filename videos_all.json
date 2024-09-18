@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Lebanon's Hezbollah blames Israel for pager explosions",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Lebanon",
+      "Israel"
+    ],
+    "runningTime": 88,
+    "updateTime": "2024-09-18T07:04:42.657Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70245949&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70245949,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70242526_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70242526_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +51,7 @@
       "Europe"
     ],
     "runningTime": 94,
-    "updateTime": "2024-09-18T06:04:04.264Z",
+    "updateTime": "2024-09-18T06:48:25.901Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:8",
@@ -52,7 +93,7 @@
       "Poland",
       "Romania"
     ],
-    "runningTime": 107,
+    "runningTime": 106,
     "updateTime": "2024-09-17T20:43:38.462Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
@@ -7129,45 +7170,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70042742_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel strikes Hezbollah targets in 'self-defense act'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 65,
-    "updateTime": "2024-08-25T06:28:41.071Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70042378&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70042378,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70043159_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70043159_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
