@@ -40,10 +40,14 @@
   },
   {
     "titleText": "Thousands evacuated as rivers continue to rise",
-    "category": "[Miscellaneous]",
-    "subCategory": "Catastrophe",
-    "region_ids": {},
-    "regions": [],
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
     "runningTime": 100,
     "updateTime": "2024-09-18T19:30:18.072Z",
     "onClick": {
@@ -67,6 +71,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70250644_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Lebanon shaken by fresh wave of explosions",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon"
+    },
+    "regions": [
+      "Lebanon"
+    ],
+    "runningTime": 167,
+    "updateTime": "2024-09-18T19:28:46.092Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70262351&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70262351,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70261628_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70261628_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7330,45 +7373,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70044909_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel strikes Lebanon as Hezbollah launches attack",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 108,
-    "updateTime": "2024-08-25T11:54:23.557Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70043922&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70043922,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70042742_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70042742_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
