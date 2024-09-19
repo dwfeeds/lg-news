@@ -97,7 +97,7 @@
     "updateTime": "2024-09-19T12:42:09.322Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70237250&list=REGION_VIDEO:7",
+      "contentId": "v=70237250&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70237250,
       "launchParam": null
@@ -402,16 +402,16 @@
     "language": "en"
   },
   {
-    "titleText": "Turning denim waste into amazing new products",
+    "titleText": "African firm recycling textile waste in Kenya and Nigeria",
     "category": "Society",
     "subCategory": "Nature and Environment",
     "region_ids": {
       "region:africa:KE": "Kenya",
-      "region:africa": "Africa"
+      "region:africa:NG": "Nigeria"
     },
     "regions": [
       "Kenya",
-      "Africa"
+      "Nigeria"
     ],
     "runningTime": 199,
     "updateTime": "2024-09-19T08:57:16.597Z",
@@ -536,7 +536,7 @@
     "updateTime": "2024-09-18T15:21:51.143Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70251196&list=FEATURED_VIDEO:1",
+      "contentId": "v=70251196&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70251196,
       "launchParam": null
@@ -722,7 +722,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germany: How Dresden became more prepared for flooding",
+    "titleText": "Germany: How Dresden prepared itself for flooding",
     "category": "Society",
     "subCategory": "Climate",
     "region_ids": {
@@ -1451,7 +1451,7 @@
     "updateTime": "2024-09-17T07:10:34.222Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70210902&list=REGION_VIDEO:7",
+      "contentId": "v=70210902&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70210902,
       "launchParam": null
@@ -2704,6 +2704,47 @@
     "language": "en"
   },
   {
+    "titleText": "US, UK leaders to discuss weapons for Ukraine",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 142,
+    "updateTime": "2024-09-13T18:40:45.251Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70215564&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70215564,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68922925_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68922925_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany-Kenya migration deal prompts brain drain fears",
     "category": "Politics",
     "subCategory": "Society",
@@ -2818,6 +2859,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70137643_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rail Baltica: Connecting the Baltics states to Europe",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:EE": "Estonia",
+      "region:europe:LV": "Latvia",
+      "region:europe:LT": "Lithuania"
+    },
+    "regions": [
+      "Estonia",
+      "Latvia",
+      "Lithuania"
+    ],
+    "runningTime": 237,
+    "updateTime": "2024-09-13T13:35:28.883Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70168446&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70168446,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70155326_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70155326_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4208,45 +4292,6 @@
     "language": "en"
   },
   {
-    "titleText": "Using wildlife conservation drones in Burundi",
-    "category": "Nature and Environment",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:africa:BI": "Burundi"
-    },
-    "regions": [
-      "Burundi"
-    ],
-    "runningTime": 311,
-    "updateTime": "2024-09-10T13:32:16.887Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70128126&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70128126,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70128095_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70128095_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Where do Harris, Trump stand on Israel, Ukraine and Taiwan?",
     "category": "Politics",
     "subCategory": null,
@@ -4318,45 +4363,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67834369_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "My City Zinder: Niger's thriving cultural capital",
-    "category": "Society",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:africa:NE": "Niger"
-    },
-    "regions": [
-      "Niger"
-    ],
-    "runningTime": 198,
-    "updateTime": "2024-09-10T09:45:09.085Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70142039&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70142039,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70096738_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70096738_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
