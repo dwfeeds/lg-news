@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 99,
+    "updateTime": "2024-09-21T20:16:30.379Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70285567_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70285567_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Is Iran backing down?",
     "category": "Conflicts",
     "subCategory": null,
@@ -188,45 +227,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70287779_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2024-09-21T11:11:49.331Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70285567_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70285567_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -507,6 +507,45 @@
     "language": "en"
   },
   {
+    "titleText": "'Scientific American' endorses Harris over Trump",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 455,
+    "updateTime": "2024-09-20T22:11:51.371Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70288198&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70288198,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70014939_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70014939_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany sees nationwide climate protests",
     "category": "Climate",
     "subCategory": null,
@@ -626,7 +665,7 @@
     "language": "en"
   },
   {
-    "titleText": "Why young Sri Lankans are staying despite economic crisis",
+    "titleText": "Why young Sri Lankans are staying, despite economic crisis",
     "category": "Business",
     "subCategory": "Politics",
     "region_ids": {
@@ -2536,7 +2575,7 @@
     "language": "en"
   },
   {
-    "titleText": "Tourism boom impacts Norway's glaciers",
+    "titleText": "Tourism boom takes a toll on Norway's glaciers",
     "category": "Climate",
     "subCategory": "Travel",
     "region_ids": {
