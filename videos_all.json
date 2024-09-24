@@ -9962,18 +9962,22 @@
     "language": "en"
   },
   {
-    "titleText": "Noticias - \u00daltima hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 180,
-    "updateTime": "2024-09-24T12:43:02.571Z",
+    "titleText": "Espa\u00f1a: turismo y escasez h\u00eddrica",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": "Clima",
+    "region_ids": {
+      "region:europe:ES": "Espa\u00f1a"
+    },
+    "regions": [
+      "Espa\u00f1a"
+    ],
+    "runningTime": 313,
+    "updateTime": "2024-09-24T13:39:21.355Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "contentId": "v=70309240&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 18529525,
+      "id": 70309240,
       "launchParam": null
     },
     "providerLogo": {
@@ -9983,13 +9987,91 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70298015_6.jpg",
+      "url": "https://static.dw.com/image/70248082_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70298015_7.jpg",
+      "url": "https://static.dw.com/image/70248082_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Gafas de pl\u00e1stico reciclado",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CR": "Costa Rica"
+    },
+    "regions": [
+      "Costa Rica"
+    ],
+    "runningTime": 295,
+    "updateTime": "2024-09-24T13:36:57.674Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70309226&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70309226,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70248099_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70248099_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "La historia de M\u00e9xico en Tlalpan",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "M\u00e9xico"
+    },
+    "regions": [
+      "M\u00e9xico"
+    ],
+    "runningTime": 358,
+    "updateTime": "2024-09-24T13:34:09.757Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70309224&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70309224,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70248114_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70248114_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10196,49 +10278,6 @@
     "language": "es"
   },
   {
-    "titleText": "\u00bfD\u00f3nde est\u00e1 el mejor baklava; en los Balcanes o en Turqu\u00eda?",
-    "category": "Cultura",
-    "subCategory": "Estilo",
-    "region_ids": {
-      "region:europe:TR": "Turqu\u00eda",
-      "region:europe:BA": "Bosnia-Herzegovina",
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Turqu\u00eda",
-      "Bosnia-Herzegovina",
-      "Bulgaria"
-    ],
-    "runningTime": 249,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70270165&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70270165,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70278626_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
     "category": "Estilo",
     "subCategory": "Cultura",
@@ -10280,26 +10319,26 @@
     "language": "es"
   },
   {
-    "titleText": "Activista por la paz rusa recupera la libertad",
-    "category": "Libertad de opini\u00f3n",
-    "subCategory": "Conflictos",
+    "titleText": "\u00bfD\u00f3nde est\u00e1 el mejor baklava; en los Balcanes o en Turqu\u00eda?",
+    "category": "Cultura",
+    "subCategory": "Estilo",
     "region_ids": {
-      "region:europe:UA": "Ucrania",
-      "region:europe:RU": "Federaci\u00f3n Rusa",
-      "region:europe:DE": "Alemania"
+      "region:europe:TR": "Turqu\u00eda",
+      "region:europe:BA": "Bosnia-Herzegovina",
+      "region:europe:BG": "Bulgaria"
     },
     "regions": [
-      "Ucrania",
-      "Federaci\u00f3n Rusa",
-      "Alemania"
+      "Turqu\u00eda",
+      "Bosnia-Herzegovina",
+      "Bulgaria"
     ],
-    "runningTime": 393,
-    "updateTime": "2024-09-20T14:06:47.604Z",
+    "runningTime": 249,
+    "updateTime": "2024-09-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70251793&list=REPORTS_VIDEO:1",
+      "contentId": "v=70270165&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 70251793,
+      "id": 70270165,
       "launchParam": null
     },
     "providerLogo": {
@@ -10309,52 +10348,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70228768_6.jpg",
+      "url": "https://static.dw.com/image/70278626_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70228768_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Plantas que curan",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 206,
-    "updateTime": "2024-09-20T08:39:25.147Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70227565&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70227565,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70227849_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70227849_7.jpeg",
+      "url": "https://static.dw.com/image/70278626_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
