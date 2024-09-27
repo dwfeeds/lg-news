@@ -25,13 +25,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70340235_6.jpg",
+      "url": "https://static.dw.com/image/70317630_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70340235_7.jpg",
+      "url": "https://static.dw.com/image/70317630_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9826,41 +9826,6 @@
     "language": "en"
   },
   {
-    "titleText": "Noticias - \u00daltima hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 180,
-    "updateTime": "2024-09-27T12:26:58.442Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70310622_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70310622_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Polonia luego de la \u201cinundaci\u00f3n del siglo\u201d",
     "category": "Clima",
     "subCategory": "Pol\u00edtica",
@@ -10979,6 +10944,45 @@
     "language": "es"
   },
   {
+    "titleText": "Was macht eigentlich die Milz?",
+    "category": "Gesundheit",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 156,
+    "updateTime": "2024-09-27T13:05:36.592Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70346979&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70346979,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70342515_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70342515_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Steigender Meeresspiegl bedroht deutsche Nordseek\u00fcste",
     "category": "Natur und Umwelt",
     "subCategory": "Klima",
@@ -11448,45 +11452,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70266742_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Israel-Hamas-Krieg: Kann die T\u00fcrkei in Gaza vermitteln? ",
-    "category": "Konflikte",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:TR": "T\u00fcrkei"
-    },
-    "regions": [
-      "T\u00fcrkei"
-    ],
-    "runningTime": 242,
-    "updateTime": "2024-09-23T12:13:52.225Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70286838&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70286838,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70286499_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70286499_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
