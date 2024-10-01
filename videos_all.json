@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Switzerland's most dangerous bus route",
+    "category": "Society",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 130,
+    "updateTime": "2024-10-01T07:17:47.437Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70285461&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70285461,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70269160_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70269160_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +49,7 @@
       "Europe"
     ],
     "runningTime": 90,
-    "updateTime": "2024-10-01T02:54:14.201Z",
+    "updateTime": "2024-10-01T07:15:05.056Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -32,6 +71,164 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70356636_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mexico's first woman president takes oath of office",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "Mexico"
+    },
+    "regions": [
+      "Mexico"
+    ],
+    "runningTime": 134,
+    "updateTime": "2024-10-01T07:14:47.522Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70371703&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 70371703,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70346604_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70346604_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hundreds missing in US after deadly Hurricane Helene",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-10-01T07:12:46.395Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70371683&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70371683,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70357781_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70357781_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Bangladeshis on border with India live a dangerous life",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:BD": "Bangladesh",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "Bangladesh",
+      "India"
+    ],
+    "runningTime": 241,
+    "updateTime": "2024-10-01T07:01:59.661Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70361976&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70361976,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69884826_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69884826_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Lenacapavir: A new ally for HIV/AIDS prevention in Africa",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 80,
+    "updateTime": "2024-10-01T06:50:19.624Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70329886&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70329886,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70324847_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70324847_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -272,47 +469,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65843794_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bangladesh: Dangerous life for residents near Indian border",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:asia:BD": "Bangladesh"
-    },
-    "regions": [
-      "India",
-      "Bangladesh"
-    ],
-    "runningTime": 241,
-    "updateTime": "2024-09-30T09:54:28.708Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70361976&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70361976,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69884826_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69884826_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3062,49 +3218,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70305766_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What is Ukraine's 'victory plan' against Russia?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 212,
-    "updateTime": "2024-09-23T19:13:07.615Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70306097&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70306097,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70298870_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70298870_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7552,49 +7665,6 @@
     "language": "en"
   },
   {
-    "titleText": "Super Typhoon Yagi hits China's Hainan island",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:asia:PH": "Philippines",
-      "region:asia:VN": "Vietnam"
-    },
-    "regions": [
-      "China",
-      "Philippines",
-      "Vietnam"
-    ],
-    "runningTime": 94,
-    "updateTime": "2024-09-06T21:23:48.983Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70159149&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 70159149,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70152760_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70152760_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany: CDU party leader on migration, cooperation with AfD",
     "category": "Politics",
     "subCategory": null,
@@ -9442,45 +9512,6 @@
     "language": "en"
   },
   {
-    "titleText": "Venezuelan opposition protests Maduro election victory",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:VE": "Venezuela"
-    },
-    "regions": [
-      "Venezuela"
-    ],
-    "runningTime": 150,
-    "updateTime": "2024-08-03T07:55:43.86Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69847407&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 69847407,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69829078_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69829078_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Philippines: Fishermen demand accountability for oil spill",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -10913,6 +10944,45 @@
     "language": "es"
   },
   {
+    "titleText": "Die gef\u00e4hrlichste Busstrecke der Schweiz",
+    "category": "Auto und Mobilit\u00e4t",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:CH": "Schweiz"
+    },
+    "regions": [
+      "Schweiz"
+    ],
+    "runningTime": 132,
+    "updateTime": "2024-10-01T07:14:21.607Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70321778&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70321778,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70269160_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70269160_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Was Mark Rutte zum perfekten NATO-Generalsekret\u00e4r macht",
     "category": "Politik",
     "subCategory": null,
@@ -11279,7 +11349,7 @@
     "updateTime": "2024-09-29T15:45:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70321640&list=REPORTS_VIDEO:1",
+      "contentId": "v=70321640&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70321640,
       "launchParam": null
@@ -12084,45 +12154,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70192654_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Santorin: Leben, wo andere Urlaub machen",
-    "category": "Reise",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:GR": "Griechenland"
-    },
-    "regions": [
-      "Griechenland"
-    ],
-    "runningTime": 306,
-    "updateTime": "2024-09-15T10:13:26.548Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70209829&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70209829,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70201422_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70201422_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
