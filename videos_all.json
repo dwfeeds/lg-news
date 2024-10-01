@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Jimmy Carter celebrates 100th birthday",
+    "category": "Politics",
+    "subCategory": "History",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 148,
+    "updateTime": "2024-10-01T17:44:40.91Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70380513&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70380513,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67589679_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67589679_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israelis take cover as missiles launched from Iran",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 592,
+    "updateTime": "2024-10-01T17:44:01.712Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70380406&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70380406,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70380246_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70380246_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3573,45 +3651,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70202443_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel intensifies campaign against Hezbollah",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 153,
-    "updateTime": "2024-09-23T22:53:05.728Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70306313&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70306313,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70305766_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70305766_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11047,6 +11086,47 @@
     "language": "es"
   },
   {
+    "titleText": "Israels arabische Gemeinschaft f\u00fcrchtet Kriegseskalation",
+    "category": "Konflikte",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:me": "Nahost",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Nahost",
+      "Israel"
+    ],
+    "runningTime": 184,
+    "updateTime": "2024-10-01T16:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70375285&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70375285,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70360599_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70360599_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Neue Realit\u00e4t - Kuhherden in Abuja ",
     "category": "Klima",
     "subCategory": null,
@@ -11450,7 +11530,7 @@
     "updateTime": "2024-09-30T07:18:16.413Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70322617&list=REPORTS_VIDEO:1",
+      "contentId": "v=70322617&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70322617,
       "launchParam": null
@@ -12216,45 +12296,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70201414_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Das Geheimnis der Deggendorfer Kn\u00f6del",
-    "category": "Kultur",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 309,
-    "updateTime": "2024-09-16T06:53:13.683Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70209954&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70209954,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70201408_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70201408_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
