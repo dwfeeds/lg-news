@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israel carries out more strikes on Beirut",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 117,
+    "updateTime": "2024-10-05T19:22:21.538Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70414409&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70414409,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70412075_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70412075_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3534,7 +3573,7 @@
     "updateTime": "2024-09-29T11:56:48.999Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70355558&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=70355558&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70355558,
       "launchParam": null
@@ -6052,45 +6091,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69748593_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hezbollah's top commander killed in Israeli strike on Beirut",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 162,
-    "updateTime": "2024-09-21T08:18:44.174Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70289179&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70289179,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70287852_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70287852_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
