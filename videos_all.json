@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-10-06T17:50:55.52Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70418025_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70418025_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel strikes Gaza mosque and former school",
     "category": "Conflicts",
     "subCategory": null,
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70417888_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2024-10-06T14:30:37.103Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70418025_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70418025_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10813,6 +10813,47 @@
     "language": "es"
   },
   {
+    "titleText": "Kibbuz Nir Oz - wo der 7. Oktober nicht enden will",
+    "category": "Konflikte",
+    "subCategory": "Terrorismus",
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Israel",
+      "Nahost"
+    ],
+    "runningTime": 288,
+    "updateTime": "2024-10-06T18:39:23.906Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70409663&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70409663,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70409203_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70409203_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Libanon: Arbeitsmigranten zur\u00fcckgelassen im Kriegsgebiet",
     "category": "Konflikte",
     "subCategory": "Migration",
@@ -11241,47 +11282,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70403703_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ist die deutsche Nahost-Diplomatie gescheitert?",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:me": "Nahost"
-    },
-    "regions": [
-      "Deutschland",
-      "Nahost"
-    ],
-    "runningTime": 327,
-    "updateTime": "2024-10-04T11:55:12.561Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70405024&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70405024,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67143964_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67143964_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
