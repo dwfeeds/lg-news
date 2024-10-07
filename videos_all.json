@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-10-07T18:55:34.868Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70425089_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70425089_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mexico's work program helps migrants and economy",
     "category": "Business",
     "subCategory": null,
@@ -73,45 +112,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70421434_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 94,
-    "updateTime": "2024-10-07T12:33:39.18Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70425089_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70425089_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10805,6 +10805,49 @@
     "language": "es"
   },
   {
+    "titleText": "Massenvertreibung im Gazastreifen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Pal\u00e4stinensische Gebiete",
+      "region:me:IL": "Israel",
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Pal\u00e4stinensische Gebiete",
+      "Israel",
+      "Nahost"
+    ],
+    "runningTime": 252,
+    "updateTime": "2024-10-07T19:19:03.302Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70407798&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70407798,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70409099_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70409099_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ein italienisches Dorf wandert - Di\u00e4t f\u00fcr den B\u00fcrgermeister",
     "category": "Gesellschaft",
     "subCategory": null,
@@ -11175,7 +11218,7 @@
     "updateTime": "2024-10-04T17:49:52.282Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70409673&list=REPORTS_VIDEO:1",
+      "contentId": "v=70409673&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70409673,
       "launchParam": null
@@ -11976,45 +12019,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70228768_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Die letzte britische Klavier-Manufaktur",
-    "category": "Musik",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:europe:GB": "Vereinigtes K\u00f6nigreich"
-    },
-    "regions": [
-      "Vereinigtes K\u00f6nigreich"
-    ],
-    "runningTime": 130,
-    "updateTime": "2024-09-19T10:49:24.331Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70248268&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70248268,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70203513_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70203513_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
