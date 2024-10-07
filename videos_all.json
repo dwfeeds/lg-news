@@ -316,7 +316,7 @@
     "language": "en"
   },
   {
-    "titleText": "Israel bombs Beirut as Hezbollah strikes Haifa",
+    "titleText": "Israel bombs Beirut on eve of October 7 anniversary",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -723,7 +723,7 @@
     "updateTime": "2024-10-05T11:22:16.762Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70398036&list=REGION_VIDEO:8",
+      "contentId": "v=70398036&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70398036,
       "launchParam": null
@@ -840,7 +840,7 @@
     "updateTime": "2024-10-05T09:16:58.631Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70411456&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70411456&list=REGION_VIDEO:6",
       "type": "video",
       "id": 70411456,
       "launchParam": null
@@ -1234,7 +1234,7 @@
     "updateTime": "2024-10-04T15:07:45.582Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70408400&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70408400&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70408400,
       "launchParam": null
@@ -2147,7 +2147,7 @@
     "updateTime": "2024-10-03T11:45:48.35Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70395629&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70395629&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70395629,
       "launchParam": null
@@ -3409,7 +3409,7 @@
     "updateTime": "2024-10-01T07:12:46.395Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70371683&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70371683&list=REGION_VIDEO:5",
       "type": "video",
       "id": 70371683,
       "launchParam": null
@@ -3887,7 +3887,7 @@
     "updateTime": "2024-09-30T02:24:55.406Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70358344&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70358344&list=REGION_VIDEO:5",
       "type": "video",
       "id": 70358344,
       "launchParam": null
@@ -4047,7 +4047,7 @@
     "updateTime": "2024-09-29T13:31:46.453Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70356355&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70356355&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70356355,
       "launchParam": null
@@ -4086,7 +4086,7 @@
     "updateTime": "2024-09-29T13:09:06.276Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70285115&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70285115&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70285115,
       "launchParam": null
@@ -4467,6 +4467,45 @@
     "language": "en"
   },
   {
+    "titleText": "Digitizing agriculture: App helps Ethiopian food producers",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Ethiopia"
+    ],
+    "runningTime": 346,
+    "updateTime": "2024-09-27T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70335537&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70335537,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70335230_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70335230_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "An urban jungle in Hungary",
     "category": "Nature and Environment",
     "subCategory": "Education",
@@ -4538,45 +4577,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70335284_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Digitizing agriculture: App helps Ethiopian food producers",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:africa:ET": "Ethiopia"
-    },
-    "regions": [
-      "Ethiopia"
-    ],
-    "runningTime": 346,
-    "updateTime": "2024-09-27T19:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70335537&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70335537,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70335230_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70335230_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5032,7 +5032,7 @@
     "updateTime": "2024-09-26T12:47:24.065Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70333170&list=REGION_VIDEO:8",
+      "contentId": "v=70333170&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70333170,
       "launchParam": null
@@ -5339,6 +5339,45 @@
     "language": "en"
   },
   {
+    "titleText": "How women are solving Ghana's water hyacinth scourge",
+    "category": "Society",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 283,
+    "updateTime": "2024-09-25T14:33:48.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70324058&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70324058,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70324126_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70324126_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Wildfires threaten Ecuador's capital Quito",
     "category": "Climate",
     "subCategory": "Nature and Environment",
@@ -5352,7 +5391,7 @@
     "updateTime": "2024-09-25T11:37:48.565Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70322291&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70322291&list=REGION_VIDEO:6",
       "type": "video",
       "id": 70322291,
       "launchParam": null
@@ -5410,45 +5449,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70320443_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Coastal communities worldwide brace for rising sea levels",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 202,
-    "updateTime": "2024-09-25T09:25:46.73Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70320547&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70320547,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69272760_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69272760_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5583,6 +5583,45 @@
     "language": "en"
   },
   {
+    "titleText": "Artists of Kairos Futura bridge Nairobi's ecological divide",
+    "category": "Arts",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 208,
+    "updateTime": "2024-09-25T08:07:07.265Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70271340&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70271340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70267251_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70267251_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Netanyahu: 'We will continue to hit Hezbollah'",
     "category": "Conflicts",
     "subCategory": null,
@@ -5682,7 +5721,7 @@
     "updateTime": "2024-09-24T15:35:00.649Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70314426&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70314426&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70314426,
       "launchParam": null
@@ -5840,7 +5879,7 @@
     "updateTime": "2024-09-23T14:43:55.393Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70268347&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70268347&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70268347,
       "launchParam": null
@@ -5996,7 +6035,7 @@
     "updateTime": "2024-09-23T07:55:45.839Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70285916&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70285916&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70285916,
       "launchParam": null
@@ -6093,45 +6132,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70250117_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Homes lost, relatives missing in floods in Nigeria",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 92,
-    "updateTime": "2024-09-21T21:48:26.616Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70291637&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70291637,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70291578_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70291578_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6775,84 +6775,6 @@
     "language": "en"
   },
   {
-    "titleText": "Towns in southwestern Poland prepare for flood peak",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:PL": "Poland"
-    },
-    "regions": [
-      "Poland"
-    ],
-    "runningTime": 174,
-    "updateTime": "2024-09-19T16:13:22.067Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70274631&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70274631,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70274659_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70274659_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Nigeria braces for potential floods in 11 states",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 107,
-    "updateTime": "2024-09-19T15:58:21.918Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70274565&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70274565,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70269036_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70269036_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sri Lanka goes to the polls as economy sees upswing",
     "category": "Business",
     "subCategory": null,
@@ -6972,47 +6894,6 @@
     "language": "en"
   },
   {
-    "titleText": "How would Trump or Harris tackle tensions with China?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "United States of America",
-      "China"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-09-19T12:18:15.246Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269084&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70269084,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70267908_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70267908_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Malaysia's chip industry booming amid tech shift",
     "category": "Business",
     "subCategory": null,
@@ -7045,86 +6926,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65273889_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "India faces calls to return Sheikh Hasina to Bangladesh",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:asia:BD": "Bangladesh"
-    },
-    "regions": [
-      "India",
-      "Bangladesh"
-    ],
-    "runningTime": 236,
-    "updateTime": "2024-09-19T09:59:43.043Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70266028&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70266028,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69446609_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69446609_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bangladesh's garment workers return to jobs after unrest",
-    "category": "Business",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:BD": "Bangladesh"
-    },
-    "regions": [
-      "Bangladesh"
-    ],
-    "runningTime": 104,
-    "updateTime": "2024-09-18T14:18:51.807Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70251564&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70251564,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70251348_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70251348_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7171,47 +6972,6 @@
     "language": "en"
   },
   {
-    "titleText": "Germany: How Dresden prepared itself for flooding",
-    "category": "Society",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "runningTime": 141,
-    "updateTime": "2024-09-18T12:40:50.132Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70249215&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70249215,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70226452_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70226452_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Fighting child malnutrition with games and gardens in India",
     "category": "Food Security",
     "subCategory": "Climate",
@@ -7225,7 +6985,7 @@
     "updateTime": "2024-09-18T12:14:36.489Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70199299&list=REGION_VIDEO:4",
+      "contentId": "v=70199299&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70199299,
       "launchParam": null
@@ -7333,26 +7093,22 @@
     "language": "en"
   },
   {
-    "titleText": "Floods leave trail of devastation in Romania",
-    "category": "Catastrophe",
-    "subCategory": null,
+    "titleText": "Sustainable and tasty \u2014 traditional dry fish makes comeback ",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
     "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:PL": "Poland",
-      "region:europe:RO": "Romania"
+      "region:asia:IN": "India"
     },
     "regions": [
-      "Europe",
-      "Poland",
-      "Romania"
+      "India"
     ],
-    "runningTime": 106,
-    "updateTime": "2024-09-17T20:43:38.462Z",
+    "runningTime": 233,
+    "updateTime": "2024-09-17T14:33:02.393Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70244453&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70199304&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 70244453,
+      "id": 70199304,
       "launchParam": null
     },
     "providerLogo": {
@@ -7362,130 +7118,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70225406_6.jpg",
+      "url": "https://static.dw.com/image/70199266_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70225406_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How does Vienna's extensive flood defense system work?",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:AT": "Austria"
-    },
-    "regions": [
-      "Austria"
-    ],
-    "runningTime": 105,
-    "updateTime": "2024-09-17T19:21:02.222Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70244340&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70244340,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70226634_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70226634_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bracing for more floodwaters in East and Central Europe",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 137,
-    "updateTime": "2024-09-17T13:24:57.319Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70240460&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70240460,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70226771_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70226771_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Wildfires in Portugal fanned by unusually dry September",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 111,
-    "updateTime": "2024-09-17T08:53:19.601Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70235942&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70235942,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70236639_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70236639_7.jpg",
+      "url": "https://static.dw.com/image/70199266_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7532,22 +7171,22 @@
     "language": "en"
   },
   {
-    "titleText": "Europe floods: Where floodwaters recede, the cleanup starts",
-    "category": "Catastrophe",
-    "subCategory": null,
+    "titleText": "Pearl millet \u2014 making a great grain even better",
+    "category": "Food Security",
+    "subCategory": "Climate",
     "region_ids": {
-      "region:europe:AT": "Austria"
+      "region:africa:GH": "Ghana"
     },
     "regions": [
-      "Austria"
+      "Ghana"
     ],
-    "runningTime": 155,
-    "updateTime": "2024-09-16T21:23:08.349Z",
+    "runningTime": 361,
+    "updateTime": "2024-09-17T08:25:53.803Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70234217&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70203229&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 70234217,
+      "id": 70203229,
       "launchParam": null
     },
     "providerLogo": {
@@ -7557,13 +7196,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70234235_6.jpg",
+      "url": "https://static.dw.com/image/70200904_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70234235_7.jpg",
+      "url": "https://static.dw.com/image/70200904_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7603,45 +7242,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70233578_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Floods claim at least 15 lives in Central, Eastern Europe",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 123,
-    "updateTime": "2024-09-16T16:25:44.469Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70232981&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70232981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70227087_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70227087_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7761,45 +7361,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/19191528_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Nigeria floods exacerbate existing food shortage crisis",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 100,
-    "updateTime": "2024-09-14T17:29:06.34Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70218923&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70218923,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70226714_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70226714_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8612,7 +8173,7 @@
     "updateTime": "2024-09-09T06:45:12.782Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70068666&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70068666&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70068666,
       "launchParam": null
@@ -8631,45 +8192,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70057467_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Diverse, classical, contemporary: The Chineke! Orchestra",
-    "category": "Music",
-    "subCategory": "Diversity",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 274,
-    "updateTime": "2024-09-09T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70150334&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70150334,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70128679_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70128679_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9473,6 +8995,45 @@
     "language": "en"
   },
   {
+    "titleText": "Famine looms in Sudan after 16 months of civil war",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 183,
+    "updateTime": "2024-08-20T13:51:18.625Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69994329&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69994329,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66634790_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66634790_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Report: Taxing the super rich has positive results",
     "category": "Business",
     "subCategory": "Politics",
@@ -9707,22 +9268,22 @@
     "language": "en"
   },
   {
-    "titleText": "Brazil plane crash kills all 61 on board",
-    "category": "Catastrophe",
+    "titleText": "Gazans forced to flee Khan Younis as Israel steps up attacks",
+    "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:cala:BR": "Brazil"
+      "region:me:PS": "Palestinian Territories"
     },
     "regions": [
-      "Brazil"
+      "Palestinian Territories"
     ],
-    "runningTime": 131,
-    "updateTime": "2024-08-10T09:15:25.794Z",
+    "runningTime": 89,
+    "updateTime": "2024-08-09T14:38:08.594Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69906849&list=REGION_VIDEO:6",
+      "contentId": "v=69902287&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 69906849,
+      "id": 69902287,
       "launchParam": null
     },
     "providerLogo": {
@@ -9732,13 +9293,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69907341_6.jpg",
+      "url": "https://static.dw.com/image/69787223_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69907341_7.jpg",
+      "url": "https://static.dw.com/image/69787223_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9863,22 +9424,22 @@
     "language": "en"
   },
   {
-    "titleText": "Kenyan villages hit by floods see rise in tropical diseases",
-    "category": "Health",
-    "subCategory": null,
+    "titleText": "Humanitarian aid fails to reach people in Gaza",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
     "region_ids": {
-      "region:africa:KE": "Kenya"
+      "region:me:PS": "Palestinian Territories"
     },
     "regions": [
-      "Kenya"
+      "Palestinian Territories"
     ],
-    "runningTime": 126,
-    "updateTime": "2024-07-31T09:30:42.092Z",
+    "runningTime": 167,
+    "updateTime": "2024-07-12T12:29:51.466Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69811959&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=69645476&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 69811959,
+      "id": 69645476,
       "launchParam": null
     },
     "providerLogo": {
@@ -9888,13 +9449,559 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69811987_6.jpeg",
+      "url": "https://static.dw.com/image/69600092_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69811987_7.jpeg",
+      "url": "https://static.dw.com/image/69600092_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukrainian farmers look toward harvest season with concern",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 180,
+    "updateTime": "2024-07-08T08:34:16.144Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69592790&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69592790,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66241033_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66241033_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Indian women are becoming drone pilots",
+    "category": "Food Security",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 301,
+    "updateTime": "2024-06-29T12:25:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69457514&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69457514,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69442045_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69442045_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hunger in Colombia: How can Bogota feed poor communities?",
+    "category": "Food Security",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CO": "Colombia"
+    },
+    "regions": [
+      "Colombia"
+    ],
+    "runningTime": 197,
+    "updateTime": "2024-06-23T10:43:14.216Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69449200&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69449200,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69448994_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69448994_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Saving the world with algae",
+    "category": "Food Security",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 309,
+    "updateTime": "2024-06-19T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69364641&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69364641,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69353593_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69353593_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudan civil war displaces millions",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 90,
+    "updateTime": "2024-06-18T12:00:28.851Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69399064&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69399064,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69393721_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69393721_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Growing hope with native plants",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:africa:NE": "Niger"
+    },
+    "regions": [
+      "Niger"
+    ],
+    "runningTime": 386,
+    "updateTime": "2024-05-23T14:01:10.899Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69095820&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69095820,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69063790_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69063790_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Zimbabwe entrepreneur giving wasted bananas new appeal",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:africa:ZW": "Zimbabwe"
+    },
+    "regions": [
+      "Zimbabwe"
+    ],
+    "runningTime": 132,
+    "updateTime": "2024-05-14T09:47:08.332Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69038852&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69038852,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69018639_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69018639_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How Ghana is using AI to improve food security",
+    "category": "Food Security",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 314,
+    "updateTime": "2024-05-13T09:59:12.355Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69038851&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69038851,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69018715_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69018715_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How El Nino contributes to drought in Africa",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 76,
+    "updateTime": "2024-04-15T13:30:56.498Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68798869&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68798869,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/60384938_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/60384938_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Haitians living in the US fear for their families",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:HAT": "Haiti"
+    },
+    "regions": [
+      "Haiti"
+    ],
+    "runningTime": 179,
+    "updateTime": "2024-03-29T00:19:51.275Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68695785&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68695785,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68695859_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68695859_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Will climate change threaten food security?",
+    "category": "Food Security",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 128,
+    "updateTime": "2024-03-27T12:20:43.26Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68660880&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68660880,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68647385_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68647385_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Severe drought in Zimbabwe threatens millions with hunger",
+    "category": "Food Security",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:ZW": "Zimbabwe"
+    },
+    "regions": [
+      "Zimbabwe"
+    ],
+    "runningTime": 97,
+    "updateTime": "2024-03-26T13:38:23.471Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68624878&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68624878,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68623919_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68623919_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hunger in Gaza reaches catastrophic levels",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 142,
+    "updateTime": "2024-03-19T15:05:22.118Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68616124&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68616124,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68597559_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68597559_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Haiti faces humanitarian crisis in wake of political unrest",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:HAT": "Haiti"
+    },
+    "regions": [
+      "Haiti"
+    ],
+    "runningTime": 122,
+    "updateTime": "2024-03-15T10:42:14.992Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68543457&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68543457,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68529684_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68529684_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11286,45 +11393,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70373990_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wenn die KI-Partnerin Erotikgespr\u00e4che ablehnt ",
-    "category": "Digitale Welt",
-    "subCategory": "Technik",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 127,
-    "updateTime": "2024-10-04T14:49:11.681Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70404248&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70404248,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70403727_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70403727_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
