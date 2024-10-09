@@ -156,6 +156,45 @@
     "language": "en"
   },
   {
+    "titleText": "Check: Testing the Opel Zafira Electric",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 598,
+    "updateTime": "2024-10-09T08:43:41.298Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70441347&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70441347,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/51698684_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/51698684_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Crystal hunting in the Swiss Alps ",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -1587,7 +1626,7 @@
     "updateTime": "2024-10-05T11:22:16.762Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70398036&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70398036&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70398036,
       "launchParam": null
@@ -1652,7 +1691,7 @@
     "language": "en"
   },
   {
-    "titleText": "Are fatbikes a danger to Dutch streets?",
+    "titleText": "Are ultra-fast fatbikes a danger to Dutch streets?",
     "category": "Cars and Transportation",
     "subCategory": "Society",
     "region_ids": {
@@ -2623,7 +2662,7 @@
     "updateTime": "2024-10-04T08:15:54.842Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70402777&list=REGION_VIDEO:7",
+      "contentId": "v=70402777&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70402777,
       "launchParam": null
@@ -4346,6 +4385,47 @@
     "language": "en"
   },
   {
+    "titleText": "Who is Mark Rutte, NATO's new secretary general?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 203,
+    "updateTime": "2024-09-30T17:48:40.178Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70369380&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70369380,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70368385_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70368385_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gambia's female basketballers take to the court",
     "category": "Sports",
     "subCategory": "Society",
@@ -4982,45 +5062,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pakistan's traditional pipe bands are fading out",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 163,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70345928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70345776_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
     "category": "Music",
     "subCategory": "Equality",
@@ -5060,22 +5101,22 @@
     "language": "en"
   },
   {
-    "titleText": "Digitizing agriculture: App helps Ethiopian food producers",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
+    "titleText": "Why Pakistan's traditional pipe bands are fading out",
+    "category": "Society",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:africa:ET": "Ethiopia"
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Ethiopia"
+      "Pakistan"
     ],
-    "runningTime": 346,
-    "updateTime": "2024-09-27T19:30:00Z",
+    "runningTime": 163,
+    "updateTime": "2024-09-27T21:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70335537&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
-      "id": 70335537,
+      "id": 70345928,
       "launchParam": null
     },
     "providerLogo": {
@@ -5085,13 +5126,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70335230_6.jpeg",
+      "url": "https://static.dw.com/image/70345776_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70335230_7.jpeg",
+      "url": "https://static.dw.com/image/70345776_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5131,6 +5172,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70335284_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Digitizing agriculture: App helps Ethiopian food producers",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Ethiopia"
+    ],
+    "runningTime": 346,
+    "updateTime": "2024-09-27T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70335537&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70335537,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70335230_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70335230_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5456,45 +5536,6 @@
     "language": "en"
   },
   {
-    "titleText": "What does the new UN 'Pact for the Future' mean for Africa?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 136,
-    "updateTime": "2024-09-26T12:47:24.065Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70333170&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70333170,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70333771_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70333771_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel-Hezbollah conflict: Civilians caught in the crossfire",
     "category": "Conflicts",
     "subCategory": null,
@@ -5613,84 +5654,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70324417_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fashion for the visually impaired",
-    "category": "Design",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 338,
-    "updateTime": "2024-09-25T15:08:36.044Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192285&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70192285,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192231_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192231_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The tastiest C's of Congolese kitchen ",
-    "category": "Culture",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 325,
-    "updateTime": "2024-09-25T15:05:34.787Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192284&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70192284,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192251_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192251_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6568,6 +6531,45 @@
     "language": "en"
   },
   {
+    "titleText": "India's Modi to prioritize diaspora community on trip to US",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 150,
+    "updateTime": "2024-09-20T12:50:31.691Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70275588&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70275588,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66764471_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66764471_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can algae power our economies?",
     "category": "Business",
     "subCategory": null,
@@ -6639,6 +6641,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70211254_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Charging into the future with e-trucks",
+    "category": "Cars and Transportation",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 264,
+    "updateTime": "2024-09-20T12:03:45.547Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70237315&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70237315,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70211267_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70211267_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6860,7 +6901,7 @@
     "updateTime": "2024-09-18T13:50:18.877Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70249823&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70249823&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70249823,
       "launchParam": null
@@ -6879,45 +6920,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68731790_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fighting child malnutrition with games and gardens in India",
-    "category": "Food Security",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 390,
-    "updateTime": "2024-09-18T12:14:36.489Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70199299&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70199299,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70199254_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70199254_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7007,45 +7009,6 @@
     "language": "en"
   },
   {
-    "titleText": "Sustainable and tasty \u2014 traditional dry fish makes comeback ",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-09-17T14:33:02.393Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70199304&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70199304,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70199266_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70199266_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Lacking funds, children's cancer care in Lebanon at risk",
     "category": "Society",
     "subCategory": "Politics",
@@ -7078,45 +7041,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70236278_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Pearl millet \u2014 making a great grain even better",
-    "category": "Food Security",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 361,
-    "updateTime": "2024-09-17T08:25:53.803Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70203229&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70203229,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70200904_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70200904_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8400,6 +8324,86 @@
     "language": "en"
   },
   {
+    "titleText": "Germany\u2019s EV market slumps for first time",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 219,
+    "updateTime": "2024-08-30T07:55:05.547Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70049973&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70049973,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70018063_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70018063_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "China set to build EVs in Hungary despite opposition",
+    "category": "Cars and Transportation",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:HU": "Hungary",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Hungary",
+      "China"
+    ],
+    "runningTime": 232,
+    "updateTime": "2024-08-29T11:19:44.646Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70049988&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70049988,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70054132_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70054132_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kashmir's online gambling addicts",
     "category": "Health",
     "subCategory": "Technology",
@@ -8452,7 +8456,7 @@
     "updateTime": "2024-08-28T11:49:58.452Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70050004&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70050004&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70050004,
       "launchParam": null
@@ -8831,45 +8835,6 @@
     "language": "en"
   },
   {
-    "titleText": "Famine looms in Sudan after 16 months of civil war",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:SD": "Sudan"
-    },
-    "regions": [
-      "Sudan"
-    ],
-    "runningTime": 183,
-    "updateTime": "2024-08-20T13:51:18.625Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69994329&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69994329,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66634790_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66634790_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Report: Taxing the super rich has positive results",
     "category": "Business",
     "subCategory": "Politics",
@@ -9104,45 +9069,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gazans forced to flee Khan Younis as Israel steps up attacks",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 89,
-    "updateTime": "2024-08-09T14:38:08.594Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69902287&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69902287,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69787223_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69787223_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Bali plans tourist tax to fund environmental restoration",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -9260,22 +9186,22 @@
     "language": "en"
   },
   {
-    "titleText": "Humanitarian aid fails to reach people in Gaza",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
+    "titleText": "Lithium from Germany: Critical material of the future",
+    "category": "Business",
+    "subCategory": "Technology",
     "region_ids": {
-      "region:me:PS": "Palestinian Territories"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Palestinian Territories"
+      "Germany"
     ],
-    "runningTime": 167,
-    "updateTime": "2024-07-12T12:29:51.466Z",
+    "runningTime": 269,
+    "updateTime": "2024-07-31T08:00:44.776Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69645476&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69807704&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
-      "id": 69645476,
+      "id": 69807704,
       "launchParam": null
     },
     "providerLogo": {
@@ -9285,13 +9211,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69600092_6.jpg",
+      "url": "https://static.dw.com/image/69798735_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69600092_7.jpg",
+      "url": "https://static.dw.com/image/69798735_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9299,7 +9225,243 @@
     "language": "en"
   },
   {
-    "titleText": "Ukrainian farmers look toward harvest season with concern",
+    "titleText": "Electric tractors: For greener fields and greener air?",
+    "category": "Business",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 252,
+    "updateTime": "2024-07-31T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69807795&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69807795,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69798770_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69798770_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Senegal pioneers a new era for transport in West Africa",
+    "category": "Cars and Transportation",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:africa:SN": "Senegal"
+    },
+    "regions": [
+      "Senegal"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-07-22T14:43:57.352Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69735839&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69735839,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69735686_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69735686_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Skepticism in Serbia amid lithium-extraction deal with EU",
+    "category": "Politics",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 160,
+    "updateTime": "2024-07-19T09:14:16.376Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69711678&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69711678,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69480475_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69480475_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Artificial intelligence boosts Kenya's forestry conservation",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 323,
+    "updateTime": "2024-07-19T08:10:13.983Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69618432&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69618432,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69618205_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69618205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Chinese capital flows into Hungary",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:HU": "Hungary",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Hungary",
+      "China"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-07-06T07:45:02.676Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69547038&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69547038,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65187836_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65187836_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Indonesian island fights to curb impact of toxic nickel mine",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 299,
+    "updateTime": "2024-07-06T07:39:11.339Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69496808&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69496808,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69495996_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69495996_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine's war is a battle for trillions in resources",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -9308,13 +9470,13 @@
     "regions": [
       "Ukraine"
     ],
-    "runningTime": 180,
-    "updateTime": "2024-07-08T08:34:16.144Z",
+    "runningTime": 101,
+    "updateTime": "2024-07-04T09:33:10.621Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69592790&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69557225&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 69592790,
+      "id": 69557225,
       "launchParam": null
     },
     "providerLogo": {
@@ -9324,13 +9486,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66241033_6.jpg",
+      "url": "https://static.dw.com/image/69232972_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66241033_7.jpg",
+      "url": "https://static.dw.com/image/69232972_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9338,22 +9500,22 @@
     "language": "en"
   },
   {
-    "titleText": "Indian women are becoming drone pilots",
-    "category": "Food Security",
-    "subCategory": "Equality",
+    "titleText": "Why are German drivers hesitant to buy electric vehicles?",
+    "category": "Cars and Transportation",
+    "subCategory": "Business",
     "region_ids": {
-      "region:asia:IN": "India"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "India"
+      "Germany"
     ],
-    "runningTime": 301,
-    "updateTime": "2024-06-29T12:25:00Z",
+    "runningTime": 194,
+    "updateTime": "2024-07-02T15:50:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69457514&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69405449&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 69457514,
+      "id": 69405449,
       "launchParam": null
     },
     "providerLogo": {
@@ -9363,13 +9525,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69442045_6.jpeg",
+      "url": "https://static.dw.com/image/69406531_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69442045_7.jpeg",
+      "url": "https://static.dw.com/image/69406531_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9377,22 +9539,143 @@
     "language": "en"
   },
   {
-    "titleText": "Hunger in Colombia: How can Bogota feed poor communities?",
-    "category": "Food Security",
+    "titleText": "China fights back against EU tariffs",
+    "category": "Business",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "China",
+      "Europe"
+    ],
+    "runningTime": 124,
+    "updateTime": "2024-06-25T14:07:55.845Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69467946&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69467946,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65143596_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65143596_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Will future trucks need human drivers?",
+    "category": "Cars and Transportation",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 215,
+    "updateTime": "2024-06-25T09:01:28.369Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69459158&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69459158,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69197659_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69197659_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Opel - success with electric vehicles?",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 465,
+    "updateTime": "2024-06-12T08:46:01.218Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69323448&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 69323448,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69304253_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69304253_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US struggles with bumpy road to e-mobility",
+    "category": "Business",
     "subCategory": null,
     "region_ids": {
-      "region:cala:CO": "Colombia"
+      "region:northamerica:US": "United States of America",
+      "region:asia:CN": "China"
     },
     "regions": [
-      "Colombia"
+      "United States of America",
+      "China"
     ],
-    "runningTime": 197,
-    "updateTime": "2024-06-23T10:43:14.216Z",
+    "runningTime": 435,
+    "updateTime": "2024-06-07T08:32:02.735Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69449200&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69272113&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 69449200,
+      "id": 69272113,
       "launchParam": null
     },
     "providerLogo": {
@@ -9402,13 +9685,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69448994_6.jpg",
+      "url": "https://static.dw.com/image/67567874_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69448994_7.jpg",
+      "url": "https://static.dw.com/image/67567874_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9416,295 +9699,26 @@
     "language": "en"
   },
   {
-    "titleText": "Saving the world with algae",
-    "category": "Food Security",
-    "subCategory": "Climate",
+    "titleText": "E-bikes booming worldwide?",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
     "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 309,
-    "updateTime": "2024-06-19T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69364641&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69364641,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69353593_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69353593_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sudan civil war displaces millions",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:SD": "Sudan"
-    },
-    "regions": [
-      "Sudan"
-    ],
-    "runningTime": 90,
-    "updateTime": "2024-06-18T12:00:28.851Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69399064&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69399064,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69393721_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69393721_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Growing hope with native plants",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:africa:NE": "Niger"
-    },
-    "regions": [
-      "Niger"
-    ],
-    "runningTime": 386,
-    "updateTime": "2024-05-23T14:01:10.899Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69095820&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69095820,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69063790_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69063790_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Zimbabwe entrepreneur giving wasted bananas new appeal",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:africa:ZW": "Zimbabwe"
-    },
-    "regions": [
-      "Zimbabwe"
-    ],
-    "runningTime": 132,
-    "updateTime": "2024-05-14T09:47:08.332Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69038852&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69038852,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69018639_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69018639_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How Ghana is using AI to improve food security",
-    "category": "Food Security",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 314,
-    "updateTime": "2024-05-13T09:59:12.355Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69038851&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 69038851,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69018715_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69018715_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How El Nino contributes to drought in Africa",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 76,
-    "updateTime": "2024-04-15T13:30:56.498Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68798869&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 68798869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/60384938_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/60384938_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Haitians living in the US fear for their families",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:HAT": "Haiti"
-    },
-    "regions": [
-      "Haiti"
-    ],
-    "runningTime": 179,
-    "updateTime": "2024-03-29T00:19:51.275Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68695785&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 68695785,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68695859_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68695859_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Will climate change threaten food security?",
-    "category": "Food Security",
-    "subCategory": "Climate",
-    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:ID": "Indonesia",
       "region:global": "Global"
     },
     "regions": [
+      "Germany",
+      "Indonesia",
       "Global"
     ],
-    "runningTime": 128,
-    "updateTime": "2024-03-27T12:20:43.26Z",
+    "runningTime": 223,
+    "updateTime": "2024-05-22T14:37:09.624Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68660880&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69143377&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 68660880,
+      "id": 69143377,
       "launchParam": null
     },
     "providerLogo": {
@@ -9714,130 +9728,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/68647385_6.jpeg",
+      "url": "https://static.dw.com/image/69117625_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/68647385_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Severe drought in Zimbabwe threatens millions with hunger",
-    "category": "Food Security",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:africa:ZW": "Zimbabwe"
-    },
-    "regions": [
-      "Zimbabwe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2024-03-26T13:38:23.471Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68624878&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 68624878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68623919_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68623919_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hunger in Gaza reaches catastrophic levels",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 142,
-    "updateTime": "2024-03-19T15:05:22.118Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68616124&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 68616124,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68597559_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68597559_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Haiti faces humanitarian crisis in wake of political unrest",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:HAT": "Haiti"
-    },
-    "regions": [
-      "Haiti"
-    ],
-    "runningTime": 122,
-    "updateTime": "2024-03-15T10:42:14.992Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68543457&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 68543457,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68529684_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68529684_7.jpg",
+      "url": "https://static.dw.com/image/69117625_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
