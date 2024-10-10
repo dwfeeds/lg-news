@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "A spoonful of South African sweets",
+    "category": "Lifestyle",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 347,
+    "updateTime": "2024-10-10T08:52:21.835Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70329714&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70329714,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70325695_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70325695_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "An eco-warrior in Lesotho ",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:LS": "Lesotho"
+    },
+    "regions": [
+      "Lesotho"
+    ],
+    "runningTime": 372,
+    "updateTime": "2024-10-10T08:50:44.68Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70329692&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70329692,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70325679_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70325679_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Stylish and sustainable ",
+    "category": "Design",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 351,
+    "updateTime": "2024-10-10T08:48:51.039Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70329690&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70329690,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70325685_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70325685_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "EU to decide on higher tariffs for Chinese electric vehicles",
     "category": "Politics",
     "subCategory": null,
@@ -517,7 +634,7 @@
     "language": "en"
   },
   {
-    "titleText": "What is the Berlin Process for the Western Balkans?",
+    "titleText": "The Berlin Process for the Western Balkans explained",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -1632,7 +1749,7 @@
     "updateTime": "2024-10-07T07:44:52.609Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70348005&list=REGION_VIDEO:7",
+      "contentId": "v=70348005&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70348005,
       "launchParam": null
@@ -4387,6 +4504,45 @@
     "language": "en"
   },
   {
+    "titleText": "How yoga can help with Long COVID",
+    "category": "Science",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 380,
+    "updateTime": "2024-10-01T11:35:40.368Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70343665&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70343665,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/53041595_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/53041595_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US Democrats, Republicans compete for Pennsylvania votes",
     "category": "Politics",
     "subCategory": null,
@@ -4943,47 +5099,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nigerian eco-cyclists pedal for climate action",
-    "category": "Nature and Environment",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Nigeria",
-      "Africa"
-    ],
-    "runningTime": 70,
-    "updateTime": "2024-09-30T07:34:07.007Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70313374&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70313374,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70313271_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70313271_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Hurricane Helene cleanup, recovery efforts under way",
     "category": "Catastrophe",
     "subCategory": null,
@@ -5412,45 +5527,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Zimbabwe: Climate action through dance! ",
-    "category": "Climate",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:ZW": "Zimbabwe"
-    },
-    "regions": [
-      "Zimbabwe"
-    ],
-    "runningTime": 295,
-    "updateTime": "2024-09-27T19:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70335514&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70335514,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70335284_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70335284_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6370,45 +6446,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70250117_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sri Lanka begins poll counting as police brace for violence",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:LK": "Sri Lanka"
-    },
-    "regions": [
-      "Sri Lanka"
-    ],
-    "runningTime": 154,
-    "updateTime": "2024-09-21T13:52:40.535Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70290326&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70290326,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70289415_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70289415_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10019,47 +10056,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "\u00bfD\u00f3nde est\u00e1 el mejor baklava; en los Balcanes o en Turqu\u00eda?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10096,6 +10092,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
