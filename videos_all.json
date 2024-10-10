@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-10-10T11:57:51.793Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70447263_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70447263_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hindus in Bangladesh celebrate Durga Puja amid worries",
     "category": "Culture",
     "subCategory": "Religion",
@@ -352,45 +391,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/55948774_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 94,
-    "updateTime": "2024-10-10T06:34:29.958Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70447263_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70447263_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1418,7 +1418,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germany's Hall of Fame: The legendary Walhalla",
+    "titleText": "Walhalla home to Germany's hall of fame",
     "category": "History",
     "subCategory": "Culture",
     "region_ids": {
@@ -8482,7 +8482,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germany\u2019s EV market slumps for first time",
+    "titleText": "Germany's EV market slumps for first time",
     "category": "Business",
     "subCategory": "Cars and Transportation",
     "region_ids": {
@@ -9777,7 +9777,7 @@
     "language": "en"
   },
   {
-    "titleText": "Opel - success with electric vehicles?",
+    "titleText": "Opel \u2014 success with electric vehicles?",
     "category": "Business",
     "subCategory": "Cars and Transportation",
     "region_ids": {
