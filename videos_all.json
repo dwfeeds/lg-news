@@ -1,40 +1,5 @@
 [
   {
-    "titleText": "Foreign nationals flee fighting in Lebanon",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 149,
-    "updateTime": "2024-10-12T05:04:17.938Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70476215&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 70476215,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69105246_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69105246_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -45,7 +10,7 @@
       "Europe"
     ],
     "runningTime": 91,
-    "updateTime": "2024-10-12T03:12:48.069Z",
+    "updateTime": "2024-10-12T05:40:33.501Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -67,6 +32,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70466735_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Evacuees from conflict-hit Lebanon touch down in Belgium",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Lebanon",
+      "Belgium"
+    ],
+    "runningTime": 149,
+    "updateTime": "2024-10-12T05:04:17.938Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70476215&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70476215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70370030_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70370030_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -113,7 +119,7 @@
     "language": "en"
   },
   {
-    "titleText": "2 more UN peacekeepers injured by Israeli fire",
+    "titleText": "2 more UN peacekeepers in Lebanon injured by Israeli fire",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -152,7 +158,7 @@
     "language": "en"
   },
   {
-    "titleText": "Scholz announces more aid as Zelenskyy visits Berlin",
+    "titleText": "Germany announces more Ukraine aid during Zelenskyy visit",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -355,7 +361,7 @@
     "language": "en"
   },
   {
-    "titleText": "Curb cars in London with green mobility",
+    "titleText": "Curbing cars in London with green mobility",
     "category": "Cars and Transportation",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -639,7 +645,7 @@
     "updateTime": "2024-10-11T10:04:04.596Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70466543&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70466543&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70466543,
       "launchParam": null
@@ -6281,45 +6287,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70192310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -6352,6 +6319,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6473,47 +6479,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70339613_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "A spiky delicacy from Malaysia gets trade boost from China",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:MY": "Malaysia",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Malaysia",
-      "China"
-    ],
-    "runningTime": 223,
-    "updateTime": "2024-09-27T10:09:58.018Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70342559&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70342559,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/56239781_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/56239781_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8241,7 +8206,7 @@
     "updateTime": "2024-09-10T15:35:14.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70182161&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70182161&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70182161,
       "launchParam": null
@@ -9496,6 +9461,45 @@
     "language": "en"
   },
   {
+    "titleText": "Lithium from Germany: Critical material of the future",
+    "category": "Business",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 269,
+    "updateTime": "2024-07-31T08:00:44.776Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69807704&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69807704,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69798735_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69798735_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Electric tractors: For greener fields and greener air?",
     "category": "Business",
     "subCategory": "Technology",
@@ -9931,6 +9935,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - \u00daltima hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 180,
+    "updateTime": "2024-10-12T06:21:45.393Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70473571_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70473571_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "\u00bfPuede hacer yoga atenuar las secuelas del Covid?",
     "category": "Ciencia",
     "subCategory": "Salud",
@@ -10245,47 +10284,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "\u00bfD\u00f3nde est\u00e1 el mejor baklava; en los Balcanes o en Turqu\u00eda?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10322,6 +10320,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
