@@ -182,13 +182,13 @@ if __name__ == '__main__':
 
     fname = "videos_all.json"
     with open(fname, 'w') as f:
-        f.write(json.dumps(all_videos, indent=2))
+        f.write(json.dumps(all_videos, indent=2, ensure_ascii=False))
     print(f"Saved {fname}")
 
     for locale, videos in results.items():
         fname = f"videos_{locale}.json"
         with open(fname, 'w') as f:
-            f.write(json.dumps(videos, indent=2)) 
+            f.write(json.dumps(videos, indent=2, ensure_ascii=False)) 
         print(f"Saved {fname}")
 
     now = datetime.now(timezone.utc).isoformat()[:16].replace("T", " ")
