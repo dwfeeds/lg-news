@@ -723,7 +723,7 @@
     "updateTime": "2024-10-11T10:04:04.596Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70466543&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70466543&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70466543,
       "launchParam": null
@@ -8182,6 +8182,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/63285744_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nigerians head for Russia to study",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Nigeria",
+      "Russian Federation"
+    ],
+    "runningTime": 239,
+    "updateTime": "2024-09-10T17:08:48.517Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70182792&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70182792,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70182927_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70182927_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
