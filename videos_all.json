@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 91,
+    "updateTime": "2024-10-12T10:38:08.82Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68703488_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68703488_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Happy Birthday: Berlin's TV tower turns 55",
+    "category": "History",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 271,
+    "updateTime": "2024-10-12T10:05:57.618Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70473324&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70473324,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70472722_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70472722_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Florida residents return, clean up after Hurricane Milton",
     "category": "Catastrophe",
     "subCategory": null,
@@ -32,45 +110,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70476734_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 91,
-    "updateTime": "2024-10-12T07:16:59.221Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68703488_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68703488_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -132,7 +171,7 @@
     "updateTime": "2024-10-11T17:46:49.982Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70461899&list=REGION_VIDEO:8",
+      "contentId": "v=70461899&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70461899,
       "launchParam": null
@@ -630,7 +669,7 @@
     "language": "en"
   },
   {
-    "titleText": "Protesters in India celebrate symbol of female power",
+    "titleText": "India: Doctor's rape casts shadow over Kolkota festival",
     "category": "Society",
     "subCategory": "Religion",
     "region_ids": {
@@ -643,7 +682,7 @@
     "updateTime": "2024-10-11T10:04:04.596Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70466543&list=REGION_VIDEO:4",
+      "contentId": "v=70466543&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70466543,
       "launchParam": null
@@ -1340,7 +1379,7 @@
     "language": "en"
   },
   {
-    "titleText": "A spoonful of South African sweets",
+    "titleText": "Come and explore South Africa's most iconic deserts",
     "category": "Lifestyle",
     "subCategory": null,
     "region_ids": {
@@ -2751,47 +2790,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/58018307_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany marks one year since October 7 attacks",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Germany",
-      "Israel"
-    ],
-    "runningTime": 153,
-    "updateTime": "2024-10-07T16:12:50.201Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70429077&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70429077,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70421434_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70421434_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5770,6 +5768,45 @@
     "language": "en"
   },
   {
+    "titleText": "Gambia's female basketballers take to the court",
+    "category": "Sports",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GM": "The Gambia"
+    },
+    "regions": [
+      "The Gambia"
+    ],
+    "runningTime": 139,
+    "updateTime": "2024-09-30T16:07:27.077Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70368958&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70368958,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70368852_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70368852_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Lebanon estimates 1 million displaced amid Israeli strikes",
     "category": "Conflicts",
     "subCategory": null,
@@ -6477,6 +6514,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70339613_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A spiky delicacy from Malaysia gets trade boost from China",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:MY": "Malaysia",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Malaysia",
+      "China"
+    ],
+    "runningTime": 223,
+    "updateTime": "2024-09-27T10:09:58.018Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70342559&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70342559,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/56239781_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/56239781_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8109,47 +8187,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nigerians head for Russia to study",
-    "category": "Education",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Nigeria",
-      "Russian Federation"
-    ],
-    "runningTime": 239,
-    "updateTime": "2024-09-10T17:08:48.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70182792&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70182792,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70182927_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70182927_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sanctions on Russia spark suicides in India's 'Diamond City'",
     "category": "Society",
     "subCategory": "Business",
@@ -8165,7 +8202,7 @@
     "updateTime": "2024-09-10T15:35:14.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70182161&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70182161&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70182161,
       "launchParam": null
@@ -9459,45 +9496,6 @@
     "language": "en"
   },
   {
-    "titleText": "Lithium from Germany: Critical material of the future",
-    "category": "Business",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 269,
-    "updateTime": "2024-07-31T08:00:44.776Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69807704&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 69807704,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69798735_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69798735_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Electric tractors: For greener fields and greener air?",
     "category": "Business",
     "subCategory": "Technology",
@@ -9939,7 +9937,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-10-12T09:15:25.625Z",
+    "updateTime": "2024-10-12T10:15:27.551Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10282,6 +10280,47 @@
     "language": "es"
   },
   {
+    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "\u00bfD\u00f3nde est\u00e1 el mejor baklava; en los Balcanes o en Turqu\u00eda?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10318,47 +10357,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los dise\u00f1os de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11043,6 +11041,45 @@
     "language": "es"
   },
   {
+    "titleText": "Jubil\u00e4um: 55 Jahre Berliner Fernsehturm",
+    "category": "Architektur",
+    "subCategory": "Reise",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 271,
+    "updateTime": "2024-10-12T10:06:41.064Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70472671&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70472671,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70472722_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70472722_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Kroatien: Klimawandel bedroht das Mittelmeer",
     "category": "Natur und Umwelt",
     "subCategory": "Panorama",
@@ -11532,7 +11569,7 @@
     "updateTime": "2024-10-09T09:39:11.821Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70428788&list=REPORTS_VIDEO:1",
+      "contentId": "v=70428788&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 70428788,
       "launchParam": null
@@ -12887,45 +12924,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70135257_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ukraine: Zahn\u00e4rzte im Fronteinsatz",
-    "category": "Konflikte",
-    "subCategory": "Gesundheit",
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 188,
-    "updateTime": "2024-09-03T05:16:01.747Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70072989&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 70072989,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70078873_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70078873_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
