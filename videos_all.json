@@ -39,6 +39,47 @@
     "language": "en"
   },
   {
+    "titleText": "US deploys THAAD anti-missile system to Israel",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "United States of America",
+      "Middle East"
+    ],
+    "runningTime": 150,
+    "updateTime": "2024-10-13T20:30:55.929Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70482716&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70482716,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/61041318_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/61041318_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israeli military intensifies operations in Lebanon",
     "category": "Conflicts",
     "subCategory": null,
@@ -117,9 +158,9 @@
     "language": "en"
   },
   {
-    "titleText": "Orchestra performs concert conducted by a robot",
-    "category": "Innovation",
-    "subCategory": null,
+    "titleText": "German orchestra performs concert conducted by a robot",
+    "category": "Lifestyle",
+    "subCategory": "Innovation",
     "region_ids": {
       "region:europe:DE": "Germany"
     },
@@ -3721,7 +3762,7 @@
     "updateTime": "2024-10-04T20:57:22.837Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70410243&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=70410243&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70410243,
       "launchParam": null
@@ -6317,47 +6358,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70300042_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli strikes force Lebanese civilians to flee",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 121,
-    "updateTime": "2024-09-29T11:56:48.999Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70355558&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70355558,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70355468_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70355468_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
