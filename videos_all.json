@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "IDF strikes on Gaza school, hospital kill dozens",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 139,
+    "updateTime": "2024-10-14T17:50:10.593Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70490864&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70490864,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70483782_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70483782_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3571,7 +3612,7 @@
     "updateTime": "2024-10-06T16:38:05.627Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70417850&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=70417850&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70417850,
       "launchParam": null
@@ -11326,6 +11367,49 @@
     "language": "es"
   },
   {
+    "titleText": "Spannungen zwischen Süd- und Nordkorea",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asien",
+      "region:asia:KP": "Nordkorea",
+      "region:asia:KR": "Südkorea"
+    },
+    "regions": [
+      "Asien",
+      "Nordkorea",
+      "Südkorea"
+    ],
+    "runningTime": 179,
+    "updateTime": "2024-10-14T18:08:11.855Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70491594&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70491594,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70430865_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70430865_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Iris Wolff: \"Lichtungen\"",
     "category": "Literatur",
     "subCategory": null,
@@ -11748,7 +11832,7 @@
     "updateTime": "2024-10-12T04:19:45.079Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70442642&list=REPORTS_VIDEO:1",
+      "contentId": "v=70442642&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70442642,
       "launchParam": null
@@ -12518,45 +12602,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70385737_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Die gefährlichste Busstrecke der Schweiz",
-    "category": "Panorama",
-    "subCategory": "[Diverses]",
-    "region_ids": {
-      "region:europe:CH": "Schweiz"
-    },
-    "regions": [
-      "Schweiz"
-    ],
-    "runningTime": 132,
-    "updateTime": "2024-10-02T03:55:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70321778&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70321778,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70269160_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70269160_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
