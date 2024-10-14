@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Hezbollah drone attack kills four Israeli soliders",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:LB": "Lebanon"
+    },
+    "regions": [
+      "Israel",
+      "Lebanon"
+    ],
+    "runningTime": 82,
+    "updateTime": "2024-10-14T08:02:29.265Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484445&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70484445,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70482715_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70482715_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany: Mo’s dance for life",
     "category": "Dance",
     "subCategory": "Society",
@@ -569,7 +610,7 @@
     "updateTime": "2024-10-11T15:47:53.735Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70473525&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70473525&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70473525,
       "launchParam": null
@@ -835,7 +876,7 @@
     "language": "en"
   },
   {
-    "titleText": "How heat from a braking Swiss train heats a hotel's water",
+    "titleText": "How heat from a braking Swiss train warms a hotel's water",
     "category": "Science",
     "subCategory": "Innovation",
     "region_ids": {
@@ -3565,7 +3606,7 @@
     "updateTime": "2024-10-05T19:22:21.538Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70414409&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=70414409&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70414409,
       "launchParam": null
@@ -6317,47 +6358,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70330840_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What next in the conflict between Israel and Hezbollah?",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 319,
-    "updateTime": "2024-09-29T18:25:27.292Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70357601&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70357601,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70356670_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70356670_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9732,6 +9732,45 @@
     "language": "en"
   },
   {
+    "titleText": "Artificial intelligence boosts Kenya's forestry conservation",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 323,
+    "updateTime": "2024-07-19T08:10:13.983Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69618432&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69618432,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69618205_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69618205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chinese capital flows into Hungary",
     "category": "Business",
     "subCategory": null,
@@ -11160,6 +11199,45 @@
     "language": "es"
   },
   {
+    "titleText": "Deutschland: Mit einem Bein zum Tänzer",
+    "category": "Tanz",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 297,
+    "updateTime": "2024-10-14T07:46:36.089Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70442585&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70442585,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70405667_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70405667_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Finnische Spezialität: giftige Pilze, richtig zubereitet",
     "category": "Lifestyle",
     "subCategory": null,
@@ -11402,45 +11480,6 @@
     "language": "de"
   },
   {
-    "titleText": "Waldsterben in Deutschland - eine gute Nachricht?",
-    "category": "Natur und Umwelt",
-    "subCategory": "Klima",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 515,
-    "updateTime": "2024-10-11T12:24:16.983Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70461336&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70461336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70458833_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70458833_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Faeser: \"Wichtig, dass wir europäische Lösungen haben\"",
     "category": "Politik",
     "subCategory": null,
@@ -11610,7 +11649,7 @@
     "updateTime": "2024-10-10T14:01:18.134Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70454890&list=REPORTS_VIDEO:1",
+      "contentId": "v=70454890&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 70454890,
       "launchParam": null
@@ -11649,7 +11688,7 @@
     "updateTime": "2024-10-10T11:09:06.64Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70442431&list=REPORTS_VIDEO:1",
+      "contentId": "v=70442431&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70442431,
       "launchParam": null
@@ -12301,47 +12340,6 @@
     "language": "de"
   },
   {
-    "titleText": "Post per Drohne: Pro & Contra",
-    "category": "Wirtschaft",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:asia:IN": "Indien",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Indien",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 320,
-    "updateTime": "2024-09-29T15:45:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70321640&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70321640,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70274176_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70274176_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Ein Haus aus Hanf",
     "category": "Innovation",
     "subCategory": "Architektur",
@@ -12930,45 +12928,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70121431_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Umstrittener Lithium-Abbau in Serbien",
-    "category": "Wirtschaft",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:europe:RS": "Serbien"
-    },
-    "regions": [
-      "Serbien"
-    ],
-    "runningTime": 257,
-    "updateTime": "2024-09-06T15:37:34.568Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70156699&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 70156699,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69911053_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69911053_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
