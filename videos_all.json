@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-10-14T16:47:48.985Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70481298_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70481298_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Cohabitation: re-wilding in Spain",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70472697_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2024-10-14T12:00:48.391Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70481298_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70481298_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -117,7 +117,7 @@
     "language": "en"
   },
   {
-    "titleText": "Residents of Ukraine's Nikopol try to live a normal life",
+    "titleText": "Trying to live a normal life Ukraine's Nikopol",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -10099,7 +10099,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-10-14T14:39:23.182Z",
+    "updateTime": "2024-10-14T17:37:52.111Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10121,6 +10121,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70478994_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cine amazónico",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:EC": "Ecuador"
+    },
+    "regions": [
+      "Ecuador"
+    ],
+    "runningTime": 309,
+    "updateTime": "2024-10-14T16:58:38.609Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70487027&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70487027,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70441863_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70441863_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Reproducción de gigantes",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CR": "Costa Rica"
+    },
+    "regions": [
+      "Costa Rica"
+    ],
+    "runningTime": 470,
+    "updateTime": "2024-10-14T16:57:55.416Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70487026&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70487026,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70441667_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70441667_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10461,7 +10539,7 @@
     "updateTime": "2024-10-03T18:44:48.127Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70397742&list=REPORTS_VIDEO:1",
+      "contentId": "v=70397742&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 70397742,
       "launchParam": null
