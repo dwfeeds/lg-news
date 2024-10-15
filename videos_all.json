@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Savouring Maputo's famous street food ",
+    "category": "Food Security",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:MZ": "Mozambique"
+    },
+    "regions": [
+      "Mozambique"
+    ],
+    "runningTime": 107,
+    "updateTime": "2024-10-15T08:35:00.191Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70435492&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70435492,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70428746_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70428746_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India: Chennai initiative promotes recycling",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -6209,47 +6248,6 @@
     "language": "en"
   },
   {
-    "titleText": "Lenacapavir: A new ally for HIV/AIDS prevention in Africa",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Africa",
-      "Uganda"
-    ],
-    "runningTime": 80,
-    "updateTime": "2024-10-01T06:50:19.624Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70329886&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70329886,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70324847_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70324847_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Lebanon estimates 1 million displaced amid Israeli strikes",
     "category": "Conflicts",
     "subCategory": null,
@@ -6527,45 +6525,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pakistan's traditional pipe bands are fading out",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 163,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70345928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70345776_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
     "category": "Music",
     "subCategory": "Equality",
@@ -6598,6 +6557,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70192209_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Pakistan's traditional pipe bands are fading out",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 163,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70345928,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70345776_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70345776_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
