@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Ukrainian president presents plan to end war with Russia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation",
+      "Europe"
+    ],
+    "runningTime": 127,
+    "updateTime": "2024-10-16T20:43:06.039Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70518314&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70518314,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70517471_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70517471_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -2543,45 +2586,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70467953_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How climate change is affecting the Mediterranean Sea",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:HR": "Croatia"
-    },
-    "regions": [
-      "Croatia"
-    ],
-    "runningTime": 324,
-    "updateTime": "2024-10-11T07:52:36.472Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70426506&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70426506,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70405681_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70405681_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
