@@ -934,7 +934,7 @@
     "updateTime": "2024-10-14T07:34:23.196Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70426507&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70426507&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70426507,
       "launchParam": null
@@ -1133,7 +1133,7 @@
     "updateTime": "2024-10-12T20:42:17.221Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70479005&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70479005&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70479005,
       "launchParam": null
@@ -2455,45 +2455,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70460330_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Britain: Another chance at life",
-    "category": "Society",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 284,
-    "updateTime": "2024-10-10T10:08:30.056Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70426490&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70426490,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70405695_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70405695_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6013,47 +5974,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70261310_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel claims to have launched ground operation in Lebanon",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 112,
-    "updateTime": "2024-10-01T12:46:52.816Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70375313&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70375313,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70374501_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70374501_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10571,47 +10491,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Dónde está el mejor baklava; en los Balcanes o en Turquía?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10648,6 +10527,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
