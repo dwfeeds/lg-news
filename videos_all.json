@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "German-US relations explained",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Germany",
+      "United States of America"
+    ],
+    "runningTime": 60,
+    "updateTime": "2024-10-18T10:33:52.669Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70487057&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70487057,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70487296_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70487296_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Netanyahu: Sinwar death marks beginning of war's end",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 134,
+    "updateTime": "2024-10-18T10:22:55.234Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70531066&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70531066,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70531100_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70531100_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +92,7 @@
       "Europe"
     ],
     "runningTime": 85,
-    "updateTime": "2024-10-18T08:53:03.971Z",
+    "updateTime": "2024-10-18T10:12:08.819Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -78,7 +160,7 @@
     "language": "en"
   },
   {
-    "titleText": "Kenyan police on patrol in gang-terrorized Haitian capital",
+    "titleText": "Kenyan police patrol gang-ridden Haiti capital ",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -2968,45 +3050,6 @@
     "language": "en"
   },
   {
-    "titleText": "How heat from a braking Swiss train warms a hotel's water",
-    "category": "Science",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 213,
-    "updateTime": "2024-10-11T12:48:07.994Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68699633&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 68699633,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68978790_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68978790_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Inductive charging — e-cars that recharge while driving",
     "category": "Science",
     "subCategory": null,
@@ -4397,7 +4440,7 @@
     "updateTime": "2024-10-08T10:45:41.539Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70434796&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=70434796&list=REGION_VIDEO:5",
       "type": "video",
       "id": 70434796,
       "launchParam": null
@@ -6794,45 +6837,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70359127_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hurricane Helene cleanup, recovery efforts under way",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-09-30T02:24:55.406Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70358344&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70358344,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70357693_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70357693_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
