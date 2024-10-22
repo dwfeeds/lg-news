@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 85,
+    "updateTime": "2024-10-22T16:33:56.562Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70565398_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70565398_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kolkata's iconic trams: A journey through time",
     "category": "Cars and Transportation",
     "subCategory": null,
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70568302_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 85,
-    "updateTime": "2024-10-22T11:56:11.024Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70565398_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70565398_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4039,45 +4039,6 @@
     "language": "en"
   },
   {
-    "titleText": "Brain drain in Ghana — incentivizing people to stay",
-    "category": "Education",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 334,
-    "updateTime": "2024-10-11T19:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70453793&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70453793,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70448166_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70448166_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Locals become data gatherers to improve South Africa's water",
     "category": "Food Security",
     "subCategory": "Nature and Environment",
@@ -4110,6 +4071,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70448174_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Brain drain in Ghana — incentivizing people to stay",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 334,
+    "updateTime": "2024-10-11T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70453793&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70453793,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70448166_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70448166_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10492,6 +10492,45 @@
     "language": "es"
   },
   {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -10531,22 +10570,24 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
     "region_ids": {
-      "region:europe:DE": "Alemania"
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
     },
     "regions": [
-      "Alemania"
+      "Italia",
+      "Europa"
     ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484978,
+      "id": 70269777,
       "launchParam": null
     },
     "providerLogo": {
@@ -10556,13 +10597,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "url": "https://static.dw.com/image/70279235_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10606,47 +10647,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11214,6 +11214,47 @@
     "language": "es"
   },
   {
+    "titleText": "Indische Studenten zieht es nach Deutschland",
+    "category": "Bildung",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "Indien",
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Indien",
+      "Deutschland"
+    ],
+    "runningTime": 172,
+    "updateTime": "2024-10-22T15:39:06.072Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70565362&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70565362,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70569180_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70569180_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Hongkong: Abriss eines Dorfes wegen Wohnungsknappheit",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11679,45 +11720,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70533582_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Getöteter Hamas-Chef Sinwar: Brutalität als Markenzeichen",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Nahost"
-    },
-    "regions": [
-      "Nahost"
-    ],
-    "runningTime": 193,
-    "updateTime": "2024-10-18T13:51:15.661Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70535354&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70535354,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69878547_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69878547_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
