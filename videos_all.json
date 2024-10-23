@@ -4,14 +4,10 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:RU": "Russian Federation",
-      "region:europe": "Europe"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Germany",
-      "Russian Federation",
-      "Europe"
+      "Germany"
     ],
     "runningTime": 180,
     "updateTime": "2024-10-23T17:27:17.555Z",
@@ -82,9 +78,9 @@
     "language": "en"
   },
   {
-    "titleText": "Pakistan: How one woman cyclist is challenging prejudice",
-    "category": "Health",
-    "subCategory": "Society",
+    "titleText": "Pakistani woman challenges prejudice by cycling",
+    "category": "Society",
+    "subCategory": "Health",
     "region_ids": {
       "region:asia:PK": "Pakistan"
     },
@@ -95,7 +91,7 @@
     "updateTime": "2024-10-23T13:43:08.536Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70580254&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=70580254&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70580254,
       "launchParam": null
@@ -754,45 +750,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70564509_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hong Kong tears down a village to combat housing shortage",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 193,
-    "updateTime": "2024-10-22T10:38:28.143Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70565491&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70565491,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/40965650_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/40965650_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6179,47 +6136,6 @@
     "language": "en"
   },
   {
-    "titleText": "German frigate completes passage through South China Sea",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "China",
-      "Germany"
-    ],
-    "runningTime": 201,
-    "updateTime": "2024-10-04T16:50:27.856Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70405019&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70405019,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70409567_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70409567_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "AfD's political rise sparks fears among immigrants",
     "category": "Society",
     "subCategory": "Politics",
@@ -8980,7 +8896,7 @@
     "updateTime": "2024-09-13T08:40:26.945Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70206967&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70206967&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70206967,
       "launchParam": null
@@ -10151,6 +10067,45 @@
     "language": "en"
   },
   {
+    "titleText": "Philippines: Fishermen demand accountability for oil spill",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:PH": "Philippines"
+    },
+    "regions": [
+      "Philippines"
+    ],
+    "runningTime": 148,
+    "updateTime": "2024-08-03T07:25:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69839739&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 69839739,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69839141_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69839141_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trans en EE. UU.: entre la exclusión y un refugio seguro",
     "category": "Igualdad de derechos",
     "subCategory": "Derechos humanos",
@@ -10580,45 +10535,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -10651,6 +10567,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11179,6 +11134,86 @@
     "language": "es"
   },
   {
+    "titleText": "Babyboom durch Subventionen? Ein Irrtum!",
+    "category": "Wirtschaft",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:europe:HU": "Ungarn",
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Ungarn",
+      "Frankreich"
+    ],
+    "runningTime": 271,
+    "updateTime": "2024-10-23T18:16:02.167Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70571245&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70571245,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65257071_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65257071_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Mauretanien: Die Wüste frisst das kulturelle Erbe",
+    "category": "Natur und Umwelt",
+    "subCategory": "Kultur",
+    "region_ids": {
+      "region:africa:MR": "Mauretanien"
+    },
+    "regions": [
+      "Mauretanien"
+    ],
+    "runningTime": 393,
+    "updateTime": "2024-10-23T18:15:20.125Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70569215&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70569215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70524976_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70524976_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "CRINK - die Achse der Autokraten",
     "category": "Politik",
     "subCategory": null,
@@ -11250,86 +11285,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70292612_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Mauretanien: Die Wüste frisst das kulturelle Erbe",
-    "category": "Natur und Umwelt",
-    "subCategory": "Kultur",
-    "region_ids": {
-      "region:africa:MR": "Mauretanien"
-    },
-    "regions": [
-      "Mauretanien"
-    ],
-    "runningTime": 393,
-    "updateTime": "2024-10-23T13:34:53.239Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70569215&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70569215,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70524976_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70524976_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Babyboom durch Subventionen? - Ein Irrtum!",
-    "category": "Wirtschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:HU": "Ungarn",
-      "region:europe:FR": "Frankreich"
-    },
-    "regions": [
-      "Ungarn",
-      "Frankreich"
-    ],
-    "runningTime": 271,
-    "updateTime": "2024-10-23T12:30:04.875Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70571245&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70571245,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70523313_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70523313_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
