@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "US election: Why some Latinos reject voting group concept",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 146,
+    "updateTime": "2024-10-25T08:43:59.171Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70597811&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 70597811,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70598158_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70598158_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Tropical storm Trami wreaks havoc in the Philippines",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PH": "Philippines"
+    },
+    "regions": [
+      "Philippines"
+    ],
+    "runningTime": 89,
+    "updateTime": "2024-10-25T08:43:26.055Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70596699&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70596699,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70584964_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70584964_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "North Korean troops in Russia 'shows how desperate Putin is'",
     "category": "Conflicts",
     "subCategory": null,
@@ -17,7 +95,7 @@
     "updateTime": "2024-10-25T07:33:28.115Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70596650&list=FEATURED_VIDEO:1",
+      "contentId": "v=70596650&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70596650,
       "launchParam": null
@@ -47,18 +125,18 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:asia:KP": "North Korea",
-      "region:europe:RU": "Russian Federation"
+      "region:europe:RU": "Russian Federation",
+      "region:asia:KP": "North Korea"
     },
     "regions": [
-      "North Korea",
-      "Russian Federation"
+      "Russian Federation",
+      "North Korea"
     ],
     "runningTime": 131,
     "updateTime": "2024-10-25T07:05:59.578Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70596388&list=REGION_VIDEO:4",
+      "contentId": "v=70596388&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70596388,
       "launchParam": null
@@ -201,14 +279,16 @@
     "language": "en"
   },
   {
-    "titleText": "Germany, India to strengthen ties at Delhi bilateral talks",
+    "titleText": "Germany, India seek stronger economic ties at Delhi talks",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:asia:IN": "India"
+      "region:asia:IN": "India",
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "India"
+      "India",
+      "Germany"
     ],
     "runningTime": 205,
     "updateTime": "2024-10-24T20:41:17.789Z",
@@ -363,7 +443,7 @@
   {
     "titleText": "Why Indian students are flocking to German universities",
     "category": "Education",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:asia:IN": "India",
       "region:europe:DE": "Germany"
@@ -482,9 +562,9 @@
     "language": "en"
   },
   {
-    "titleText": "Switzerland: Growing fear of alpine landslides",
-    "category": "Society",
-    "subCategory": "Climate",
+    "titleText": "In Swiss alps, concerns grow over dangerous landslides",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
     "region_ids": {
       "region:europe:CH": "Switzerland"
     },
@@ -1001,7 +1081,7 @@
   {
     "titleText": "Iconic trams under threat in modern Kolkata",
     "category": "Cars and Transportation",
-    "subCategory": "Lifestyle",
+    "subCategory": null,
     "region_ids": {
       "region:asia:IN": "India"
     },
@@ -1950,45 +2030,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70537291_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Frankfurt Book Fair 2024: Adult fiction booming",
-    "category": "Literature",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 89,
-    "updateTime": "2024-10-20T10:59:40.871Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70545173&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70545173,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70545211_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70545211_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4674,45 +4715,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70448174_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Brain drain in Ghana — incentivizing people to stay",
-    "category": "Education",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 334,
-    "updateTime": "2024-10-11T19:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70453793&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70453793,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70448166_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70448166_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9556,45 +9558,6 @@
     "language": "en"
   },
   {
-    "titleText": "Taylor Swift says she will vote for VP Kamala Harris",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 224,
-    "updateTime": "2024-09-11T11:57:51.519Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70189407&list=GLOBAL_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 70189407,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69929269_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69929269_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sanctions on Russia spark suicides in India's 'Diamond City'",
     "category": "Society",
     "subCategory": "Business",
@@ -10313,7 +10276,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-10-25T08:21:07.559Z",
+    "updateTime": "2024-10-25T09:20:52.383Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11374,6 +11337,45 @@
     "language": "es"
   },
   {
+    "titleText": "Warum haben wir einen Kater nach zu viel Alkohol? ",
+    "category": "Wissenschaft",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 112,
+    "updateTime": "2024-10-25T08:53:23.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70534584&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70534584,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70455414_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70455414_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Invasive Arten nutzen, um ihre Ausbreitung zu stoppen",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11413,7 +11415,7 @@
     "language": "de"
   },
   {
-    "titleText": "Bröckelnde Alpen: Wachsende Sorge vor Erdrutschen",
+    "titleText": "Bröckelnde schweizer Alpen: Wachsende Sorge vor Erdrutschen",
     "category": "Klima",
     "subCategory": "Natur und Umwelt",
     "region_ids": {
@@ -11837,45 +11839,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70576900_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie Schulschwänzer wieder Spaß am Unterricht bekommen",
-    "category": "Bildung",
-    "subCategory": null,
-    "region_ids": {
-      "region:oceania:NZ": "Neuseeland"
-    },
-    "regions": [
-      "Neuseeland"
-    ],
-    "runningTime": 365,
-    "updateTime": "2024-10-23T09:17:41.008Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70569269&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70569269,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70524959_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70524959_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
