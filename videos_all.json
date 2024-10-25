@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Three journalists killed in Israeli airstrike in Lebanon",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Lebanon",
+      "Israel"
+    ],
+    "runningTime": 144,
+    "updateTime": "2024-10-25T21:28:22.358Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70605127&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70605127,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70597374_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70597374_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5899,45 +5940,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/58018307_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "October 7 survivors recall attacks on Kibbutz Nir Oz",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 283,
-    "updateTime": "2024-10-07T12:15:51.879Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70425455&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70425455,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70409203_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70409203_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
