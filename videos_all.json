@@ -1,23 +1,23 @@
 [
   {
-    "titleText": "DW asks John Kirby about N. Korean troops in Russia",
+    "titleText": "North Korean troops in Russia 'shows how desperate Putin is'",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:asia:KP": "North Korea",
       "region:europe:RU": "Russian Federation",
+      "region:asia:KP": "North Korea",
       "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "North Korea",
       "Russian Federation",
+      "North Korea",
       "United States of America"
     ],
     "runningTime": 145,
     "updateTime": "2024-10-25T07:33:28.115Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70596650&list=REGION_VIDEO:4",
+      "contentId": "v=70596650&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70596650,
       "launchParam": null
@@ -204,8 +204,12 @@
     "titleText": "Germany, India to strengthen ties at Delhi bilateral talks",
     "category": "Politics",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
     "runningTime": 205,
     "updateTime": "2024-10-24T20:41:17.789Z",
     "onClick": {
@@ -277,17 +281,15 @@
     "language": "en"
   },
   {
-    "titleText": "How Russia is extending its soft power in CAR",
+    "titleText": "How Russia uses its soft power in Central African Republic",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
       "region:africa:CF": "Central African Republic",
-      "region:africa": "Africa",
       "region:europe:RU": "Russian Federation"
     },
     "regions": [
       "Central African Republic",
-      "Africa",
       "Russian Federation"
     ],
     "runningTime": 189,
@@ -1248,7 +1250,7 @@
     "updateTime": "2024-10-22T10:43:51.432Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70564615&list=FEATURED_VIDEO:1",
+      "contentId": "v=70564615&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70564615,
       "launchParam": null
@@ -1987,84 +1989,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70545211_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why Pelicot rape trial made abuse video screenings public",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 216,
-    "updateTime": "2024-10-20T09:07:21.6Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70544839&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70544839,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70447660_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70447660_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Moldova holds presidential vote, referendum on EU membership",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:MD": "Republic of Moldova"
-    },
-    "regions": [
-      "Republic of Moldova"
-    ],
-    "runningTime": 86,
-    "updateTime": "2024-10-20T09:03:45.842Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70544834&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70544834,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70512967_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70512967_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4757,6 +4681,45 @@
     "language": "en"
   },
   {
+    "titleText": "Brain drain in Ghana — incentivizing people to stay",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 334,
+    "updateTime": "2024-10-11T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70453793&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70453793,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70448166_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70448166_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Is Elon Musk's Starlink in Africa a blessing or curse? ",
     "category": "Technology",
     "subCategory": "Society",
@@ -5620,6 +5583,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70442673_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "New push for Myanmar peace plan at ASEAN summit",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Asia"
+    ],
+    "runningTime": 241,
+    "updateTime": "2024-10-09T14:23:24.61Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70446407&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70446407,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70446657_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70446657_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10311,7 +10313,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-10-25T07:21:28.646Z",
+    "updateTime": "2024-10-25T08:21:07.559Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10326,13 +10328,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70588595_6.jpg",
+      "url": "https://static.dw.com/image/70597352_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70588595_7.jpg",
+      "url": "https://static.dw.com/image/70597352_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11372,6 +11374,45 @@
     "language": "es"
   },
   {
+    "titleText": "Invasive Arten nutzen, um ihre Ausbreitung zu stoppen",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Frankreich"
+    ],
+    "runningTime": 262,
+    "updateTime": "2024-10-25T08:28:10.489Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70569278&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70569278,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70521429_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70521429_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Bröckelnde Alpen: Wachsende Sorge vor Erdrutschen",
     "category": "Klima",
     "subCategory": "Natur und Umwelt",
@@ -11835,47 +11876,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70524959_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Indische Studenten zieht es nach Deutschland",
-    "category": "Bildung",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "Indien",
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Indien",
-      "Deutschland"
-    ],
-    "runningTime": 172,
-    "updateTime": "2024-10-22T15:39:06.072Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70565362&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70565362,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70569180_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70569180_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
