@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Spice Village: Indian supermarket in Berlin",
+    "category": "Business",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "Germany",
+      "India"
+    ],
+    "runningTime": 407,
+    "updateTime": "2024-10-28T07:31:37.978Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70553309&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 70553309,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70523409_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70523409_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -9,8 +50,8 @@
     "regions": [
       "Europe"
     ],
-    "runningTime": 88,
-    "updateTime": "2024-10-28T06:22:05.813Z",
+    "runningTime": 93,
+    "updateTime": "2024-10-28T07:24:01.267Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:8",
@@ -1038,45 +1079,6 @@
     "language": "en"
   },
   {
-    "titleText": "In Swiss alps, concerns grow over dangerous landslides",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 331,
-    "updateTime": "2024-10-23T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70537082&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 70537082,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70524719_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70524719_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Infamous swearing parrots pull crowds in Britain",
     "category": "Offbeat",
     "subCategory": null,
@@ -1109,6 +1111,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70524697_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "In Swiss alps, concerns grow over dangerous landslides",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 331,
+    "updateTime": "2024-10-23T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70537082&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70537082,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70524719_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70524719_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2098,45 +2139,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70559216_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Euclid space telescope releases spectacular images of cosmos",
-    "category": "Science",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 91,
-    "updateTime": "2024-10-21T13:58:13.647Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70557552&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70557552,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70559244_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70559244_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9339,41 +9341,6 @@
       "bgColor": ""
     },
     "language": "en"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 181,
-    "updateTime": "2024-10-27T21:21:06.317Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70614404_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70614404_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
   },
   {
     "titleText": "¿Por qué tenemos resaca después de beber demasiado alcohol? ",
