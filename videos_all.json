@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "How the 2024 US presidential election affects India",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "United States of America",
+      "India"
+    ],
+    "runningTime": 223,
+    "updateTime": "2024-10-28T09:17:43.477Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70616526&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70616526,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66764620_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66764620_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Same same but different – twins and personality",
     "category": "Science",
     "subCategory": null,
@@ -811,7 +852,7 @@
     "updateTime": "2024-10-25T07:33:28.115Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70596650&list=FEATURED_VIDEO:1",
+      "contentId": "v=70596650&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70596650,
       "launchParam": null
@@ -1204,10 +1245,12 @@
     "category": "Society",
     "subCategory": "Conflicts",
     "region_ids": {
-      "region:europe:UA": "Ukraine"
+      "region:europe:UA": "Ukraine",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Ukraine"
+      "Ukraine",
+      "Europe"
     ],
     "runningTime": 296,
     "updateTime": "2024-10-23T23:30:00Z",
@@ -6923,45 +6966,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70381788_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Jimmy Carter celebrates 100th birthday",
-    "category": "Politics",
-    "subCategory": "History",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 148,
-    "updateTime": "2024-10-01T17:44:40.91Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70380513&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70380513,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64756188_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64756188_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
