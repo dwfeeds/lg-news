@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Over a billion people kick off 5-day Diwali celebrations",
+    "category": "Society",
+    "subCategory": "Religion",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 105,
+    "updateTime": "2024-10-31T20:58:43.034Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70656543&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70656543,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70624621_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70624621_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -39,7 +78,7 @@
     "language": "en"
   },
   {
-    "titleText": "DW met survivors of gang violence in Port-au-Prince, Haiti",
+    "titleText": "Survivors of Haiti's gang violence: 'I have no hope anymore'",
     "category": "Crime",
     "subCategory": null,
     "region_ids": {
@@ -6324,45 +6363,6 @@
     "language": "en"
   },
   {
-    "titleText": "Han Kang's Nobel Prize win 'a surprise'",
-    "category": "Literature",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:KR": "South Korea"
-    },
-    "regions": [
-      "South Korea"
-    ],
-    "runningTime": 284,
-    "updateTime": "2024-10-10T11:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70456414&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70456414,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70459028_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70459028_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Thousands of evacuees seek shelter from Hurricane Milton",
     "category": "Catastrophe",
     "subCategory": null,
@@ -9722,47 +9722,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Dónde está el mejor baklava; en los Balcanes o en Turquía?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -9799,6 +9758,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
