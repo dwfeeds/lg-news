@@ -1,5 +1,124 @@
 [
   {
+    "titleText": "Dozens of civilians killed in overnight strikes on Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 100,
+    "updateTime": "2024-11-01T15:31:15.762Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70663687&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70663687,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70663921_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70663921_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India-Canada row over Sikh killing has Punjab on edge",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 216,
+    "updateTime": "2024-11-01T15:11:44.655Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70652094&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70652094,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66964011_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66964011_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do Africans think about the US election?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Africa",
+      "United States of America"
+    ],
+    "runningTime": 180,
+    "updateTime": "2024-11-01T14:48:11.827Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70654404&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70654404,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70622921_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70622921_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Solid-state batteries made in Germany",
     "category": "Technology",
     "subCategory": "Business",
@@ -242,45 +361,6 @@
     "language": "en"
   },
   {
-    "titleText": "India-Canada row over Sikh killing has Punjab on edge",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 216,
-    "updateTime": "2024-11-01T09:17:59.324Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70652094&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70652094,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66964011_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66964011_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Could microrobots be used to zap cancer cells?",
     "category": "Science",
     "subCategory": "Health",
@@ -324,10 +404,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me:PS": "Palestinian Territories"
+      "region:me:PS": "Palestinian Territories",
+      "region:me": "Middle East"
     },
     "regions": [
-      "Palestinian Territories"
+      "Palestinian Territories",
+      "Middle East"
     ],
     "runningTime": 182,
     "updateTime": "2024-11-01T08:56:53.66Z",
@@ -4353,45 +4435,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mpox vaccination drive faces hurdles in DR Congo",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 116,
-    "updateTime": "2024-10-19T10:52:10.086Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70539317&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70539317,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70414154_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70414154_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Spain's La Palma still battles volcano eruption's toxic gas",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -4762,7 +4805,7 @@
     "updateTime": "2024-10-18T13:50:44.51Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70531066&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=70531066&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70531066,
       "launchParam": null
@@ -6151,47 +6194,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70476734_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Evacuees from conflict-hit Lebanon touch down in Belgium",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:europe:BE": "Belgium"
-    },
-    "regions": [
-      "Lebanon",
-      "Belgium"
-    ],
-    "runningTime": 149,
-    "updateTime": "2024-10-12T05:04:17.938Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70476215&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70476215,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70476638_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70476638_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10342,6 +10344,45 @@
     "language": "es"
   },
   {
+    "titleText": "US-Wahl: Worüber wird noch abgestimmt?",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 76,
+    "updateTime": "2024-11-01T15:35:02.321Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70561487&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70561487,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70561671_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70561671_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Georgien: Angst in der LGBTQ+-Szene",
     "category": "Gesellschaft",
     "subCategory": "Diversität",
@@ -12145,45 +12186,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70168717_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie tote Soldaten in der Ukraine ihren Namen zurückkriegen",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 286,
-    "updateTime": "2024-09-09T12:04:52.249Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70146974&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 70146974,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70146608_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70146608_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
