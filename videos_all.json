@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Flood survivors hurl mud at Spanish royals",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 188,
+    "updateTime": "2024-11-03T20:31:18.118Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70677225&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 70677225,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70675290_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70675290_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2024-11-03T15:35:09.649Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70676470&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=70676470&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70676470,
       "launchParam": null
@@ -3216,45 +3255,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70589563_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Pro-Russian party wins Georgian election marred by scuffles",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GE": "Georgia"
-    },
-    "regions": [
-      "Georgia"
-    ],
-    "runningTime": 130,
-    "updateTime": "2024-10-27T08:56:49.385Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70611803&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70611803,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70610312_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70610312_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9472,6 +9472,41 @@
     "language": "en"
   },
   {
+    "titleText": "Incertidumbre en Europa por elecciones en EE. UU.",
+    "category": "Política",
+    "subCategory": "Economía",
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 203,
+    "updateTime": "2024-11-03T19:41:43.975Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70677195&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70677195,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/43839777_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/43839777_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -9971,6 +10006,47 @@
     "language": "es"
   },
   {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Dónde está el mejor baklava; en los Balcanes o en Turquía?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10007,47 +10083,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
