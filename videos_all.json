@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "In Trump, some see a strongman, others a conman",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 270,
+    "updateTime": "2024-11-03T15:26:10.582Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70604441&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70604441,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70562729_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70562729_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kamala Harris: New energy? Or just more Biden?",
     "category": "Politics",
     "subCategory": null,
@@ -117,7 +156,7 @@
     "language": "en"
   },
   {
-    "titleText": "Death toll of Spain's flood victims rises to 213",
+    "titleText": "Death toll of Spain's flood victims rises to 217",
     "category": "Catastrophe",
     "subCategory": "Climate",
     "region_ids": {
@@ -6431,47 +6470,6 @@
     "language": "en"
   },
   {
-    "titleText": "US deploys THAAD anti-missile system to Israel",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "United States of America",
-      "Middle East"
-    ],
-    "runningTime": 150,
-    "updateTime": "2024-10-13T20:30:55.929Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70482716&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70482716,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61041318_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61041318_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israeli military intensifies operations in Lebanon",
     "category": "Conflicts",
     "subCategory": null,
@@ -7453,45 +7451,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 70192310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -7524,6 +7483,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9895,45 +9893,6 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484978,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -9966,6 +9925,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/55271394_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
