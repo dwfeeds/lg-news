@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2024-11-04T16:39:55.312Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70676179_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70676179_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's coalition government under threat",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 76,
+    "updateTime": "2024-11-04T16:30:02.254Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70686762&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70686762,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70683056_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70683056_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is nobody talking about Botswana power transition?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:BW": "Botswana"
+    },
+    "regions": [
+      "Botswana"
+    ],
+    "runningTime": 82,
+    "updateTime": "2024-11-04T16:01:32.759Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70686382&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70686382,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70636529_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70636529_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "More than seven decades in music: Quincy Jones dies at 91",
     "category": "Music",
     "subCategory": null,
@@ -149,45 +266,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70638178_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 98,
-    "updateTime": "2024-11-04T11:54:10.149Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70676179_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70676179_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3492,49 +3570,6 @@
     "language": "en"
   },
   {
-    "titleText": "Evidence of North Korean troops in Russia emerges",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:asia:KP": "North Korea",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "North Korea",
-      "Russian Federation"
-    ],
-    "runningTime": 188,
-    "updateTime": "2024-10-28T07:44:15.933Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70616017&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70616017,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70550103_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70550103_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How has US immigration policy changed under Joe Biden?",
     "category": "Politics",
     "subCategory": null,
@@ -4966,45 +5001,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70549003_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Mauritania: The desert is swallowing its heritage",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:africa:MR": "Mauritania"
-    },
-    "regions": [
-      "Mauritania"
-    ],
-    "runningTime": 397,
-    "updateTime": "2024-10-21T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70530288&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70530288,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70524976_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70524976_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9424,8 +9420,8 @@
     "subCategory": null,
     "region_ids": {},
     "regions": [],
-    "runningTime": 182,
-    "updateTime": "2024-11-04T11:54:30.29Z",
+    "runningTime": 180,
+    "updateTime": "2024-11-04T16:40:45.742Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10435,22 +10431,22 @@
     "language": "es"
   },
   {
-    "titleText": "Kambodscha: Zwangsumsiedlung bei Angkor Wat",
-    "category": "Migration",
-    "subCategory": "Menschenrechte",
+    "titleText": "\"Klek-Shops\": Die Geschichte hinter Sofias Kellerläden ",
+    "category": "Gesellschaft",
+    "subCategory": null,
     "region_ids": {
-      "region:asia:KH": "Kambodscha"
+      "region:europe:BG": "Bulgarien"
     },
     "regions": [
-      "Kambodscha"
+      "Bulgarien"
     ],
-    "runningTime": 369,
-    "updateTime": "2024-11-04T14:48:59.026Z",
+    "runningTime": 197,
+    "updateTime": "2024-11-04T15:54:55.211Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69255316&list=REPORTS_VIDEO:1",
+      "contentId": "v=70686323&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 69255316,
+      "id": 70686323,
       "launchParam": null
     },
     "providerLogo": {
@@ -10460,13 +10456,54 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69212414_6.jpeg",
+      "url": "https://static.dw.com/image/70686357_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69212414_7.jpeg",
+      "url": "https://static.dw.com/image/70686357_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Die US-Präsidentschaftskanditen und der Umgang mit China",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica": "Nordamerika",
+      "region:asia": "Asien"
+    },
+    "regions": [
+      "Nordamerika",
+      "Asien"
+    ],
+    "runningTime": 254,
+    "updateTime": "2024-11-04T15:53:48.02Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70662835&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70662835,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70622921_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70622921_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
