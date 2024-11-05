@@ -10,7 +10,7 @@
       "Europe"
     ],
     "runningTime": 96,
-    "updateTime": "2024-11-05T01:39:52.108Z",
+    "updateTime": "2024-11-05T03:33:43.172Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:8",
@@ -9867,45 +9867,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -9945,24 +9906,22 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
     "subCategory": "Cultura",
     "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
+      "region:europe:DE": "Alemania"
     },
     "regions": [
-      "Italia",
-      "Europa"
+      "Alemania"
     ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70269777,
+      "id": 70484981,
       "launchParam": null
     },
     "providerLogo": {
@@ -9972,13 +9931,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
+      "url": "https://static.dw.com/image/55271394_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10022,6 +9981,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
