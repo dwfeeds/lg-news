@@ -353,7 +353,7 @@
   {
     "titleText": "How Uganda is switching to e-mobility",
     "category": "Cars and Transportation",
-    "subCategory": null,
+    "subCategory": "Nature and Environment",
     "region_ids": {
       "region:africa:UG": "Uganda"
     },
@@ -364,7 +364,7 @@
     "updateTime": "2024-11-04T14:04:09.004Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70524832&list=REGION_VIDEO:8",
+      "contentId": "v=70524832&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70524832,
       "launchParam": null
@@ -3481,6 +3481,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70641777_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Georgian president: 'An election that has been stolen'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GE": "Georgia"
+    },
+    "regions": [
+      "Georgia"
+    ],
+    "runningTime": 420,
+    "updateTime": "2024-10-28T12:47:04.285Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70619380&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70619380,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70619824_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70619824_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9331,52 +9370,13 @@
     "language": "en"
   },
   {
-    "titleText": "Pakistan street barbers: Low price, high risk",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 108,
-    "updateTime": "2024-08-11T06:50:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69899579&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 69899579,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69899388_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69899388_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-11-05T09:17:21.65Z",
+    "updateTime": "2024-11-05T10:31:00.785Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9826,6 +9826,45 @@
     "language": "es"
   },
   {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -9865,22 +9904,24 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
     "region_ids": {
-      "region:europe:DE": "Alemania"
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
     },
     "regions": [
-      "Alemania"
+      "Italia",
+      "Europa"
     ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484978,
+      "id": 70269777,
       "launchParam": null
     },
     "providerLogo": {
@@ -9890,13 +9931,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "url": "https://static.dw.com/image/70279235_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9940,47 +9981,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
