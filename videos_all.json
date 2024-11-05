@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "France opens arms to small group of Russian deserters",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "France",
+      "Russian Federation"
+    ],
+    "runningTime": 203,
+    "updateTime": "2024-11-05T12:04:53.527Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70695525&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70695525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70695536_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70695536_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2024-11-05T11:57:19.244Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70676658_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70676658_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "France: Street violence casts a shadow over Grenoble",
     "category": "Society",
     "subCategory": "Crime",
@@ -117,45 +197,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 96,
-    "updateTime": "2024-11-05T06:20:42.609Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70676658_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70676658_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Will election be decided by voters? Or judges?",
     "category": "Politics",
     "subCategory": null,
@@ -195,7 +236,7 @@
     "language": "en"
   },
   {
-    "titleText": "Millions have already cast their vote in US",
+    "titleText": "What early voters say about the US presidential election",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -1104,10 +1145,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:europe": "Europe"
     },
     "regions": [
-      "United States of America"
+      "United States of America",
+      "Europe"
     ],
     "runningTime": 206,
     "updateTime": "2024-11-02T18:23:14.166Z",
@@ -3481,45 +3524,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70641777_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Georgian president: 'An election that has been stolen'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GE": "Georgia"
-    },
-    "regions": [
-      "Georgia"
-    ],
-    "runningTime": 420,
-    "updateTime": "2024-10-28T12:47:04.285Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70619380&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70619380,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70619824_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70619824_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9495,7 +9499,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-11-05T11:17:10.173Z",
+    "updateTime": "2024-11-05T12:19:39.891Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
