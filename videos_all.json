@@ -1,21 +1,23 @@
 [
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
+    "titleText": "Arrests follow attacks on Israeli soccer fans",
+    "category": "Sports",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:europe": "Europe"
+      "region:europe:NL": "Netherlands",
+      "region:me": "Middle East"
     },
     "regions": [
-      "Europe"
+      "Netherlands",
+      "Middle East"
     ],
-    "runningTime": 83,
-    "updateTime": "2024-11-08T16:37:52.011Z",
+    "runningTime": 121,
+    "updateTime": "2024-11-08T16:15:53.034Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=70737884&list=REGION_VIDEO:7",
       "type": "video",
-      "id": 49496622,
+      "id": 70737884,
       "launchParam": null
     },
     "providerLogo": {
@@ -25,13 +27,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70729573_6.jpg",
+      "url": "https://static.dw.com/image/70732365_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70729573_7.jpg",
+      "url": "https://static.dw.com/image/70732365_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -117,7 +119,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germany's Scholz under pressure to call no confidence vote",
+    "titleText": "Scholz pressured to call no-confidence vote",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -236,7 +238,7 @@
     "language": "en"
   },
   {
-    "titleText": "How US swing state voters are reacting to Trump's victory",
+    "titleText": "US swing state voters react to Trump's victory",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -7788,45 +7790,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 70192310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -7859,6 +7822,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10657,45 +10659,6 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484978,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -10735,24 +10698,22 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
+      "region:europe:DE": "Alemania"
     },
     "regions": [
-      "Italia",
-      "Europa"
+      "Alemania"
     ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70269777,
+      "id": 70484978,
       "launchParam": null
     },
     "providerLogo": {
@@ -10762,13 +10723,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
+      "url": "https://static.dw.com/image/66715818_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10812,6 +10773,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11176,6 +11178,47 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Antisemitische Gewalt in Amsterdam",
+    "category": "Sport",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:europe:NL": "Niederlande",
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Niederlande",
+      "Nahost"
+    ],
+    "runningTime": 147,
+    "updateTime": "2024-11-08T17:34:19.179Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70739469&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70739469,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70732365_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70732365_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Warum gehen Fische im Wasser nicht unter? ",
@@ -11624,7 +11667,7 @@
     "updateTime": "2024-11-06T16:07:31.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70715552&list=REPORTS_VIDEO:1",
+      "contentId": "v=70715552&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 70715552,
       "launchParam": null
@@ -12979,49 +13022,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70192654_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Spielball der Supermächte: Tauziehen um Taiwan ",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:TW": "Taiwan",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Taiwan",
-      "Vereinigte Staaten von Amerika",
-      "China"
-    ],
-    "runningTime": 540,
-    "updateTime": "2024-09-14T05:33:45.98Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70208746&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 70208746,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70121673_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70121673_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
