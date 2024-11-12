@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Migrants in Mexico fear Trump anti-immigration measures",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "Mexico",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Mexico",
+      "United States of America"
+    ],
+    "runningTime": 209,
+    "updateTime": "2024-11-12T18:15:31.186Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70768970&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 70768970,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70768807_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70768807_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How much aid is getting into Gaza?",
     "category": "Conflicts",
     "subCategory": null,
@@ -64,13 +105,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/61422433_6.jpg",
+      "url": "https://static.dw.com/image/70514961_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/61422433_7.jpg",
+      "url": "https://static.dw.com/image/70514961_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9493,49 +9534,6 @@
     "language": "en"
   },
   {
-    "titleText": "Using Google much? Watch out for these scams",
-    "category": "Digital World",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brazil",
-      "region:asia:IN": "India",
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Brazil",
-      "India",
-      "Pakistan"
-    ],
-    "runningTime": 297,
-    "updateTime": "2024-09-12T17:00:18.654Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70201911&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 70201911,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/46787273_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/46787273_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Drop in land sales threatens Hong-Kong's low-tax regime",
     "category": "Business",
     "subCategory": null,
@@ -10289,7 +10287,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2024-11-12T16:23:54.614Z",
+    "updateTime": "2024-11-12T19:17:04.014Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10825,6 +10823,45 @@
     "language": "es"
   },
   {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -10864,22 +10901,24 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
     "subCategory": "Cultura",
     "region_ids": {
-      "region:europe:DE": "Alemania"
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
     },
     "regions": [
-      "Alemania"
+      "Italia",
+      "Europa"
     ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484981,
+      "id": 70269777,
       "launchParam": null
     },
     "providerLogo": {
@@ -10889,13 +10928,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "url": "https://static.dw.com/image/70279235_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10939,47 +10978,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
