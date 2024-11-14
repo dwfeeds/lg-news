@@ -1,21 +1,60 @@
 [
   {
-    "titleText": "15th Dakar Biennale: Meet Mauritanian artist Oumar Ball",
+    "titleText": "Ancient Burundi melodic greeting under threat",
+    "category": "Culture",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:BI": "Burundi"
+    },
+    "regions": [
+      "Burundi"
+    ],
+    "runningTime": 118,
+    "updateTime": "2024-11-14T18:48:39.596Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70783702&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70783702,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70781606_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70781606_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dak'Art 2024: Meet Mauritanian artist Oumar Ball",
     "category": "Arts",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:africa:MR": "Mauritania"
+      "region:africa:MR": "Mauritania",
+      "region:africa:SN": "Senegal"
     },
     "regions": [
-      "Germany",
-      "Mauritania"
+      "Mauritania",
+      "Senegal"
     ],
     "runningTime": 240,
     "updateTime": "2024-11-14T18:43:01.152Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70783592&list=REGION_VIDEO:7",
+      "contentId": "v=70783592&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70783592,
       "launchParam": null
@@ -41,9 +80,9 @@
     "language": "en"
   },
   {
-    "titleText": "Child miners in Nigeria risk their health for some money",
+    "titleText": "Child miners in Nigeria risk their health for little money",
     "category": "Business",
-    "subCategory": null,
+    "subCategory": "Society",
     "region_ids": {
       "region:africa:NG": "Nigeria"
     },
@@ -2176,6 +2215,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70745936_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU and NATO confirm continued backing for Ukraine",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 114,
+    "updateTime": "2024-11-10T08:42:55.361Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70746090&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70746090,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70743061_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70743061_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4994,47 +5072,6 @@
     "language": "en"
   },
   {
-    "titleText": "DR Congo: Keeping the 'Rumble in the Jungle' legacy alive",
-    "category": "Sports",
-    "subCategory": "History",
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Democratic Republic of Congo",
-      "Africa"
-    ],
-    "runningTime": 127,
-    "updateTime": "2024-10-30T15:12:11.805Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70642415&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70642415,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/4833025_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/4833025_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Death toll expected to rise after flash floods in Spain",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -5350,45 +5387,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/64403188_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "My Hustle: How long did Samson survive Ghana's jungle? ",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 418,
-    "updateTime": "2024-10-29T10:36:59.621Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70579595&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70579595,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70654331_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70654331_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10704,45 +10702,6 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484978,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -10775,6 +10734,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/55271394_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
