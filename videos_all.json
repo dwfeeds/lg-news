@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Why is Finland such a happy place?",
+    "category": "Lifestyle",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FI": "Finland"
+    },
+    "regions": [
+      "Finland"
+    ],
+    "runningTime": 349,
+    "updateTime": "2024-11-16T10:35:09.058Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70797106&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70797106,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70797049_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70797049_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Annual lantern festival lights up Thailand's night sky",
     "category": "Offbeat",
     "subCategory": null,
@@ -1705,45 +1744,6 @@
     "language": "en"
   },
   {
-    "titleText": "WorldSkills: a global contest for apprentices",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 239,
-    "updateTime": "2024-11-13T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70751238&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70751238,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70734838_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70734838_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Skilled tradespeople in big demand",
     "category": "Business",
     "subCategory": null,
@@ -1776,6 +1776,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70734798_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "WorldSkills: a global contest for apprentices",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 239,
+    "updateTime": "2024-11-13T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70751238&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70751238,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70734838_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70734838_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2049,49 +2088,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70761695_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukraine advocate Kaja Kallas set to become EU's top diplomat",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "Ukraine",
-      "United States of America"
-    ],
-    "runningTime": 160,
-    "updateTime": "2024-11-12T11:50:07.975Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70764826&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70764826,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69494966_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69494966_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8221,45 +8217,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pakistan's traditional pipe bands are fading out",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 163,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 70345928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70345776_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
     "category": "Music",
     "subCategory": "Equality",
@@ -8292,6 +8249,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70192209_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Pakistan's traditional pipe bands are fading out",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 163,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 70345928,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70345776_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70345776_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10700,47 +10696,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Dónde está el mejor baklava; en los Balcanes o en Turquía?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -10777,6 +10732,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11141,6 +11137,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Was macht die Menschen in Finnland so glücklich?",
+    "category": "Lifestyle",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:FI": "Finnland"
+    },
+    "regions": [
+      "Finnland"
+    ],
+    "runningTime": 348,
+    "updateTime": "2024-11-16T10:36:42.955Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70799151&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70799151,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70797049_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70797049_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Rezepte von der KI - eine Koch-Revolution?",
@@ -11552,7 +11587,7 @@
     "updateTime": "2024-11-14T07:31:25.683Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70740085&list=REPORTS_VIDEO:1",
+      "contentId": "v=70740085&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70740085,
       "launchParam": null
@@ -12113,45 +12148,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70638178_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie lebt es sich in Venedig?",
-    "category": "Kultur",
-    "subCategory": "Reise",
-    "region_ids": {
-      "region:europe:IT": "Italien"
-    },
-    "regions": [
-      "Italien"
-    ],
-    "runningTime": 298,
-    "updateTime": "2024-11-02T11:36:29.583Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70662016&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70662016,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70652394_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70652394_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
