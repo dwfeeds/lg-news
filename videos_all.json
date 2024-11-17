@@ -1,6 +1,6 @@
 [
   {
-    "titleText": "Philippines weather Super Typhoon Man-yi",
+    "titleText": "Philippines hit by powerful Typhoon Man-yi",
     "category": "Catastrophe",
     "subCategory": "Climate",
     "region_ids": {
@@ -78,14 +78,16 @@
     "language": "en"
   },
   {
-    "titleText": "Would you pay €200 for a piece of fruit?  ",
-    "category": "Lifestyle",
-    "subCategory": "Religion",
+    "titleText": "Would you pay €200 for a piece of fruit?",
+    "category": "Religion",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:europe:IT": "Italy"
+      "region:europe:IT": "Italy",
+      "region:me:IL": "Israel"
     },
     "regions": [
-      "Italy"
+      "Italy",
+      "Israel"
     ],
     "runningTime": 287,
     "updateTime": "2024-11-17T11:08:35.984Z",
@@ -1939,45 +1941,6 @@
     "language": "en"
   },
   {
-    "titleText": "WorldSkills: a global contest for apprentices",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 239,
-    "updateTime": "2024-11-13T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70751238&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70751238,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70734838_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70734838_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Skilled tradespeople in big demand",
     "category": "Business",
     "subCategory": null,
@@ -2010,6 +1973,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70734798_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "WorldSkills: a global contest for apprentices",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 239,
+    "updateTime": "2024-11-13T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70751238&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70751238,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70734838_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70734838_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10074,7 +10076,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2024-11-17T12:25:18.742Z",
+    "updateTime": "2024-11-17T13:16:45.474Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
