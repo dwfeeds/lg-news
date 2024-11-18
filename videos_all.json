@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Ukraine war: Nearly 3 years on, what has it cost the nation?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 101,
+    "updateTime": "2024-11-18T14:50:59.287Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70812410&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70812410,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68342668_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68342668_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Biden allows Ukraine use of longer-range weapons",
     "category": "Conflicts",
     "subCategory": null,
@@ -343,7 +384,7 @@
     "updateTime": "2024-11-18T09:00:43.154Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70787665&list=REGION_VIDEO:8",
+      "contentId": "v=70787665&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70787665,
       "launchParam": null
@@ -1541,8 +1582,8 @@
   },
   {
     "titleText": "Farming robots: The future of agriculture? ",
-    "category": "Technology",
-    "subCategory": "Society",
+    "category": "Innovation",
+    "subCategory": "Technology",
     "region_ids": {
       "region:northamerica:US": "United States of America"
     },
@@ -1553,7 +1594,7 @@
     "updateTime": "2024-11-15T15:19:51.902Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70793706&list=REGION_VIDEO:5",
+      "contentId": "v=70793706&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70793706,
       "launchParam": null
@@ -2397,47 +2438,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70768807_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Experiences of international PhD students navigating Germany",
-    "category": "Science",
-    "subCategory": "Education",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "Germany",
-      "India"
-    ],
-    "runningTime": 367,
-    "updateTime": "2024-11-14T07:28:35.284Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70734212&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70734212,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70653924_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70653924_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4657,6 +4657,45 @@
     "language": "en"
   },
   {
+    "titleText": "How is Uganda switching to e-mobility?",
+    "category": "Cars and Transportation",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 342,
+    "updateTime": "2024-11-04T14:04:09.004Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70524832&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70524832,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70520080_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70520080_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Laos economy struggles amid inflation and falling investment",
     "category": "Trade",
     "subCategory": "Business",
@@ -4808,6 +4847,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70589658_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do food and racism have to do with one another?",
+    "category": "Science",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 405,
+    "updateTime": "2024-11-04T08:14:11.471Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70654154&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70654154,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70598332_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70598332_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9665,47 +9743,6 @@
     "language": "en"
   },
   {
-    "titleText": "Sanctions on Russia spark suicides in India's 'Diamond City'",
-    "category": "Society",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "India",
-      "Ukraine"
-    ],
-    "runningTime": 208,
-    "updateTime": "2024-09-10T15:35:14.369Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70182161&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70182161,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70181814_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70181814_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Protests erupt in Turkey over death of 8-year-old Narin",
     "category": "Crime",
     "subCategory": null,
@@ -11200,6 +11237,123 @@
     "language": "es"
   },
   {
+    "titleText": "Ukraine-Krieg bestimmt über Friedensordnung der Zukunft",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 546,
+    "updateTime": "2024-11-18T15:07:27.559Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70812592&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70812592,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70812148_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70812148_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Malaysia: Milliardenteure Geisterstadt",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:MY": "Malaysia"
+    },
+    "regions": [
+      "Malaysia"
+    ],
+    "runningTime": 406,
+    "updateTime": "2024-11-18T14:44:44.719Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70809689&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70809689,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70797152_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70797152_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Deutschland muss mehr investieren ",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 125,
+    "updateTime": "2024-11-18T14:28:05.205Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70810475&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70810475,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/59935110_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/59935110_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Umweltschützer kritisieren Tests in Memphis  ",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11291,7 +11445,7 @@
     "updateTime": "2024-11-18T08:17:49.447Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70771833&list=REPORTS_VIDEO:1",
+      "contentId": "v=70771833&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70771833,
       "launchParam": null
@@ -11548,45 +11702,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70779620_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Würdet ihr Fischfilets aus dem 3D-Drucker essen?",
-    "category": "Technik",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 106,
-    "updateTime": "2024-11-15T15:09:39.588Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70795234&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70795234,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70779690_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70779690_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
