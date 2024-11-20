@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 86,
+    "updateTime": "2024-11-20T20:12:44.449Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70828834_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70828834_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why in Ghana they now dance in school",
     "category": "Lifestyle",
     "subCategory": "Education",
@@ -79,8 +118,8 @@
   },
   {
     "titleText": "What adaptive fashion is all about",
-    "category": "Lifestyle",
-    "subCategory": "Equality",
+    "category": "Equality",
+    "subCategory": "Diversity",
     "region_ids": {
       "region:africa:MW": "Malawi"
     },
@@ -149,45 +188,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70830054_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 86,
-    "updateTime": "2024-11-20T16:48:14.268Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70828834_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70828834_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -968,7 +968,7 @@
     "language": "en"
   },
   {
-    "titleText": "Some of Germany's Social Democrats seek a post-Scholz SPD",
+    "titleText": "Some of Germany's Social Democrats seek post-Scholz SPD",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
