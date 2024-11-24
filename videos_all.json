@@ -1129,7 +1129,7 @@
     "updateTime": "2024-11-21T20:05:52.099Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70796795&list=REGION_VIDEO:7",
+      "contentId": "v=70796795&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70796795,
       "launchParam": null
@@ -1913,6 +1913,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69289507_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Budapest on your bucket list?",
+    "category": "Culture",
+    "subCategory": "Architecture",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 277,
+    "updateTime": "2024-11-20T09:47:27.784Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70797303&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70797303,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/58262820_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/58262820_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10548,6 +10587,45 @@
     "language": "es"
   },
   {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -10587,22 +10665,24 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
     "region_ids": {
-      "region:europe:DE": "Alemania"
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
     },
     "regions": [
-      "Alemania"
+      "Italia",
+      "Europa"
     ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484978,
+      "id": 70269777,
       "launchParam": null
     },
     "providerLogo": {
@@ -10612,13 +10692,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "url": "https://static.dw.com/image/70279235_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10662,47 +10742,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11453,6 +11492,45 @@
     "language": "de"
   },
   {
+    "titleText": "Woher kommen die riesigen Löcher in Anatolien?",
+    "category": "Klima",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:TR": "Türkei"
+    },
+    "regions": [
+      "Türkei"
+    ],
+    "runningTime": 295,
+    "updateTime": "2024-11-21T10:35:23.603Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70832668&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 70832668,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70780745_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70780745_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ukraine beschießt russisches Gebiet mit ATACMS-Raketen ",
     "category": "Konflikte",
     "subCategory": null,
@@ -11618,7 +11696,7 @@
     "updateTime": "2024-11-18T08:18:28.142Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70771838&list=FEATURED_VIDEO:1",
+      "contentId": "v=70771838&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70771838,
       "launchParam": null
@@ -12187,45 +12265,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70650712_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Dealer und Drogen: Grenoble im Schatten der Gewalt",
-    "category": "Gesellschaft",
-    "subCategory": "Kriminalität",
-    "region_ids": {
-      "region:europe:FR": "Frankreich"
-    },
-    "regions": [
-      "Frankreich"
-    ],
-    "runningTime": 322,
-    "updateTime": "2024-11-05T08:25:24.456Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70641935&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70641935,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70589636_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70589636_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
