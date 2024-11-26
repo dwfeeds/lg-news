@@ -1,21 +1,58 @@
 [
   {
-    "titleText": "Germany's economic dilemma",
-    "category": "Business",
-    "subCategory": "Trade",
+    "titleText": "Romania: First openly gay candidate runs for parliament",
+    "category": "Politics",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:europe:RO": "Romania"
     },
     "regions": [
-      "Germany",
-      "Europe"
+      "Romania"
+    ],
+    "runningTime": 335,
+    "updateTime": "2024-11-26T15:49:24.962Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70888903&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70888903,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70888435_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70888435_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's economic dilemma: spend or save?",
+    "category": "Politics",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
     ],
     "runningTime": 157,
     "updateTime": "2024-11-26T15:01:51.044Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70888931&list=NEWS_VIDEO:9",
+      "contentId": "v=70888931&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70888931,
       "launchParam": null
@@ -723,7 +760,7 @@
     "updateTime": "2024-11-25T10:17:55.241Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70857438&list=FEATURED_VIDEO:1",
+      "contentId": "v=70857438&list=REGION_VIDEO:4",
       "type": "video",
       "id": 70857438,
       "launchParam": null
@@ -2140,49 +2177,6 @@
     "language": "en"
   },
   {
-    "titleText": "Activists reflect on Europe's colonial impact in Africa",
-    "category": "History",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:africa": "Africa",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Germany",
-      "Africa",
-      "Europe"
-    ],
-    "runningTime": 229,
-    "updateTime": "2024-11-21T18:17:49.679Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70853156&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70853156,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70852999_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70852999_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What is Africa looking for at COP29?",
     "category": "Nature and Environment",
     "subCategory": "Politics",
@@ -2215,45 +2209,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70845907_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How sea animals are inspiring autonomous robots",
-    "category": "Technology",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 264,
-    "updateTime": "2024-11-21T14:12:45.799Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70840890&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70840890,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/18523485_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/18523485_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4250,45 +4205,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70781794_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Life in Lahore, the world's most polluted city",
-    "category": "Nature and Environment",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 122,
-    "updateTime": "2024-11-14T16:28:58.923Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70782352&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70782352,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70762708_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70762708_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10213,7 +10129,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-11-26T15:31:02.77Z",
+    "updateTime": "2024-11-26T16:21:36.857Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10751,45 +10667,6 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484978,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -10822,6 +10699,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/55271394_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484978,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11350,6 +11266,45 @@
     "language": "de"
   },
   {
+    "titleText": "Die letzten Angelfischer der Azoren",
+    "category": "Gesellschaft",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 362,
+    "updateTime": "2024-11-25T17:10:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70832655&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70832655,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70780792_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70780792_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Borschtsch – das Nationalgericht der Ukraine ",
     "category": "Kultur",
     "subCategory": null,
@@ -11421,45 +11376,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70737384_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Die letzten Angelfischer der Azoren",
-    "category": "Gesellschaft",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 362,
-    "updateTime": "2024-11-25T10:00:15.522Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70832655&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70832655,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70780792_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70780792_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
