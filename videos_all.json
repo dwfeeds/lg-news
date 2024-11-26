@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 97,
+    "updateTime": "2024-11-26T13:39:01.004Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70871618_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70871618_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Imran Khan supporters force their way into Islamabad",
     "category": "Politics",
     "subCategory": null,
@@ -428,45 +467,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70856251_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2024-11-26T06:29:37.122Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70871618_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70871618_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6045,7 +6045,7 @@
     "updateTime": "2024-11-01T16:03:22.73Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70659818&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70659818&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70659818,
       "launchParam": null
@@ -8587,7 +8587,7 @@
   },
   {
     "titleText": "Serbia's extreme weather devastates agricultural yields",
-    "category": "Society",
+    "category": "Climate",
     "subCategory": null,
     "region_ids": {
       "region:europe:RS": "Serbia"
@@ -8599,7 +8599,7 @@
     "updateTime": "2024-10-04T15:07:45.582Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70408400&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70408400&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70408400,
       "launchParam": null
@@ -8902,6 +8902,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ghanaians tricked into leaving Africa to fight Russia's war",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 210,
+    "updateTime": "2024-09-27T15:21:30.663Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70349488&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70349488,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70349717_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70349717_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Are drones the future of delivery services?",
     "category": "Business",
     "subCategory": "Innovation",
@@ -8977,6 +9016,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70318503_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "South Africa: Cape Town's wealth gap decades after apartheid",
+    "category": "Equality",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 180,
+    "updateTime": "2024-09-23T08:08:17.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70271290&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70271290,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70267162_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70267162_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10010,45 +10088,6 @@
     "language": "en"
   },
   {
-    "titleText": "The true costs of EVs",
-    "category": "Cars and Transportation",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 403,
-    "updateTime": "2024-08-28T11:49:58.452Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70050004&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 70050004,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70017962_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70017962_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Female doctors in India work under unsafe conditions",
     "category": "Society",
     "subCategory": "Equality",
@@ -10133,7 +10172,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-11-26T07:50:54.237Z",
+    "updateTime": "2024-11-26T13:40:52.67Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
