@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Testing the Mazda CX-80",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 505,
+    "updateTime": "2024-11-26T19:57:19.207Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70894057&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70894057,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70861924_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70861924_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pelicot rape trial: French prosecutors seek max sentences",
     "category": "Crime",
     "subCategory": null,
@@ -4010,45 +4049,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70724224_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "India's capital chokes as air pollution soars",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 116,
-    "updateTime": "2024-11-15T08:11:26.721Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70785927&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70785927,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70785947_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70785947_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8742,45 +8742,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70192310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -8813,6 +8774,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10090,7 +10090,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2024-11-26T17:57:51.642Z",
+    "updateTime": "2024-11-26T20:06:33.821Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10628,45 +10628,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -10699,6 +10660,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
