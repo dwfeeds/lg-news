@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "The risk of flooding on Germany’s North Sea coast",
+    "category": "Nature and Environment",
+    "subCategory": "Catastrophe",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 313,
+    "updateTime": "2024-11-27T16:45:25.223Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70854139&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70854139,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70844298_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70844298_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mozambique peace talks hit dead end",
     "category": "Society",
     "subCategory": "Politics",
@@ -567,7 +606,7 @@
     "updateTime": "2024-11-26T15:01:51.044Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70888931&list=REGION_VIDEO:7",
+      "contentId": "v=70888931&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70888931,
       "launchParam": null
@@ -2449,6 +2488,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70357693_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine: Pressure mounts for peace deal with Russia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 131,
+    "updateTime": "2024-11-22T08:41:16.785Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70856212&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70856212,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70855825_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70855825_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8036,45 +8116,6 @@
     "language": "en"
   },
   {
-    "titleText": "Many flood victims in Nigeria have no place to go",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 75,
-    "updateTime": "2024-10-16T12:17:44.756Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70513764&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 70513764,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70513545_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70513545_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Second phase of Gaza polio vaccination campaign begins",
     "category": "Health",
     "subCategory": "Conflicts",
@@ -10047,45 +10088,6 @@
     "language": "en"
   },
   {
-    "titleText": "The true costs of EVs",
-    "category": "Cars and Transportation",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 403,
-    "updateTime": "2024-08-28T11:49:58.452Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70050004&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 70050004,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70017962_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70017962_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Female doctors in India work under unsafe conditions",
     "category": "Society",
     "subCategory": "Equality",
@@ -10123,6 +10125,84 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Galápagos: autoabastecimiento sostenible  ",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:EC": "Ecuador"
+    },
+    "regions": [
+      "Ecuador"
+    ],
+    "runningTime": 360,
+    "updateTime": "2024-11-27T16:32:48.826Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70692689&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70692689,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70589389_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70589389_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Comunidades locales monitorean su entorno",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 288,
+    "updateTime": "2024-11-27T16:00:23.197Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70764010&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70764010,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70712785_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70712785_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Filtros caseros de diseño indígena",
@@ -10469,45 +10549,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70739904_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "WorldSkills: el campeonato de oficios",
-    "category": "Economía",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "Francia"
-    },
-    "regions": [
-      "Francia"
-    ],
-    "runningTime": 239,
-    "updateTime": "2024-11-23T00:24:54.904Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70772634&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70772634,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70734838_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70734838_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
