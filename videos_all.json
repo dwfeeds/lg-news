@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Why Sardinians in Italy live so long",
+    "category": "Health",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 185,
+    "updateTime": "2024-11-27T08:28:28.903Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70796827&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70796827,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70780767_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70780767_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel-Hezbollah ceasefire comes into effect",
     "category": "Conflicts",
     "subCategory": null,
@@ -1349,7 +1388,7 @@
     "updateTime": "2024-11-23T12:44:36.366Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70860829&list=FEATURED_VIDEO:1",
+      "contentId": "v=70860829&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70860829,
       "launchParam": null
@@ -2172,45 +2211,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70853748_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What's causing huge sinkholes in Anatolia?",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 294,
-    "updateTime": "2024-11-21T20:05:52.099Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70796795&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70796795,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70780745_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70780745_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8742,45 +8742,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pakistan's traditional pipe bands are fading out",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 163,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70345928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70345776_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
     "category": "Music",
     "subCategory": "Equality",
@@ -8813,6 +8774,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70192209_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Pakistan's traditional pipe bands are fading out",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 163,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70345928,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70345776_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70345776_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
