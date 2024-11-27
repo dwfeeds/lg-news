@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 90,
+    "updateTime": "2024-11-27T12:58:01.682Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70896708_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70896708_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Poland's PM Donald Tusk the EU's new powerbroker?",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Europe",
+      "Poland"
+    ],
+    "runningTime": 167,
+    "updateTime": "2024-11-27T12:00:09.076Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70899675&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70899675,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69540289_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69540289_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "European Parliament elects 26 new EU commissioners",
     "category": "Politics",
     "subCategory": null,
@@ -25,13 +105,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70839595_6.jpg",
+      "url": "https://static.dw.com/image/70768164_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70839595_7.jpg",
+      "url": "https://static.dw.com/image/70768164_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -54,7 +134,7 @@
     "updateTime": "2024-11-27T10:08:39.225Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70852556&list=REGION_VIDEO:8",
+      "contentId": "v=70852556&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70852556,
       "launchParam": null
@@ -160,7 +240,7 @@
   {
     "titleText": "Why Sardinians in Italy live so long",
     "category": "Health",
-    "subCategory": "Society",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:IT": "Italy"
     },
@@ -171,7 +251,7 @@
     "updateTime": "2024-11-27T08:28:28.903Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70796827&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70796827&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70796827,
       "launchParam": null
@@ -231,45 +311,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70893757_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 90,
-    "updateTime": "2024-11-27T06:52:24.982Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70895395_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70895395_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1585,7 +1626,7 @@
     "updateTime": "2024-11-23T12:05:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70796519&list=REGION_VIDEO:7",
+      "contentId": "v=70796519&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70796519,
       "launchParam": null
@@ -4207,6 +4248,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70724224_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Young designer reshaping Africa's royal kente fabrics",
+    "category": "Culture",
+    "subCategory": "Design",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 414,
+    "updateTime": "2024-11-15T07:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70771830&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70771830,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70581989_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70581989_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8740,45 +8820,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pakistan's traditional pipe bands are fading out",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 163,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70345928,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70345776_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70345776_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
     "category": "Music",
     "subCategory": "Equality",
@@ -8818,22 +8859,22 @@
     "language": "en"
   },
   {
-    "titleText": "Ghanaians tricked into leaving Africa to fight Russia's war",
+    "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
-    "subCategory": "Conflicts",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:africa:GH": "Ghana"
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Ghana"
+      "Pakistan"
     ],
-    "runningTime": 210,
-    "updateTime": "2024-09-27T15:21:30.663Z",
+    "runningTime": 163,
+    "updateTime": "2024-09-27T21:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70349488&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70345928&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
-      "id": 70349488,
+      "id": 70345928,
       "launchParam": null
     },
     "providerLogo": {
@@ -8843,13 +8884,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70349717_6.jpg",
+      "url": "https://static.dw.com/image/70345776_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70349717_7.jpg",
+      "url": "https://static.dw.com/image/70345776_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10043,22 +10084,24 @@
     "language": "en"
   },
   {
-    "titleText": "Sardinia's sustainable tourism model defies overcrowding",
-    "category": "Business",
-    "subCategory": "Nature and Environment",
+    "titleText": "Apagones y despidos en Ecuador",
+    "category": "Economía",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:IT": "Italy"
+      "region:cala:EC": "Ecuador",
+      "region:cala": "América Latina"
     },
     "regions": [
-      "Italy"
+      "Ecuador",
+      "América Latina"
     ],
-    "runningTime": 214,
-    "updateTime": "2024-08-26T12:59:21.838Z",
+    "runningTime": 175,
+    "updateTime": "2024-11-27T12:49:57.289Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70019898&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=70899996&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 70019898,
+      "id": 70899996,
       "launchParam": null
     },
     "providerLogo": {
@@ -10068,18 +10111,18 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66342756_6.jpg",
+      "url": "https://static.dw.com/image/69105334_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66342756_7.jpg",
+      "url": "https://static.dw.com/image/69105334_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
     },
-    "language": "en"
+    "language": "es"
   },
   {
     "titleText": "Noticias - Última hora",
@@ -10088,7 +10131,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2024-11-27T06:54:07.99Z",
+    "updateTime": "2024-11-27T12:10:23.451Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10385,45 +10428,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70734838_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Se busca mano de obra calificada ",
-    "category": "Economía",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 117,
-    "updateTime": "2024-11-22T17:55:02.094Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70772607&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70772607,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70734798_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70734798_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11067,6 +11071,41 @@
     "language": "es"
   },
   {
+    "titleText": "Ex-Bundeskanzlerin Merkel stellt ihre Memoiren vor",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 135,
+    "updateTime": "2024-11-27T12:07:10.311Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70899702&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70899702,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70897324_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70897324_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Lkw-Fahrer dringend gesucht",
     "category": "Handel",
     "subCategory": "Wirtschaft",
@@ -11474,7 +11513,7 @@
     "updateTime": "2024-11-25T10:36:58.311Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70799027&list=REPORTS_VIDEO:1",
+      "contentId": "v=70799027&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70799027,
       "launchParam": null
@@ -11515,7 +11554,7 @@
     "updateTime": "2024-11-24T16:57:15.297Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70863741&list=REPORTS_VIDEO:1",
+      "contentId": "v=70863741&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 70863741,
       "launchParam": null
@@ -12206,41 +12245,6 @@
     "language": "de"
   },
   {
-    "titleText": "Fall der Berliner Mauer: Der Fotograf vom Checkpoint Charlie",
-    "category": "Video-Nachrichten",
-    "subCategory": "Panorama",
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 150,
-    "updateTime": "2024-11-09T05:33:43.402Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70737056&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70737056,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70738220_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70738220_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Israelis helfen Palästinensern bei der Olivenernte",
     "category": "Politik",
     "subCategory": null,
@@ -12825,47 +12829,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70385737_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ein Haus aus Hanf",
-    "category": "Innovation",
-    "subCategory": "Architektur",
-    "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Deutschland",
-      "Global"
-    ],
-    "runningTime": 343,
-    "updateTime": "2024-09-29T09:25:44.044Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70350889&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 70350889,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70349631_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70349631_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
