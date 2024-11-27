@@ -10,7 +10,7 @@
       "Europe"
     ],
     "runningTime": 90,
-    "updateTime": "2024-11-27T04:27:56.296Z",
+    "updateTime": "2024-11-27T06:52:24.982Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -25,13 +25,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70871618_6.jpg",
+      "url": "https://static.dw.com/image/70895395_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70871618_7.jpg",
+      "url": "https://static.dw.com/image/70895395_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10090,7 +10090,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2024-11-27T01:46:09.985Z",
+    "updateTime": "2024-11-27T06:54:07.99Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11511,7 +11511,7 @@
     "updateTime": "2024-11-22T18:14:43.475Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70860976&list=REPORTS_VIDEO:1",
+      "contentId": "v=70860976&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70860976,
       "launchParam": null
@@ -12280,45 +12280,6 @@
     "language": "de"
   },
   {
-    "titleText": "Wie zuverlässig sind Roboter-Blindenhunde?",
-    "category": "Digitale Welt",
-    "subCategory": "Technik",
-    "region_ids": {
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "China"
-    ],
-    "runningTime": 74,
-    "updateTime": "2024-11-05T16:05:28.004Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70660427&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70660427,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70650712_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70650712_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Ukraine: Aus dem Gefängnis als Soldat an die Front",
     "category": "Konflikte",
     "subCategory": null,
@@ -12351,6 +12312,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70638178_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "In Haiti gerät die Bandengewalt außer Kontrolle",
+    "category": "Kriminalität",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:cala:HAT": "Haiti",
+      "region:cala": "Lateinamerika"
+    },
+    "regions": [
+      "Haiti",
+      "Lateinamerika"
+    ],
+    "runningTime": 220,
+    "updateTime": "2024-11-01T20:15:52.622Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70647258&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 70647258,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70647185_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70647185_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
