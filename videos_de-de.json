@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Lkw-Fahrer dringend gesucht",
+    "category": "Handel",
+    "subCategory": "Panorama",
+    "runningTime": 184,
+    "updateTime": "2024-11-28T05:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70897649&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70897649,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67055369_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67055369_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ex-Bundeskanzlerin Merkel stellt ihre Memoiren vor",
     "category": "Politik",
     "subCategory": null,
@@ -26,39 +59,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70897324_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Lkw-Fahrer dringend gesucht",
-    "category": "Handel",
-    "subCategory": "Wirtschaft",
-    "runningTime": 184,
-    "updateTime": "2024-11-27T10:50:33.876Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70897649&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70897649,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67055369_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67055369_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -106,7 +106,7 @@
     "updateTime": "2024-11-27T08:16:22.074Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70832653&list=FEATURED_VIDEO:1",
+      "contentId": "v=70832653&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 70832653,
       "launchParam": null
