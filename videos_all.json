@@ -1,6 +1,47 @@
 [
   {
-    "titleText": "Lebanon: Will the Israel-Hezbollah ceasefire last?",
+    "titleText": "US: Are Trump's mass deportation threats feasible?",
+    "category": "Politics",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:cala": "Latin America"
+    },
+    "regions": [
+      "United States of America",
+      "Latin America"
+    ],
+    "runningTime": 252,
+    "updateTime": "2024-11-28T08:47:03.397Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70905285&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70905285,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67143641_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67143641_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How durable is Israel's truce with Lebanon's Hezbollah?",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -15,7 +56,7 @@
     "updateTime": "2024-11-28T08:08:30.872Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70905026&list=REGION_VIDEO:9",
+      "contentId": "v=70905026&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70905026,
       "launchParam": null
@@ -5880,45 +5921,6 @@
     "language": "en"
   },
   {
-    "titleText": "Five things to follow as the US election results come in",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 280,
-    "updateTime": "2024-11-05T13:36:22.452Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70674494&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70674494,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70656149_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70656149_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How war in Lebanon has put pregnant women and babies at risk",
     "category": "Conflicts",
     "subCategory": "Health",
@@ -6406,7 +6408,7 @@
     "updateTime": "2024-11-01T08:56:53.66Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70649696&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=70649696&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70649696,
       "launchParam": null
@@ -8824,45 +8826,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70192310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -8895,6 +8858,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70345776_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10094,7 +10096,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 175,
-    "updateTime": "2024-11-28T08:36:20.498Z",
+    "updateTime": "2024-11-28T09:15:21.159Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11539,7 +11541,7 @@
     "language": "de"
   },
   {
-    "titleText": "Kunst und Widerstand – „Pussy Riot“ gegen Putins Russland",
+    "titleText": "Kunst und Widerstand – \"Pussy Riot\" gegen Putins Russland",
     "category": "Meinungsfreiheit",
     "subCategory": "Kunst",
     "region_ids": {
