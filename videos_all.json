@@ -10047,18 +10047,22 @@
     "language": "en"
   },
   {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
+    "titleText": "La Vivera Orgánica",
+    "category": "Naturaleza y medio ambiente",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 175,
-    "updateTime": "2024-11-28T13:22:22.43Z",
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 274,
+    "updateTime": "2024-11-28T14:30:00.059Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "contentId": "v=70808747&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 18529525,
+      "id": 70808747,
       "launchParam": null
     },
     "providerLogo": {
@@ -10068,13 +10072,52 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70342179_6.jpg",
+      "url": "https://static.dw.com/image/66419765_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70342179_7.jpg",
+      "url": "https://static.dw.com/image/66419765_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Renacen los tabaquillos en las Altas Cumbres de Córdoba",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 376,
+    "updateTime": "2024-11-28T13:50:19.769Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70808746&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70808746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70779183_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70779183_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10437,84 +10480,6 @@
     "language": "es"
   },
   {
-    "titleText": "Uruguay elige presidente",
-    "category": "Política",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:UY": "Uruguay"
-    },
-    "regions": [
-      "Uruguay"
-    ],
-    "runningTime": 164,
-    "updateTime": "2024-11-24T05:32:42.462Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70869213&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70869213,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69105274_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69105274_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Fundición de acero con energía solar?",
-    "category": "Ciencia",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:CH": "Suiza"
-    },
-    "regions": [
-      "Suiza"
-    ],
-    "runningTime": 262,
-    "updateTime": "2024-11-23T04:06:45.537Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70793670&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70793670,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70737319_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70737319_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Turquía: las pilotos de globo aeroestático",
     "category": "Igualdad de derechos",
     "subCategory": "Viajes",
@@ -10710,45 +10675,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -10781,6 +10707,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
