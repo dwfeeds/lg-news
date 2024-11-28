@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "South Koreans rejoice in record snowfall amid casualties",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:KR": "South Korea"
+    },
+    "regions": [
+      "South Korea"
+    ],
+    "runningTime": 109,
+    "updateTime": "2024-11-28T12:29:39.827Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70908253&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70908253,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70898691_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70898691_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Protests mount over giant fiber mill in Spain's Galicia",
     "category": "Nature and Environment",
     "subCategory": "Business",
@@ -39,7 +78,7 @@
     "language": "en"
   },
   {
-    "titleText": "US: Are Trump's mass deportation threats feasible?",
+    "titleText": "US election: Are Trump's mass deportation threats feasible?",
     "category": "Politics",
     "subCategory": "Migration",
     "region_ids": {
@@ -185,13 +224,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70896708_6.jpg",
+      "url": "https://static.dw.com/image/70342179_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70896708_7.jpg",
+      "url": "https://static.dw.com/image/70342179_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -573,7 +612,7 @@
     "updateTime": "2024-11-27T10:08:39.225Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70852556&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70852556&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70852556,
       "launchParam": null
@@ -690,7 +729,7 @@
     "updateTime": "2024-11-27T08:28:28.903Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70796827&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=70796827&list=REGION_VIDEO:7",
       "type": "video",
       "id": 70796827,
       "launchParam": null
@@ -4382,45 +4421,6 @@
     "language": "en"
   },
   {
-    "titleText": "Female empowerment on wheels in Kenya",
-    "category": "Equality",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 365,
-    "updateTime": "2024-11-15T20:12:16.353Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70771825&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70771825,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70581957_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70581957_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Farming robots: The future of agriculture? ",
     "category": "Innovation",
     "subCategory": "Technology",
@@ -6486,7 +6486,7 @@
     "updateTime": "2024-11-01T08:56:53.66Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70649696&list=REGION_VIDEO:9",
+      "contentId": "v=70649696&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70649696,
       "launchParam": null
@@ -7597,6 +7597,47 @@
     "language": "en"
   },
   {
+    "titleText": "Lebanon: What is UNIFIL's role, and does it matter?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Lebanon",
+      "Israel"
+    ],
+    "runningTime": 136,
+    "updateTime": "2024-10-22T11:50:04.658Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70565402&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70565402,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70486331_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70486331_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Protests as power cuts plunge parts of Cuba into darkness",
     "category": "Politics",
     "subCategory": null,
@@ -7982,45 +8023,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70536297_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Flood situation continues to deteriorate in Nigeria",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 99,
-    "updateTime": "2024-10-18T12:24:40.777Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70534174&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 70534174,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70534033_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70534033_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8904,6 +8906,45 @@
     "language": "en"
   },
   {
+    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 355,
+    "updateTime": "2024-09-27T21:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70192310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70192209_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why Pakistan's traditional pipe bands are fading out",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -8943,22 +8984,22 @@
     "language": "en"
   },
   {
-    "titleText": "Mzansi Gay Choir celebrates human rights, self-expression",
-    "category": "Music",
-    "subCategory": "Equality",
+    "titleText": "Ghanaians tricked into leaving Africa to fight Russia's war",
+    "category": "Society",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:africa:ZA": "South Africa"
+      "region:africa:GH": "Ghana"
     },
     "regions": [
-      "South Africa"
+      "Ghana"
     ],
-    "runningTime": 355,
-    "updateTime": "2024-09-27T21:30:00Z",
+    "runningTime": 210,
+    "updateTime": "2024-09-27T15:21:30.663Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70192310&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70349488&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
-      "id": 70192310,
+      "id": 70349488,
       "launchParam": null
     },
     "providerLogo": {
@@ -8968,13 +9009,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70192209_6.jpeg",
+      "url": "https://static.dw.com/image/70349717_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70192209_7.jpeg",
+      "url": "https://static.dw.com/image/70349717_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10004,6 +10045,47 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Reciclar paneles solares",
+    "category": "Economía",
+    "subCategory": "Tecnología",
+    "region_ids": {
+      "region:europe:FR": "Francia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Francia",
+      "Europa"
+    ],
+    "runningTime": 459,
+    "updateTime": "2024-11-28T12:29:38.377Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70713526&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70713526,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/43381497_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/43381497_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Noticias - Última hora",
