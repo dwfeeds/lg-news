@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Georgia: Suspension of EU bid reignites protests in Tbilisi",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GE": "Georgia"
+    },
+    "regions": [
+      "Georgia"
+    ],
+    "runningTime": 115,
+    "updateTime": "2024-11-29T07:07:37.694Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70914746&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70914746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70913593_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70913593_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -166,16 +205,18 @@
     "language": "en"
   },
   {
-    "titleText": "Chad in need of support to deal with Sudanese refugee crisis",
+    "titleText": "Chad struggles as refugees pour in from Sudan",
     "category": "Migration",
     "subCategory": "Conflicts",
     "region_ids": {
-      "region:africa:SD": "Sudan",
-      "region:africa:TD": "Chad"
+      "region:africa:TD": "Chad",
+      "region:europe:DE": "Germany",
+      "region:africa:SD": "Sudan"
     },
     "regions": [
-      "Sudan",
-      "Chad"
+      "Chad",
+      "Germany",
+      "Sudan"
     ],
     "runningTime": 279,
     "updateTime": "2024-11-28T18:37:29.411Z",
@@ -314,13 +355,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70912762_6.jpg",
+      "url": "https://static.dw.com/image/70912774_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70912762_7.jpg",
+      "url": "https://static.dw.com/image/70912774_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2691,47 +2732,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70839044_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What is Russia's new 'Oreshnik' missile?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 155,
-    "updateTime": "2024-11-22T19:12:17.439Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70864669&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70864669,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70844198_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70844198_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9979,7 +9979,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 175,
-    "updateTime": "2024-11-29T06:42:12.031Z",
+    "updateTime": "2024-11-29T07:19:39.656Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10960,6 +10960,45 @@
     "language": "es"
   },
   {
+    "titleText": "Neuseeland: Farmer kämpfen um die Zukunft",
+    "category": "Globalisierung",
+    "subCategory": "Handel",
+    "region_ids": {
+      "region:oceania:NZ": "Neuseeland"
+    },
+    "regions": [
+      "Neuseeland"
+    ],
+    "runningTime": 277,
+    "updateTime": "2024-11-29T05:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70880096&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70880096,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70856501_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70856501_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Georgien: Parlament nimmt Arbeit auf, der Widerstand bleibt",
     "category": "Politik",
     "subCategory": null,
@@ -11070,45 +11109,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70851349_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Neuseeland: Farmer kämpfen um die Zukunft",
-    "category": "Globalisierung",
-    "subCategory": "Handel",
-    "region_ids": {
-      "region:oceania:NZ": "Neuseeland"
-    },
-    "regions": [
-      "Neuseeland"
-    ],
-    "runningTime": 277,
-    "updateTime": "2024-11-28T08:15:14.444Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70880096&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70880096,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70856501_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70856501_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
