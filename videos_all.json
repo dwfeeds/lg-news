@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Landslides in eastern Uganda bury schools and homes",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 112,
+    "updateTime": "2024-11-30T13:41:18.03Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70927948&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 70927948,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70907348_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70907348_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syria: rebel fighters celebrate in the streets of Aleppo",
     "category": "Conflicts",
     "subCategory": null,
@@ -4086,57 +4125,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70782059_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What's driving Africa's billion-dollar illegal mining trade?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:ZA": "South Africa",
-      "region:africa:GH": "Ghana",
-      "region:africa:CF": "Central African Republic",
-      "region:africa:TD": "Chad",
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa:CG": "Republic of the Congo"
-    },
-    "regions": [
-      "Africa",
-      "South Africa",
-      "Ghana",
-      "Central African Republic",
-      "Chad",
-      "Democratic Republic of Congo",
-      "Republic of the Congo"
-    ],
-    "runningTime": 122,
-    "updateTime": "2024-11-20T09:51:41.759Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69289269&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 69289269,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69289507_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69289507_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10281,45 +10269,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -10352,6 +10301,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10878,10 +10866,10 @@
     "category": "Digitale Welt",
     "subCategory": "Musik",
     "region_ids": {
-      "region:europe:DE": "Deutschland"
+      "region:europe": "Europa"
     },
     "regions": [
-      "Deutschland"
+      "Europa"
     ],
     "runningTime": 131,
     "updateTime": "2024-11-29T15:51:23.227Z",
@@ -11043,7 +11031,7 @@
     "updateTime": "2024-11-29T12:58:53.136Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70919567&list=FEATURED_VIDEO:1",
+      "contentId": "v=70919567&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 70919567,
       "launchParam": null
@@ -11082,7 +11070,7 @@
     "updateTime": "2024-11-29T10:39:37.657Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70901180&list=REPORTS_VIDEO:1",
+      "contentId": "v=70901180&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 70901180,
       "launchParam": null
