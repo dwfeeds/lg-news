@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "South Korea reels from apparent coup attempt",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:KR": "South Korea"
+    },
+    "regions": [
+      "South Korea"
+    ],
+    "runningTime": 169,
+    "updateTime": "2024-12-04T13:26:54.712Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70959175&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 70959175,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70955462_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70955462_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -39,7 +78,7 @@
     "language": "en"
   },
   {
-    "titleText": "Smart farms, greener fields – beating drought in Tamil Nadu",
+    "titleText": "Smart farms, greener fields — beating drought in Tamil Nadu",
     "category": "Nature and Environment",
     "subCategory": "Technology",
     "region_ids": {
@@ -355,7 +394,7 @@
     "language": "en"
   },
   {
-    "titleText": "The Lobito Corridor: Biden’s late push for African resources",
+    "titleText": "The Lobito Corridor: Biden's late push for African resources",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -4320,45 +4359,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70856893_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Is the Indian economy faltering?",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 120,
-    "updateTime": "2024-11-22T13:30:13.272Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70857415&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70857415,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68999256_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68999256_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11031,45 +11031,6 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
-    "category": "Viajes",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 392,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484978,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
     "subCategory": "Cultura",
@@ -11109,24 +11070,22 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
+    "titleText": "Los imperdibles de Múnich",
+    "category": "Viajes",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
+      "region:europe:DE": "Alemania"
     },
     "regions": [
-      "Italia",
-      "Europa"
+      "Alemania"
     ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
+    "runningTime": 392,
+    "updateTime": "2024-10-15T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70269777,
+      "id": 70484978,
       "launchParam": null
     },
     "providerLogo": {
@@ -11136,13 +11095,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
+      "url": "https://static.dw.com/image/66715818_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11186,6 +11145,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
