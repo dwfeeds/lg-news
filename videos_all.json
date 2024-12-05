@@ -249,7 +249,7 @@
     "updateTime": "2024-12-04T21:06:29.809Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70963490&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70963490&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70963490,
       "launchParam": null
@@ -1039,7 +1039,7 @@
     "updateTime": "2024-12-03T09:20:34.885Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70863559&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70863559&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70863559,
       "launchParam": null
@@ -1158,7 +1158,7 @@
     "updateTime": "2024-12-03T08:10:55.006Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70943540&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70943540&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70943540,
       "launchParam": null
@@ -1240,7 +1240,7 @@
     "updateTime": "2024-12-02T21:19:13.561Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70942535&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70942535&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70942535,
       "launchParam": null
@@ -1517,7 +1517,7 @@
     "updateTime": "2024-12-02T10:27:36.239Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70934746&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70934746&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70934746,
       "launchParam": null
@@ -1595,7 +1595,7 @@
     "updateTime": "2024-12-02T08:34:44.256Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70863733&list=REGION_VIDEO:7",
+      "contentId": "v=70863733&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70863733,
       "launchParam": null
@@ -1753,7 +1753,7 @@
     "updateTime": "2024-12-01T10:39:25.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70930719&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70930719&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70930719,
       "launchParam": null
@@ -2028,7 +2028,7 @@
     "updateTime": "2024-11-30T09:29:27.906Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70922589&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70922589&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70922589,
       "launchParam": null
@@ -2106,7 +2106,7 @@
     "updateTime": "2024-11-29T21:03:50.735Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70925595&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70925595&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70925595,
       "launchParam": null
@@ -2268,7 +2268,7 @@
     "updateTime": "2024-11-29T16:46:32.046Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70923221&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70923221&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70923221,
       "launchParam": null
@@ -2406,6 +2406,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70711786_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Adaptive fashion for people with disabilities ",
+    "category": "Diversity",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 294,
+    "updateTime": "2024-11-29T15:19:26.77Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70797305&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70797305,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70797021_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70797021_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2625,7 +2664,7 @@
     "updateTime": "2024-11-29T08:15:52.027Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70915326&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70915326&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70915326,
       "launchParam": null
@@ -2666,7 +2705,7 @@
     "updateTime": "2024-11-28T20:51:10.426Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70913256&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70913256&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70913256,
       "launchParam": null
@@ -2711,7 +2750,7 @@
     "updateTime": "2024-11-28T19:11:07.263Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70913021&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70913021&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70913021,
       "launchParam": null
@@ -2877,7 +2916,7 @@
     "updateTime": "2024-11-28T18:36:58.327Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70913007&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70913007&list=REGION_VIDEO:8",
       "type": "video",
       "id": 70913007,
       "launchParam": null
@@ -3193,7 +3232,7 @@
     "updateTime": "2024-11-28T08:08:30.872Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70905026&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70905026&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70905026,
       "launchParam": null
@@ -3236,7 +3275,7 @@
     "updateTime": "2024-11-27T23:15:00.787Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70903648&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70903648&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70903648,
       "launchParam": null
@@ -3318,7 +3357,7 @@
     "updateTime": "2024-11-27T13:19:46.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70899657&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70899657&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70899657,
       "launchParam": null
@@ -3515,7 +3554,7 @@
     "updateTime": "2024-11-27T07:59:45.606Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70895553&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70895553&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70895553,
       "launchParam": null
@@ -3697,45 +3736,6 @@
     "language": "en"
   },
   {
-    "titleText": "Punk resistance: Pussy Riot on Putin's Russia",
-    "category": "Society",
-    "subCategory": "Music",
-    "region_ids": {
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Russian Federation"
-    ],
-    "runningTime": 348,
-    "updateTime": "2024-11-26T09:55:06.286Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70863663&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70863663,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70856565_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70856565_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Cape Verde: 'Stories with Sweets' promotes child literacy",
     "category": "Culture",
     "subCategory": "Lifestyle",
@@ -3749,7 +3749,7 @@
     "updateTime": "2024-11-26T09:50:39.704Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70588847&list=REGION_VIDEO:8",
+      "contentId": "v=70588847&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70588847,
       "launchParam": null
@@ -3827,7 +3827,7 @@
     "updateTime": "2024-11-26T09:07:30.808Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70885401&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70885401&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70885401,
       "launchParam": null
@@ -3868,7 +3868,7 @@
     "updateTime": "2024-11-26T08:51:18.819Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70885254&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70885254&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70885254,
       "launchParam": null
@@ -4247,45 +4247,6 @@
     "language": "en"
   },
   {
-    "titleText": "Thousands in France protest sexual violence, victim-shaming",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 100,
-    "updateTime": "2024-11-23T21:29:23.973Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70868990&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70868990,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70219611_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70219611_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pop icon Googoosh is a voice for women in Iran",
     "category": "Music",
     "subCategory": null,
@@ -4299,7 +4260,7 @@
     "updateTime": "2024-11-23T20:18:25.957Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70865168&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70865168&list=REGION_VIDEO:9",
       "type": "video",
       "id": 70865168,
       "launchParam": null
@@ -4405,47 +4366,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israeli strikes kill several people in Beirut",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 89,
-    "updateTime": "2024-11-23T10:37:47.289Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70866428&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70866428,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70866210_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70866210_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Toxic smog persists over India's north",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -4541,7 +4461,7 @@
     "updateTime": "2024-11-22T19:12:17.439Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70864669&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70864669&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70864669,
       "launchParam": null
@@ -4621,7 +4541,7 @@
     "updateTime": "2024-11-22T12:23:19.894Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70859123&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70859123&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70859123,
       "launchParam": null
@@ -4690,45 +4610,6 @@
     "language": "en"
   },
   {
-    "titleText": "Netanyahu, Gallant ICC warrants spark approval, condemnation",
-    "category": "Law and Justice",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 67,
-    "updateTime": "2024-11-22T11:07:11.869Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70857593&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70857593,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70857794_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70857794_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Lucy is the most famous human ancestor fossil",
     "category": "Science",
     "subCategory": null,
@@ -4763,45 +4644,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70793323_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "South Africa: Siege of illegal gold mine enters third week ",
-    "category": "Law and Justice",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 219,
-    "updateTime": "2024-11-22T10:27:06.724Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70857362&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70857362,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70830267_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70830267_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4865,7 +4707,7 @@
     "updateTime": "2024-11-22T08:41:16.785Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70856212&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70856212&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70856212,
       "launchParam": null
@@ -4884,45 +4726,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70855825_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Outrage in Israel over ICC warrants for Netanyahu, Gallant",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 134,
-    "updateTime": "2024-11-21T22:07:11.324Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70853722&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70853722,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70853748_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70853748_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4982,7 +4785,7 @@
     "updateTime": "2024-11-21T10:49:23.666Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70840488&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70840488&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70840488,
       "launchParam": null
@@ -5021,7 +4824,7 @@
     "updateTime": "2024-11-21T10:45:24.394Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70840454&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70840454&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70840454,
       "launchParam": null
@@ -5047,22 +4850,22 @@
     "language": "en"
   },
   {
-    "titleText": "US envoy: Progress in Lebanon peace negotiations",
-    "category": "Conflicts",
-    "subCategory": null,
+    "titleText": "Why are Ghana's students dancing in school?",
+    "category": "Education",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:me:LB": "Lebanon"
+      "region:africa:GH": "Ghana"
     },
     "regions": [
-      "Lebanon"
+      "Ghana"
     ],
-    "runningTime": 119,
-    "updateTime": "2024-11-20T23:42:04.208Z",
+    "runningTime": 332,
+    "updateTime": "2024-11-20T17:25:12.806Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70837342&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70830148&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 70837342,
+      "id": 70830148,
       "launchParam": null
     },
     "providerLogo": {
@@ -5072,13 +4875,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70821117_6.jpg",
+      "url": "https://static.dw.com/image/70830067_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70821117_7.jpg",
+      "url": "https://static.dw.com/image/70830067_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5103,7 +4906,7 @@
     "updateTime": "2024-11-20T16:47:59.726Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70835035&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70835035&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70835035,
       "launchParam": null
@@ -5122,45 +4925,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/64036970_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Dubai — the capital of supercars",
-    "category": "Cars and Transportation",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:AE": "United Arab Emirates"
-    },
-    "regions": [
-      "United Arab Emirates"
-    ],
-    "runningTime": 527,
-    "updateTime": "2024-11-20T14:49:19.945Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70823719&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70823719,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70786538_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70786538_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5220,7 +4984,7 @@
     "updateTime": "2024-11-20T00:18:34.94Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70826561&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70826561&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70826561,
       "launchParam": null
@@ -5263,7 +5027,7 @@
     "updateTime": "2024-11-19T19:31:57.412Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70825317&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70825317&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70825317,
       "launchParam": null
@@ -5308,7 +5072,7 @@
     "updateTime": "2024-11-19T11:05:50.806Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70820150&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70820150&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70820150,
       "launchParam": null
@@ -5351,7 +5115,7 @@
     "updateTime": "2024-11-19T08:45:33.041Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70817900&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70817900&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70817900,
       "launchParam": null
@@ -5390,7 +5154,7 @@
     "updateTime": "2024-11-19T08:41:28.826Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70737887&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70737887&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70737887,
       "launchParam": null
@@ -5416,45 +5180,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gisele Pelicot to give final testimony in mass rape trial",
-    "category": "Law and Justice",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 152,
-    "updateTime": "2024-11-19T07:24:29.746Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70817187&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70817187,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70598972_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70598972_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "ATACMS: How Ukraine could use longer-range missiles",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -5468,7 +5193,7 @@
     "updateTime": "2024-11-18T16:37:42.202Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70813574&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70813574&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70813574,
       "launchParam": null
@@ -5509,7 +5234,7 @@
     "updateTime": "2024-11-18T14:50:59.287Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70812410&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70812410&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 70812410,
       "launchParam": null
@@ -5574,6 +5299,47 @@
     "language": "en"
   },
   {
+    "titleText": "How do young Tanzanians interpret colonial history?",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:TZ": "Tanzania"
+    },
+    "regions": [
+      "Africa",
+      "Tanzania"
+    ],
+    "runningTime": 599,
+    "updateTime": "2024-11-18T08:54:41.838Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70797440&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70797440,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70779381_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70779381_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenya's Pokomo people call for UK to return sacred drum",
     "category": "Society",
     "subCategory": "History",
@@ -5613,88 +5379,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gaza: Israeli strikes kill dozens in civilian areas",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 123,
-    "updateTime": "2024-11-17T16:10:19.001Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70805308&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70805308,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70805122_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70805122_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN says Gaza aid shortage is 'desperate'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 132,
-    "updateTime": "2024-11-16T19:59:43.143Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70801113&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70801113,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68847429_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68847429_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Exiled journalist produces TV for women in Afghanistan",
     "category": "Freedom of Speech",
     "subCategory": "Equality",
@@ -5710,7 +5394,7 @@
     "updateTime": "2024-11-16T08:04:12.117Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70664737&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70664737&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70664737,
       "launchParam": null
@@ -5729,90 +5413,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70662014_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "In Lebanon, thousands of children suffer in Israeli strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 174,
-    "updateTime": "2024-11-16T06:05:41.368Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70775228&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70775228,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70372018_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70372018_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli strike kills rescue workers in Lebanon",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel",
-      "Palestinian Territories",
-      "Iran"
-    ],
-    "runningTime": 173,
-    "updateTime": "2024-11-15T22:01:55.003Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70798709&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70798709,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70797754_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70797754_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6173,45 +5773,6 @@
     "language": "en"
   },
   {
-    "titleText": "How much aid is getting into Gaza?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 153,
-    "updateTime": "2024-11-12T17:01:11.031Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70768336&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70768336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69184482_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69184482_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Who is Marco Rubio, Trump's rumored secretary of state pick?",
     "category": "Politics",
     "subCategory": null,
@@ -6244,45 +5805,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70761695_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Uganda's Amina Tayona: Female kayaker and adrenaline junkie",
-    "category": "Sports",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Uganda"
-    ],
-    "runningTime": 209,
-    "updateTime": "2024-11-12T11:15:24.065Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70579613&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70579613,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70569040_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70569040_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6491,45 +6013,6 @@
     "language": "en"
   },
   {
-    "titleText": "Dutch police use hologram in sex murder cold case",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:NL": "Netherlands"
-    },
-    "regions": [
-      "Netherlands"
-    ],
-    "runningTime": 129,
-    "updateTime": "2024-11-10T21:34:05.65Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70749057&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70749057,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70749125_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70749125_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Challenging albinism discrimination in Angola",
     "category": "Human Rights",
     "subCategory": "Diversity",
@@ -6562,88 +6045,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70642715_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli strike kills and injures dozens in northern Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 115,
-    "updateTime": "2024-11-10T16:21:28.314Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70748523&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70748523,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70747837_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70747837_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Qatar suspends Israel-Hamas mediation efforts",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:QA": "Qatar",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Qatar",
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 129,
-    "updateTime": "2024-11-10T08:58:02.911Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70746098&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70746098,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70745936_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70745936_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6729,45 +6130,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nearly 70% of UN-verified Gaza war dead are women, children",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 121,
-    "updateTime": "2024-11-09T08:39:04.791Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70742024&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70742024,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70735418_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70735418_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Palestinians skeptical about Trump's peace plan",
     "category": "Politics",
     "subCategory": "Conflicts",
@@ -6783,7 +6145,7 @@
     "updateTime": "2024-11-08T21:02:33.148Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70740569&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70740569&list=REGION_VIDEO:5",
       "type": "video",
       "id": 70740569,
       "launchParam": null
@@ -6848,45 +6210,6 @@
     "language": "en"
   },
   {
-    "titleText": "US swing state voters react to Trump's victory",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 202,
-    "updateTime": "2024-11-08T09:16:56.972Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70732699&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70732699,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70605023_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70605023_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Spain struggles with the aftermath of devastating floods",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -6919,86 +6242,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70663775_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Triumphant Trump vows to 'stop wars'",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 168,
-    "updateTime": "2024-11-07T11:19:16.321Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70722405&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70722405,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70348792_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70348792_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Netanyahu fires Defense Minister Yoav Gallant",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Israel"
-    ],
-    "runningTime": 224,
-    "updateTime": "2024-11-05T20:49:20.006Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70703614&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70703614,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70703112_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70703112_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7047,166 +6290,6 @@
     "language": "en"
   },
   {
-    "titleText": "How war in Lebanon has put pregnant women and babies at risk",
-    "category": "Conflicts",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 186,
-    "updateTime": "2024-11-04T09:26:21.077Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70678638&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70678638,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70678662_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70678662_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Turkish female hot air balloon pilot is pioneer of the skies",
-    "category": "Society",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 293,
-    "updateTime": "2024-11-04T09:06:43.648Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70607513&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70607513,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70589658_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70589658_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN aid teams resume polio vaccinations in Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 98,
-    "updateTime": "2024-11-02T21:44:38.781Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70670159&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70670159,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70670186_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70670186_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israelis help Palestinians with dangerous olive harvest",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 204,
-    "updateTime": "2024-11-02T21:44:31.768Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70670157&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70670157,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70670149_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70670149_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Robo-pups to the rescue — can you trust robotic guide dogs?",
     "category": "Technology",
     "subCategory": "Innovation",
@@ -7239,86 +6322,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70650712_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Dozens of civilians killed in overnight strikes on Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 100,
-    "updateTime": "2024-11-01T15:31:15.762Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70663687&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70663687,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70663921_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70663921_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Palestinians in Gaza tell of life amid bombings and famine",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Middle East"
-    ],
-    "runningTime": 182,
-    "updateTime": "2024-11-01T08:56:53.66Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70649696&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70649696,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69994358_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69994358_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7365,47 +6368,6 @@
     "language": "en"
   },
   {
-    "titleText": "Germany closes Iranian consulates over Sharmahd execution",
-    "category": "Politics",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Iran",
-      "Germany"
-    ],
-    "runningTime": 235,
-    "updateTime": "2024-10-31T15:52:33.229Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70654603&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70654603,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70641683_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70641683_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Spain's farmers, wolves clash in ongoing battle",
     "category": "Nature and Environment",
     "subCategory": "Lifestyle",
@@ -7438,92 +6400,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/59855442_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why is UNRWA aid agency so important to Palestinians?",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Middle East",
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 254,
-    "updateTime": "2024-10-30T19:20:07.3Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70637604&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70637604,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70637563_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70637563_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Northern Gaza hit by deadliest Israeli strike in weeks",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 154,
-    "updateTime": "2024-10-30T08:02:52.46Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70637341&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 70637341,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70635016_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70635016_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7611,22 +6487,22 @@
     "language": "en"
   },
   {
-    "titleText": "Pakistan students protest sexual assault on-campus",
+    "titleText": "Toy-free: From boredom to joy! ",
     "category": "Society",
-    "subCategory": "Human Rights",
+    "subCategory": "Health",
     "region_ids": {
-      "region:asia:PK": "Pakistan"
+      "region:global": "Global"
     },
     "regions": [
-      "Pakistan"
+      "Global"
     ],
-    "runningTime": 116,
-    "updateTime": "2024-10-26T08:39:49.912Z",
+    "runningTime": 286,
+    "updateTime": "2024-10-28T09:12:11.708Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70606823&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70536173&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 70606823,
+      "id": 70536173,
       "launchParam": null
     },
     "providerLogo": {
@@ -7636,13 +6512,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70607108_6.jpg",
+      "url": "https://static.dw.com/image/69083979_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70607108_7.jpg",
+      "url": "https://static.dw.com/image/69083979_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7689,24 +6565,24 @@
     "language": "en"
   },
   {
-    "titleText": "Ukraine: Bucha's female defenders",
-    "category": "Society",
-    "subCategory": "Conflicts",
+    "titleText": "Why Indian students are flocking to German universities",
+    "category": "Education",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe": "Europe"
+      "region:asia:IN": "India",
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Ukraine",
-      "Europe"
+      "India",
+      "Germany"
     ],
-    "runningTime": 296,
-    "updateTime": "2024-10-23T23:30:00Z",
+    "runningTime": 172,
+    "updateTime": "2024-10-24T08:45:41.799Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70537093&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70586438&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 70537093,
+      "id": 70586438,
       "launchParam": null
     },
     "providerLogo": {
@@ -7716,13 +6592,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70524677_6.jpg",
+      "url": "https://static.dw.com/image/70569180_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70524677_7.jpg",
+      "url": "https://static.dw.com/image/70569180_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7730,22 +6606,22 @@
     "language": "en"
   },
   {
-    "titleText": "This woman dares to cycle in conservative Pakistan region",
-    "category": "Society",
-    "subCategory": "Health",
+    "titleText": "Netherlands: Schools ban cell phones",
+    "category": "Education",
+    "subCategory": "Politics",
     "region_ids": {
-      "region:asia:PK": "Pakistan"
+      "region:europe:NL": "Netherlands"
     },
     "regions": [
-      "Pakistan"
+      "Netherlands"
     ],
-    "runningTime": 147,
-    "updateTime": "2024-10-23T13:43:08.536Z",
+    "runningTime": 211,
+    "updateTime": "2024-10-23T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70580254&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70537321&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 70580254,
+      "id": 70537321,
       "launchParam": null
     },
     "providerLogo": {
@@ -7755,13 +6631,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70580081_6.jpg",
+      "url": "https://static.dw.com/image/65772282_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70580081_7.jpg",
+      "url": "https://static.dw.com/image/65772282_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7784,7 +6660,7 @@
     "updateTime": "2024-10-23T09:13:03.237Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70473034&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70473034&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70473034,
       "launchParam": null
@@ -7927,22 +6803,22 @@
     "language": "en"
   },
   {
-    "titleText": "Why Pelicot rape trial made abuse video screenings public",
-    "category": "Crime",
-    "subCategory": null,
+    "titleText": "How truants are being motivated to return to class",
+    "category": "Education",
+    "subCategory": "Society",
     "region_ids": {
-      "region:europe:FR": "France"
+      "region:oceania:NZ": "New Zealand"
     },
     "regions": [
-      "France"
+      "New Zealand"
     ],
-    "runningTime": 216,
-    "updateTime": "2024-10-20T09:07:21.6Z",
+    "runningTime": 370,
+    "updateTime": "2024-10-21T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70544839&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70530287&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 70544839,
+      "id": 70530287,
       "launchParam": null
     },
     "providerLogo": {
@@ -7952,13 +6828,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70598972_6.jpg",
+      "url": "https://static.dw.com/image/70524959_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70598972_7.jpg",
+      "url": "https://static.dw.com/image/70524959_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8115,6 +6991,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70530214_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sex education with AI in India",
+    "category": "Digital World",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 131,
+    "updateTime": "2024-10-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70532043&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70532043,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70523405_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70523405_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8290,6 +7205,45 @@
     "language": "en"
   },
   {
+    "titleText": "Nigeria: A school for impoverished children",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 329,
+    "updateTime": "2024-10-16T11:56:40.531Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70473208&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70473208,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65606691_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65606691_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Second phase of Gaza polio vaccination campaign begins",
     "category": "Health",
     "subCategory": "Conflicts",
@@ -8413,6 +7367,45 @@
     "language": "en"
   },
   {
+    "titleText": "Brain drain in Ghana — incentivizing people to stay",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 334,
+    "updateTime": "2024-10-11T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70453793&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70453793,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70448166_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70448166_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Is Elon Musk's Starlink in Africa a blessing or curse? ",
     "category": "Technology",
     "subCategory": "Society",
@@ -8523,45 +7516,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68927021_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "India: Doctor's rape casts shadow over Kolkata festival",
-    "category": "Society",
-    "subCategory": "Religion",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 192,
-    "updateTime": "2024-10-11T10:04:04.596Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70466543&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 70466543,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70450992_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70450992_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8816,7 +7770,7 @@
     "updateTime": "2024-10-05T05:06:42.289Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70388589&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70388589&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70388589,
       "launchParam": null
@@ -9082,6 +8036,45 @@
     "language": "en"
   },
   {
+    "titleText": "An urban jungle in Hungary",
+    "category": "Nature and Environment",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 148,
+    "updateTime": "2024-09-27T19:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70335536&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70335536,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70335093_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70335093_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Are drones the future of delivery services?",
     "category": "Business",
     "subCategory": "Innovation",
@@ -9320,6 +8313,45 @@
     "language": "en"
   },
   {
+    "titleText": "Poverty keeps countless Nigerian children out of school",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 190,
+    "updateTime": "2024-09-19T21:32:22.601Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70275327&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70275327,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70275684_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70275684_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why you don't notice Russia's media manipulation",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -9519,6 +8551,47 @@
     "language": "en"
   },
   {
+    "titleText": "Nigerians head for Russia to study",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Nigeria",
+      "Russian Federation"
+    ],
+    "runningTime": 239,
+    "updateTime": "2024-09-10T17:08:48.517Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70182792&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70182792,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70182927_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70182927_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "On patrol with Mallorca's 'seagrass police'",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -9676,6 +8749,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70133583_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "School shooting in US state of Georgia leaves four dead",
+    "category": "Crime",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 131,
+    "updateTime": "2024-09-05T06:33:47.863Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70138101&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70138101,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70136136_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70136136_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine: School year starts under Russian strikes",
+    "category": "Conflicts",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 145,
+    "updateTime": "2024-09-02T19:06:46.871Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70116362&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70116362,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70114147_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70114147_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9871,6 +9022,123 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70036080_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Brazil: Free courses offered to tackle adult illiteracy",
+    "category": "Education",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "Brazil"
+    ],
+    "runningTime": 400,
+    "updateTime": "2024-08-23T23:48:28.743Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68927272&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68927272,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68912625_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68912625_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Global education: Are we equipped for the future? ",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 259,
+    "updateTime": "2024-08-23T23:47:17.787Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68927242&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 68927242,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68912657_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68912657_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ghana's Tamale arts school saves traditional music and dance",
+    "category": "Music",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-08-21T08:54:19.618Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70002628&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 70002628,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70003122_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70003122_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10487,7 +9755,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 178,
-    "updateTime": "2024-12-05T10:21:19.806Z",
+    "updateTime": "2024-12-05T11:23:34.075Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10502,13 +9770,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70965893_6.jpg",
+      "url": "https://static.dw.com/image/70966163_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70965893_7.jpg",
+      "url": "https://static.dw.com/image/70966163_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11220,47 +10488,6 @@
     "language": "es"
   },
   {
-    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
-    "category": "Estilo",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Italia",
-      "Europa"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-09-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70269777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70279235_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70279235_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "¿Dónde está el mejor baklava; en los Balcanes o en Turquía?",
     "category": "Cultura",
     "subCategory": "Estilo",
@@ -11297,6 +10524,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70278626_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Mestizaje cultural: los diseños de Ini Archibong",
+    "category": "Estilo",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:IT": "Italia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Italia",
+      "Europa"
+    ],
+    "runningTime": 291,
+    "updateTime": "2024-09-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70269777&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70269777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70279235_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70279235_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
