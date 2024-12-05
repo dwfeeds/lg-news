@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2024-12-05T16:35:56.167Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70965893_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70965893_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Have rebels broken impasse in Syrian civil war?",
     "category": "Conflicts",
     "subCategory": null,
@@ -25,13 +64,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66435384_6.jpg",
+      "url": "https://static.dw.com/image/70958221_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66435384_7.jpg",
+      "url": "https://static.dw.com/image/70958221_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -346,45 +385,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70962754_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2024-12-05T06:36:54.892Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70965893_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70965893_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10623,13 +10623,54 @@
     "language": "en"
   },
   {
+    "titleText": "Arte y resistemcia: “Pussy Riot” contra la Rusia de Putin",
+    "category": "Derechos humanos",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:RU": "Federación Rusa",
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Federación Rusa",
+      "Alemania"
+    ],
+    "runningTime": 344,
+    "updateTime": "2024-12-05T16:04:05.101Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70860441&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70860441,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70856565_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70856565_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 178,
-    "updateTime": "2024-12-05T14:19:37.307Z",
+    "updateTime": "2024-12-05T15:50:51.542Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10729,6 +10770,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67069324_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Alemania: Little Joe, el mejor amigo de los estudiantes",
+    "category": "Sociedad",
+    "subCategory": "Salud",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 129,
+    "updateTime": "2024-12-05T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70959037&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70959037,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70911553_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70911553_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11043,45 +11123,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70915267_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Qué función tiene el hígado?",
-    "category": "Ciencia",
-    "subCategory": "Salud",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 148,
-    "updateTime": "2024-12-01T21:51:09.066Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=61312862&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 61312862,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61159674_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61159674_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
