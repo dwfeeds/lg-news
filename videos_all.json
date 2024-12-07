@@ -12047,11 +12047,17 @@
     "language": "de"
   },
   {
-    "titleText": "Das Handelsabkommen Mercosur: Steigender Druck auf die EU ",
+    "titleText": "Handelsabkommen Mercosur: Steigender Druck auf die EU",
     "category": "Wirtschaft",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:cala": "Lateinamerika"
+    },
+    "regions": [
+      "Europa",
+      "Lateinamerika"
+    ],
     "runningTime": 131,
     "updateTime": "2024-12-06T15:41:40.161Z",
     "onClick": {
