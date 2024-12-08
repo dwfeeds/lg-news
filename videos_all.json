@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "'Apex' the stegosaurus goes on display in New York",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "United States of America",
+      "North America"
+    ],
+    "runningTime": 90,
+    "updateTime": "2024-12-08T07:45:40.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70989236&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 70989236,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69698369_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69698369_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7283,45 +7324,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Trump plans to 'make America great again'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 183,
-    "updateTime": "2024-11-08T09:22:33.108Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70732717&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70732717,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70711523_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70711523_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Spain struggles with the aftermath of devastating floods",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -10822,7 +10824,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2024-12-07T19:29:33.987Z",
+    "updateTime": "2024-12-08T07:50:49.894Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11401,45 +11403,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -11472,6 +11435,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11840,6 +11842,47 @@
     "language": "de"
   },
   {
+    "titleText": "Das Erfolgsgeheimnis immersiver Kunst",
+    "category": "Digitale Welt",
+    "subCategory": "Kunst",
+    "region_ids": {
+      "region:asia": "Asien",
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Asien",
+      "Japan"
+    ],
+    "runningTime": 231,
+    "updateTime": "2024-12-07T01:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68094617&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 68094617,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68081449_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68081449_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "\"Überwältigend\": Notre-Dame erscheint in neuem Glanz",
     "category": "Kultur",
     "subCategory": null,
@@ -12040,47 +12083,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68081472_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Das Erfolgsgeheimnis immersiver Kunst",
-    "category": "Digitale Welt",
-    "subCategory": "Kunst",
-    "region_ids": {
-      "region:asia": "Asien",
-      "region:asia:JP": "Japan"
-    },
-    "regions": [
-      "Asien",
-      "Japan"
-    ],
-    "runningTime": 231,
-    "updateTime": "2024-12-06T16:49:02.346Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68094617&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 68094617,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68081449_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68081449_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12333,7 +12335,7 @@
     "updateTime": "2024-12-05T08:08:31.903Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70956221&list=FEATURED_VIDEO:1",
+      "contentId": "v=70956221&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 70956221,
       "launchParam": null
@@ -13532,47 +13534,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70564198_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Selenskyj sucht Unterstützung für \"Siegesplan\" in Europa",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Ukraine",
-      "Europa"
-    ],
-    "runningTime": 208,
-    "updateTime": "2024-10-11T14:55:54.931Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70473154&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 70473154,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70470907_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70470907_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
