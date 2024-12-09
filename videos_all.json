@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Germany: Little Joe, the therapy dog ",
+    "category": "Health",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 311,
+    "updateTime": "2024-12-09T08:23:31.757Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70921693&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70921693,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70911553_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70911553_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "South Korean leadership in limbo after martial law fiasco",
     "category": "Politics",
     "subCategory": null,
@@ -237,17 +276,19 @@
   },
   {
     "titleText": "How well do you know these European Christmas traditions?",
-    "category": "Society",
-    "subCategory": "Culture",
+    "category": "Culture",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:HU": "Hungary",
       "region:europe:RS": "Serbia",
-      "region:europe:RO": "Romania"
+      "region:europe:RO": "Romania",
+      "region:europe": "Europe"
     },
     "regions": [
       "Hungary",
       "Serbia",
-      "Romania"
+      "Romania",
+      "Europe"
     ],
     "runningTime": 241,
     "updateTime": "2024-12-08T10:47:18.223Z",
@@ -3042,45 +3083,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70730347_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Santorini: Greek island beauty amidst tourist droves ",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:GR": "Greece"
-    },
-    "regions": [
-      "Greece"
-    ],
-    "runningTime": 303,
-    "updateTime": "2024-12-02T10:44:04.535Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70923539&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70923539,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70922854_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70922854_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
