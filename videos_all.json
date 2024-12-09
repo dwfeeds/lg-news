@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Germany halts Syrian asylum decisions after Assad's fall",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Germany",
+      "Syria"
+    ],
+    "runningTime": 156,
+    "updateTime": "2024-12-09T17:44:18.621Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71007268&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71007268,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68608969_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68608969_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3038,47 +3079,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70936783_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Angela Merkel reunites with Barack Obama for US book launch",
-    "category": "Politics",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Germany",
-      "United States of America"
-    ],
-    "runningTime": 125,
-    "updateTime": "2024-12-03T08:08:12.449Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70943507&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70943507,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70943798_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70943798_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11366,45 +11366,6 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 233,
-    "updateTime": "2024-10-15T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70484981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
     "subCategory": null,
@@ -11437,6 +11398,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66715818_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "category": "Viajes",
+    "subCategory": "Cultura",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 233,
+    "updateTime": "2024-10-15T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 70484981,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11721,6 +11721,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Syrer feiern den Sturz von Assad - auch im Ausland",
+    "category": "Konflikte",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:me:SY": "Syrien"
+    },
+    "regions": [
+      "Syrien"
+    ],
+    "runningTime": 156,
+    "updateTime": "2024-12-09T17:46:58.341Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71007270&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71007270,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71001697_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71001697_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Gourmetrestaurant in einem italienischen Gefängnis",
@@ -12226,7 +12265,7 @@
     "updateTime": "2024-12-06T16:50:44.249Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68094456&list=REPORTS_VIDEO:1",
+      "contentId": "v=68094456&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 68094456,
       "launchParam": null
@@ -12871,45 +12910,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70916653_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Neuseeland: Farmer kämpfen um die Zukunft",
-    "category": "Globalisierung",
-    "subCategory": "Handel",
-    "region_ids": {
-      "region:oceania:NZ": "Neuseeland"
-    },
-    "regions": [
-      "Neuseeland"
-    ],
-    "runningTime": 277,
-    "updateTime": "2024-11-29T05:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70880096&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70880096,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70856501_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70856501_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
