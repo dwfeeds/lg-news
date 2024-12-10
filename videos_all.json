@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Nagasaki, Hiroshima survivors receive Nobel Peace Prize",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:NO": "Norway",
+      "region:asia:JP": "Japan",
+      "region:global": "Global"
+    },
+    "regions": [
+      "Norway",
+      "Japan",
+      "Global"
+    ],
+    "runningTime": 113,
+    "updateTime": "2024-12-10T19:27:01.226Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71017491&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71017491,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71017534_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71017534_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -604,7 +647,7 @@
     "updateTime": "2024-12-09T11:08:01.128Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70987139&list=REGION_VIDEO:7",
+      "contentId": "v=70987139&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70987139,
       "launchParam": null
@@ -682,7 +725,7 @@
     "updateTime": "2024-12-09T09:23:25.106Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70945692&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=70945692&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 70945692,
       "launchParam": null
@@ -8905,7 +8948,7 @@
     "updateTime": "2024-09-19T17:47:14.859Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70271490&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=70271490&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 70271490,
       "launchParam": null
@@ -9965,47 +10008,6 @@
     "language": "en"
   },
   {
-    "titleText": "What's average about the average German?  ",
-    "category": "Lifestyle",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Europe",
-      "Germany"
-    ],
-    "runningTime": 240,
-    "updateTime": "2023-06-17T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=65942275&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 65942275,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65919694_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65919694_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -10190,45 +10192,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70786538_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Grecia: Asistencia médica en ferry",
-    "category": "Sociedad",
-    "subCategory": "Salud",
-    "region_ids": {
-      "region:europe:GR": "Grecia"
-    },
-    "regions": [
-      "Grecia"
-    ],
-    "runningTime": 298,
-    "updateTime": "2024-12-06T03:37:00.919Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70959019&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70959019,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70911593_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70911593_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
