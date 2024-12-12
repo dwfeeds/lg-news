@@ -10739,22 +10739,22 @@
     "language": "es"
   },
   {
-    "titleText": "¿Por qué los alemanes aman tanto su pan?",
+    "titleText": "Los imperdibles de Múnich",
     "category": "Viajes",
-    "subCategory": "Cultura",
+    "subCategory": null,
     "region_ids": {
       "region:europe:DE": "Alemania"
     },
     "regions": [
       "Alemania"
     ],
-    "runningTime": 233,
+    "runningTime": 392,
     "updateTime": "2024-10-15T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484981,
+      "id": 70484978,
       "launchParam": null
     },
     "providerLogo": {
@@ -10764,13 +10764,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/55271394_6.jpg",
+      "url": "https://static.dw.com/image/66715818_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/55271394_7.jpg",
+      "url": "https://static.dw.com/image/66715818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11055,6 +11055,49 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Syrien: Gewinner Erdogan und die Türkei?",
+    "category": "Konflikte",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:me:SY": "Syrien",
+      "region:europe:TR": "Türkei",
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Syrien",
+      "Türkei",
+      "Nahost"
+    ],
+    "runningTime": 246,
+    "updateTime": "2024-12-12T20:44:56.287Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71026223&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71026223,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70973149_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70973149_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Merkel-Selfie und gelungene Integration",
@@ -11487,7 +11530,7 @@
     "updateTime": "2024-12-09T11:08:56.685Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70985938&list=REPORTS_VIDEO:1",
+      "contentId": "v=70985938&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70985938,
       "launchParam": null
@@ -12099,45 +12142,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70829689_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Sticken für Toleranz in Ungarn",
-    "category": "Panorama",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:HU": "Ungarn"
-    },
-    "regions": [
-      "Ungarn"
-    ],
-    "runningTime": 309,
-    "updateTime": "2024-11-30T04:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70923041&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70923041,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70922782_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70922782_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
