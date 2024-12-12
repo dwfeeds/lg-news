@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-12-12T19:49:26.169Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71024927_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71024927_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel remains in Golan Heights buffer zone",
     "category": "Conflicts",
     "subCategory": null,
@@ -229,45 +268,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71039592_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 94,
-    "updateTime": "2024-12-12T17:08:32.281Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71024927_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71024927_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10207,7 +10207,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 167,
-    "updateTime": "2024-12-12T15:29:00.192Z",
+    "updateTime": "2024-12-12T19:51:27.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10739,22 +10739,22 @@
     "language": "es"
   },
   {
-    "titleText": "Los imperdibles de Múnich",
+    "titleText": "¿Por qué los alemanes aman tanto su pan?",
     "category": "Viajes",
-    "subCategory": null,
+    "subCategory": "Cultura",
     "region_ids": {
       "region:europe:DE": "Alemania"
     },
     "regions": [
       "Alemania"
     ],
-    "runningTime": 392,
+    "runningTime": 233,
     "updateTime": "2024-10-15T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70484978&list=PANORAMA_VIDEO:1",
+      "contentId": "v=70484981&list=PANORAMA_VIDEO:1",
       "type": "video",
-      "id": 70484978,
+      "id": 70484981,
       "launchParam": null
     },
     "providerLogo": {
@@ -10764,13 +10764,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/66715818_6.jpg",
+      "url": "https://static.dw.com/image/55271394_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/66715818_7.jpg",
+      "url": "https://static.dw.com/image/55271394_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11057,6 +11057,47 @@
     "language": "es"
   },
   {
+    "titleText": "Merkel-Selfie und gelungene Integration",
+    "category": "Gesellschaft",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:europe:DE": "Deutschland",
+      "region:me:SY": "Syrien"
+    },
+    "regions": [
+      "Deutschland",
+      "Syrien"
+    ],
+    "runningTime": 371,
+    "updateTime": "2024-12-12T15:00:24.569Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71038932&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71038932,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71033221_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71033221_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Deutsche Wirtschaftskrise ",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11140,7 +11181,7 @@
     "updateTime": "2024-12-12T11:14:27.052Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71025160&list=REPORTS_VIDEO:1",
+      "contentId": "v=71025160&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71025160,
       "launchParam": null
@@ -11329,7 +11370,7 @@
     "updateTime": "2024-12-11T09:41:42.321Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71007269&list=FEATURED_VIDEO:1",
+      "contentId": "v=71007269&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71007269,
       "launchParam": null
