@@ -409,7 +409,7 @@
     "updateTime": "2024-12-12T17:36:24.659Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71041200&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=71041200&list=REGION_VIDEO:8",
       "type": "video",
       "id": 71041200,
       "launchParam": null
@@ -793,8 +793,8 @@
   },
   {
     "titleText": "Poland makes firearms lessons mandatory for schoolchildren",
-    "category": "Society",
-    "subCategory": "Conflicts",
+    "category": "Education",
+    "subCategory": null,
     "region_ids": {
       "region:europe:PL": "Poland"
     },
@@ -1049,7 +1049,7 @@
     "updateTime": "2024-12-11T14:37:30.887Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71024934&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=71024934&list=REGION_VIDEO:7",
       "type": "video",
       "id": 71024934,
       "launchParam": null
@@ -1090,7 +1090,7 @@
     "updateTime": "2024-12-11T13:33:33.08Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71025045&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=71025045&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71025045,
       "launchParam": null
@@ -3652,45 +3652,6 @@
     "language": "en"
   },
   {
-    "titleText": "What does the Enlightenment have to do with racism?",
-    "category": "Science",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 342,
-    "updateTime": "2024-12-05T09:40:56.406Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70919381&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70919381,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70598316_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70598316_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "CEO of US health insurer shot dead in New York",
     "category": "Crime",
     "subCategory": null,
@@ -5113,49 +5074,6 @@
     "language": "en"
   },
   {
-    "titleText": "Plastics pollution treaty still elusive at UN summit",
-    "category": "Nature and Environment",
-    "subCategory": "Globalization",
-    "region_ids": {
-      "region:asia:KR": "South Korea",
-      "region:asia:IN": "India",
-      "region:global": "Global"
-    },
-    "regions": [
-      "South Korea",
-      "India",
-      "Global"
-    ],
-    "runningTime": 168,
-    "updateTime": "2024-11-29T11:41:06.749Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70918655&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 70918655,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70902482_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70902482_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Gisele Pelicot celebrated as feminist hero in France",
     "category": "Society",
     "subCategory": "Law and Justice",
@@ -5395,45 +5313,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70912750_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fighting gender-based violence in Kenya",
-    "category": "Equality",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 155,
-    "updateTime": "2024-11-28T18:36:58.327Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70913007&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70913007,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70913161_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70913161_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7994,7 +7873,7 @@
     "updateTime": "2024-10-19T10:49:27.518Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70426485&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=70426485&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 70426485,
       "launchParam": null
@@ -8169,6 +8048,55 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70536297_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "River Nile: Upstream nations challenge Egypt's dominance",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:EG": "Egypt",
+      "region:africa:SD": "Sudan",
+      "region:africa:ET": "Ethiopia",
+      "region:africa:KE": "Kenya",
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Africa",
+      "Egypt",
+      "Sudan",
+      "Ethiopia",
+      "Kenya",
+      "Uganda"
+    ],
+    "runningTime": 119,
+    "updateTime": "2024-10-17T14:33:13.373Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70525750&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 70525750,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70525983_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70525983_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9128,6 +9056,45 @@
     "language": "en"
   },
   {
+    "titleText": "Finland's hunt for skilled labor",
+    "category": "Migration",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:FI": "Finland"
+    },
+    "regions": [
+      "Finland"
+    ],
+    "runningTime": 213,
+    "updateTime": "2024-09-20T12:03:59.783Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70237399&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70237399,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70211254_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70211254_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Poverty keeps countless Nigerian children out of school",
     "category": "Society",
     "subCategory": null,
@@ -9484,6 +9451,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69660575_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iran: Why suicide rates are rising among doctors",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Asia",
+      "Iran"
+    ],
+    "runningTime": 93,
+    "updateTime": "2024-09-05T14:17:26.86Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70145156&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70145156,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70133583_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70133583_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10131,7 +10139,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 177,
-    "updateTime": "2024-12-13T09:33:13.811Z",
+    "updateTime": "2024-12-13T11:21:10.589Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10153,6 +10161,51 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71024927_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "El magacín global del automóvil y la movilidad",
+    "category": "Automóviles y movilidad",
+    "subCategory": "Clima",
+    "region_ids": {
+      "region:europe:DE": "Alemania",
+      "region:cala:BR": "Brasil",
+      "region:cala:CR": "Costa Rica",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Alemania",
+      "Brasil",
+      "Costa Rica",
+      "Nigeria"
+    ],
+    "runningTime": 597,
+    "updateTime": "2024-12-13T10:46:43.382Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71028049&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 71028049,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70939495_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70939495_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10979,6 +11032,47 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Nach Assad: Was planen syrische Flüchtlinge in der Türkei?",
+    "category": "Politik",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:TR": "Türkei",
+      "region:me:SY": "Syrien"
+    },
+    "regions": [
+      "Türkei",
+      "Syrien"
+    ],
+    "runningTime": 347,
+    "updateTime": "2024-12-13T11:00:00.564Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71045609&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71045609,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71026387_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71026387_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Was ist Lärm?",
