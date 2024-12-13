@@ -9,8 +9,8 @@
     "regions": [
       "Europe"
     ],
-    "runningTime": 91,
-    "updateTime": "2024-12-12T19:49:26.169Z",
+    "runningTime": 93,
+    "updateTime": "2024-12-13T06:30:49.887Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:7",
@@ -79,21 +79,21 @@
   },
   {
     "titleText": "Syrians in Germany express hope, fear after Assad's fall",
-    "category": "Conflicts",
-    "subCategory": "Migration",
+    "category": "Migration",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:me:SY": "Syria",
-      "region:europe:DE": "Germany"
+      "region:europe:DE": "Germany",
+      "region:me:SY": "Syria"
     },
     "regions": [
-      "Syria",
-      "Germany"
+      "Germany",
+      "Syria"
     ],
     "runningTime": 364,
     "updateTime": "2024-12-12T19:15:32.628Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71041454&list=REGION_VIDEO:9",
+      "contentId": "v=71041454&list=REGION_VIDEO:7",
       "type": "video",
       "id": 71041454,
       "launchParam": null
@@ -355,7 +355,7 @@
     "language": "en"
   },
   {
-    "titleText": "Could Chennai, India, become a green city by 2050?",
+    "titleText": "India: Chennai's ambitious plan to boost its green cover",
     "category": "Nature and Environment",
     "subCategory": null,
     "region_ids": {
@@ -474,7 +474,7 @@
     "language": "en"
   },
   {
-    "titleText": "Gurugram's citizens lead waste cleanup revolution",
+    "titleText": "In India, Gurugram's citizens lead waste cleanup revolution",
     "category": "Nature and Environment",
     "subCategory": "Society",
     "region_ids": {
@@ -835,16 +835,16 @@
   {
     "titleText": "Rail Baltica faces financial and technical difficulties",
     "category": "Business",
-    "subCategory": null,
+    "subCategory": "Cars and Transportation",
     "region_ids": {
-      "region:europe:LT": "Lithuania",
       "region:europe:LV": "Latvia",
-      "region:europe:EE": "Estonia"
+      "region:europe:EE": "Estonia",
+      "region:europe:LT": "Lithuania"
     },
     "regions": [
-      "Lithuania",
       "Latvia",
-      "Estonia"
+      "Estonia",
+      "Lithuania"
     ],
     "runningTime": 195,
     "updateTime": "2024-12-11T14:37:30.887Z",
@@ -3767,6 +3767,45 @@
     "language": "en"
   },
   {
+    "titleText": "Which global politics are at play in Syria's war?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 255,
+    "updateTime": "2024-12-04T17:32:30.686Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70962132&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70962132,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70935518_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70935518_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Unite the anti-colonialism fight: Nduna Mkomanile",
     "category": "History",
     "subCategory": null,
@@ -3799,49 +3838,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70939324_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The Dahomey Mutiny",
-    "category": "History",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:africa": "Africa",
-      "region:africa:CM": "Cameroon"
-    },
-    "regions": [
-      "Germany",
-      "Africa",
-      "Cameroon"
-    ],
-    "runningTime": 89,
-    "updateTime": "2024-12-04T16:54:03.751Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70936570&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70936570,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70937891_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70937891_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10207,7 +10203,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 177,
-    "updateTime": "2024-12-12T19:51:27.064Z",
+    "updateTime": "2024-12-13T06:34:17.562Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10222,13 +10218,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70996631_6.jpg",
+      "url": "https://static.dw.com/image/71024927_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70996631_7.jpg",
+      "url": "https://static.dw.com/image/71024927_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
