@@ -1,19 +1,60 @@
 [
   {
+    "titleText": "Mystery drone sightings reported over US",
+    "category": "[Miscellaneous]",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 94,
+    "updateTime": "2024-12-15T15:33:15.794Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71062250&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71062250,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71062029_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71062029_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syrian mayor of German town views Assad fall with caution",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
+      "region:europe:DE": "Germany",
       "region:me:SY": "Syria"
     },
     "regions": [
+      "Germany",
       "Syria"
     ],
     "runningTime": 134,
     "updateTime": "2024-12-15T13:33:26.757Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71061752&list=REGION_VIDEO:9",
+      "contentId": "v=71061752&list=REGION_VIDEO:7",
       "type": "video",
       "id": 71061752,
       "launchParam": null
@@ -2930,6 +2971,47 @@
     "language": "en"
   },
   {
+    "titleText": "Assad's fall — how regional powers are reacting ",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me:SY": "Syria",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Syria",
+      "Middle East"
+    ],
+    "runningTime": 136,
+    "updateTime": "2024-12-08T21:48:31.5Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70997840&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 70997840,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70998012_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70998012_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How well do you know these European Christmas traditions?",
     "category": "Culture",
     "subCategory": "Lifestyle",
@@ -3243,49 +3325,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70976382_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Remembering the genocide, looking to the future",
-    "category": "History",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:africa": "Africa",
-      "region:africa:NA": "Namibia"
-    },
-    "regions": [
-      "Germany",
-      "Africa",
-      "Namibia"
-    ],
-    "runningTime": 89,
-    "updateTime": "2024-12-07T09:42:16.696Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70938365&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 70938365,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70940842_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70940842_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6930,47 +6969,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70761873_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Is country music racist?",
-    "category": "Society",
-    "subCategory": "Music",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:northamerica": "North America"
-    },
-    "regions": [
-      "United States of America",
-      "North America"
-    ],
-    "runningTime": 398,
-    "updateTime": "2024-11-12T08:34:55.447Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70739436&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70739436,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70737650_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70737650_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
