@@ -4,13 +4,15 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me:IR": "Iran"
+      "region:me:IR": "Iran",
+      "region:me:SY": "Syria"
     },
     "regions": [
-      "Iran"
+      "Iran",
+      "Syria"
     ],
     "runningTime": 179,
-    "updateTime": "2024-12-16T19:16:08.52Z",
+    "updateTime": "2024-12-16T20:10:31.883Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=71074155&list=REGION_VIDEO:9",
@@ -32,6 +34,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70995685_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Emergency operation underway in Mayotte",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "Africa",
+      "France"
+    ],
+    "runningTime": 148,
+    "updateTime": "2024-12-16T19:19:14.332Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71074163&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71074163,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71067256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71067256_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -64,13 +107,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71062731_6.jpg",
+      "url": "https://static.dw.com/image/71068625_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71062731_7.jpg",
+      "url": "https://static.dw.com/image/71068625_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -103,13 +146,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71068669_6.jpg",
+      "url": "https://static.dw.com/image/71068348_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71068669_7.jpg",
+      "url": "https://static.dw.com/image/71068348_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5186,45 +5229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/62299271_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Paving the way for equality in South Africa",
-    "category": "Equality",
-    "subCategory": "Diversity",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 389,
-    "updateTime": "2024-11-29T14:26:23.327Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70918011&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 70918011,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70901721_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70901721_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
