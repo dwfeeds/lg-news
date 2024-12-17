@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Ukraine claims responsibility for killing of Russian general",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 81,
+    "updateTime": "2024-12-17T16:33:41.677Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71082085&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71082085,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71078991_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71078991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2024-12-17T16:32:55.957Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71078901_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71078901_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "FlixBus becomes world's biggest intercity bus operator",
     "category": "Business",
     "subCategory": null,
@@ -78,86 +158,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukraine claims responsibility for killing of Russian General",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RU": "Russian Federation",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Russian Federation",
-      "Ukraine"
-    ],
-    "runningTime": 81,
-    "updateTime": "2024-12-17T13:31:54.271Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71082085&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71082085,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71078991_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71078991_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-12-17T13:19:10.742Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71078901_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71078901_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Swimming against the current: How art saved a prodigy",
     "category": "Sports",
     "subCategory": "Arts",
@@ -199,7 +199,7 @@
     "language": "en"
   },
   {
-    "titleText": "What’s it like to live on a classic narrowboat? ",
+    "titleText": "What's it like to live on a classic narrowboat? ",
     "category": "Lifestyle",
     "subCategory": null,
     "region_ids": {
@@ -435,7 +435,7 @@
     "language": "en"
   },
   {
-    "titleText": "Piecing together what happened in Assad's jails",
+    "titleText": "Syria: Inside Assad's infamous jails\n",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -3680,6 +3680,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70917084_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Therapy dog Little Joe helps German students ",
+    "category": "Health",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 311,
+    "updateTime": "2024-12-09T08:23:31.757Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70921693&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70921693,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70911553_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70911553_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11839,7 +11878,7 @@
     "language": "de"
   },
   {
-    "titleText": "Paris: Zentrum ohne Autofahrer",
+    "titleText": "Paris: Frankreichs Hauptstadt verbannt den Autoverkehr",
     "category": "Klima",
     "subCategory": "Auto und Mobilität",
     "region_ids": {
