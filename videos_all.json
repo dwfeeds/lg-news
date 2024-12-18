@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2024-12-18T16:41:57.111Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71078901_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71078901_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Domestic flights resume in Syria",
     "category": "Conflicts",
     "subCategory": "Cars and Transportation",
@@ -82,10 +121,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
+      "region:me:SY": "Syria",
       "region:me": "Middle East",
       "region:europe:RU": "Russian Federation"
     },
     "regions": [
+      "Syria",
       "Middle East",
       "Russian Federation"
     ],
@@ -112,45 +153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71062419_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2024-12-18T13:08:14.809Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71078901_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71078901_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11018,41 +11020,6 @@
     "language": "es"
   },
   {
-    "titleText": "General Igor Kirillov",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 118,
-    "updateTime": "2024-12-18T02:36:03.467Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71088517&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71088517,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69105274_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69105274_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Conciencia Sur: \"Vivimos una espléndida mentira\"",
     "category": "Globalización",
     "subCategory": null,
@@ -11800,6 +11767,53 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Wer profitiert vom Sturz des Assad-Regimes in Syrien?",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Nahost",
+      "region:me:SY": "Syrien",
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel",
+      "region:europe:RU": "Russische Föderation"
+    },
+    "regions": [
+      "Nahost",
+      "Syrien",
+      "Iran",
+      "Israel",
+      "Russische Föderation"
+    ],
+    "runningTime": 164,
+    "updateTime": "2024-12-18T14:48:40.726Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71097520&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71097520,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71062419_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71062419_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Umweltheldinnen: Frauen helfen Frauen im ländlichen Uganda",
