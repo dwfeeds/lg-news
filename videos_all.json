@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israel says militants posing as journalists in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 123,
+    "updateTime": "2024-12-26T18:10:43.634Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71165198&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71165198,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71165084_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71165084_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Blackouts in Iran amid energy crunch",
     "category": "Business",
     "subCategory": null,
@@ -372,7 +411,7 @@
     "updateTime": "2024-12-26T07:18:55.026Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69636501&list=REGION_VIDEO:4",
+      "contentId": "v=69636501&list=FULL_SHOWS_VIDEO:10",
       "type": "video",
       "id": 69636501,
       "launchParam": null
@@ -4242,45 +4281,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71064754_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Lebanon: Residents return to homes hit by Israeli strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 180,
-    "updateTime": "2024-12-16T07:43:19.769Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71064510&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71064510,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71064503_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71064503_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11939,7 +11939,7 @@
     "language": "es"
   },
   {
-    "titleText": "Notschleusung an der Mosel",
+    "titleText": "Notschleuse an der Mosel löst Schiffsstau auf",
     "category": "Wirtschaft",
     "subCategory": "Panorama",
     "region_ids": {
