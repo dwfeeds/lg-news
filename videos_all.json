@@ -160,7 +160,7 @@
   {
     "titleText": "A village for the elderly in Spain",
     "category": "Culture",
-    "subCategory": "Society",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:ES": "Spain",
       "region:europe": "Europe"
@@ -173,7 +173,7 @@
     "updateTime": "2024-12-27T11:35:09.95Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71087215&list=FEATURED_VIDEO:1",
+      "contentId": "v=71087215&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 71087215,
       "launchParam": null
@@ -413,7 +413,7 @@
     "updateTime": "2024-12-27T04:10:21.587Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71166486&list=FULL_SHOWS_VIDEO:10",
+      "contentId": "v=71166486&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71166486,
       "launchParam": null
@@ -3452,45 +3452,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71112058_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Romania marks 35 years since the 1989 revolution",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RO": "Romania"
-    },
-    "regions": [
-      "Romania"
-    ],
-    "runningTime": 218,
-    "updateTime": "2024-12-19T14:52:11.539Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71110845&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71110845,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71069652_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71069652_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8572,45 +8533,6 @@
     "language": "en"
   },
   {
-    "titleText": "Challenging albinism discrimination in Angola",
-    "category": "Human Rights",
-    "subCategory": "Diversity",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 299,
-    "updateTime": "2024-11-10T17:44:22.313Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70714946&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 70714946,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70642715_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70642715_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Spain: Thousands protest, demand Valencia leader resign",
     "category": "Catastrophe",
     "subCategory": "Politics",
@@ -12134,6 +12056,45 @@
     "language": "es"
   },
   {
+    "titleText": "Flugzeugabsturz in Kasachstan: \"Einwirkungen von außen\"",
+    "category": "Katastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:KZ": "Kasachstan"
+    },
+    "regions": [
+      "Kasachstan"
+    ],
+    "runningTime": 173,
+    "updateTime": "2024-12-27T16:34:02.383Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71171952&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71171952,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71158980_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71158980_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Angehörige von Assads Armee setzen auf Neuanfang in Syrien",
     "category": "Konflikte",
     "subCategory": null,
@@ -12597,45 +12558,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70960480_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "New York City: Hürden überwinden mit Behinderung",
-    "category": "Gleichberechtigung",
-    "subCategory": "Menschenrechte",
-    "region_ids": {
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 451,
-    "updateTime": "2024-12-24T10:00:27.953Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71144223&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71144223,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71118108_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71118108_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
