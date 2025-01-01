@@ -43,10 +43,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:me:SY": "Syria"
+      "region:me:SY": "Syria",
+      "region:me": "Middle East"
     },
     "regions": [
-      "Syria"
+      "Syria",
+      "Middle East"
     ],
     "runningTime": 167,
     "updateTime": "2025-01-01T14:14:40.713Z",
@@ -9265,7 +9267,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-01-01T14:18:34.152Z",
+    "updateTime": "2025-01-01T15:22:14.841Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9287,6 +9289,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71196975_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Ucrania: adopción en tiempos de guerra ",
+    "category": "Conflictos",
+    "subCategory": "Sociedad",
+    "region_ids": {
+      "region:europe:UA": "Ucrania"
+    },
+    "regions": [
+      "Ucrania"
+    ],
+    "runningTime": 355,
+    "updateTime": "2025-01-01T15:06:25.839Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71098279&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71098279,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70996065_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70996065_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
