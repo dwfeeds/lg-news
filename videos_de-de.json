@@ -139,7 +139,7 @@
     "updateTime": "2024-12-31T14:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71189712&list=REPORTS_VIDEO:1",
+      "contentId": "v=71189712&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71189712,
       "launchParam": null
@@ -271,7 +271,7 @@
     "updateTime": "2024-12-27T20:46:37.16Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71170003&list=PANORAMA_VIDEO:1",
+      "contentId": "v=71170003&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71170003,
       "launchParam": null
@@ -304,7 +304,7 @@
     "updateTime": "2024-12-27T20:46:24.114Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71171419&list=FEATURED_VIDEO:1",
+      "contentId": "v=71171419&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 71171419,
       "launchParam": null
@@ -858,6 +858,39 @@
     "language": "de"
   },
   {
+    "titleText": "TV Bra: Norwegens ungewöhnlichster Fernsehsender ",
+    "category": "Panorama",
+    "subCategory": "Diversität",
+    "runningTime": 305,
+    "updateTime": "2024-12-16T08:15:04.836Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71025129&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 71025129,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70988169_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70988169_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Schießunterricht für Schüler in Polen",
     "category": "Gesellschaft",
     "subCategory": "Konflikte",
@@ -1313,39 +1346,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68794921_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Profitiert Nordkorea vom Ukraine-Krieg?",
-    "category": "Konflikte",
-    "subCategory": null,
-    "runningTime": 286,
-    "updateTime": "2024-11-16T14:12:00.954Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70797768&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 70797768,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70794043_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70794043_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
