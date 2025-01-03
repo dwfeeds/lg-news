@@ -40,7 +40,7 @@
     "updateTime": "2025-01-02T15:26:29.02Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71203452&list=REGION_VIDEO:7",
+      "contentId": "v=71203452&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71203452,
       "launchParam": null
@@ -200,7 +200,7 @@
   {
     "titleText": "Can Germany's Chemnitz reinvent itself through culture?",
     "category": "Culture",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "runningTime": 157,
     "updateTime": "2025-01-01T14:10:44.678Z",
     "onClick": {
@@ -1049,6 +1049,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71140603_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Slovakia's appeal for Russian gas",
+    "category": "Business",
+    "subCategory": "Politics",
+    "runningTime": 100,
+    "updateTime": "2024-12-23T18:34:58.089Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71149023&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71149023,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71138478_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71138478_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
