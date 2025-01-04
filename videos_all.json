@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-01-04T18:51:25.999Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71217529_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71217529_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Should alcoholic drinks carry a warning label?",
     "category": "Health",
     "subCategory": "Politics",
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71216361_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 88,
-    "updateTime": "2025-01-04T13:50:43.987Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71217529_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71217529_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4043,45 +4043,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71118108_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What message does Santa bring while jingling all the way?",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FI": "Finland"
-    },
-    "regions": [
-      "Finland"
-    ],
-    "runningTime": 111,
-    "updateTime": "2024-12-24T09:34:57.563Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71151377&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71151377,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65165880_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65165880_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9253,6 +9214,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 177,
+    "updateTime": "2025-01-04T19:35:18.006Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71214969_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71214969_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Reapertura de Notre Dame de París",
     "category": "Sociedad",
     "subCategory": "Historia",
@@ -9285,41 +9281,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70976382_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 177,
-    "updateTime": "2025-01-04T15:17:43.368Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71214969_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71214969_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
