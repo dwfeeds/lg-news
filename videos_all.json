@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Snow disrupts transport in US and Europe",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 77,
+    "updateTime": "2025-01-05T17:39:52.918Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71222386&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71222386,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71220529_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71220529_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Emotions run high in South Korea over fate of President Yoon",
     "category": "Conflicts",
     "subCategory": null,
@@ -4082,45 +4123,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71110806_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "AI robots from Germany",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 449,
-    "updateTime": "2024-12-24T10:09:23.494Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71121599&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71121599,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70952795_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70952795_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
