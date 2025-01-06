@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Playing video games — blind?",
+    "category": "Technology",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 99,
+    "updateTime": "2025-01-06T08:35:00.745Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70660101&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 70660101,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70650548_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70650548_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -78,7 +117,7 @@
     "language": "en"
   },
   {
-    "titleText": "Political deadlock in Austria",
+    "titleText": "Political deadlock in Austria after coalition talks collapse",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -103,13 +142,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71219268_6.jpg",
+      "url": "https://static.dw.com/image/70361521_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71219268_7.jpg",
+      "url": "https://static.dw.com/image/70361521_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3487,45 +3526,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71160599_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Global Queen: Elena Garcia Armada's exoskeleton for children",
-    "category": "Diversity",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 368,
-    "updateTime": "2024-12-26T10:55:33.64Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71124823&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71124823,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71117829_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71117829_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9224,7 +9224,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 177,
-    "updateTime": "2025-01-05T21:05:23.272Z",
+    "updateTime": "2025-01-06T08:02:34.945Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
