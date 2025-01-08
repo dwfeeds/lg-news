@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Thousands evacuate as Los Angeles wildfire spreads",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 126,
+    "updateTime": "2025-01-08T09:58:14.805Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71245205&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71245205,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71244264_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71244264_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Meta ends third-party fact checking on Facebook, Instagram",
     "category": "Technology",
     "subCategory": "Freedom of Speech",
@@ -119,7 +158,7 @@
     "language": "en"
   },
   {
-    "titleText": "CES tech trade show starts in Las Vegas",
+    "titleText": "AI gadgets lead the way at Las Vegas CES tech trade show",
     "category": "Technology",
     "subCategory": null,
     "region_ids": {
@@ -162,18 +201,24 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
+      "region:africa": "Africa",
       "region:europe:FR": "France",
-      "region:africa:TD": "Chad"
+      "region:africa:TD": "Chad",
+      "region:africa:SN": "Senegal",
+      "region:africa:CI": "Ivory Coast"
     },
     "regions": [
+      "Africa",
       "France",
-      "Chad"
+      "Chad",
+      "Senegal",
+      "Ivory Coast"
     ],
     "runningTime": 118,
     "updateTime": "2025-01-07T14:59:23.174Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71239001&list=REGION_VIDEO:7",
+      "contentId": "v=71239001&list=REGION_VIDEO:8",
       "type": "video",
       "id": 71239001,
       "launchParam": null
@@ -192,47 +237,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71218445_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Does visa-free travel advance pan-African unity? ",
-    "category": "Travel",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:GH": "Ghana",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Ghana",
-      "Africa"
-    ],
-    "runningTime": 176,
-    "updateTime": "2025-01-06T22:37:04.371Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71233637&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71233637,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61177349_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61177349_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1624,45 +1628,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70996065_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Tech trends to watch in 2025 ",
-    "category": "Digital World",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 224,
-    "updateTime": "2025-01-02T11:24:37.932Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71201803&list=FULL_SHOWS_VIDEO:10",
-      "type": "video",
-      "id": 71201803,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71024736_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71024736_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3378,6 +3343,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/62235892_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Broken infrastructure delays shipping on vital German river",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 134,
+    "updateTime": "2024-12-27T16:29:10.337Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71150811&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71150811,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71148271_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71148271_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6593,45 +6597,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69698369_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Murder of US health care CEO exposes deep frustration",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 132,
-    "updateTime": "2024-12-07T13:43:10.058Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70991320&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70991320,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70991190_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70991190_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
