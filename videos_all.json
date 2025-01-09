@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 97,
+    "updateTime": "2025-01-09T20:34:17.056Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71244264_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71244264_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Migration a key issue in Germany's 2025 election campaign",
     "category": "Politics",
     "subCategory": null,
@@ -78,61 +117,22 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-01-09T16:35:52.598Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71244264_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71244264_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Black Americans find a new home in Ghana",
+    "titleText": "Leaving United States, Black Americans find a home in Ghana",
     "category": "Migration",
     "subCategory": null,
     "region_ids": {
-      "region:africa:GH": "Ghana",
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:africa:GH": "Ghana"
     },
     "regions": [
-      "Ghana",
-      "United States of America"
+      "United States of America",
+      "Ghana"
     ],
     "runningTime": 189,
     "updateTime": "2025-01-09T15:15:25.631Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71257279&list=REGION_VIDEO:8",
+      "contentId": "v=71257279&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71257279,
       "launchParam": null
@@ -6360,45 +6360,6 @@
     "language": "en"
   },
   {
-    "titleText": "Unexplained drones in US night sky put FBI on the spot",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 131,
-    "updateTime": "2024-12-11T21:45:00.851Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71029581&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71029581,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71029592_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71029592_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Ukrainian forces struggle to retain control of Russian land",
     "category": "Conflicts",
     "subCategory": null,
@@ -9185,6 +9146,45 @@
     "language": "en"
   },
   {
+    "titleText": "La Legión Extranjera francesa",
+    "category": "Sociedad",
+    "subCategory": "Conflictos",
+    "region_ids": {
+      "region:europe:FR": "Francia"
+    },
+    "regions": [
+      "Francia"
+    ],
+    "runningTime": 394,
+    "updateTime": "2025-01-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71250401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71204702_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71204702_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Reapertura de Notre Dame de París",
     "category": "Sociedad",
     "subCategory": "Historia",
@@ -9498,45 +9498,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/57488403_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Familias de rehenes en Gaza exigen acuerdo de liberación",
-    "category": "Política",
-    "subCategory": "Conflictos",
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 162,
-    "updateTime": "2025-01-03T14:19:18.795Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71183613&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71183613,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71181718_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71181718_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
