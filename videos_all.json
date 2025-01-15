@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 89,
+    "updateTime": "2025-01-15T08:56:43.105Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:5",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71250442_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71250442_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Protecting and cultivating mushrooms in Kashmir",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71244754_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 89,
-    "updateTime": "2025-01-15T04:33:27.653Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:5",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71250442_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71250442_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -151,45 +151,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70916622_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "South African mines rescue continues",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-01-14T16:38:43.444Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71293905&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71293905,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70777484_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70777484_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5815,6 +5776,45 @@
     "language": "en"
   },
   {
+    "titleText": "Is Africa ready for duty-free access to China?",
+    "category": "Trade",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 222,
+    "updateTime": "2024-12-23T09:21:13.721Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71135091&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71135091,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70137643_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70137643_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump threatens to retake control of Panama Canal",
     "category": "Business",
     "subCategory": "Politics",
@@ -9116,22 +9116,22 @@
     "language": "es"
   },
   {
-    "titleText": "La Legión Extranjera francesa",
-    "category": "Sociedad",
-    "subCategory": null,
+    "titleText": "Aviones propulsados con aceite de cocina en España",
+    "category": "Clima",
+    "subCategory": "Innovación",
     "region_ids": {
-      "region:europe:FR": "Francia"
+      "region:europe:ES": "España"
     },
     "regions": [
-      "Francia"
+      "España"
     ],
-    "runningTime": 394,
+    "runningTime": 313,
     "updateTime": "2025-01-09T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
+      "contentId": "v=71250404&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71250401,
+      "id": 71250404,
       "launchParam": null
     },
     "providerLogo": {
@@ -9141,13 +9141,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71204702_6.jpg",
+      "url": "https://static.dw.com/image/71204682_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71204702_7.jpg",
+      "url": "https://static.dw.com/image/71204682_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9198,22 +9198,22 @@
     "language": "es"
   },
   {
-    "titleText": "Aviones propulsados con aceite de cocina en España",
-    "category": "Clima",
-    "subCategory": "Innovación",
+    "titleText": "La Legión Extranjera francesa",
+    "category": "Sociedad",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:ES": "España"
+      "region:europe:FR": "Francia"
     },
     "regions": [
-      "España"
+      "Francia"
     ],
-    "runningTime": 313,
+    "runningTime": 394,
     "updateTime": "2025-01-09T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71250404&list=REPORTS_VIDEO:1",
+      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71250404,
+      "id": 71250401,
       "launchParam": null
     },
     "providerLogo": {
@@ -9223,13 +9223,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71204682_6.jpg",
+      "url": "https://static.dw.com/image/71204702_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71204682_7.jpg",
+      "url": "https://static.dw.com/image/71204702_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
