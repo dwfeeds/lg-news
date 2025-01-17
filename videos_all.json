@@ -320,18 +320,18 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:europe:DK": "Denmark"
     },
     "regions": [
-      "Denmark",
-      "United States of America"
+      "United States of America",
+      "Denmark"
     ],
     "runningTime": 166,
     "updateTime": "2025-01-17T08:18:18.827Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71322059&list=REGION_VIDEO:7",
+      "contentId": "v=71322059&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71322059,
       "launchParam": null
@@ -2551,6 +2551,45 @@
     "language": "en"
   },
   {
+    "titleText": "Serbian rug seeks global cultural heritage status",
+    "category": "Culture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RS": "Serbia"
+    },
+    "regions": [
+      "Serbia"
+    ],
+    "runningTime": 252,
+    "updateTime": "2025-01-10T12:57:14.167Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71265546&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71265546,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70634499_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70634499_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why beaded royal crowns still matter in Nigeria",
     "category": "Culture",
     "subCategory": "Society",
@@ -4557,45 +4596,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71199793_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ten dead as man drives truck into New Orleans crowd",
-    "category": "Terrorism",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-01-01T21:34:54.495Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71198682&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71198682,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71196917_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71196917_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10760,6 +10760,45 @@
     "language": "es"
   },
   {
+    "titleText": "Bosnier dürfen endlich ohne Visum nach Kosovo ",
+    "category": "Kultur",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:XK": "Kosovo"
+    },
+    "regions": [
+      "Kosovo"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-01-17T14:07:02.421Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71330662&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71330662,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71327965_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71327965_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Moldau: Russland dreht den Gashahn zu",
     "category": "Gesellschaft",
     "subCategory": "Konflikte",
@@ -10773,7 +10812,7 @@
     "updateTime": "2025-01-17T09:41:33.297Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71300137&list=REPORTS_VIDEO:1",
+      "contentId": "v=71300137&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71300137,
       "launchParam": null
@@ -10851,7 +10890,7 @@
     "updateTime": "2025-01-16T11:25:45.505Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71300740&list=FEATURED_VIDEO:1",
+      "contentId": "v=71300740&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71300740,
       "launchParam": null
@@ -11120,7 +11159,7 @@
     "updateTime": "2025-01-12T10:59:04.34Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71269457&list=REPORTS_VIDEO:1",
+      "contentId": "v=71269457&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71269457,
       "launchParam": null
@@ -11886,45 +11925,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70952659_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Das spanische Dorf der Alten",
-    "category": "Gesellschaft",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:ES": "Spanien"
-    },
-    "regions": [
-      "Spanien"
-    ],
-    "runningTime": 291,
-    "updateTime": "2024-12-27T20:46:37.16Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71170003&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71170003,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70996051_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70996051_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
