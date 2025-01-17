@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Iran and Russia look to forge stronger ties against West",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Iran",
+      "Russian Federation"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-01-17T12:54:20.077Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71326501&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71326501,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71325917_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71325917_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -6761,45 +6802,6 @@
     "language": "en"
   },
   {
-    "titleText": "Syria: Inside Assad's infamous jails\n",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 98,
-    "updateTime": "2024-12-17T07:41:28.128Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71077298&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71077298,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71077376_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71077376_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Britain's overcrowded and violent prison system is in crisis",
     "category": "Human Rights",
     "subCategory": "Crime",
@@ -9787,7 +9789,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-01-17T11:17:36.167Z",
+    "updateTime": "2025-01-17T13:27:10.924Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10007,45 +10009,6 @@
     "language": "es"
   },
   {
-    "titleText": "La Legión Extranjera francesa",
-    "category": "Sociedad",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "Francia"
-    },
-    "regions": [
-      "Francia"
-    ],
-    "runningTime": 394,
-    "updateTime": "2025-01-09T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71250401,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71204702_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71204702_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "El último autobús de Europa a Rusia ",
     "category": "Sociedad",
     "subCategory": "Automóviles y movilidad",
@@ -10082,6 +10045,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71204694_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "La Legión Extranjera francesa",
+    "category": "Sociedad",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Francia"
+    },
+    "regions": [
+      "Francia"
+    ],
+    "runningTime": 394,
+    "updateTime": "2025-01-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71250401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71204702_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71204702_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
