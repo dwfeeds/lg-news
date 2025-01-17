@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Palestinians, Israelis eagerly await ceasefire decision",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 145,
+    "updateTime": "2025-01-17T21:08:52.995Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71333923&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71333923,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71321850_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71321850_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -6538,7 +6577,7 @@
     "updateTime": "2024-12-18T21:06:05.48Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71101695&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71101695&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71101695,
       "launchParam": null
@@ -6678,45 +6717,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71062419_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Mixed emotions as Syrian minorities contemplate the future",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 236,
-    "updateTime": "2024-12-17T07:41:43.897Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71077297&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71077297,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71077364_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71077364_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
