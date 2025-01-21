@@ -87,7 +87,7 @@
     "regions": [
       "Europe"
     ],
-    "runningTime": 83,
+    "runningTime": 81,
     "updateTime": "2025-01-20T21:24:59.314Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
@@ -9699,45 +9699,6 @@
     "language": "es"
   },
   {
-    "titleText": "La Legión Extranjera francesa",
-    "category": "Sociedad",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "Francia"
-    },
-    "regions": [
-      "Francia"
-    ],
-    "runningTime": 394,
-    "updateTime": "2025-01-09T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71250401,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71204702_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71204702_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Aviones propulsados con aceite de cocina en España",
     "category": "Clima",
     "subCategory": "Innovación",
@@ -9813,6 +9774,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71204694_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "La Legión Extranjera francesa",
+    "category": "Sociedad",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Francia"
+    },
+    "regions": [
+      "Francia"
+    ],
+    "runningTime": 394,
+    "updateTime": "2025-01-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71250401&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71250401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71204702_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71204702_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
