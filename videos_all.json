@@ -4,10 +4,12 @@
     "category": "Business",
     "subCategory": "Politics",
     "region_ids": {
-      "region:cala:PA": "Panama"
+      "region:cala:PA": "Panama",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Panama"
+      "Panama",
+      "United States of America"
     ],
     "runningTime": 171,
     "updateTime": "2025-01-22T08:29:25.377Z",
@@ -11285,6 +11287,125 @@
     "language": "es"
   },
   {
+    "titleText": "Portugal: Steuergeschenke gegen den Brain-Drain",
+    "category": "Wirtschaft",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 307,
+    "updateTime": "2025-01-22T09:37:17.127Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71366034&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71366034,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71333244_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71333244_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Mustika: Karriere, Coaching und Leben in Deutschland",
+    "category": "Wirtschaft",
+    "subCategory": "Bildung",
+    "region_ids": {
+      "region:europe:DE": "Deutschland",
+      "region:asia:ID": "Indonesien"
+    },
+    "regions": [
+      "Deutschland",
+      "Indonesien"
+    ],
+    "runningTime": 304,
+    "updateTime": "2025-01-22T09:34:42.019Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71366044&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71366044,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71333234_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71333234_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "HIV-Hilfen für die Ärmsten in Johannesburg",
+    "category": "Gesundheit",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:africa:ZA": "Südafrika"
+    },
+    "regions": [
+      "Südafrika"
+    ],
+    "runningTime": 315,
+    "updateTime": "2025-01-22T08:43:21.283Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71358905&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71358905,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71314836_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71314836_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Mülldeponien in Serbien - Gefahr für Menschen und Umwelt ",
     "category": "Politik",
     "subCategory": null,
@@ -11443,45 +11564,6 @@
     "language": "de"
   },
   {
-    "titleText": "HIV-Hilfen für die Ärmsten in Johannesburg",
-    "category": "Gesundheit",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:africa:ZA": "Südafrika"
-    },
-    "regions": [
-      "Südafrika"
-    ],
-    "runningTime": 315,
-    "updateTime": "2025-01-21T09:19:53.452Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71358905&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71358905,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71314836_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71314836_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Dank Brexit: Sind \"Fish and Chips\" bald Luxusgut?",
     "category": "Gesellschaft",
     "subCategory": "Politik",
@@ -11631,84 +11713,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71331992_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Trump: 59 Vorhaben am ersten Tag",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-01-19T06:08:37.723Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71330878&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71330878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71314160_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71314160_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Donald Trumps Wurzeln in Deutschland und Schottland",
-    "category": "Gesellschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 327,
-    "updateTime": "2025-01-18T14:19:29.712Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71331641&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71331641,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71331982_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71331982_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
