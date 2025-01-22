@@ -726,16 +726,18 @@
     "category": "Migration",
     "subCategory": "Politics",
     "region_ids": {
+      "region:northamerica:US": "United States of America",
       "region:cala:MX": "Mexico"
     },
     "regions": [
+      "United States of America",
       "Mexico"
     ],
     "runningTime": 126,
     "updateTime": "2025-01-22T10:47:21.309Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71369939&list=REGION_VIDEO:6",
+      "contentId": "v=71369939&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71369939,
       "launchParam": null
@@ -4852,45 +4854,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71218552_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Incoming President Donald Trump threatens to change the map",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-01-08T18:02:02.635Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71250828&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71250828,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71244976_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71244976_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11404,6 +11367,47 @@
     "language": "es"
   },
   {
+    "titleText": "Donald Trump fordert Kontrolle des Panama-Kanals zurück",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "Vereinigte Staaten von Amerika",
+      "region:cala:PA": "Panama"
+    },
+    "regions": [
+      "Vereinigte Staaten von Amerika",
+      "Panama"
+    ],
+    "runningTime": 172,
+    "updateTime": "2025-01-22T20:14:39.119Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71376849&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71376849,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71368487_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71368487_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Nina Métayer, die offiziell beste Konditorin der Welt ",
     "category": "Kultur",
     "subCategory": null,
@@ -11564,7 +11568,7 @@
     "language": "de"
   },
   {
-    "titleText": "Portugal: Steuergeschenke gegen den Brain-Drain",
+    "titleText": "Portugal umwirbt Akademiker mit weniger Steuern ",
     "category": "Wirtschaft",
     "subCategory": "Migration",
     "region_ids": {
