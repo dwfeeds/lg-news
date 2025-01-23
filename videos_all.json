@@ -741,7 +741,7 @@
     "updateTime": "2025-01-22T14:54:05.03Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71268006&list=REGION_VIDEO:7",
+      "contentId": "v=71268006&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71268006,
       "launchParam": null
@@ -1128,7 +1128,7 @@
     "language": "en"
   },
   {
-    "titleText": "Trump puts an end to US gender diversity policies",
+    "titleText": "Trump declares US to only recognize two genders",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -2941,6 +2941,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/64995943_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Europeans uncertain about Trump role on Ukraine",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 166,
+    "updateTime": "2025-01-16T16:38:41.229Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71318028&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71318028,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71255472_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71255472_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5871,7 +5910,7 @@
     "updateTime": "2024-12-28T19:39:58.865Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71177372&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71177372&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71177372,
       "launchParam": null
@@ -6809,49 +6848,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71136011_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hopes of Gaza ceasefire rise as Israel-Hamas talks continue",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel",
-      "Middle East"
-    ],
-    "runningTime": 120,
-    "updateTime": "2024-12-22T19:27:11.402Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71138546&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71138546,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71136591_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71136591_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9066,47 +9062,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69910800_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Could new EU tariffs on Chinese cars backfire?",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Europe",
-      "China"
-    ],
-    "runningTime": 178,
-    "updateTime": "2024-10-04T19:25:18.254Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70404497&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 70404497,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69083300_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69083300_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
