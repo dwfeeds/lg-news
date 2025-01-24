@@ -1,13 +1,54 @@
 [
   {
+    "titleText": "The forgotten sites of the \"Dispersed Holocaust\"",
+    "category": "Society",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 350,
+    "updateTime": "2025-01-24T08:10:13.919Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71331221&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71331221,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71330101_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71330101_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pistorius says Europe must shoulder security burden",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:europe:DE": "Germany",
+      "region:europe:LT": "Lithuania"
     },
     "regions": [
-      "Germany"
+      "Germany",
+      "Lithuania"
     ],
     "runningTime": 127,
     "updateTime": "2025-01-24T07:33:00.926Z",
@@ -117,7 +158,7 @@
     "language": "en"
   },
   {
-    "titleText": "Ceremony in Berlin to remember victims of Auschwitz",
+    "titleText": "Ceremony in Berlin remembers Auschwitz victims",
     "category": "History",
     "subCategory": "Politics",
     "region_ids": {
@@ -1092,7 +1133,7 @@
     "updateTime": "2025-01-22T14:54:05.03Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71268006&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=71268006&list=REGION_VIDEO:7",
       "type": "video",
       "id": 71268006,
       "launchParam": null
@@ -1557,14 +1598,16 @@
     "language": "en"
   },
   {
-    "titleText": "Asylum seekers to US fear tighter border policy, deportation",
+    "titleText": "Asylum-seekers fear tighter US border policy, deportations",
     "category": "Migration",
     "subCategory": "Politics",
     "region_ids": {
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:cala": "Latin America"
     },
     "regions": [
-      "United States of America"
+      "United States of America",
+      "Latin America"
     ],
     "runningTime": 134,
     "updateTime": "2025-01-21T14:00:14.639Z",
@@ -2859,45 +2902,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71319838_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Moldova: Russia shuts down gas supply",
-    "category": "Society",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:europe:MD": "Republic of Moldova"
-    },
-    "regions": [
-      "Republic of Moldova"
-    ],
-    "runningTime": 300,
-    "updateTime": "2025-01-17T09:44:27.952Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71267977&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71267977,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71249111_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71249111_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9059,6 +9063,47 @@
     "language": "en"
   },
   {
+    "titleText": "Could new EU tariffs on Chinese cars backfire?",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Europe",
+      "China"
+    ],
+    "runningTime": 178,
+    "updateTime": "2024-10-04T19:25:18.254Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70404497&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70404497,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69083300_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69083300_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Discrimination and refuge for trans people",
     "category": "Business",
     "subCategory": null,
@@ -10343,7 +10388,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-01-23T20:43:54.623Z",
+    "updateTime": "2025-01-24T08:25:10.077Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10358,13 +10403,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70749472_6.jpg",
+      "url": "https://static.dw.com/image/71389696_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70749472_7.jpg",
+      "url": "https://static.dw.com/image/71389696_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11314,6 +11359,45 @@
     "language": "es"
   },
   {
+    "titleText": "Die vergessenen Orte des \"Dispersed Holocaust\"",
+    "category": "Geschichte",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:PL": "Polen"
+    },
+    "regions": [
+      "Polen"
+    ],
+    "runningTime": 373,
+    "updateTime": "2025-01-24T08:08:42.163Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71370623&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71370623,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71330101_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71330101_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Mexiko bereitet sich auf Migranten aus den USA vor",
     "category": "Migration",
     "subCategory": "Politik",
@@ -11807,7 +11891,7 @@
     "updateTime": "2025-01-22T08:43:21.283Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71358905&list=REPORTS_VIDEO:1",
+      "contentId": "v=71358905&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71358905,
       "launchParam": null
@@ -12454,47 +12538,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71253719_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "KI-Analyse zeigt: Elefanten haben Namen füreinander",
-    "category": "Innovation",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:global": "Global",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Global",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 122,
-    "updateTime": "2025-01-11T13:45:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71269083&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71269083,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71256177_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71256177_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
