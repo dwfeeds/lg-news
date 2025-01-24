@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-01-24T20:11:46.351Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71355838_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71355838_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Holocaust: Young and old against forgetting",
     "category": "Society",
     "subCategory": "History",
@@ -32,45 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67356228_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-01-24T17:10:50.25Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71355838_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71355838_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2145,49 +2145,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71269164_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Protests at WEF: World 'can't afford' billionaire bubble ",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:CH": "Switzerland",
-      "region:europe": "Europe",
-      "region:northamerica": "North America"
-    },
-    "regions": [
-      "Switzerland",
-      "Europe",
-      "North America"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-01-21T12:53:27.015Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71359357&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71359357,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71361064_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71361064_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11445,10 +11402,10 @@
     "category": "Digitale Welt",
     "subCategory": "Technik",
     "region_ids": {
-      "region:europe:DE": "Deutschland"
+      "region:global": "Global"
     },
     "regions": [
-      "Deutschland"
+      "Global"
     ],
     "runningTime": 80,
     "updateTime": "2025-01-24T17:51:34.641Z",
