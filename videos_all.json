@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "22 killed by Israeli forces, Lebanese Health Ministry says",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Lebanon",
+      "Israel"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-01-27T07:16:14.458Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71417866&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71417866,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71413511_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71413511_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -39,7 +80,7 @@
     "language": "en"
   },
   {
-    "titleText": "What was the Auschwitz concentration camp?",
+    "titleText": "Auschwitz concentration camp: The center of Nazi Holocaust",
     "category": "History",
     "subCategory": "Culture",
     "region_ids": {
@@ -5545,7 +5586,7 @@
     "updateTime": "2025-01-04T08:06:51.231Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71215308&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71215308&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71215308,
       "launchParam": null
@@ -6715,47 +6756,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71156821_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bethlehem marks somber Christmas amid ongoing Gaza war",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 107,
-    "updateTime": "2024-12-24T21:04:25.096Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71155723&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71155723,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71154710_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71154710_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11316,6 +11316,49 @@
     "language": "es"
   },
   {
+    "titleText": "Holocaust-Überlebende: Nach mir bleiben die Geschichtsbücher",
+    "category": "Menschenrechte",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ZA": "Südafrika",
+      "region:europe:DE": "Deutschland",
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Südafrika",
+      "Deutschland",
+      "Frankreich"
+    ],
+    "runningTime": 252,
+    "updateTime": "2025-01-27T06:58:43.469Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71391531&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71391531,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71391211_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71391211_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Das System Auschwitz",
     "category": "Geschichte",
     "subCategory": "Kultur",
@@ -11348,49 +11391,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71384369_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Holocaust-Überlebende: Nach mir bleiben die Geschichtsbücher",
-    "category": "Menschenrechte",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "Südafrika",
-      "region:europe:DE": "Deutschland",
-      "region:europe:FR": "Frankreich"
-    },
-    "regions": [
-      "Südafrika",
-      "Deutschland",
-      "Frankreich"
-    ],
-    "runningTime": 252,
-    "updateTime": "2025-01-26T16:25:51.907Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71391531&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71391531,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71391211_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71391211_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
