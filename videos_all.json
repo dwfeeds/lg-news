@@ -10,7 +10,7 @@
       "Europe"
     ],
     "runningTime": 93,
-    "updateTime": "2025-01-27T20:40:42.88Z",
+    "updateTime": "2025-01-27T22:24:36.362Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -25,13 +25,54 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71423370_6.jpg",
+      "url": "https://static.dw.com/image/71429488_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71423370_7.jpg",
+      "url": "https://static.dw.com/image/71429488_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Congo conflict: Who are the M23 rebels behind rising unrest?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa:RW": "Rwanda"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Rwanda"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-01-27T21:53:45.24Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71430184&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71430184,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71392870_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71392870_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4509,45 +4550,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71263022_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "South African mine rescue continues",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 88,
-    "updateTime": "2025-01-15T09:28:01.418Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71296121&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71296121,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70777484_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70777484_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10341,6 +10343,41 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2025-01-27T20:10:45.401Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71429488_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71429488_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Panamá: limpiar ríos y costas",
