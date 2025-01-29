@@ -1,5 +1,171 @@
 [
   {
+    "titleText": "Tropical Medicine: Colonial echoes in everyday language",
+    "category": "History",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:africa:CM": "Cameroon",
+      "region:africa:NA": "Namibia",
+      "region:africa:TZ": "Tanzania",
+      "region:africa": "Africa",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Cameroon",
+      "Namibia",
+      "Tanzania",
+      "Africa",
+      "Germany"
+    ],
+    "runningTime": 84,
+    "updateTime": "2025-01-29T11:33:08.739Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71443617&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71443617,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71444542_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71444542_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "DR Congo: What role do minerals play in the conflict?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa:RW": "Rwanda"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Rwanda"
+    ],
+    "runningTime": 81,
+    "updateTime": "2025-01-29T11:29:07.846Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71443668&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71443668,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70836066_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70836066_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hundreds arrested in US immigration crackdown",
+    "category": "Migration",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 168,
+    "updateTime": "2025-01-29T11:20:49.512Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71444096&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71444096,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71444012_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71444012_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How to explore Berlin on a budget",
+    "category": "Travel",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 336,
+    "updateTime": "2025-01-29T11:18:20.916Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71399851&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71399851,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71390000_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71390000_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Green fashion made in Ghana ",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -1839,7 +2005,7 @@
     "updateTime": "2025-01-25T01:01:29.156Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71397026&list=REGION_VIDEO:7",
+      "contentId": "v=71397026&list=FULL_SHOWS_VIDEO:10",
       "type": "video",
       "id": 71397026,
       "launchParam": null
@@ -2784,45 +2950,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kenya's public buses show off colorful matatu culture",
-    "category": "Culture",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 279,
-    "updateTime": "2025-01-22T15:37:00.352Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71369665&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71369665,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71096733_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71096733_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mahi G: A woman rapping for the environment",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -3101,45 +3228,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71368487_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The growing popularity of urban cycling in Senegal",
-    "category": "Nature and Environment",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:africa:SN": "Senegal"
-    },
-    "regions": [
-      "Senegal"
-    ],
-    "runningTime": 224,
-    "updateTime": "2025-01-22T07:14:58.329Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71293010&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71293010,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71287230_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71287230_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5147,45 +5235,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71269215_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump spared jail at hush money sentencing",
-    "category": "Law and Justice",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 237,
-    "updateTime": "2025-01-10T18:14:22.345Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71269562&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71269562,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69220697_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69220697_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11332,6 +11381,84 @@
     "language": "es"
   },
   {
+    "titleText": "Mehr Effizienz: Solaranlagen auf dem Wasser",
+    "category": "Technik",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 286,
+    "updateTime": "2025-01-29T11:45:25.539Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71436747&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71436747,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71397335_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71397335_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Valencia: die Flut und die Folgen",
+    "category": "Wirtschaft",
+    "subCategory": "Katastrophe",
+    "region_ids": {
+      "region:europe:ES": "Spanien"
+    },
+    "regions": [
+      "Spanien"
+    ],
+    "runningTime": 370,
+    "updateTime": "2025-01-29T11:44:17.608Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71436645&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71436645,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71397262_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71397262_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Tipps für einen Berlin-Besuch mit kleinem Budget",
     "category": "Reise",
     "subCategory": "Kultur",
@@ -11639,88 +11766,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71384369_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Holocaust-Überlebende: Nach mir bleiben die Geschichtsbücher",
-    "category": "Menschenrechte",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "Südafrika",
-      "region:europe:DE": "Deutschland",
-      "region:europe:FR": "Frankreich"
-    },
-    "regions": [
-      "Südafrika",
-      "Deutschland",
-      "Frankreich"
-    ],
-    "runningTime": 252,
-    "updateTime": "2025-01-27T05:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71391531&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71391531,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71391211_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71391211_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Gegen den Strom: die erste LGBTQIA+-Bar im Kosovo",
-    "category": "Diversität",
-    "subCategory": "Meinungsfreiheit",
-    "region_ids": {
-      "region:europe:XK": "Kosovo"
-    },
-    "regions": [
-      "Kosovo"
-    ],
-    "runningTime": 262,
-    "updateTime": "2025-01-26T11:18:13.387Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71401072&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71401072,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71389972_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71389972_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
