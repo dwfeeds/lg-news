@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 105,
+    "updateTime": "2025-01-30T13:07:31.823Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71458500_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71458500_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What DeepSeek's AI Revolution Means for You ",
     "category": "Digital World",
     "subCategory": "Lifestyle",
@@ -348,45 +387,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71371795_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 105,
-    "updateTime": "2025-01-30T07:45:23.113Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71452483_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71452483_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2764,6 +2764,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71104758_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Donald Trump's executive orders leave migrants in limbo",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "Mexico",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Mexico",
+      "United States of America"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-01-24T08:18:59.012Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71393793&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 71393793,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71369236_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71369236_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10553,7 +10594,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-01-30T11:22:46.061Z",
+    "updateTime": "2025-01-30T13:24:16.664Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10568,13 +10609,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71452483_6.jpg",
+      "url": "https://static.dw.com/image/71458500_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71452483_7.jpg",
+      "url": "https://static.dw.com/image/71458500_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
