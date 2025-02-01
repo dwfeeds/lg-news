@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Israel-Hamas ceasefire: 3 hostages released",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 110,
+    "updateTime": "2025-02-01T16:31:42.074Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71482371&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71482371,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71481796_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71481796_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "DR Congo: People in Goma face challenges in wake of fighting",
     "category": "Conflicts",
     "subCategory": null,
@@ -7075,47 +7116,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71165401_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What is Turkey's aim with Syrian Kurds in post-Assad Syria?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria",
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Syria",
-      "Turkey"
-    ],
-    "runningTime": 101,
-    "updateTime": "2024-12-27T09:41:10.454Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71168232&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71168232,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71023564_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71023564_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
