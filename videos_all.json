@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-02-01T03:44:39.932Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71478589_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71478589_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How will US tariffs affect Mexico's economy?",
     "category": "Business",
     "subCategory": "Politics",
@@ -52,7 +91,7 @@
     "regions": [
       "United States of America"
     ],
-    "runningTime": 164,
+    "runningTime": 163,
     "updateTime": "2025-01-31T21:07:43.358Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
@@ -114,45 +153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71470800_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 92,
-    "updateTime": "2025-01-31T20:43:55.344Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71478589_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71478589_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -584,47 +584,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71183958_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What DeepSeek's AI revolution means for you",
-    "category": "Digital World",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:global": "Global"
-    },
-    "regions": [
-      "China",
-      "Global"
-    ],
-    "runningTime": 176,
-    "updateTime": "2025-01-30T16:30:35.797Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71458752&list=FULL_SHOWS_VIDEO:10",
-      "type": "video",
-      "id": 71458752,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71426254_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71426254_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
