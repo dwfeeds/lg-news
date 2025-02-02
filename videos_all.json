@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Trump's new immigration policy worries separated families",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "Mexico",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Mexico",
+      "United States of America"
+    ],
+    "runningTime": 135,
+    "updateTime": "2025-02-02T13:31:44.466Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71486110&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 71486110,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71486164_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71486164_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10469,6 +10510,41 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2025-02-02T13:42:33.227Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71484601_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71484601_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Infraestructuras esenciales",
