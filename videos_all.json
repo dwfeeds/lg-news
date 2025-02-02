@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Young and European: Growing up in Bucharest",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:RO": "Romania"
+    },
+    "regions": [
+      "Romania"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-02-02T08:24:37.089Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71474105&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71474105,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71460266_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71460266_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +49,7 @@
       "Europe"
     ],
     "runningTime": 100,
-    "updateTime": "2025-02-02T07:22:14.107Z",
+    "updateTime": "2025-02-02T07:42:30.036Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -25,13 +64,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71483436_6.jpg",
+      "url": "https://static.dw.com/image/71484228_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71483436_7.jpg",
+      "url": "https://static.dw.com/image/71484228_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2291,45 +2330,6 @@
     "language": "en"
   },
   {
-    "titleText": "Digital overload: Too much time on your smartphone?",
-    "category": "Technology",
-    "subCategory": "Science",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 407,
-    "updateTime": "2025-01-28T07:15:49.186Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71399311&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71399311,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61180058_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61180058_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Neuroathletics: Top-notch training begins in the brain",
     "category": "Science",
     "subCategory": "Sports",
@@ -3074,47 +3074,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71404320_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ghana's Kantamanto market rebuilds after fire outbreak",
-    "category": "Business",
-    "subCategory": "Trade",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Africa",
-      "Ghana"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-01-24T15:33:41.827Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71398810&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71398810,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70937072_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70937072_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10545,41 +10504,6 @@
     "language": "en"
   },
   {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 179,
-    "updateTime": "2025-02-02T07:30:10.983Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71480296_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71480296_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Infraestructuras esenciales",
     "category": "Tecnología",
     "subCategory": "Conflictos",
@@ -11598,6 +11522,45 @@
     "language": "es"
   },
   {
+    "titleText": "Jugend in Europa: Wie lebt es sich in Bukarest?",
+    "category": "Lifestyle",
+    "subCategory": "Reise",
+    "region_ids": {
+      "region:europe:RO": "Rumänien"
+    },
+    "regions": [
+      "Rumänien"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-02-02T08:24:01.976Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71477226&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71477226,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71460266_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71460266_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "EP-Berichterstatter Picula: \"Serbien wird nicht übergangen\" ",
     "category": "Politik",
     "subCategory": null,
@@ -11999,7 +11962,7 @@
     "updateTime": "2025-01-30T08:41:14.23Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71444512&list=REPORTS_VIDEO:1",
+      "contentId": "v=71444512&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71444512,
       "launchParam": null
@@ -12646,45 +12609,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70616139_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Großbritannien: Sind \"Fish and Chips\" bald Luxusgut?",
-    "category": "Gesellschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:GB": "Vereinigtes Königreich"
-    },
-    "regions": [
-      "Vereinigtes Königreich"
-    ],
-    "runningTime": 349,
-    "updateTime": "2025-01-21T08:36:36.976Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71301548&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71301548,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71269146_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71269146_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
