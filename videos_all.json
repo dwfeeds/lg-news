@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Ukraine attacks Russian energy facilities",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 81,
+    "updateTime": "2025-02-04T14:53:29.271Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71505100&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71505100,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71051111_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71051111_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gazans wary of changes after Trump-Netanyahu talks",
     "category": "Conflicts",
     "subCategory": null,
@@ -12,7 +53,7 @@
       "Palestinian Territories"
     ],
     "runningTime": 106,
-    "updateTime": "2025-02-04T13:13:28.172Z",
+    "updateTime": "2025-02-04T14:52:56.846Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=71501370&list=REGION_VIDEO:9",
@@ -105,13 +146,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71366005_6.jpg",
+      "url": "https://static.dw.com/image/71499795_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71366005_7.jpg",
+      "url": "https://static.dw.com/image/71499795_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2215,45 +2256,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71449491_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "EU aims to make its industries more competitive",
-    "category": "Business",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 177,
-    "updateTime": "2025-01-29T12:26:56.403Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71444857&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71444857,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71444834_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71444834_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10935,18 +10937,14 @@
     "language": "de"
   },
   {
-    "titleText": "Merz schließt Zusammenarbeit mit der AfD aus",
+    "titleText": "Friedrich Merz schließt Zusammenarbeit mit der AfD aus",
     "category": "Politik",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:europe": "Europa",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+      "region:europe:DE": "Deutschland"
     },
     "regions": [
-      "Deutschland",
-      "Europa",
-      "Vereinigte Staaten von Amerika"
+      "Deutschland"
     ],
     "runningTime": 273,
     "updateTime": "2025-02-04T07:42:44.3Z",
