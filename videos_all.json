@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Greece: Tremors rattle tourist hotspot Santorini",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 116,
+    "updateTime": "2025-02-04T12:02:47.067Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71501842&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71501842,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71500435_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71500435_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 102,
+    "updateTime": "2025-02-04T11:49:16.772Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71366005_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71366005_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India: Why do politicians overlook Delhi’s air crisis?",
     "category": "Health",
     "subCategory": "Nature and Environment",
@@ -153,45 +231,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71385631_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 102,
-    "updateTime": "2025-02-04T06:37:13.365Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71366005_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71366005_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -971,7 +1010,7 @@
     "updateTime": "2025-02-01T19:22:32.002Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71483327&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71483327&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71483327,
       "launchParam": null
@@ -1408,7 +1447,7 @@
     "updateTime": "2025-01-31T08:45:05.822Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71466052&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71466052&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71466052,
       "launchParam": null
@@ -1566,7 +1605,7 @@
     "updateTime": "2025-01-30T19:30:50.35Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71462343&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71462343&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71462343,
       "launchParam": null
@@ -1917,7 +1956,7 @@
     "updateTime": "2025-01-30T08:56:01.913Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71453285&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71453285&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71453285,
       "launchParam": null
@@ -2308,45 +2347,6 @@
     "language": "en"
   },
   {
-    "titleText": "How to explore Berlin on a budget",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 336,
-    "updateTime": "2025-01-29T11:18:20.916Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71399851&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71399851,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71390000_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71390000_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Green fashion made in Ghana ",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -2702,7 +2702,7 @@
     "updateTime": "2025-01-28T19:25:42.303Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71439930&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71439930&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71439930,
       "launchParam": null
@@ -3020,7 +3020,7 @@
     "updateTime": "2025-01-27T12:47:33.827Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71422317&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71422317&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71422317,
       "launchParam": null
@@ -3139,7 +3139,7 @@
     "updateTime": "2025-01-27T07:16:14.458Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71417866&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71417866&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71417866,
       "launchParam": null
@@ -3297,7 +3297,7 @@
     "updateTime": "2025-01-26T07:11:46.386Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71411412&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71411412&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71411412,
       "launchParam": null
@@ -3336,7 +3336,7 @@
     "updateTime": "2025-01-25T16:05:09.052Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71406743&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71406743&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71406743,
       "launchParam": null
@@ -3533,7 +3533,7 @@
     "updateTime": "2025-01-24T13:30:50.464Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71392476&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71392476&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71392476,
       "launchParam": null
@@ -3851,7 +3851,7 @@
     "updateTime": "2025-01-23T09:12:24.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71379519&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71379519&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71379519,
       "launchParam": null
@@ -3937,7 +3937,7 @@
     "updateTime": "2025-01-22T17:52:56.815Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71374542&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71374542&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71374542,
       "launchParam": null
@@ -4384,7 +4384,7 @@
     "updateTime": "2025-01-21T20:22:43.324Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71366359&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71366359&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71366359,
       "launchParam": null
@@ -4542,7 +4542,7 @@
     "updateTime": "2025-01-21T08:41:43.49Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71274770&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71274770&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71274770,
       "launchParam": null
@@ -4581,7 +4581,7 @@
     "updateTime": "2025-01-21T08:41:27.362Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70889394&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70889394&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70889394,
       "launchParam": null
@@ -4661,7 +4661,7 @@
     "updateTime": "2025-01-20T21:55:21.849Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71355556&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71355556&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71355556,
       "launchParam": null
@@ -4741,7 +4741,7 @@
     "updateTime": "2025-01-20T11:14:44.314Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71347851&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71347851&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71347851,
       "launchParam": null
@@ -4977,7 +4977,7 @@
     "updateTime": "2025-01-18T09:23:34.684Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71335199&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71335199&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71335199,
       "launchParam": null
@@ -5016,7 +5016,7 @@
     "updateTime": "2025-01-18T09:15:54.502Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71335146&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71335146&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71335146,
       "launchParam": null
@@ -5055,7 +5055,7 @@
     "updateTime": "2025-01-17T21:08:52.995Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71333923&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71333923&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71333923,
       "launchParam": null
@@ -5174,7 +5174,7 @@
     "updateTime": "2025-01-17T09:25:33.78Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71322040&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71322040&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71322040,
       "launchParam": null
@@ -5289,7 +5289,7 @@
     "updateTime": "2025-01-17T07:53:58.756Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71321727&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71321727&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71321727,
       "launchParam": null
@@ -5328,7 +5328,7 @@
     "updateTime": "2025-01-16T12:43:11.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71314356&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71314356&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71314356,
       "launchParam": null
@@ -5363,7 +5363,7 @@
     "updateTime": "2025-01-16T08:35:31.489Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71305971&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71305971&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71305971,
       "launchParam": null
@@ -5482,7 +5482,7 @@
     "updateTime": "2025-01-15T22:01:18.709Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71304048&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71304048&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71304048,
       "launchParam": null
@@ -5521,7 +5521,7 @@
     "updateTime": "2025-01-15T11:39:50.571Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71297514&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71297514&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71297514,
       "launchParam": null
@@ -5560,7 +5560,7 @@
     "updateTime": "2025-01-14T20:13:42.891Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71294099&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71294099&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71294099,
       "launchParam": null
@@ -8299,7 +8299,7 @@
     "updateTime": "2024-11-16T08:04:12.117Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70664737&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70664737&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70664737,
       "launchParam": null
@@ -8377,7 +8377,7 @@
     "updateTime": "2024-11-14T06:41:02.774Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70767921&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70767921&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70767921,
       "launchParam": null
@@ -8656,7 +8656,7 @@
     "updateTime": "2024-10-25T21:28:22.358Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70605127&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70605127&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70605127,
       "launchParam": null
@@ -8734,7 +8734,7 @@
     "updateTime": "2024-10-16T13:06:22.749Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70513355&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70513355&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70513355,
       "launchParam": null
@@ -8818,7 +8818,7 @@
     "updateTime": "2024-10-14T18:48:37.585Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70493783&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70493783&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70493783,
       "launchParam": null
@@ -8857,7 +8857,7 @@
     "updateTime": "2024-10-10T10:37:07.811Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70454047&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70454047&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70454047,
       "launchParam": null
@@ -8896,7 +8896,7 @@
     "updateTime": "2024-10-09T08:24:03.159Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70441109&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70441109&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70441109,
       "launchParam": null
@@ -8935,7 +8935,7 @@
     "updateTime": "2024-09-30T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70350307&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70350307&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70350307,
       "launchParam": null
@@ -9105,7 +9105,7 @@
     "updateTime": "2024-09-05T13:42:08.174Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70144658&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70144658&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70144658,
       "launchParam": null
@@ -9144,7 +9144,7 @@
     "updateTime": "2024-09-01T08:06:51.656Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70103597&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70103597&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70103597,
       "launchParam": null
@@ -9183,7 +9183,7 @@
     "updateTime": "2024-08-30T15:03:04.403Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70096059&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70096059&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70096059,
       "launchParam": null
@@ -9222,7 +9222,7 @@
     "updateTime": "2024-08-29T16:10:20.855Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70084664&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=70084664&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 70084664,
       "launchParam": null
@@ -9261,7 +9261,7 @@
     "updateTime": "2024-08-05T13:54:52.429Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69861673&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69861673&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69861673,
       "launchParam": null
@@ -9300,7 +9300,7 @@
     "updateTime": "2024-07-11T19:40:29.974Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69638375&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69638375&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69638375,
       "launchParam": null
@@ -9339,7 +9339,7 @@
     "updateTime": "2024-06-26T19:35:51.707Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69486122&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69486122&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69486122,
       "launchParam": null
@@ -9378,7 +9378,7 @@
     "updateTime": "2024-06-26T07:17:04.416Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69476290&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=69476290&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69476290,
       "launchParam": null
@@ -9847,7 +9847,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-02-03T09:52:45.163Z",
+    "updateTime": "2025-02-04T11:48:59.515Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11299,7 +11299,7 @@
     "updateTime": "2025-01-31T07:28:34.292Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71444062&list=REPORTS_VIDEO:1",
+      "contentId": "v=71444062&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71444062,
       "launchParam": null
@@ -11318,6 +11318,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71385532_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Wer sabotiert die Unterseekabel in der Ostsee?",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Europa"
+    ],
+    "runningTime": 183,
+    "updateTime": "2025-01-31T06:12:41.503Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71461624&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71461624,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71239176_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71239176_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
