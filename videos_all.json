@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 101,
+    "updateTime": "2025-02-05T20:35:34.051Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71508094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71508094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kicks out of the slums ",
     "category": "Lifestyle",
     "subCategory": "Design",
@@ -112,45 +151,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71485336_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-02-05T16:33:33.212Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71508094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71508094_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10918,6 +10918,47 @@
     "language": "es"
   },
   {
+    "titleText": "Deutsches Kriegsschiff auf NATO-Ostseepatrouille",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Europa",
+      "Deutschland"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-02-05T20:24:52.403Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71517559&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71517559,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71517262_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71517262_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "US-Einwanderungspolitik: Familien in Mexiko beunruhigt",
     "category": "Migration",
     "subCategory": "Politik",
@@ -11379,45 +11420,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71460266_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "EP-Berichterstatter Picula: \"Serbien wird nicht übergangen\" ",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RS": "Serbien"
-    },
-    "regions": [
-      "Serbien"
-    ],
-    "runningTime": 183,
-    "updateTime": "2025-02-02T07:08:37.989Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71478532&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71478532,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71470382_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71470382_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
