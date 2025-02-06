@@ -1,5 +1,140 @@
 [
   {
+    "titleText": "Where do Europe's far-right parties differ?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:DE": "Germany",
+      "region:europe:FR": "France",
+      "region:europe:IT": "Italy",
+      "region:europe:PL": "Poland",
+      "region:europe:AT": "Austria",
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Europe",
+      "Germany",
+      "France",
+      "Italy",
+      "Poland",
+      "Austria",
+      "Hungary"
+    ],
+    "runningTime": 90,
+    "updateTime": "2025-02-06T12:40:34.602Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71506085&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71506085,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71505961_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71505961_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump plan to clear out Gaza draws criticism, confusion",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America",
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America",
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-02-06T12:37:57.505Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71524155&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71524155,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71511093_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71511093_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 101,
+    "updateTime": "2025-02-06T12:00:56.673Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71508094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71508094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US hungry for Greenland's raw materials",
     "category": "Nature and Environment",
     "subCategory": "Politics",
@@ -25,13 +160,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/64026552_6.jpg",
+      "url": "https://static.dw.com/image/71524078_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/64026552_7.jpg",
+      "url": "https://static.dw.com/image/71524078_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -81,8 +216,8 @@
   },
   {
     "titleText": "Ending FGM: Why Africa is making slow progress",
-    "category": "Society",
-    "subCategory": "Human Rights",
+    "category": "Human Rights",
+    "subCategory": "Society",
     "region_ids": {
       "region:africa": "Africa"
     },
@@ -238,45 +373,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-02-06T08:18:13.158Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71508094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71508094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Italy: APE - a legend bids farewell",
     "category": "Society",
     "subCategory": "Business",
@@ -348,6 +444,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71456785_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU lawmaker: Trump's Gaza plan 'deeply, deeply concerning'",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "United States of America",
+      "Middle East"
+    ],
+    "runningTime": 196,
+    "updateTime": "2025-02-05T22:50:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71517893&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71517893,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71517892_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71517892_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2034,45 +2171,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71485311_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Young and European: Growing up in Bucharest",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:RO": "Romania"
-    },
-    "regions": [
-      "Romania"
-    ],
-    "runningTime": 305,
-    "updateTime": "2025-02-02T08:24:37.089Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71474105&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71474105,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71460266_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71460266_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5616,41 +5714,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Gaza residents and Israelis view the ceasefire deal",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 151,
-    "updateTime": "2025-01-17T07:53:58.756Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71321727&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71321727,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71321030_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71321030_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel delays vote on Gaza ceasefire as strikes continue",
     "category": "Conflicts",
     "subCategory": null,
@@ -5664,7 +5727,7 @@
     "updateTime": "2025-01-16T12:43:11.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71314356&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71314356&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71314356,
       "launchParam": null
@@ -6475,45 +6538,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71215342_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "European ministers make first visit to post-Assad Syria",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 152,
-    "updateTime": "2025-01-03T17:48:11.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71213554&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71213554,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71209554_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71209554_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9828,13 +9852,52 @@
     "language": "en"
   },
   {
+    "titleText": "Sentarse sin dolor",
+    "category": "Salud",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 227,
+    "updateTime": "2025-02-06T12:22:27.635Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71451059&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71451059,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/60469253_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/60469253_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-02-06T10:29:13.646Z",
+    "updateTime": "2025-02-06T12:18:07.669Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10090,80 +10153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71369236_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Resistencia a la energía eólica en el norte de España",
-    "category": "Noticias en video",
-    "subCategory": "Tecnología",
-    "region_ids": {
-      "region:europe:ES": "España"
-    },
-    "regions": [
-      "España"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-01-31T04:17:18.887Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71320558&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71320558,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/63656704_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/63656704_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Rusia e Irán estrechan lazos",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 133,
-    "updateTime": "2025-01-31T03:22:36.478Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71333667&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71333667,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71332288_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71332288_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10986,13 +10975,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70596578_6.jpg",
+      "url": "https://static.dw.com/image/63217643_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70596578_7.jpg",
+      "url": "https://static.dw.com/image/63217643_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11000,7 +10989,7 @@
     "language": "de"
   },
   {
-    "titleText": "Deutsches Kriegsschiff auf NATO-Ostseepatrouille",
+    "titleText": "Deutsches Kriegsschiff patrouilliert für NATO in Ostsee",
     "category": "Politik",
     "subCategory": null,
     "region_ids": {
