@@ -1,21 +1,23 @@
 [
   {
-    "titleText": "Robotic elephant in Indian temple rituals",
-    "category": "Digital World",
-    "subCategory": "Society",
+    "titleText": "US policy change leaves Afghan refugees stuck in Pakistan",
+    "category": "Politics",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:asia:IN": "India"
+      "region:asia:AF": "Afghanistan",
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "India"
+      "Afghanistan",
+      "Pakistan"
     ],
-    "runningTime": 75,
-    "updateTime": "2025-02-08T02:02:00Z",
+    "runningTime": 244,
+    "updateTime": "2025-02-07T17:21:37.083Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71537232&list=REGION_VIDEO:4",
+      "contentId": "v=71543514&list=REGION_VIDEO:4",
       "type": "video",
-      "id": 71537232,
+      "id": 71543514,
       "launchParam": null
     },
     "providerLogo": {
@@ -25,13 +27,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71518198_6.jpeg",
+      "url": "https://static.dw.com/image/71543223_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71518198_7.jpeg",
+      "url": "https://static.dw.com/image/71543223_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -39,22 +41,26 @@
     "language": "en"
   },
   {
-    "titleText": "Nun uses TikTok to spread faith",
-    "category": "Digital World",
-    "subCategory": "Society",
+    "titleText": "Baltic states disconnect from Russian electricity grid",
+    "category": "Politics",
+    "subCategory": null,
     "region_ids": {
-      "region:cala:AR": "Argentina"
+      "region:europe:LV": "Latvia",
+      "region:europe:LT": "Lithuania",
+      "region:europe:EE": "Estonia"
     },
     "regions": [
-      "Argentina"
+      "Latvia",
+      "Lithuania",
+      "Estonia"
     ],
-    "runningTime": 105,
-    "updateTime": "2025-02-08T02:02:00Z",
+    "runningTime": 194,
+    "updateTime": "2025-02-07T17:00:01.638Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71537262&list=REGION_VIDEO:6",
+      "contentId": "v=71543465&list=REGION_VIDEO:7",
       "type": "video",
-      "id": 71537262,
+      "id": 71543465,
       "launchParam": null
     },
     "providerLogo": {
@@ -64,13 +70,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71518082_6.jpeg",
+      "url": "https://static.dw.com/image/62393708_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71518082_7.jpeg",
+      "url": "https://static.dw.com/image/62393708_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -273,7 +279,7 @@
     "language": "en"
   },
   {
-    "titleText": "Casu marzu: Would you eat cheese with maggots? ",
+    "titleText": "Would you eat casu marzu, cheese made with maggots?",
     "category": "Culture",
     "subCategory": "Health",
     "region_ids": {
@@ -305,6 +311,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71460258_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nun uses TikTok videos to spread faith",
+    "category": "Digital World",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 105,
+    "updateTime": "2025-02-07T11:56:53.456Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71537262&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 71537262,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71518082_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71518082_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robotic elephant in Indian temple rituals",
+    "category": "Digital World",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 75,
+    "updateTime": "2025-02-07T11:56:24.688Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71537232&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71537232,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71518198_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71518198_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -587,9 +671,9 @@
     "language": "en"
   },
   {
-    "titleText": "Young Kenyans look to generate online clicks for income",
-    "category": "Lifestyle",
-    "subCategory": "Society",
+    "titleText": "Young Kenyans look to generate clicks for income",
+    "category": "Digital World",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:africa:KE": "Kenya"
     },
@@ -2161,45 +2245,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71009746_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Greece: Tremors rattle tourist hotspot Santorini",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GR": "Greece"
-    },
-    "regions": [
-      "Greece"
-    ],
-    "runningTime": 116,
-    "updateTime": "2025-02-04T12:02:47.067Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71501842&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71501842,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71500435_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71500435_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
