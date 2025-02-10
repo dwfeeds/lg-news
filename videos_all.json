@@ -4284,8 +4284,12 @@
     "titleText": "Are women finally gaining political power across Africa?",
     "category": "Equality",
     "subCategory": "Politics",
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
     "runningTime": 238,
     "updateTime": "2025-01-28T20:29:21.481Z",
     "onClick": {
