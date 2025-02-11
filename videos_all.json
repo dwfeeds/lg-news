@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "How are political parties in Germany financed?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 90,
+    "updateTime": "2025-02-11T09:20:51.736Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71542437&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71542437,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67664440_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67664440_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Jordan's King Abdullah in tight spot over Trump's Gaza plans",
     "category": "Politics",
     "subCategory": "Conflicts",
@@ -56,7 +95,7 @@
     "updateTime": "2025-02-11T08:22:50.7Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -1162,7 +1201,7 @@
     "updateTime": "2025-02-07T18:02:33.584Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71518972&list=REGION_VIDEO:8",
+      "contentId": "v=71518972&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71518972,
       "launchParam": null
@@ -2026,7 +2065,7 @@
     "updateTime": "2025-02-06T15:35:30.169Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71479126&list=REGION_VIDEO:4",
+      "contentId": "v=71479126&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71479126,
       "launchParam": null
@@ -2172,57 +2211,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71508094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Where do Europe's far-right parties differ?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany",
-      "region:europe:FR": "France",
-      "region:europe:IT": "Italy",
-      "region:europe:PL": "Poland",
-      "region:europe:AT": "Austria",
-      "region:europe:HU": "Hungary"
-    },
-    "regions": [
-      "Europe",
-      "Germany",
-      "France",
-      "Italy",
-      "Poland",
-      "Austria",
-      "Hungary"
-    ],
-    "runningTime": 90,
-    "updateTime": "2025-02-06T12:40:34.602Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71506085&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71506085,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71505961_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71505961_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2666,6 +2654,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71509205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Switzerland is shipping CO2 to Iceland",
+    "category": "Science",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe:IS": "Iceland",
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Iceland",
+      "Switzerland"
+    ],
+    "runningTime": 495,
+    "updateTime": "2025-02-05T07:36:42.157Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71471474&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71471474,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/59334831_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/59334831_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4324,6 +4353,49 @@
     "language": "en"
   },
   {
+    "titleText": "Can UN peacekeepers still mitigate conflict in DRC, Rwanda?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa:RW": "Rwanda",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Rwanda",
+      "Africa"
+    ],
+    "runningTime": 97,
+    "updateTime": "2025-01-29T16:22:46.621Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71449934&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71449934,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71449491_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71449491_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hundreds arrested in US immigration crackdown",
     "category": "Migration",
     "subCategory": "Politics",
@@ -5561,6 +5633,45 @@
     "language": "en"
   },
   {
+    "titleText": "Kenya's public buses show off colorful matatu culture",
+    "category": "Culture",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 279,
+    "updateTime": "2025-01-22T15:37:00.352Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71369665&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71369665,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71096733_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71096733_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mahi G: A woman rapping for the environment",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -5686,6 +5797,45 @@
     "language": "en"
   },
   {
+    "titleText": "Thailand legalizes marriage for all",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:TH": "Thailand"
+    },
+    "regions": [
+      "Thailand"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-01-22T13:27:58.055Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71372807&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71372807,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71371815_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71371815_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The hurricane trucks of happiness bringing joy in Brazil",
     "category": "Dance",
     "subCategory": "Music",
@@ -5800,6 +5950,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71368487_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The growing popularity of urban cycling in Senegal",
+    "category": "Nature and Environment",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:africa:SN": "Senegal"
+    },
+    "regions": [
+      "Senegal"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-01-22T07:14:58.329Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71293010&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71293010,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71287230_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71287230_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6800,6 +6989,45 @@
     "language": "en"
   },
   {
+    "titleText": "Imagine the world you want to live in: Mumbai",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 505,
+    "updateTime": "2025-01-13T09:00:02.232Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71244674&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71244674,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71244744_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71244744_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Diplomats meet in Saudi Arabia to discuss Syria's future",
     "category": "Politics",
     "subCategory": "Human Rights",
@@ -7090,7 +7318,7 @@
     "updateTime": "2025-01-08T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71212837&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=71212837&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71212837,
       "launchParam": null
@@ -7237,6 +7465,47 @@
     "language": "en"
   },
   {
+    "titleText": "Snow disrupts transport in US and Europe",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 77,
+    "updateTime": "2025-01-05T17:39:52.918Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71222386&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71222386,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71220529_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71220529_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What can be done to revive Delhi's dying Yamuna River?",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -7330,7 +7599,7 @@
     "updateTime": "2025-01-02T15:26:29.02Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71203452&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=71203452&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71203452,
       "launchParam": null
@@ -7916,6 +8185,45 @@
     "language": "en"
   },
   {
+    "titleText": "Air taxis: Flying high, or destined to flop?",
+    "category": "Innovation",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 254,
+    "updateTime": "2024-12-24T10:21:50.911Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71124019&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71124019,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71125862_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71125862_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Will Syrian refugees stay in Germany?",
     "category": "Business",
     "subCategory": null,
@@ -8076,6 +8384,129 @@
     "language": "en"
   },
   {
+    "titleText": "Does free transportation help jobseekers into work?",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:TR": "Turkey",
+      "region:europe:HU": "Hungary",
+      "region:africa:ZA": "South Africa",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Turkey",
+      "Hungary",
+      "South Africa",
+      "United States of America"
+    ],
+    "runningTime": 243,
+    "updateTime": "2024-12-20T15:35:40.787Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71065102&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71065102,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71048786_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71048786_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Paris: Will traffic limits improve urban quality of life? ",
+    "category": "Climate",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 217,
+    "updateTime": "2024-12-17T08:11:48.232Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70988076&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70988076,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70972221_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70972221_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Curbing air pollution in Kolkata, India ",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 373,
+    "updateTime": "2024-12-16T13:24:27.578Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71040278&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71040278,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70782075_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70782075_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Britain's overcrowded and violent prison system is in crisis",
     "category": "Human Rights",
     "subCategory": "Crime",
@@ -8108,6 +8539,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71001449_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Delayed high-speed Baltic rail link faces huge cost overruns",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:LV": "Latvia",
+      "region:europe:EE": "Estonia",
+      "region:europe:LT": "Lithuania"
+    },
+    "regions": [
+      "Latvia",
+      "Estonia",
+      "Lithuania"
+    ],
+    "runningTime": 195,
+    "updateTime": "2024-12-14T06:04:23.937Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71024934&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71024934,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70810111_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70810111_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8188,6 +8662,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68405036_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is the Audi S e-tron GT worth its price?",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 597,
+    "updateTime": "2024-12-12T09:39:17.41Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71009379&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71009379,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70939495_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70939495_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8303,6 +8816,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70980034_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Using solar power to boost health equity",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 321,
+    "updateTime": "2024-12-11T09:08:27.143Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70958472&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70958472,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71022205_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71022205_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8608,7 +9160,7 @@
     "updateTime": "2024-11-29T16:52:45.695Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70923782&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=70923782&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70923782,
       "launchParam": null
@@ -8744,6 +9296,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70856501_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Senegal's TER train is a fast track to better air quality",
+    "category": "Travel",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:SN": "Senegal"
+    },
+    "regions": [
+      "Senegal"
+    ],
+    "runningTime": 256,
+    "updateTime": "2024-11-27T10:23:16.451Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70898169&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70898169,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70898159_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70898159_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The vision of a more walkable Delhi",
+    "category": "Cars and Transportation",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 338,
+    "updateTime": "2024-11-26T11:20:27.763Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70854138&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70854138,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70844335_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70844335_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8946,6 +9576,47 @@
     "language": "en"
   },
   {
+    "titleText": "How Lagos is driving environmental change ",
+    "category": "Nature and Environment",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 387,
+    "updateTime": "2024-11-18T09:00:43.154Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70787665&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70787665,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70766313_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70766313_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Farming robots: The future of agriculture? ",
     "category": "Innovation",
     "subCategory": "Technology",
@@ -8978,6 +9649,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70779668_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India's capital chokes as air pollution soars",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 116,
+    "updateTime": "2024-11-15T08:11:26.721Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70785927&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70785927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70785947_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70785947_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9019,6 +9729,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70600880_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Long wait over as Thessaloniki gets first subway",
+    "category": "Cars and Transportation",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 213,
+    "updateTime": "2024-11-07T14:54:58.492Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70726770&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70726770,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70726816_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70726816_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9223,6 +9972,45 @@
     "language": "en"
   },
   {
+    "titleText": "What is behind Pakistan's 'Islamic banking'?",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 149,
+    "updateTime": "2024-10-26T04:36:54.594Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70593122&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70593122,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70592979_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70592979_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Euclid space telescope releases spectacular images of cosmos",
     "category": "Science",
     "subCategory": "Lifestyle",
@@ -9300,6 +10088,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70472711_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Elon Musk's Starlink in Africa a blessing or curse? ",
+    "category": "Technology",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 198,
+    "updateTime": "2024-10-11T17:46:49.982Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70461899&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70461899,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69295549_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69295549_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9864,6 +10691,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65919684_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Smørrebrød: More than just a sandwich",
+    "category": "Lifestyle",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "Europe",
+      "Denmark"
+    ],
+    "runningTime": 196,
+    "updateTime": "2023-06-17T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=65942332&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 65942332,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65919676_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65919676_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11037,6 +11905,45 @@
     "language": "es"
   },
   {
+    "titleText": "Immer weniger Geburten – verliert die Ukraine ihre Zukunft?",
+    "category": "Gesellschaft",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 385,
+    "updateTime": "2025-02-11T09:03:31.512Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71512096&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71512096,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71456822_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71456822_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": " Indien: Heiliges Ritual im Ganges",
     "category": "Gesellschaft",
     "subCategory": "Panorama",
@@ -11498,45 +12405,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71528471_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Faktencheck: Der Einfluss von KI-Influencerinnen auf die Bundestagswahl",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 531,
-    "updateTime": "2025-02-08T16:39:13.252Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71541765&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71541765,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71510224_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71510224_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
