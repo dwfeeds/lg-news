@@ -1,13 +1,19 @@
 [
   {
-    "titleText": "Trump: No right of return for Gazans under plan",
+    "titleText": "Trump: No right of return for Palestinians if US owns Gaza",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me": "Middle East",
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Middle East"
+      "Middle East",
+      "Palestinian Territories",
+      "Israel",
+      "United States of America"
     ],
     "runningTime": 178,
     "updateTime": "2025-02-10T23:43:18.296Z",
@@ -236,16 +242,16 @@
     "language": "en"
   },
   {
-    "titleText": "Taiwan tackles Donald Trump's tariffs threat",
+    "titleText": "How Taiwan is taking on Donald Trump's tariffs threat",
     "category": "Business",
     "subCategory": "Trade",
     "region_ids": {
-      "region:asia:TW": "Taiwan",
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:asia:TW": "Taiwan"
     },
     "regions": [
-      "Taiwan",
-      "United States of America"
+      "United States of America",
+      "Taiwan"
     ],
     "runningTime": 196,
     "updateTime": "2025-02-10T12:24:50.782Z",
@@ -263,13 +269,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71563172_6.jpg",
+      "url": "https://static.dw.com/image/71563105_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71563172_7.jpg",
+      "url": "https://static.dw.com/image/71563105_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -355,7 +361,7 @@
     "language": "en"
   },
   {
-    "titleText": "Thousands of endangered turtles released into Amazon",
+    "titleText": "Endangered yellow-spotted river turtles freed into Amazon",
     "category": "Nature and Environment",
     "subCategory": null,
     "region_ids": {
@@ -10988,6 +10994,45 @@
     "language": "es"
   },
   {
+    "titleText": " Indien: Heiliges Ritual im Ganges",
+    "category": "Gesellschaft",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:asia:IN": "Indien"
+    },
+    "regions": [
+      "Indien"
+    ],
+    "runningTime": 225,
+    "updateTime": "2025-02-11T05:50:38.474Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71539897&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71539897,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71284582_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71284582_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Kroatien: Boykott gegen hohe Lebensmittelpreise",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11469,7 +11514,7 @@
     "updateTime": "2025-02-07T18:30:01.692Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71544065&list=REPORTS_VIDEO:1",
+      "contentId": "v=71544065&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71544065,
       "launchParam": null
@@ -12075,45 +12120,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71390000_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Indonesien spendiert Schulkindern kostenlose Mahlzeiten",
-    "category": "Panorama",
-    "subCategory": "Gesundheit",
-    "region_ids": {
-      "region:asia:ID": "Indonesien"
-    },
-    "regions": [
-      "Indonesien"
-    ],
-    "runningTime": 229,
-    "updateTime": "2025-01-28T16:45:38.423Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71429115&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71429115,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71228954_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71228954_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
