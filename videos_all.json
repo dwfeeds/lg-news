@@ -532,7 +532,7 @@
     "updateTime": "2025-02-11T17:36:47.234Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71575242&list=REGION_VIDEO:8",
+      "contentId": "v=71575242&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71575242,
       "launchParam": null
@@ -4218,7 +4218,7 @@
     "updateTime": "2025-01-31T21:23:19.685Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71479331&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71479331&list=REGION_VIDEO:6",
       "type": "video",
       "id": 71479331,
       "launchParam": null
@@ -4283,6 +4283,45 @@
     "language": "en"
   },
   {
+    "titleText": "M23 rebels in DRC vow to 'march to Kinshasa'",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 116,
+    "updateTime": "2025-01-31T18:02:52.953Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71464241&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71464241,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71461102_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71461102_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US small businesses uneasy about Trump's looming tariffs war",
     "category": "Business",
     "subCategory": null,
@@ -4296,7 +4335,7 @@
     "updateTime": "2025-01-31T16:23:36.28Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71475728&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71475728&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71475728,
       "launchParam": null
@@ -6789,45 +6828,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71332276_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "SpaceX Starship rocket breaks up after launch",
-    "category": "[Miscellaneous]",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 86,
-    "updateTime": "2025-01-17T10:55:16.252Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71324829&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71324829,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71319838_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71319838_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
