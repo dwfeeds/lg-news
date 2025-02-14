@@ -10198,6 +10198,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2025-02-14T11:20:46.841Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71606950_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71606950_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Noboa o Luisa González?",
     "category": "Noticias en video",
     "subCategory": "Política",
@@ -10230,41 +10265,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66585872_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 179,
-    "updateTime": "2025-02-14T10:19:04.289Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71605357_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71605357_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11401,6 +11401,47 @@
     "language": "es"
   },
   {
+    "titleText": "Wie steht Taiwan zu den Zollandrohungen von Trump?",
+    "category": "Video-Nachrichten",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:asia:TW": "Taiwan",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Taiwan",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 198,
+    "updateTime": "2025-02-14T10:44:57.919Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71599323&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71599323,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/56845671_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/56845671_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Telefonat mit Putin: Lässt Trump die Ukraine fallen?",
     "category": "Politik",
     "subCategory": null,
@@ -11851,7 +11892,7 @@
     "updateTime": "2025-02-10T16:55:37.206Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71565045&list=REPORTS_VIDEO:1",
+      "contentId": "v=71565045&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 71565045,
       "launchParam": null
@@ -12769,45 +12810,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71255416_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Topthema Migration im deutschen Wahlkampf",
-    "category": "Politik",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-01-11T16:50:26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71266235&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 71266235,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71253719_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71253719_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
