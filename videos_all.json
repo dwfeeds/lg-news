@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Residents of Jabaliya camp in Gaza return to rubble and ruin",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 158,
+    "updateTime": "2025-02-14T09:43:40.572Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71605042&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71605042,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71544221_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71544221_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump prioritizes deterring China: What will Europe do?",
     "category": "Politics",
     "subCategory": null,
@@ -6846,7 +6885,7 @@
     "updateTime": "2025-01-20T11:14:44.314Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71347851&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71347851&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71347851,
       "launchParam": null
@@ -7618,45 +7657,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/58810149_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Lebanon-Israel conflict stokes sectarian tensions",
-    "category": "Conflicts",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 187,
-    "updateTime": "2025-01-10T08:46:10.888Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71262546&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71262546,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70943352_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70943352_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10198,6 +10198,80 @@
     "language": "en"
   },
   {
+    "titleText": "¿Noboa o Luisa González?",
+    "category": "Noticias en video",
+    "subCategory": "Política",
+    "region_ids": {
+      "region:cala:EC": "Ecuador"
+    },
+    "regions": [
+      "Ecuador"
+    ],
+    "runningTime": 194,
+    "updateTime": "2025-02-14T10:25:09.759Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71544774&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71544774,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66585872_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66585872_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2025-02-14T10:19:04.289Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71605357_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71605357_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Sanciones de Trump a la CPI",
     "category": "Noticias en video",
     "subCategory": "Política",
@@ -10226,41 +10300,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71441339_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 179,
-    "updateTime": "2025-02-14T08:30:34.283Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71593686_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71593686_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
