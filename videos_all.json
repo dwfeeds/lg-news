@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Congo rebels say forces have entered city of Bukavu",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CG": "Republic of the Congo"
+    },
+    "regions": [
+      "Republic of the Congo"
+    ],
+    "runningTime": 151,
+    "updateTime": "2025-02-15T05:44:15.45Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71618554&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71618554,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69105246_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69105246_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Zelenskyy, Vance sit down for talks in Munich",
     "category": "Conflicts",
     "subCategory": null,
@@ -313,6 +352,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71605651_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Vance speech a 'massive intervention in European politics'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 391,
+    "updateTime": "2025-02-14T16:46:56.368Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71614909&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71614909,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71616801_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71616801_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4151,45 +4229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71450013_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fighting desertification in a country that's half desert",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ML": "Mali"
-    },
-    "regions": [
-      "Mali"
-    ],
-    "runningTime": 329,
-    "updateTime": "2025-02-03T13:20:35.342Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71436044&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71436044,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71434376_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71434376_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11484,8 +11523,8 @@
   },
   {
     "titleText": "Warum Klimaschutz im Wahlkampf keine Rolle spielt",
-    "category": "Natur und Umwelt",
-    "subCategory": "Klima",
+    "category": "Klima",
+    "subCategory": "Natur und Umwelt",
     "region_ids": {
       "region:europe:DE": "Deutschland"
     },
