@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Next stage of hostage release takes place in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 161,
+    "updateTime": "2025-02-15T16:51:25.372Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71624344&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71624344,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71622816_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71622816_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Jonson: Ukraine fast, more innovative, on defense production",
     "category": "Politics",
     "subCategory": "Conflicts",
@@ -4214,7 +4255,7 @@
     "updateTime": "2025-02-03T11:17:19.708Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71474770&list=FEATURED_VIDEO:1",
+      "contentId": "v=71474770&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71474770,
       "launchParam": null
@@ -6741,7 +6782,7 @@
     "updateTime": "2025-01-20T21:55:21.849Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71355556&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71355556&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71355556,
       "launchParam": null
@@ -6959,45 +7000,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71314262_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US: What do Americans think about the looming TikTok ban?",
-    "category": "Politics",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-01-18T09:23:34.684Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71335199&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71335199,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71331424_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71331424_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7433,47 +7435,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71244744_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Diplomats meet in Saudi Arabia to discuss Syria's future",
-    "category": "Politics",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me:SA": "Saudi Arabia",
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Saudi Arabia",
-      "Syria"
-    ],
-    "runningTime": 125,
-    "updateTime": "2025-01-12T15:56:04.479Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71279085&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71279085,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71276860_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71276860_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11288,13 +11249,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69370568_6.jpg",
+      "url": "https://static.dw.com/image/71622010_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69370568_7.jpg",
+      "url": "https://static.dw.com/image/71622010_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
