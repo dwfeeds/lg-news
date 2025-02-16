@@ -480,18 +480,16 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany"
+      "region:europe": "Europe"
     },
     "regions": [
-      "United States of America",
-      "Germany"
+      "Europe"
     ],
     "runningTime": 150,
     "updateTime": "2025-02-15T08:52:54.586Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71618934&list=REGION_VIDEO:5",
+      "contentId": "v=71618934&list=REGION_VIDEO:7",
       "type": "video",
       "id": 71618934,
       "launchParam": null
@@ -1419,45 +1417,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70918373_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Several injured as car drives into crowd in Munich, Bavaria",
-    "category": "[Miscellaneous]",
-    "subCategory": "Catastrophe",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 91,
-    "updateTime": "2025-02-13T15:03:45.786Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71597706&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71597706,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71596937_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71596937_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7036,6 +6995,45 @@
     "language": "en"
   },
   {
+    "titleText": "What are Donald Trump's plans for day one?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 198,
+    "updateTime": "2025-01-19T12:12:58.807Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71324397&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71324397,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71314262_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71314262_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hundreds of Palestinian prisoners to be released under deal",
     "category": "Conflicts",
     "subCategory": null,
@@ -10083,41 +10081,6 @@
       "bgColor": ""
     },
     "language": "en"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 182,
-    "updateTime": "2025-02-14T19:40:32.048Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71605357_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71605357_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
   },
   {
     "titleText": "¿Noboa o Luisa González?",
