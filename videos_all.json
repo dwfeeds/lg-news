@@ -1,21 +1,25 @@
 [
   {
-    "titleText": "How does South Africa prepare for Christmas ",
-    "category": "Society",
-    "subCategory": "Culture",
+    "titleText": "What would happen if all foreign forces left the Congo?",
+    "category": "Politics",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:africa:ZA": "South Africa"
+      "region:africa": "Africa",
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa:RW": "Rwanda"
     },
     "regions": [
-      "South Africa"
+      "Africa",
+      "Democratic Republic of Congo",
+      "Rwanda"
     ],
-    "runningTime": 150,
-    "updateTime": "2025-02-18T15:05:57.782Z",
+    "runningTime": 230,
+    "updateTime": "2025-02-18T15:58:07.926Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=67802025&list=REGION_VIDEO:8",
+      "contentId": "v=71662616&list=FULL_SHOWS_VIDEO:10",
       "type": "video",
-      "id": 67802025,
+      "id": 71662616,
       "launchParam": null
     },
     "providerLogo": {
@@ -25,13 +29,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/67792254_6.jpeg",
+      "url": "https://static.dw.com/image/71466235_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/67792254_7.jpeg",
+      "url": "https://static.dw.com/image/71466235_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3801,6 +3805,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71531406_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Does the EU fuel the conflict in the DRC?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Europe"
+    ],
+    "runningTime": 217,
+    "updateTime": "2025-02-06T16:14:36.319Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71531487&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71531487,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71444232_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71444232_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10044,7 +10089,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-02-18T14:30:52.309Z",
+    "updateTime": "2025-02-18T16:30:01.549Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
