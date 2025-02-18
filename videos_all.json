@@ -1,15 +1,130 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-02-18T17:25:15.292Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71658841_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71658841_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Testing the new Subaru Forester",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 421,
+    "updateTime": "2025-02-18T17:00:35.953Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71664563&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71664563,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71594325_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71594325_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Zin Mar Aung: 'Myanmar's junta losing control'",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:MM": "Myanmar"
+    },
+    "regions": [
+      "Myanmar"
+    ],
+    "runningTime": 204,
+    "updateTime": "2025-02-18T16:49:44.428Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71664218&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71664218,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71662991_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71662991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What would happen if all foreign forces left the Congo?",
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
-      "region:africa": "Africa",
       "region:africa:CD": "Democratic Republic of Congo",
       "region:africa:RW": "Rwanda"
     },
     "regions": [
-      "Africa",
       "Democratic Republic of Congo",
       "Rwanda"
     ],
@@ -82,16 +197,14 @@
     "language": "en"
   },
   {
-    "titleText": "Bukavu: Can this rebel-held city in DRC rebuild?",
-    "category": "Society",
-    "subCategory": "Conflicts",
+    "titleText": "DR Congo: How rebel-held Bukavu is starting to rebuild",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa": "Africa"
+      "region:africa:CD": "Democratic Republic of Congo"
     },
     "regions": [
-      "Democratic Republic of Congo",
-      "Africa"
+      "Democratic Republic of Congo"
     ],
     "runningTime": 53,
     "updateTime": "2025-02-18T14:47:09.845Z",
@@ -116,45 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71644196_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-02-18T13:39:15.454Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71642726_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71642726_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6388,45 +6462,6 @@
     "language": "en"
   },
   {
-    "titleText": "BIZ: German cars dominate India's luxury market",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 160,
-    "updateTime": "2025-01-23T14:43:35.666Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71383247&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 71383247,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71351399_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71351399_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US: New wildfire spreads rapidly near Los Angeles",
     "category": "Catastrophe",
     "subCategory": "Nature and Environment",
@@ -9806,47 +9841,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Lagos is driving environmental change ",
-    "category": "Nature and Environment",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Nigeria",
-      "Africa"
-    ],
-    "runningTime": 387,
-    "updateTime": "2024-11-18T09:00:43.154Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70787665&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 70787665,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70766313_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70766313_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Farming robots: The future of agriculture? ",
     "category": "Innovation",
     "subCategory": "Technology",
@@ -11128,6 +11122,49 @@
     "language": "es"
   },
   {
+    "titleText": "Kann Arbeit in Deutschland für Aufschwung in Kenia sorgen?",
+    "category": "Politik",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:africa": "Afrika",
+      "region:europe:DE": "Deutschland",
+      "region:africa:KE": "Kenia"
+    },
+    "regions": [
+      "Afrika",
+      "Deutschland",
+      "Kenia"
+    ],
+    "runningTime": 228,
+    "updateTime": "2025-02-18T17:02:27.258Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71662724&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71662724,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71664403_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71664403_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Deutschlands Migrationsdebatte: Was die Parteien wollen ",
     "category": "Politik",
     "subCategory": null,
@@ -11564,45 +11601,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71606433_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Merz: \"Amerikaner stellen demokratische Institutionen in Frage\"",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 398,
-    "updateTime": "2025-02-14T20:28:50.763Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71617722&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71617722,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71617473_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71617473_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
