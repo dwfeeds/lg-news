@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Trump blames Zelenskyy for Russia's war against Ukraine",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "United States of America",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "United States of America",
+      "Russian Federation"
+    ],
+    "runningTime": 97,
+    "updateTime": "2025-02-19T19:39:15.475Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71677759&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71677759,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71667617_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71667617_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -78,7 +121,7 @@
     "language": "en"
   },
   {
-    "titleText": "Telling the stories of the victims of racist attacks",
+    "titleText": "Telling the stories of those murdered in racist attacks",
     "category": "Film",
     "subCategory": "Society",
     "region_ids": {
@@ -103,13 +146,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/68270217_6.jpg",
+      "url": "https://static.dw.com/image/71660804_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/68270217_7.jpg",
+      "url": "https://static.dw.com/image/71660804_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4305,7 +4348,7 @@
     "updateTime": "2025-02-06T09:12:01.517Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71521322&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71521322&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71521322,
       "launchParam": null
@@ -7456,47 +7499,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70616139_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Families of Israeli hostages tell of hope, dread",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 173,
-    "updateTime": "2025-01-15T22:01:18.709Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71304048&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71304048,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70421766_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70421766_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
