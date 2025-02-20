@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 92,
+    "updateTime": "2025-02-20T19:33:59.821Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71680209_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71680209_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "New law in South Africa addresses Apartheid land seizures",
     "category": "Equality",
     "subCategory": "Law and Justice",
@@ -119,45 +158,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 92,
-    "updateTime": "2025-02-20T17:19:41.145Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71680209_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71680209_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How to avoid crypto losses",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -199,7 +199,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germans with African heritage want to see change",
+    "titleText": "Afro-Germans want to see change under new government",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -10138,7 +10138,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-02-20T13:20:09.504Z",
+    "updateTime": "2025-02-20T19:34:13.828Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10160,6 +10160,80 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71680209_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Migración, tema crucial en las elecciones alemanas",
+    "category": "Noticias en video",
+    "subCategory": "Migración",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 168,
+    "updateTime": "2025-02-20T19:14:25.497Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71692938&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71692938,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71260501_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71260501_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Hamás entrega cuerpos de rehenes",
+    "category": "Noticias en video",
+    "subCategory": "Política",
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 140,
+    "updateTime": "2025-02-20T19:12:48.154Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71692929&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71692929,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71682072_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71682072_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10431,45 +10505,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71097816_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Noboa o Luisa González?",
-    "category": "Noticias en video",
-    "subCategory": "Política",
-    "region_ids": {
-      "region:cala:EC": "Ecuador"
-    },
-    "regions": [
-      "Ecuador"
-    ],
-    "runningTime": 194,
-    "updateTime": "2025-02-14T10:25:09.759Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71544774&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71544774,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66585872_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66585872_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
