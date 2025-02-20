@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Why Germany is no longer the export champion it once was",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 63,
+    "updateTime": "2025-02-20T11:21:44.157Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71607571&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71607571,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69456206_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69456206_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The chef modernizing South Africa's fattest street food",
     "category": "Lifestyle",
     "subCategory": "Culture",
@@ -78,14 +117,20 @@
     "language": "en"
   },
   {
-    "titleText": "Indonesia hosts naval drills",
+    "titleText": "South China Sea in focus, as Indonesia hosts naval drills",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:asia:ID": "Indonesia"
+      "region:asia:ID": "Indonesia",
+      "region:asia:CN": "China",
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Indonesia"
+      "Indonesia",
+      "China",
+      "Russian Federation",
+      "United States of America"
     ],
     "runningTime": 212,
     "updateTime": "2025-02-20T08:59:49.095Z",
@@ -344,6 +389,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71504722_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Italy's Stromboli Island survive?",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 280,
+    "updateTime": "2025-02-19T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71611214&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71611214,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71257527_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71257527_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -844,7 +928,7 @@
     "updateTime": "2025-02-19T09:37:45.359Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71668246&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=71668246&list=REGION_VIDEO:8",
       "type": "video",
       "id": 71668246,
       "launchParam": null
@@ -1451,13 +1535,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71246772_6.jpg",
+      "url": "https://static.dw.com/image/71683060_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71246772_7.jpg",
+      "url": "https://static.dw.com/image/71683060_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2177,45 +2261,6 @@
     "language": "en"
   },
   {
-    "titleText": "Did the four-way debate help German voters decide?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 158,
-    "updateTime": "2025-02-17T09:04:11.892Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71635591&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71635591,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71635870_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71635870_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mounting fears of DR Congo breakup",
     "category": "Conflicts",
     "subCategory": null,
@@ -2248,45 +2293,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71632750_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "France's Haddad: 'Europe needs to wake up'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 550,
-    "updateTime": "2025-02-16T15:44:48.575Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71631459&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71631459,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71623938_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71623938_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3649,47 +3655,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71559456_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why are Africans moving to Brazil?",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Africa",
-      "Brazil"
-    ],
-    "runningTime": 177,
-    "updateTime": "2025-02-10T09:34:11.812Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71511545&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71511545,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71176752_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71176752_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10003,6 +9968,45 @@
     "language": "en"
   },
   {
+    "titleText": "Spain's farmers, wolves clash in ongoing battle",
+    "category": "Nature and Environment",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 279,
+    "updateTime": "2024-10-31T12:06:54.92Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70607426&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 70607426,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/59855442_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/59855442_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Scholz meets industry leaders to discuss economic crisis",
     "category": "Business",
     "subCategory": null,
@@ -10087,7 +10091,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-02-20T10:25:37.028Z",
+    "updateTime": "2025-02-20T11:27:43.248Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11136,6 +11140,45 @@
     "language": "es"
   },
   {
+    "titleText": "Was bedeutet der Fachkräftemangel für Deutschland? ",
+    "category": "Migration",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 59,
+    "updateTime": "2025-02-20T11:19:26.707Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71670422&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71670422,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71649810_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71649810_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Roboter in der Fertigung der Zukunft  ",
     "category": "Wirtschaft",
     "subCategory": "Technik",
@@ -11629,7 +11672,7 @@
     "updateTime": "2025-02-16T10:56:39.43Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71617576&list=REPORTS_VIDEO:1",
+      "contentId": "v=71617576&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71617576,
       "launchParam": null
@@ -12239,45 +12282,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71528471_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie stehen die Chancen für außerirdisches Leben?",
-    "category": "Wissenschaft",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-02-07T18:30:01.692Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71544065&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71544065,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69347181_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69347181_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
