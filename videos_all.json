@@ -42,13 +42,17 @@
     "titleText": "Scholz, Merz wind up campaigning for German elections ",
     "category": "Politics",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
     "runningTime": 138,
     "updateTime": "2025-02-21T21:04:00.378Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71706656&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71706656&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71706656,
       "launchParam": null
@@ -2934,45 +2938,6 @@
     "language": "en"
   },
   {
-    "titleText": "Portugal: Combatting the brain drain",
-    "category": "Business",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 307,
-    "updateTime": "2025-02-17T15:14:16.017Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71347852&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71347852,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71333244_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71333244_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Who was Muhsin Hendricks, the world's first openly gay imam?",
     "category": "Religion",
     "subCategory": "Crime",
@@ -5189,6 +5154,45 @@
     "language": "en"
   },
   {
+    "titleText": "What dismantling USAID means for world's poorest people",
+    "category": "Politics",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 112,
+    "updateTime": "2025-02-07T12:39:04.264Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71539375&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71539375,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71450058_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71450058_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bruges in Belgium: Instagram vs. reality",
     "category": "Travel",
     "subCategory": "Lifestyle",
@@ -6464,45 +6468,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71496321_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Majority of German voters are behind us: McAllister ",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 324,
-    "updateTime": "2025-02-03T18:43:39.379Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71496350&list=GLOBAL_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 71496350,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71496486_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71496486_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
