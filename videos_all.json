@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 86,
+    "updateTime": "2025-02-21T13:22:15.893Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71680209_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71680209_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza: Palestinians want to rebuild, reject relocation",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-02-21T13:04:37.741Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71694865&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71694865,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71524572_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71524572_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Traditional Albanian dance: the k'cimi of Tropoja",
     "category": "Culture",
     "subCategory": null,
@@ -78,7 +156,7 @@
     "language": "en"
   },
   {
-    "titleText": "German election: Asian immigrants wary of far right",
+    "titleText": "Asian immigrants wary of far right's rise in German election",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -314,46 +392,7 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 86,
-    "updateTime": "2025-02-21T08:13:28.369Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71680209_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71680209_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "German election campaigns enter final stretch",
+    "titleText": "Far-right, Elon Musk, migrants: The path to German elections",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -7453,7 +7492,7 @@
     "updateTime": "2025-01-25T16:05:09.052Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71406743&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71406743&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71406743,
       "launchParam": null
@@ -8477,45 +8516,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71335048_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Palestinians, Israelis eagerly await ceasefire decision",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-01-17T21:08:52.995Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71333923&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71333923,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71321850_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71321850_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11063,7 +11063,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-02-21T08:00:15.358Z",
+    "updateTime": "2025-02-21T13:23:28.794Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
