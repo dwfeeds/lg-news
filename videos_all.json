@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Germans hope for next government to turn economy around",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-02-21T14:02:44.069Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71699121&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71699121,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/46566637_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/46566637_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -117,7 +156,7 @@
     "language": "en"
   },
   {
-    "titleText": "Is Germany becoming politically unstable?",
+    "titleText": "Is German parliament becoming politically fragmented?",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -392,7 +431,7 @@
     "language": "en"
   },
   {
-    "titleText": "Far-right, Elon Musk, migrants: The path to German elections",
+    "titleText": "German far-right surges ahead of vote with backing from Musk",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -432,8 +471,8 @@
   },
   {
     "titleText": "South Africa divided over law on apartheid land seizures ",
-    "category": "Equality",
-    "subCategory": "Law and Justice",
+    "category": "Law and Justice",
+    "subCategory": null,
     "region_ids": {
       "region:africa:ZA": "South Africa"
     },
@@ -2414,45 +2453,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71644428_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What are the benefits of a four-day week?",
-    "category": "Business",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 270,
-    "updateTime": "2025-02-17T15:18:42.037Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71560815&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71560815,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71542607_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71542607_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12160,7 +12160,7 @@
     "updateTime": "2025-02-21T09:53:54.902Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71660361&list=REPORTS_VIDEO:1",
+      "contentId": "v=71660361&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 71660361,
       "launchParam": null
@@ -12472,7 +12472,7 @@
     "updateTime": "2025-02-20T08:41:54.815Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71676022&list=FEATURED_VIDEO:1",
+      "contentId": "v=71676022&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71676022,
       "launchParam": null
