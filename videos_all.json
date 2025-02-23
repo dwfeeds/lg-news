@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-02-23T13:11:57.637Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71719152_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71719152_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "A children's music school in a double-decker bus",
     "category": "Education",
     "subCategory": "Culture",
@@ -149,45 +188,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71453652_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-02-23T08:23:58.754Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71719152_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71719152_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -741,9 +741,9 @@
     "language": "en"
   },
   {
-    "titleText": "Dancing for Albanian cultural heritage: k'cimi of Tropoja",
+    "titleText": "Albanian dance k'cimi of Tropoja draws new generation",
     "category": "Culture",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:AL": "Albania"
     },
@@ -899,9 +899,9 @@
     "language": "en"
   },
   {
-    "titleText": "Berlin's cycling undertaker changes funeral culture",
-    "category": "Business",
-    "subCategory": "Society",
+    "titleText": "Berlin's cycling undertaker adapts funeral culture",
+    "category": "Society",
+    "subCategory": "Business",
     "region_ids": {
       "region:europe:DE": "Germany"
     },
@@ -912,7 +912,7 @@
     "updateTime": "2025-02-21T09:30:41.56Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71639901&list=REGION_VIDEO:7",
+      "contentId": "v=71639901&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 71639901,
       "launchParam": null
@@ -1414,7 +1414,7 @@
     "language": "en"
   },
   {
-    "titleText": "The chef modernizing South Africa's fattest street food",
+    "titleText": "Soweto chef modernizes South Africa's street food",
     "category": "Lifestyle",
     "subCategory": "Culture",
     "region_ids": {
@@ -1537,7 +1537,7 @@
     "language": "en"
   },
   {
-    "titleText": "The Nigerians choosing ballet over traditional dance",
+    "titleText": "In Lagos, Afro ballet school dances into spotlight",
     "category": "Dance",
     "subCategory": "Society",
     "region_ids": {
@@ -3155,6 +3155,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71542631_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The benefits of free public transportation",
+    "category": "Cars and Transportation",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:EE": "Estonia",
+      "region:europe:SE": "Sweden",
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Estonia",
+      "Sweden",
+      "Indonesia"
+    ],
+    "runningTime": 455,
+    "updateTime": "2025-02-17T15:15:17.745Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71374741&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71374741,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63467690_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63467690_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7660,45 +7703,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71444012_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Explore Berlin on a budget",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 336,
-    "updateTime": "2025-01-29T11:18:20.916Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71399851&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 71399851,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71390000_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71390000_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
