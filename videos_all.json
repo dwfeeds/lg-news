@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "A children's music school in a double-decker bus",
+    "category": "Education",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 321,
+    "updateTime": "2025-02-23T12:21:34.05Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71704383&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71704383,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71688633_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71688633_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Behind the ballot: How Germany's chancellor is chosen",
     "category": "Politics",
     "subCategory": null,
@@ -142,13 +181,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71622794_6.jpg",
+      "url": "https://static.dw.com/image/71719152_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71622794_7.jpg",
+      "url": "https://static.dw.com/image/71719152_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -546,7 +585,7 @@
     "language": "en"
   },
   {
-    "titleText": "Migrants the US detained at Guantanamo Bay reach Venezuela",
+    "titleText": "Migrants US detained at Guantanamo Bay reach Venezuela",
     "category": "Politics",
     "subCategory": "Human Rights",
     "region_ids": {
@@ -559,7 +598,7 @@
     "updateTime": "2025-02-21T16:10:42.305Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71705007&list=REGION_VIDEO:6",
+      "contentId": "v=71705007&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71705007,
       "launchParam": null
@@ -1693,45 +1732,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why is less Russian being taught at Estonian schools?",
-    "category": "Society",
-    "subCategory": "Education",
-    "region_ids": {
-      "region:europe:EE": "Estonia"
-    },
-    "regions": [
-      "Estonia"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-02-19T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71611215&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71611215,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71594700_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71594700_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Can Italy's Stromboli Island survive?",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -1764,6 +1764,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71257527_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is less Russian being taught at Estonian schools?",
+    "category": "Society",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:EE": "Estonia"
+    },
+    "regions": [
+      "Estonia"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-02-19T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71611215&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71611215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71594700_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71594700_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5313,7 +5352,7 @@
     "updateTime": "2025-02-07T15:58:28.364Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71542622&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71542622&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71542622,
       "launchParam": null
@@ -7667,49 +7706,6 @@
     "language": "en"
   },
   {
-    "titleText": "A new perspective on restitution of Cameroon artifacts ",
-    "category": "History",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:africa:CM": "Cameroon",
-      "region:africa": "Africa",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Cameroon",
-      "Africa",
-      "Germany"
-    ],
-    "runningTime": 107,
-    "updateTime": "2025-01-29T07:41:18.505Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71373516&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 71373516,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71452679_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71452679_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany's relations with Russia, US loom large in election",
     "category": "Politics",
     "subCategory": "Trade",
@@ -8788,45 +8784,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71368487_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump pardons most of January 6 rioters ",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-01-21T21:08:21.896Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71366583&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71366583,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71356658_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71356658_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11056,7 +11013,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-02-23T08:35:08.328Z",
+    "updateTime": "2025-02-23T12:44:32.899Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12101,6 +12058,45 @@
     "language": "es"
   },
   {
+    "titleText": "Musikschule für Kinder im ausrangierten Doppeldeckerbus",
+    "category": "Musik",
+    "subCategory": "Kultur",
+    "region_ids": {
+      "region:europe:GB": "Vereinigtes Königreich"
+    },
+    "regions": [
+      "Vereinigtes Königreich"
+    ],
+    "runningTime": 321,
+    "updateTime": "2025-02-23T12:21:01.032Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71703902&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71703902,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71688633_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71688633_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Krieg in der Ukraine: Weniger Russisch an Estlands Schulen",
     "category": "Gesellschaft",
     "subCategory": "Konflikte",
@@ -12527,84 +12523,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71644126_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Roboter in der Fertigung der Zukunft  ",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 282,
-    "updateTime": "2025-02-20T14:19:43.04Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71688816&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71688816,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68084827_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68084827_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wo steht Deutschland wirtschaftlich?",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 108,
-    "updateTime": "2025-02-20T14:18:10.859Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71688823&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71688823,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69545156_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69545156_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
