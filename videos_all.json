@@ -3,8 +3,14 @@
     "titleText": "Trump hosts Macron at White House",
     "category": "Politics",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "United States of America",
+      "France"
+    ],
     "runningTime": 262,
     "updateTime": "2025-02-24T20:13:38.026Z",
     "onClick": {
