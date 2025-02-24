@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-02-24T17:47:15.575Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71726870_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71726870_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "German industry demands relief",
     "category": "Business",
     "subCategory": null,
@@ -78,14 +117,16 @@
     "language": "en"
   },
   {
-    "titleText": "Trump 'frustrated on lack of progress on minerals agreement'",
+    "titleText": "Johnson: Trump 'frustrated by lack of progress on minerals'",
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
+      "region:northamerica": "North America",
       "region:europe:UA": "Ukraine",
       "region:northamerica:US": "United States of America"
     },
     "regions": [
+      "North America",
       "Ukraine",
       "United States of America"
     ],
@@ -272,45 +313,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71594700_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-02-24T11:09:43.385Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71726870_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71726870_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12117,6 +12119,45 @@
     "language": "es"
   },
   {
+    "titleText": "Klöckner: AfD-Stimmenzuwachs \"Signal an uns alle\"",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 175,
+    "updateTime": "2025-02-24T17:59:51.727Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71735000&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71735000,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71496741_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71496741_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Gefährliche Einsamkeit – eine Truckerin in Alaska",
     "category": "Wirtschaft",
     "subCategory": "Auto und Mobilität",
@@ -12500,45 +12541,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71691063_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Tools gegen Zensur ",
-    "category": "Digitale Welt",
-    "subCategory": "Technik",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-02-21T17:32:44.43Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71703994&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71703994,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71691057_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71691057_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
