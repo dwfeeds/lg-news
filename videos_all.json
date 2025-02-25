@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Merz: 'We need to make decisions extremely quickly'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-02-25T17:48:02.685Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71749485&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71749485,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71746203_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71746203_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kallas: 'So far Putin and Russia do not want peace'",
     "category": "Conflicts",
     "subCategory": null,
@@ -5364,7 +5403,7 @@
     "updateTime": "2025-02-11T21:42:52.783Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71578100&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71578100&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71578100,
       "launchParam": null
@@ -8749,49 +8788,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71370992_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How will Trump navigate the new China-Russia axis?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:asia:CN": "China",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "United States of America",
-      "China",
-      "Russian Federation"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-01-23T07:52:31.797Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71379319&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71379319,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70765721_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70765721_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12586,45 +12582,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71726001_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kanzlerkandidat der Union: Wer ist Friedrich Merz?",
-    "category": "Video-Nachrichten",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 258,
-    "updateTime": "2025-02-23T18:19:01.739Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71704582&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71704582,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71705257_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71705257_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
