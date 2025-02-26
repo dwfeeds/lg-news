@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-02-26T13:33:41.719Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71751417_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71751417_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump touts 'big deal' with Ukraine over mineral rights",
     "category": "Politics",
     "subCategory": null,
@@ -54,7 +93,7 @@
     "updateTime": "2025-02-26T10:35:10.066Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71754048&list=REGION_VIDEO:7",
+      "contentId": "v=71754048&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 71754048,
       "launchParam": null
@@ -66,13 +105,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/18958730_6.jpg",
+      "url": "https://static.dw.com/image/71758154_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/18958730_7.jpg",
+      "url": "https://static.dw.com/image/71758154_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -418,45 +457,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-02-26T07:19:12.86Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71751417_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71751417_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany's far-right: Who is AfD co-leader Alice Weidel?",
     "category": "Politics",
     "subCategory": null,
@@ -528,45 +528,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71746441_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany's Merz: New government must make quick decisions",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 285,
-    "updateTime": "2025-02-25T17:48:02.685Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71749485&list=GLOBAL_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 71749485,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71746203_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71746203_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4014,6 +3975,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71632131_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sounding the alarm about Germany's business environment",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 160,
+    "updateTime": "2025-02-19T09:03:34.936Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71639869&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71639869,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71632143_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71632143_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11164,7 +11164,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-02-26T07:18:32.259Z",
+    "updateTime": "2025-02-26T13:33:57.335Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
