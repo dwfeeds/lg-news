@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Musk attends US President Trump's first cabinet meeting",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 187,
+    "updateTime": "2025-02-26T19:07:20.885Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71763022&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71763022,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71763077_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71763077_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +49,7 @@
       "Europe"
     ],
     "runningTime": 93,
-    "updateTime": "2025-02-26T18:39:56.084Z",
+    "updateTime": "2025-02-26T18:45:51.58Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:7",
@@ -5626,7 +5665,7 @@
     "updateTime": "2025-02-12T21:05:19.941Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71589849&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71589849&list=REGION_VIDEO:4",
       "type": "video",
       "id": 71589849,
       "launchParam": null
@@ -6880,45 +6919,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68086611_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Afghanistan hopes gem mining will boost its economy",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Afghanistan"
-    ],
-    "runningTime": 151,
-    "updateTime": "2025-02-06T09:02:37.422Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71522033&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 71522033,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64199465_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64199465_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11240,6 +11240,45 @@
     "language": "en"
   },
   {
+    "titleText": "El ascenso de la AfD en Gelsenkirchen",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 153,
+    "updateTime": "2025-02-26T19:04:23.641Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71762959&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71762959,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71758154_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71758154_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -11686,7 +11725,7 @@
     "updateTime": "2025-02-24T14:30:56.661Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70656670&list=REPORTS_VIDEO:1",
+      "contentId": "v=70656670&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 70656670,
       "launchParam": null
