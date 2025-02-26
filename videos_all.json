@@ -130,7 +130,7 @@
     "updateTime": "2025-02-26T14:05:33.088Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -197,7 +197,7 @@
     "language": "en"
   },
   {
-    "titleText": "Job loss fears fuel the far-right's rise in Germany’s West",
+    "titleText": "Far-right AfD surges in poverty-stricken western German city",
     "category": "Politics",
     "subCategory": "Society",
     "region_ids": {
@@ -4099,45 +4099,6 @@
     "language": "en"
   },
   {
-    "titleText": "Sounding the alarm about Germany's business environment",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 160,
-    "updateTime": "2025-02-19T09:03:34.936Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71639869&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71639869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71632143_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71632143_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Fake news and sabotage fears loom over German elections",
     "category": "Politics",
     "subCategory": "Media",
@@ -4730,6 +4691,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71642366_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can the EU become raw material independent?",
+    "category": "Business",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 519,
+    "updateTime": "2025-02-17T15:18:18.123Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71560796&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 71560796,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71542631_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71542631_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11164,7 +11164,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-02-26T14:21:57.722Z",
+    "updateTime": "2025-02-26T15:25:55.227Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11179,13 +11179,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71754659_6.jpg",
+      "url": "https://static.dw.com/image/71692963_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71754659_7.jpg",
+      "url": "https://static.dw.com/image/71692963_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12338,6 +12338,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Wie ticken AfD-Wähler?",
+    "category": "Politik",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 326,
+    "updateTime": "2025-02-26T15:00:35.614Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71760925&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71760925,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71758112_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71758112_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Porsche experimentiert mit E-Fuels aus Chile ",
