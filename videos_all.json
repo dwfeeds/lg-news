@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-02-28T08:57:06.249Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71777383_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71777383_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tate brothers return to US amid human trafficking charges",
     "category": "Crime",
     "subCategory": "Media",
@@ -41,7 +80,7 @@
     "language": "en"
   },
   {
-    "titleText": "What’s at stake in the potential US-Ukraine mineral deal?",
+    "titleText": "What minerals does Ukraine have and can they be extracted?",
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
@@ -68,13 +107,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71685232_6.jpg",
+      "url": "https://static.dw.com/image/71751417_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71685232_7.jpg",
+      "url": "https://static.dw.com/image/71751417_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -155,45 +194,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71775561_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2025-02-28T07:02:54.029Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71736242_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71736242_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -872,13 +872,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71688720_6.jpeg",
+      "url": "https://static.dw.com/image/65882257_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71688720_7.jpeg",
+      "url": "https://static.dw.com/image/65882257_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12467,13 +12467,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71688720_6.jpeg",
+      "url": "https://static.dw.com/image/65882257_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71688720_7.jpeg",
+      "url": "https://static.dw.com/image/65882257_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
