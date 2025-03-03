@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Two dead as car drives into crowd in German city of Mannheim",
+    "category": "Crime",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 77,
+    "updateTime": "2025-03-03T18:35:04.558Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71817083&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71817083,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71816573_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71816573_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2025-03-03T15:50:01.26Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71815503&list=REGION_VIDEO:7",
+      "contentId": "v=71815503&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71815503,
       "launchParam": null
@@ -5186,45 +5225,6 @@
     "language": "en"
   },
   {
-    "titleText": "Zeinixx: Senegalese female power at its zenith ",
-    "category": "Music",
-    "subCategory": "Arts",
-    "region_ids": {
-      "region:africa:SN": "Senegal"
-    },
-    "regions": [
-      "Senegal"
-    ],
-    "runningTime": 243,
-    "updateTime": "2025-02-20T09:03:01.599Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71449131&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71449131,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71446662_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71446662_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "South China Sea in focus as Indonesia hosts naval drills",
     "category": "Politics",
     "subCategory": null,
@@ -7787,45 +7787,6 @@
     "language": "en"
   },
   {
-    "titleText": "Italy's legendary Ape 3-wheeled truck says 'arrivederci'",
-    "category": "Cars and Transportation",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 239,
-    "updateTime": "2025-02-05T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71477752&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 71477752,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71456802_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71456802_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "In France, fresh fish available by subscription",
     "category": "Lifestyle",
     "subCategory": "Society",
@@ -7858,6 +7819,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71456785_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Italy's legendary Ape 3-wheeled truck says 'arrivederci'",
+    "category": "Cars and Transportation",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 239,
+    "updateTime": "2025-02-05T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71477752&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71477752,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71456802_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71456802_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
