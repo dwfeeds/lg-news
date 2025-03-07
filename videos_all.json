@@ -45,10 +45,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:europe": "Europe"
+      "region:europe": "Europe",
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Europe"
+      "Europe",
+      "Ukraine"
     ],
     "runningTime": 168,
     "updateTime": "2025-03-07T07:22:49.763Z",
@@ -506,6 +508,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/53060847_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kosovo: The end of USAID ",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:XK": "Kosovo"
+    },
+    "regions": [
+      "Kosovo"
+    ],
+    "runningTime": 326,
+    "updateTime": "2025-03-05T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71785696&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71785696,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71784810_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71784810_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5553,49 +5594,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump blames Zelenskyy for Russia's war against Ukraine",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-02-19T19:39:15.475Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71677759&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71677759,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71667617_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71667617_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Telling the stories of those murdered in racist attacks",
     "category": "Film",
     "subCategory": "Society",
@@ -7748,22 +7746,22 @@
     "language": "en"
   },
   {
-    "titleText": "Italy's legendary Ape 3-wheeled truck says 'arrivederci'",
-    "category": "Cars and Transportation",
-    "subCategory": "Lifestyle",
+    "titleText": "In France, fresh fish available by subscription",
+    "category": "Lifestyle",
+    "subCategory": "Society",
     "region_ids": {
-      "region:europe:IT": "Italy"
+      "region:europe:FR": "France"
     },
     "regions": [
-      "Italy"
+      "France"
     ],
-    "runningTime": 239,
+    "runningTime": 289,
     "updateTime": "2025-02-05T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71477752&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=71477751&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
-      "id": 71477752,
+      "id": 71477751,
       "launchParam": null
     },
     "providerLogo": {
@@ -7773,13 +7771,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71456802_6.jpg",
+      "url": "https://static.dw.com/image/71456785_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71456802_7.jpg",
+      "url": "https://static.dw.com/image/71456785_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11377,6 +11375,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 178,
+    "updateTime": "2025-03-07T08:23:59.394Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71853088_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71853088_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "¿Qué edad tienen los átomos?",
     "category": "Ciencia",
     "subCategory": null,
@@ -11409,41 +11442,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71571022_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 178,
-    "updateTime": "2025-03-06T21:21:20.036Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71846316_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71846316_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12594,6 +12592,45 @@
     "language": "es"
   },
   {
+    "titleText": "Kosovo: Das schmerzhafte Aus von USAID",
+    "category": "Gesellschaft",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:europe:XK": "Kosovo"
+    },
+    "regions": [
+      "Kosovo"
+    ],
+    "runningTime": 329,
+    "updateTime": "2025-03-07T07:54:35.077Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71839125&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71839125,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71501467_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71501467_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Wo bleibt der Protest der Demokraten in den USA gegen Trump?",
     "category": "Politik",
     "subCategory": null,
@@ -12944,51 +12981,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71769335_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Donald Trump beginnt Handelskrieg mit US-Zöllen",
-    "category": "Wirtschaft",
-    "subCategory": "Handel",
-    "region_ids": {
-      "region:northamerica:US": "Vereinigte Staaten von Amerika",
-      "region:northamerica:CA": "Kanada",
-      "region:cala:MX": "Mexiko",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Vereinigte Staaten von Amerika",
-      "Kanada",
-      "Mexiko",
-      "China"
-    ],
-    "runningTime": 152,
-    "updateTime": "2025-03-04T16:27:44.503Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71825314&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71825314,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71567198_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71567198_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
