@@ -441,24 +441,26 @@
     "language": "en"
   },
   {
-    "titleText": "US ends offensive cyber operations against Russia ",
+    "titleText": "US stops Cyber-Operations against Russia",
     "category": "Digital World",
     "subCategory": "Conflicts",
     "region_ids": {
       "region:global": "Global",
       "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
       "Global",
       "United States of America",
-      "Russian Federation"
+      "Russian Federation",
+      "Ukraine"
     ],
-    "runningTime": 227,
+    "runningTime": 223,
     "updateTime": "2025-03-07T09:18:28.291Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71854395&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=71854395&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71854395,
       "launchParam": null
@@ -4525,45 +4527,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ugandan women train future climate leaders",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Uganda"
-    ],
-    "runningTime": 331,
-    "updateTime": "2025-02-25T08:39:55.331Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71679653&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71679653,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71675830_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71675830_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US-drafted UN resolution fails to name Russia as aggressor",
     "category": "Politics",
     "subCategory": null,
@@ -5667,45 +5630,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71693131_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump order targeting South Africa down to 'racist agenda'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-02-20T17:56:03.765Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71692658&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71692658,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71692622_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71692622_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11372,6 +11296,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70779668_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Illegal land grab? Chinese wind farms in Bosnia-Herzegovina",
+    "category": "Business",
+    "subCategory": "Globalization",
+    "region_ids": {
+      "region:europe:BA": "Bosnia and Herzegovina",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Bosnia and Herzegovina",
+      "China"
+    ],
+    "runningTime": 363,
+    "updateTime": "2024-11-11T15:43:30.72Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70616999&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 70616999,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70600880_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70600880_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
