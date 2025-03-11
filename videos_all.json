@@ -144,13 +144,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71883693_6.jpg",
+      "url": "https://static.dw.com/image/71886415_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71883693_7.jpg",
+      "url": "https://static.dw.com/image/71886415_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11303,7 +11303,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 171,
-    "updateTime": "2025-03-11T14:28:40.017Z",
+    "updateTime": "2025-03-11T15:18:17.866Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12442,6 +12442,47 @@
     "language": "es"
   },
   {
+    "titleText": "Ukraine feuert Drohnen auf Moskau",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russische Föderation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Russische Föderation",
+      "Ukraine"
+    ],
+    "runningTime": 91,
+    "updateTime": "2025-03-11T14:54:41.382Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71889171&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71889171,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71884033_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71884033_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Weltmeister im Teetrinken: die Ostfriesen",
     "category": "Lifestyle",
     "subCategory": "Kultur",
@@ -12933,7 +12974,7 @@
     "updateTime": "2025-03-08T11:02:57.62Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71863244&list=REPORTS_VIDEO:1",
+      "contentId": "v=71863244&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 71863244,
       "launchParam": null
