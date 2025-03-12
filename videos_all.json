@@ -1,8 +1,127 @@
 [
   {
-    "titleText": "EU agrees changes to common asylum policy",
-    "category": "Politics",
+    "titleText": "US calls on Russia to back Ukraine ceasefire plan",
+    "category": "Conflicts",
     "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "United States of America",
+      "Ukraine"
+    ],
+    "runningTime": 112,
+    "updateTime": "2025-03-12T12:42:58.538Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71898232&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 71898232,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71896172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71896172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-03-12T12:19:45.095Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71896172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71896172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Taking the party bus in Lagos ",
+    "category": "Cars and Transportation",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 209,
+    "updateTime": "2025-03-12T11:48:39.219Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71810822&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71810822,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71786823_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71786823_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU agrees changes to common asylum policy",
+    "category": "Migration",
+    "subCategory": "Politics",
     "region_ids": {
       "region:europe": "Europe"
     },
@@ -125,10 +244,14 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe": "Europe"
+      "region:europe": "Europe",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Europe"
+      "Europe",
+      "Ukraine",
+      "Russian Federation"
     ],
     "runningTime": 205,
     "updateTime": "2025-03-12T09:40:17.004Z",
@@ -270,45 +393,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71573791_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-03-12T06:42:26.331Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71886427_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71886427_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4659,45 +4743,6 @@
     "language": "en"
   },
   {
-    "titleText": "Goma adjusts to life under M23 rebels in eastern Congo",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 91,
-    "updateTime": "2025-02-28T14:15:24.437Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71785270&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71785270,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71776289_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71776289_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Tate brothers return to US amid rape and trafficking charges",
     "category": "Crime",
     "subCategory": "Media",
@@ -5497,47 +5542,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71752554_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukraine, US close to minerals deal, Kyiv officials say",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Ukraine",
-      "United States of America"
-    ],
-    "runningTime": 184,
-    "updateTime": "2025-02-26T08:50:33.275Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71706358&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71706358,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71589631_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71589631_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11299,7 +11303,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 171,
-    "updateTime": "2025-03-12T11:19:39.23Z",
+    "updateTime": "2025-03-12T12:20:50.218Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
