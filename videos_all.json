@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Washington removes 'Black Lives Matter' mural",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 95,
+    "updateTime": "2025-03-12T20:47:32.42Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71903982&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71903982,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71902049_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71902049_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5390,49 +5429,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71738055_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Macron receives warm welcome at White House",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:FR": "France",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "France",
-      "Europe"
-    ],
-    "runningTime": 262,
-    "updateTime": "2025-02-24T20:13:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71736271&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71736271,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71736158_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71736158_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11231,7 +11227,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 171,
-    "updateTime": "2025-03-12T19:21:31.596Z",
+    "updateTime": "2025-03-12T21:27:44.246Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11246,13 +11242,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71896242_6.jpg",
+      "url": "https://static.dw.com/image/71849585_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71896242_7.jpg",
+      "url": "https://static.dw.com/image/71849585_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12331,6 +12327,45 @@
     "language": "es"
   },
   {
+    "titleText": "Belize: Indigene Garifuna kämpfen um ihre Kultur",
+    "category": "Gesellschaft",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:cala:BZ": "Belize"
+    },
+    "regions": [
+      "Belize"
+    ],
+    "runningTime": 358,
+    "updateTime": "2025-03-12T20:42:20.282Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71878138&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71878138,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71857590_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71857590_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Hilfe für verletzte Kinder aus dem Gazastreifen",
     "category": "Konflikte",
     "subCategory": null,
@@ -12365,45 +12400,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71886622_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Belize: Indigene Garifuna kämpfen um ihre Kultur",
-    "category": "Gesellschaft",
-    "subCategory": "Kultur",
-    "region_ids": {
-      "region:cala:BZ": "Belize"
-    },
-    "regions": [
-      "Belize"
-    ],
-    "runningTime": 358,
-    "updateTime": "2025-03-12T14:18:58.893Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71878138&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71878138,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71857590_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71857590_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
