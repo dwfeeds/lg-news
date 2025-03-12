@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-03-12T16:35:55.657Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71896172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71896172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US calls on Russia to back Ukraine ceasefire plan",
     "category": "Conflicts",
     "subCategory": null,
@@ -12,7 +51,7 @@
       "Ukraine"
     ],
     "runningTime": 112,
-    "updateTime": "2025-03-12T12:42:58.538Z",
+    "updateTime": "2025-03-12T16:35:43.034Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=71898232&list=REGION_VIDEO:5",
@@ -41,22 +80,26 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
+    "titleText": "EU split over giving frozen Russian assets to Ukraine",
+    "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe": "Europe"
+      "region:europe": "Europe",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Europe"
+      "Europe",
+      "Ukraine",
+      "Russian Federation"
     ],
-    "runningTime": 93,
-    "updateTime": "2025-03-12T12:19:45.095Z",
+    "runningTime": 205,
+    "updateTime": "2025-03-12T16:08:05.024Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=71897125&list=REGION_VIDEO:7",
       "type": "video",
-      "id": 49496622,
+      "id": 71897125,
       "launchParam": null
     },
     "providerLogo": {
@@ -66,13 +109,91 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71896172_6.jpg",
+      "url": "https://static.dw.com/image/62299271_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71896172_7.jpg",
+      "url": "https://static.dw.com/image/62299271_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Europe's 'Sky Shield' initiative help Ukraine?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 153,
+    "updateTime": "2025-03-12T16:05:26.173Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71901280&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71901280,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71530514_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71530514_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistan: Indus river gold draws panners to try their luck",
+    "category": "Society",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 202,
+    "updateTime": "2025-03-12T15:36:27.94Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71902068&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 71902068,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71901633_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71901633_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -233,49 +354,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71895292_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "EU split over giving frozen Russian assets to Ukraine",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Europe",
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 205,
-    "updateTime": "2025-03-12T09:40:17.004Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71897125&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71897125,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/62299271_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/62299271_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2508,45 +2586,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/64931329_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany considers boosting defense spending",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 164,
-    "updateTime": "2025-03-07T11:30:10.917Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71856971&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71856971,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71150354_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71150354_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8712,45 +8751,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kashmir's educators brave harsh weather to teach children",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 285,
-    "updateTime": "2025-01-23T15:37:45.683Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71389438&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 71389438,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71388057_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71388057_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenya's public buses show off colorful matatu culture",
     "category": "Culture",
     "subCategory": "Society",
@@ -12331,6 +12331,47 @@
     "language": "es"
   },
   {
+    "titleText": "Hilfe für verletzte Kinder aus dem Gazastreifen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:JO": "Jordanien",
+      "region:me:PS": "Palästinensische Gebiete"
+    },
+    "regions": [
+      "Jordanien",
+      "Palästinensische Gebiete"
+    ],
+    "runningTime": 172,
+    "updateTime": "2025-03-12T15:51:07.895Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71901668&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 71901668,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71886622_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71886622_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Belize: Indigene Garifuna kämpfen um ihre Kultur",
     "category": "Gesellschaft",
     "subCategory": "Kultur",
@@ -12545,7 +12586,7 @@
     "updateTime": "2025-03-11T09:44:17.927Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71839129&list=FEATURED_VIDEO:1",
+      "contentId": "v=71839129&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71839129,
       "launchParam": null
@@ -12802,47 +12843,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71855824_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Zahl der Flüchtlinge in Spanien steigt auf Rekordhöhe",
-    "category": "Migration",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:ES": "Spanien",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Spanien",
-      "Europa"
-    ],
-    "runningTime": 183,
-    "updateTime": "2025-03-09T06:44:48.953Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71842350&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71842350,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71815942_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71815942_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
