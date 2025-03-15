@@ -4,18 +4,18 @@
     "category": "Crime",
     "subCategory": null,
     "region_ids": {
-      "region:cala:MX": "Mexico",
-      "region:northamerica": "North America"
+      "region:northamerica": "North America",
+      "region:cala:MX": "Mexico"
     },
     "regions": [
-      "Mexico",
-      "North America"
+      "North America",
+      "Mexico"
     ],
     "runningTime": 133,
     "updateTime": "2025-03-15T14:34:58.448Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71930461&list=REGION_VIDEO:6",
+      "contentId": "v=71930461&list=REGION_VIDEO:5",
       "type": "video",
       "id": 71930461,
       "launchParam": null
@@ -5419,45 +5419,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71670062_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Musk attends US President Trump's first cabinet meeting",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 187,
-    "updateTime": "2025-02-26T19:07:20.885Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71763022&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71763022,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71763077_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71763077_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
