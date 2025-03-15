@@ -1,21 +1,23 @@
 [
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
+    "titleText": "Why South Sudan's leaders thrive on instability ",
+    "category": "Conflicts",
+    "subCategory": "Society",
     "region_ids": {
-      "region:europe": "Europe"
+      "region:africa": "Africa",
+      "region:africa:SS": "South Sudan"
     },
     "regions": [
-      "Europe"
+      "Africa",
+      "South Sudan"
     ],
-    "runningTime": 98,
-    "updateTime": "2025-03-14T16:48:25.994Z",
+    "runningTime": 243,
+    "updateTime": "2025-03-14T23:54:37.429Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=71928963&list=REGION_VIDEO:8",
       "type": "video",
-      "id": 49496622,
+      "id": 71928963,
       "launchParam": null
     },
     "providerLogo": {
@@ -25,13 +27,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71928406_6.jpg",
+      "url": "https://static.dw.com/image/70216163_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71928406_7.jpg",
+      "url": "https://static.dw.com/image/70216163_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11307,45 +11309,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71736388_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Polonia y la energía nuclear: ¿regreso al futuro?",
-    "category": "Sociedad",
-    "subCategory": "Política",
-    "region_ids": {
-      "region:europe:PL": "Polonia"
-    },
-    "regions": [
-      "Polonia"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-03-13T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71903491&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71903491,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71847182_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71847182_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
