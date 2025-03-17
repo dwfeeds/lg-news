@@ -10,7 +10,7 @@
       "Europe"
     ],
     "runningTime": 98,
-    "updateTime": "2025-03-17T02:39:20.108Z",
+    "updateTime": "2025-03-17T06:38:31.495Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:10",
@@ -39,11 +39,15 @@
     "language": "en"
   },
   {
-    "titleText": "US federal employees share their fears over DOGE",
+    "titleText": "US government workers share their fears about Musk's DOGE",
     "category": "Politics",
     "subCategory": "Society",
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
     "runningTime": 168,
     "updateTime": "2025-03-16T17:39:17.348Z",
     "onClick": {
@@ -67,6 +71,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71936924_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Donald Trump orders strikes on Houthi rebels in Yemen",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:YE": "Yemen"
+    },
+    "regions": [
+      "Yemen"
+    ],
+    "runningTime": 157,
+    "updateTime": "2025-03-16T16:43:36.105Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71936947&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71936947,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71934867_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71934867_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -262,6 +305,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71933864_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UK prepares peace plan for Ukraine should Russia agree",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 380,
+    "updateTime": "2025-03-15T19:45:22.689Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71933594&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71933594,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71931851_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71931851_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7826,47 +7910,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68086611_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "EU lawmaker: Trump's Gaza plan 'deeply, deeply concerning'",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "United States of America",
-      "Middle East"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-02-05T22:50:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71517893&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 71517893,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71517892_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71517892_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
