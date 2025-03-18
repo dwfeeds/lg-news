@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "German lawmakers approve easing 'debt brake'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 427,
+    "updateTime": "2025-03-18T19:04:47.798Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71964925&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71964925,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71963652_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71963652_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -2241,45 +2280,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71369079_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "German lawmakers to debate massive spending deal",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-03-13T11:00:35.707Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71910590&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71910590,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71828198_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71828198_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9449,45 +9449,6 @@
     "language": "en"
   },
   {
-    "titleText": "Arena de vidrio reciclado",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:UY": "Uruguay"
-    },
-    "regions": [
-      "Uruguay"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942270&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942270,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65853862_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65853862_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Brasil avanza hacia el modelo circular",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -9520,6 +9481,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910704_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cicla2: diseño con neumáticos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 249,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942264,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910693_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910693_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9566,22 +9566,22 @@
     "language": "es"
   },
   {
-    "titleText": "Cicla2: diseño con neumáticos",
+    "titleText": "Arena de vidrio reciclado",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
-      "region:cala:AR": "Argentina"
+      "region:cala:UY": "Uruguay"
     },
     "regions": [
-      "Argentina"
+      "Uruguay"
     ],
-    "runningTime": 249,
+    "runningTime": 303,
     "updateTime": "2025-03-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
+      "contentId": "v=71942270&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71942264,
+      "id": 71942270,
       "launchParam": null
     },
     "providerLogo": {
@@ -9591,13 +9591,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910693_6.jpeg",
+      "url": "https://static.dw.com/image/65853862_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910693_7.jpeg",
+      "url": "https://static.dw.com/image/65853862_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9756,45 +9756,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71769343_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Neumonía por micoplasma o neumonía atípica",
-    "category": "Salud",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 314,
-    "updateTime": "2025-03-14T12:09:30.226Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71840072&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71840072,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/18737937_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/18737937_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
