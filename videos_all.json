@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Israel, Hamas accuse each other of breaching truce",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-03-19T15:13:26.246Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71975630&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71975630,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71958275_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71958275_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7228,7 +7269,7 @@
     "updateTime": "2025-02-10T23:43:18.296Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71566241&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71566241&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71566241,
       "launchParam": null
@@ -7606,47 +7647,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71511093_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How do Palestinians feel about Trump's plan for Gaza?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Middle East",
-      "United States of America"
-    ],
-    "runningTime": 134,
-    "updateTime": "2025-02-06T09:12:01.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71521322&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71521322,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68597475_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68597475_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10231,45 +10231,6 @@
     "language": "en"
   },
   {
-    "titleText": "Cicla2: diseño con neumáticos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:AR": "Argentina"
-    },
-    "regions": [
-      "Argentina"
-    ],
-    "runningTime": 249,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942264,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910693_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910693_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Reciclar neumáticos y ganar recursos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10302,6 +10263,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cicla2: diseño con neumáticos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 249,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942264,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910693_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910693_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10393,7 +10393,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 171,
-    "updateTime": "2025-03-19T14:18:06.092Z",
+    "updateTime": "2025-03-19T15:20:16.65Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10408,13 +10408,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71969310_6.jpg",
+      "url": "https://static.dw.com/image/71972997_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71969310_7.jpg",
+      "url": "https://static.dw.com/image/71972997_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
