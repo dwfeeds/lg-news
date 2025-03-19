@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Stranded NASA astronauts back on Earth",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 84,
+    "updateTime": "2025-03-19T07:57:32.55Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71968852&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71968852,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71967698_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71967698_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5508,47 +5547,6 @@
     "language": "en"
   },
   {
-    "titleText": "Tate brothers return to US amid rape and trafficking charges",
-    "category": "Crime",
-    "subCategory": "Media",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:RO": "Romania"
-    },
-    "regions": [
-      "United States of America",
-      "Romania"
-    ],
-    "runningTime": 117,
-    "updateTime": "2025-02-28T08:38:45.655Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71779349&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71779349,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71168893_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71168893_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Are India, the EU ready for a free trade agreement? ",
     "category": "Trade",
     "subCategory": "Business",
@@ -9447,22 +9445,22 @@
     "language": "en"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
+    "titleText": "Brasil avanza hacia el modelo circular",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
-      "region:cala:CL": "Chile"
+      "region:cala:BR": "Brasil"
     },
     "regions": [
-      "Chile"
+      "Brasil"
     ],
-    "runningTime": 563,
+    "runningTime": 303,
     "updateTime": "2025-03-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71942263,
+      "id": 71942269,
       "launchParam": null
     },
     "providerLogo": {
@@ -9472,13 +9470,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "url": "https://static.dw.com/image/71910704_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "url": "https://static.dw.com/image/71910704_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9525,6 +9523,45 @@
     "language": "es"
   },
   {
+    "titleText": "Reciclar neumáticos y ganar recursos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 563,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942263,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Arena de vidrio reciclado",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -9564,22 +9601,18 @@
     "language": "es"
   },
   {
-    "titleText": "Brasil avanza hacia el modelo circular",
-    "category": "Naturaleza y medio ambiente",
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
     "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brasil"
-    },
-    "regions": [
-      "Brasil"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-03-20T23:30:00Z",
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 171,
+    "updateTime": "2025-03-19T07:52:42.335Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
       "type": "video",
-      "id": 71942269,
+      "id": 18529525,
       "launchParam": null
     },
     "providerLogo": {
@@ -9589,13 +9622,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910704_6.jpeg",
+      "url": "https://static.dw.com/image/70801202_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910704_7.jpeg",
+      "url": "https://static.dw.com/image/70801202_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9713,41 +9746,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71700592_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 171,
-    "updateTime": "2025-03-18T21:36:01.5Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70801202_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70801202_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
