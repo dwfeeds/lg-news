@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "How will Europe pay for increases in defense spending?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 193,
+    "updateTime": "2025-03-20T08:04:47.61Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71981344&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71981344,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71908986_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71908986_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 95,
+    "updateTime": "2025-03-20T08:01:53.69Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71977311_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71977311_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany rethinks future of nuclear security",
     "category": "Politics",
     "subCategory": null,
@@ -112,45 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71977290_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 95,
-    "updateTime": "2025-03-19T20:02:22.467Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71977311_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71977311_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10346,45 +10385,6 @@
     "language": "es"
   },
   {
-    "titleText": "Arena de vidrio reciclado",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:UY": "Uruguay"
-    },
-    "regions": [
-      "Uruguay"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942270&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942270,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65853862_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65853862_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Reciclar neumáticos y ganar recursos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10417,6 +10417,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Arena de vidrio reciclado",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:UY": "Uruguay"
+    },
+    "regions": [
+      "Uruguay"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942270&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942270,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65853862_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65853862_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11448,6 +11487,45 @@
     "language": "es"
   },
   {
+    "titleText": "Wie aus Schwedens Wäldern Papier wird",
+    "category": "Natur und Umwelt",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:SE": "Schweden"
+    },
+    "regions": [
+      "Schweden"
+    ],
+    "runningTime": 559,
+    "updateTime": "2025-03-20T08:25:49.97Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71974325&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71974325,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71914908_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71914908_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Eingefrorene USAID-Hilfe: Furcht vor Hungersnot in Tigray",
     "category": "Video-Nachrichten",
     "subCategory": "Konflikte",
@@ -11943,7 +12021,7 @@
     "updateTime": "2025-03-14T14:49:33.549Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71922461&list=REPORTS_VIDEO:1",
+      "contentId": "v=71922461&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 71922461,
       "launchParam": null
@@ -13121,45 +13199,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71606816_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Immer weniger Geburten - verliert die Ukraine ihre Zukunft?",
-    "category": "Gesellschaft",
-    "subCategory": "Konflikte",
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 385,
-    "updateTime": "2025-02-11T09:03:31.512Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71512096&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 71512096,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71456822_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71456822_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
