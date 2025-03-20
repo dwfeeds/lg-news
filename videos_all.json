@@ -240,7 +240,7 @@
     "language": "en"
   },
   {
-    "titleText": "Laser Internet: Connecting Rural Areas - with Taara",
+    "titleText": "Laser internet: Connecting rural areas with Taara",
     "category": "Digital World",
     "subCategory": "Equality",
     "region_ids": {
@@ -281,7 +281,7 @@
     "language": "en"
   },
   {
-    "titleText": "Sweden: turning forests into paper?",
+    "titleText": "Sweden: Turning forests into paper?",
     "category": "Politics",
     "subCategory": "Nature and Environment",
     "region_ids": {
@@ -837,9 +837,9 @@
     "language": "en"
   },
   {
-    "titleText": "Chris Ngalu's vision for the future of fashion",
-    "category": "Human Rights",
-    "subCategory": "Design",
+    "titleText": "Chris Ngalu's vision for the future of fashion is slow",
+    "category": "Design",
+    "subCategory": "Human Rights",
     "region_ids": {
       "region:africa:MW": "Malawi"
     },
@@ -915,14 +915,14 @@
     "language": "en"
   },
   {
-    "titleText": "Pakistan's child circus performers",
-    "category": "Lifestyle",
-    "subCategory": "Society",
+    "titleText": "Pakistan's child circus performers risk their lives for show",
+    "category": "Society",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:asia": "Asia"
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Asia"
+      "Pakistan"
     ],
     "runningTime": 166,
     "updateTime": "2025-03-19T16:04:14.534Z",
@@ -2514,6 +2514,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71930369_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Should Poland return to nuclear power?",
+    "category": "Climate",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-03-15T13:34:19.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71860963&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71860963,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71847182_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71847182_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10377,22 +10416,22 @@
     "language": "en"
   },
   {
-    "titleText": "Brasil avanza hacia el modelo circular",
+    "titleText": "Reciclar neumáticos y ganar recursos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
-      "region:cala:BR": "Brasil"
+      "region:cala:CL": "Chile"
     },
     "regions": [
-      "Brasil"
+      "Chile"
     ],
-    "runningTime": 303,
+    "runningTime": 563,
     "updateTime": "2025-03-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71942269,
+      "id": 71942263,
       "launchParam": null
     },
     "providerLogo": {
@@ -10402,13 +10441,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910704_6.jpeg",
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910704_7.jpeg",
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10455,45 +10494,6 @@
     "language": "es"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 563,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942263,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Arena de vidrio reciclado",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10526,6 +10526,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65853862_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Brasil avanza hacia el modelo circular",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:BR": "Brasil"
+    },
+    "regions": [
+      "Brasil"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942269,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910704_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910704_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
