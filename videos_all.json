@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Ready for the military?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-03-20T10:29:28.64Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71975501&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71975501,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71981705_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71981705_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How will Europe pay for increases in defense spending?",
     "category": "Politics",
     "subCategory": null,
@@ -394,7 +433,7 @@
     "language": "en"
   },
   {
-    "titleText": "Russia: Reporters linked to Navalny on trial",
+    "titleText": "Russia: Reporters on trial in latest free speech crackdown",
     "category": "Press Freedom",
     "subCategory": "Law and Justice",
     "region_ids": {
@@ -2314,7 +2353,7 @@
     "language": "en"
   },
   {
-    "titleText": "Why South Sudan's leaders thrive on instability ",
+    "titleText": "How instability persists in South Sudan",
     "category": "Conflicts",
     "subCategory": "Society",
     "region_ids": {
@@ -2430,49 +2469,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71900547_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "France piqued at Trump's EU wine, champagne tariff threat",
-    "category": "Trade",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France",
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "France",
-      "Europe",
-      "United States of America"
-    ],
-    "runningTime": 77,
-    "updateTime": "2025-03-14T13:07:52.785Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71924685&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 71924685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/45070529_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/45070529_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4016,6 +4012,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71867393_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dancer Babacar Mané takes to the international stage",
+    "category": "Dance",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 256,
+    "updateTime": "2025-03-09T10:59:11.541Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71861697&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 71861697,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71855824_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71855824_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
