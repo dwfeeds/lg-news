@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 90,
+    "updateTime": "2025-03-21T11:48:08.852Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71990509_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71990509_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Taiwan completes drills amid heightened tensions with China",
     "category": "Politics",
     "subCategory": null,
@@ -190,45 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70120234_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 90,
-    "updateTime": "2025-03-21T07:22:30.419Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71990509_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71990509_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2870,47 +2870,6 @@
     "language": "en"
   },
   {
-    "titleText": "India, Pakistan welcome spring celebrating Holi festival",
-    "category": "Offbeat",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "India",
-      "Pakistan"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-03-14T15:00:47.211Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71926022&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 71926022,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71900547_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71900547_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump wields budget ax against US science, medical research",
     "category": "Politics",
     "subCategory": "Science",
@@ -3300,45 +3259,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71879016_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Pakistan army frees train hostages, kills militants",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 135,
-    "updateTime": "2025-03-12T22:37:22.029Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71904731&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 71904731,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71904953_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71904953_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4731,45 +4651,6 @@
     "language": "en"
   },
   {
-    "titleText": "SpaceX rocket launch ends in explosion again",
-    "category": "Science",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 153,
-    "updateTime": "2025-03-07T15:05:54.594Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71861394&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71861394,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71818035_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71818035_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Freed captives describe scam operations in Myanmar",
     "category": "Crime",
     "subCategory": null,
@@ -5336,90 +5217,6 @@
     "language": "en"
   },
   {
-    "titleText": "Is Trump following conservative Project 2025 blueprint?",
-    "category": "Politics",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 593,
-    "updateTime": "2025-03-04T20:24:57.09Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70687982&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 70687982,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71828455_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71828455_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump's tariffs against Canada, Mexico come into force",
-    "category": "Trade",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:northamerica:CA": "Canada",
-      "region:cala:MX": "Mexico",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "United States of America",
-      "Canada",
-      "Mexico",
-      "China"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-03-04T20:11:15.503Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71828520&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71828520,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71484613_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71484613_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Indonesia: Torrential rains trap residents in flooded homes",
     "category": "Climate",
     "subCategory": null,
@@ -5491,49 +5288,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71819386_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US freezes all military aid to Ukraine",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "United States of America",
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 83,
-    "updateTime": "2025-03-04T07:00:49.079Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71818965&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71818965,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71736242_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71736242_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6134,6 +5888,86 @@
     "language": "en"
   },
   {
+    "titleText": "Bolton: European independence from US 'a mistake'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "United States of America",
+      "Europe"
+    ],
+    "runningTime": 475,
+    "updateTime": "2025-02-27T22:09:24.676Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71777880&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71777880,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71885233_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71885233_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US actor Gene Hackman dead at 95 ",
+    "category": "Film",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 129,
+    "updateTime": "2025-02-27T21:03:58.462Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71777777&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71777777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67570389_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67570389_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Are India, the EU ready for a free trade agreement? ",
     "category": "Trade",
     "subCategory": "Business",
@@ -6168,47 +6002,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71775002_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Palestinian prisoners freed, hostages' remains returned",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-02-27T12:46:50.697Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71770855&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71770855,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71764941_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71764941_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6257,6 +6050,129 @@
     "language": "en"
   },
   {
+    "titleText": "Natural dyes reduce toxic textiles' impact",
+    "category": "Health",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 274,
+    "updateTime": "2025-02-27T08:31:39.452Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71686723&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71686723,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71688227_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71688227_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India's aviation industry is flying high",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:asia:IN": "India",
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "India",
+      "Asia"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-02-27T07:45:55.491Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71727350&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71727350,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71701295_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71701295_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump's Greenland ambitions increase focus on minerals",
+    "category": "Business",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:northamerica": "North America",
+      "region:northamerica:US": "United States of America",
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "North America",
+      "United States of America",
+      "Denmark"
+    ],
+    "runningTime": 174,
+    "updateTime": "2025-02-27T07:45:39.789Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71727300&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 71727300,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71700080_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71700080_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The Italian pizzerias run by people with autism",
     "category": "Society",
     "subCategory": "Diversity",
@@ -6291,45 +6207,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71688769_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Thousands turn out for funeral of Israeli hostage family",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 153,
-    "updateTime": "2025-02-26T17:16:54.432Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71762216&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71762216,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71754629_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71754629_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7528,7 +7405,7 @@
     "updateTime": "2025-02-14T09:43:40.572Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71605042&list=REGION_VIDEO:9",
+      "contentId": "v=71605042&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71605042,
       "launchParam": null
@@ -7569,7 +7446,7 @@
     "updateTime": "2025-02-13T07:20:50.606Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71577754&list=REGION_VIDEO:9",
+      "contentId": "v=71577754&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71577754,
       "launchParam": null
@@ -7588,94 +7465,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71553896_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Jordan's King Abdullah in tight spot over Trump's Gaza plans",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:JO": "Jordan",
-      "region:me:PS": "Palestinian Territories",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Jordan",
-      "Palestinian Territories",
-      "United States of America"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-02-11T08:37:06.752Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71568009&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 71568009,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/58291883_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/58291883_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump: No right for Palestinians to return if US owns Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Middle East",
-      "Palestinian Territories",
-      "Israel",
-      "United States of America"
-    ],
-    "runningTime": 178,
-    "updateTime": "2025-02-10T23:43:18.296Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71566241&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71566241,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71547580_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71547580_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7952,6 +7741,137 @@
     "language": "en"
   },
   {
+    "titleText": "Trump's proposal to take over Gaza sparks global backlash",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America",
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America",
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 467,
+    "updateTime": "2025-02-06T12:54:19.351Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71524702&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71524702,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71508094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71508094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump plan to clear out Gaza draws criticism, confusion",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America",
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America",
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-02-06T12:37:57.505Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71524155&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71524155,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71511093_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71511093_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How do Palestinians feel about Trump's plan for Gaza?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America"
+    ],
+    "runningTime": 134,
+    "updateTime": "2025-02-06T09:12:01.517Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71521322&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 71521322,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68597475_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68597475_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ending FGM: Why Africa is making slow progress",
     "category": "Human Rights",
     "subCategory": "Society",
@@ -8062,47 +7982,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70422012_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US top diplomat Rubio visits Panama to cut China 'influence'",
-    "category": "Politics",
-    "subCategory": "Trade",
-    "region_ids": {
-      "region:cala:PA": "Panama",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Panama",
-      "United States of America"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-02-03T07:14:55.332Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71489631&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 71489631,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71487877_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71487877_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8343,6 +8222,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71440204_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Are women finally gaining political power across Africa?",
+    "category": "Equality",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 238,
+    "updateTime": "2025-01-28T20:29:21.481Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71440088&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 71440088,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70952557_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70952557_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9133,6 +9051,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/36070421_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "World's largest digital camera to transform astronomy",
+    "category": "Science",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 191,
+    "updateTime": "2025-01-02T10:25:45.569Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71201298&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 71201298,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71201042_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71201042_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10291,45 +10248,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israel's 'Al-Jazeera law' hampers reporting from Gaza",
-    "category": "Press Freedom",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 215,
-    "updateTime": "2024-10-10T10:37:07.811Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70454047&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 70454047,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70460330_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70460330_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Serbia: Activists feel the full force of state pressure",
     "category": "Politics",
     "subCategory": null,
@@ -10362,6 +10280,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69910800_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Discrimination and refuge for trans people",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 368,
+    "updateTime": "2024-09-30T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70350307&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70350307,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70330840_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70330840_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10685,6 +10642,47 @@
     "language": "es"
   },
   {
+    "titleText": "Groenlandia dice \"no\" a Trump ",
+    "category": "Sociedad",
+    "subCategory": "Política",
+    "region_ids": {
+      "region:europe:DK": "Dinamarca",
+      "region:northamerica:US": "Estados Unidos"
+    },
+    "regions": [
+      "Dinamarca",
+      "Estados Unidos"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-03-20T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71977034&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71977034,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71933311_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71933311_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "El ángel de los gatos de Estambul",
     "category": "Sociedad",
     "subCategory": "Panorama",
@@ -10698,7 +10696,7 @@
     "updateTime": "2025-03-19T18:30:10.011Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71844357&list=REPORTS_VIDEO:1",
+      "contentId": "v=71844357&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71844357,
       "launchParam": null
@@ -11077,45 +11075,6 @@
     "language": "es"
   },
   {
-    "titleText": "Suiza: el teleférico más empinado del mundo",
-    "category": "Viajes",
-    "subCategory": "Innovación",
-    "region_ids": {
-      "region:europe:CH": "Suiza"
-    },
-    "regions": [
-      "Suiza"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-02-24T14:27:31.54Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71301401&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71301401,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71257535_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71257535_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "El último autobús de Europa a Rusia ",
     "category": "Sociedad",
     "subCategory": "Automóviles y movilidad",
@@ -11434,6 +11393,41 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Gibt es Hinweise auf die Existenz von dunkler Materie?",
+    "category": "Wissenschaft",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 166,
+    "updateTime": "2025-03-21T12:56:12.777Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71997369&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71997369,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71400891_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71400891_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Was treibt Putin vor Estlands Küste?",
@@ -11870,47 +11864,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71879016_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Tesla: Elon Musk zerstört das Image",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica": "Nordamerika",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Nordamerika",
-      "Europa"
-    ],
-    "runningTime": 177,
-    "updateTime": "2025-03-17T14:43:50.569Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71943103&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71943103,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71922105_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71922105_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
