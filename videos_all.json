@@ -1,8 +1,47 @@
 [
   {
+    "titleText": "Finland's fascinating light show",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:FI": "Finland"
+    },
+    "regions": [
+      "Finland"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-03-22T10:30:34.213Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72000782&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72000782,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71987244_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71987244_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany updates US travel advisory after citizens held",
     "category": "Politics",
-    "subCategory": "Travel",
+    "subCategory": null,
     "region_ids": {
       "region:northamerica:US": "United States of America",
       "region:europe:DE": "Germany"
@@ -6832,45 +6871,6 @@
     "language": "en"
   },
   {
-    "titleText": "Tilda Swinton wins Berlinale's honorary Golden Bear",
-    "category": "Film",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 316,
-    "updateTime": "2025-02-22T18:16:16.833Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71702932&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 71702932,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71601826_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71601826_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Freedom online: Who's negotiating it?",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -10396,45 +10396,6 @@
     "language": "es"
   },
   {
-    "titleText": "Cicla2: diseño con neumáticos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:AR": "Argentina"
-    },
-    "regions": [
-      "Argentina"
-    ],
-    "runningTime": 249,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942264,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910693_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910693_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Reciclar neumáticos y ganar recursos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10467,6 +10428,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cicla2: diseño con neumáticos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 249,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942264,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910693_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910693_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11424,6 +11424,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Auf der Suche nach Polarlichtern in Finnland",
+    "category": "Lifestyle",
+    "subCategory": "Reise",
+    "region_ids": {
+      "region:europe:FI": "Finnland"
+    },
+    "regions": [
+      "Finnland"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-03-22T10:32:14.493Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72002359&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72002359,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71987244_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71987244_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Wie Trump die Wissenschaft bedroht",
