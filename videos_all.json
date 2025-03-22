@@ -1,15 +1,130 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-03-22T13:52:30.871Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72004006_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72004006_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Boxing legend George Foreman dies aged 76 ",
+    "category": "Sports",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 108,
+    "updateTime": "2025-03-22T13:52:07.909Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72006520&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72006520,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72003743_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72003743_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US releases classified JFK assassination files ",
+    "category": "History",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 122,
+    "updateTime": "2025-03-22T13:50:19.333Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72006517&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72006517,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71741028_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71741028_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Venezuelans fear deportation after Trump changes TPS rule",
     "category": "Politics",
     "subCategory": "Migration",
     "region_ids": {
-      "region:cala:VE": "Venezuela",
-      "region:northamerica:US": "United States of America"
+      "region:cala:VE": "Venezuela"
     },
     "regions": [
-      "Venezuela",
-      "United States of America"
+      "Venezuela"
     ],
     "runningTime": 156,
     "updateTime": "2025-03-22T11:13:02.928Z",
@@ -114,45 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67084920_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2025-03-22T07:24:57.836Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71993160_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71993160_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -478,12 +554,10 @@
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:UA": "Ukraine"
+      "region:europe": "Europe"
     },
     "regions": [
-      "Germany",
-      "Ukraine"
+      "Europe"
     ],
     "runningTime": 89,
     "updateTime": "2025-03-21T16:17:09.985Z",
@@ -5371,45 +5445,6 @@
     "language": "en"
   },
   {
-    "titleText": "Where are US Democrats as Trump, Musk gut gov't agencies?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-03-04T21:27:33.38Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71828704&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71828704,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71611343_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71611343_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Indonesia: Torrential rains trap residents in flooded homes",
     "category": "Climate",
     "subCategory": null,
@@ -6074,47 +6109,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71779453_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bolton: European independence from US 'a mistake'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "Europe"
-    ],
-    "runningTime": 475,
-    "updateTime": "2025-02-27T22:09:24.676Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71777880&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71777880,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71885233_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71885233_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10359,6 +10353,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 176,
+    "updateTime": "2025-03-22T14:30:16.254Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72003970_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72003970_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "El Debate sobre los Lobos en los Países Bajos",
     "category": "Noticias en video",
     "subCategory": null,
@@ -10391,45 +10420,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71854118_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Cicla2: diseño con neumáticos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:AR": "Argentina"
-    },
-    "regions": [
-      "Argentina"
-    ],
-    "runningTime": 249,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942264,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910693_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910693_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10547,6 +10537,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910704_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cicla2: diseño con neumáticos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:AR": "Argentina"
+    },
+    "regions": [
+      "Argentina"
+    ],
+    "runningTime": 249,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942264&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942264,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910693_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910693_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11428,6 +11457,45 @@
     "language": "es"
   },
   {
+    "titleText": "Besteht Materie aus Stoff oder besteht sie aus Energie?",
+    "category": "Wissenschaft",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 142,
+    "updateTime": "2025-03-22T13:50:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71859493&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71859493,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65870658_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65870658_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Auf der Suche nach Polarlichtern in Finnland",
     "category": "Lifestyle",
     "subCategory": "Reise",
@@ -11897,45 +11965,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71977695_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Datenzentren – Fluch oder Segen?",
-    "category": "Technik",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:ES": "Spanien"
-    },
-    "regions": [
-      "Spanien"
-    ],
-    "runningTime": 198,
-    "updateTime": "2025-03-20T13:14:50.414Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71986298&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71986298,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/60430723_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/60430723_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
