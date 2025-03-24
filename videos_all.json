@@ -25,13 +25,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72009387_6.jpg",
+      "url": "https://static.dw.com/image/72004006_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72009387_7.jpg",
+      "url": "https://static.dw.com/image/72004006_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -117,16 +117,18 @@
     "language": "en"
   },
   {
-    "titleText": "US 'optimistic' as Ukraine ceasefire talks begin",
+    "titleText": "US 'optimistic' as Ukraine ceasefire talks begin: expert",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
       "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
       "Ukraine",
-      "Russian Federation"
+      "Russian Federation",
+      "United States of America"
     ],
     "runningTime": 253,
     "updateTime": "2025-03-23T19:22:19.016Z",
@@ -592,8 +594,8 @@
   },
   {
     "titleText": "Northern Lights: Finland's fascinating spectacle in the sky",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
+    "category": "Travel",
+    "subCategory": "Culture",
     "region_ids": {
       "region:europe:FI": "Finland"
     },
@@ -11447,6 +11449,45 @@
     "language": "es"
   },
   {
+    "titleText": "Wie Deutschlands Luftabwehrsysteme der Ukraine helfen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-03-24T06:44:52.04Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71997636&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71997636,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71994270_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71994270_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Syrien: Wer sind die Alawiten?",
     "category": "Politik",
     "subCategory": "Konflikte",
@@ -11916,45 +11957,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71914871_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Istanbuls Bürgermeister Imamoglu in Haft",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:TR": "Türkei"
-    },
-    "regions": [
-      "Türkei"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-03-20T20:46:11.065Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71988030&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71988030,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71968559_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71968559_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
