@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 100,
+    "updateTime": "2025-03-26T17:08:41.47Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:4",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72044663_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72044663_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mexicans risk their lives for missing family members",
     "category": "Crime",
     "subCategory": null,
@@ -39,7 +78,7 @@
     "language": "en"
   },
   {
-    "titleText": "Trump brushes of security concerns over 'Signalgate'",
+    "titleText": "Trump brushes off security concerns over 'Signalgate'",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -283,13 +322,11 @@
   {
     "titleText": "New Delhi's women bouncers help partygoers stay safe ",
     "category": "Society",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:asia": "Asia",
       "region:asia:IN": "India"
     },
     "regions": [
-      "Asia",
       "India"
     ],
     "runningTime": 129,
@@ -354,45 +391,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72004822_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 96,
-    "updateTime": "2025-03-26T12:14:19.043Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:4",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72035292_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72035292_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10523,7 +10521,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-03-26T12:22:12.011Z",
+    "updateTime": "2025-03-26T17:09:48.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10538,13 +10536,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72037703_6.jpeg",
+      "url": "https://static.dw.com/image/72044663_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72037703_7.jpeg",
+      "url": "https://static.dw.com/image/72044663_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
