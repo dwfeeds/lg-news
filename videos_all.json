@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2025-03-26T12:14:19.043Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:5",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72035292_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72035292_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Russia cracks down further on LGTBQ+ groups",
     "category": "Equality",
     "subCategory": "Human Rights",
@@ -151,45 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72001129_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 96,
-    "updateTime": "2025-03-26T06:45:12.882Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:5",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72035292_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72035292_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10439,7 +10439,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-03-26T11:21:33.694Z",
+    "updateTime": "2025-03-26T12:22:12.011Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10587,22 +10587,22 @@
     "language": "es"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
+    "titleText": "Brasil avanza hacia el modelo circular",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
-      "region:cala:CL": "Chile"
+      "region:cala:BR": "Brasil"
     },
     "regions": [
-      "Chile"
+      "Brasil"
     ],
-    "runningTime": 563,
+    "runningTime": 303,
     "updateTime": "2025-03-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71942263,
+      "id": 71942269,
       "launchParam": null
     },
     "providerLogo": {
@@ -10612,13 +10612,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "url": "https://static.dw.com/image/71910704_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "url": "https://static.dw.com/image/71910704_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10665,6 +10665,45 @@
     "language": "es"
   },
   {
+    "titleText": "Reciclar neumáticos y ganar recursos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 563,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942263,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Arena de vidrio reciclado",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10697,45 +10736,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65853862_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Brasil avanza hacia el modelo circular",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brasil"
-    },
-    "regions": [
-      "Brasil"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942269,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910704_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910704_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11550,7 +11550,7 @@
     "updateTime": "2025-03-26T11:08:51.291Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72031017&list=REPORTS_VIDEO:1",
+      "contentId": "v=72031017&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72031017,
       "launchParam": null
@@ -11745,7 +11745,7 @@
     "updateTime": "2025-03-25T07:44:08.416Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71974289&list=FEATURED_VIDEO:1",
+      "contentId": "v=71974289&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 71974289,
       "launchParam": null
