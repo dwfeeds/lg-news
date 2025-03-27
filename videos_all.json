@@ -357,12 +357,10 @@
     "category": "Business",
     "subCategory": "Trade",
     "region_ids": {
-      "region:europe": "Europe",
       "region:europe:DE": "Germany",
       "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Europe",
       "Germany",
       "United States of America"
     ],
@@ -370,7 +368,7 @@
     "updateTime": "2025-03-26T15:13:30.255Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72044635&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=72044635&list=REGION_VIDEO:7",
       "type": "video",
       "id": 72044635,
       "launchParam": null
@@ -2695,45 +2693,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71996605_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "'We will resist!' Turkish students vow to support opposition",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 219,
-    "updateTime": "2025-03-21T19:01:47.653Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72002430&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72002430,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71990496_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71990496_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7437,6 +7396,45 @@
     "language": "en"
   },
   {
+    "titleText": "What's it like to study in Paris?",
+    "category": "Lifestyle",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 353,
+    "updateTime": "2025-02-24T12:47:24.974Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71704390&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71704390,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71688747_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71688747_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why is less Russian being taught at Estonian schools?",
     "category": "Society",
     "subCategory": "Education",
@@ -10669,45 +10667,6 @@
     "language": "es"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 563,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942263,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Cicla2: diseño con neumáticos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10740,6 +10699,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910693_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Reciclar neumáticos y ganar recursos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 563,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942263,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10838,7 +10836,7 @@
     "updateTime": "2025-03-20T19:32:28.733Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71850972&list=REPORTS_VIDEO:1",
+      "contentId": "v=71850972&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 71850972,
       "launchParam": null
@@ -11210,45 +11208,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70652394_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Tropea – un bello destino turístico en Italia",
-    "category": "Viajes",
-    "subCategory": "Cultura",
-    "region_ids": {
-      "region:europe:IT": "Italia"
-    },
-    "regions": [
-      "Italia"
-    ],
-    "runningTime": 264,
-    "updateTime": "2025-02-24T14:27:57.222Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71263604&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 71263604,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71255396_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71255396_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
