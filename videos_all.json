@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Poland’s shrinking Catholic community ",
+    "category": "Society",
+    "subCategory": "Religion",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 348,
+    "updateTime": "2025-03-27T13:40:00.896Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71999539&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 71999539,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72053273_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72053273_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -107,13 +146,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/65947595_6.jpg",
+      "url": "https://static.dw.com/image/72058151_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/65947595_7.jpg",
+      "url": "https://static.dw.com/image/72058151_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2293,45 +2332,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72012322_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Huge protests across Turkey after Istanbul mayor jailed",
-    "category": "Politics",
-    "subCategory": "Law and Justice",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 120,
-    "updateTime": "2025-03-23T21:11:04.543Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72013438&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72013438,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72013034_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72013034_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10476,7 +10476,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-03-27T12:27:20.031Z",
+    "updateTime": "2025-03-27T13:25:28.803Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10624,45 +10624,6 @@
     "language": "es"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 563,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942263,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Cicla2: diseño con neumáticos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10695,6 +10656,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71910693_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Reciclar neumáticos y ganar recursos",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 563,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942263,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11492,6 +11492,41 @@
     "language": "es"
   },
   {
+    "titleText": "Gibt es Hinweise auf die Existenz von dunkler Materie?",
+    "category": "Wissenschaft",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 166,
+    "updateTime": "2025-03-27T13:15:22.744Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71997369&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71997369,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71400891_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71400891_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "NATO-Partner Türkei: Erdogans Putsch gegen die Demokratie?",
     "category": "Politik",
     "subCategory": "Rechtsstaatlichkeit",
@@ -11955,45 +11990,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72028226_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie geht es weiter mit Donald Trumps Plänen für Grönland?",
-    "category": "Gesellschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DK": "Dänemark"
-    },
-    "regions": [
-      "Dänemark"
-    ],
-    "runningTime": 237,
-    "updateTime": "2025-03-25T07:44:08.416Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71974289&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71974289,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71842090_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71842090_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
