@@ -1,7 +1,7 @@
 [
   {
     "titleText": "Celebrations in Sudan as army recaptures capital Khartoum",
-    "category": "[Miscellaneous]",
+    "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
       "region:africa:SD": "Sudan"
@@ -173,7 +173,7 @@
     "updateTime": "2025-03-27T14:16:24.042Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72059920&list=REGION_VIDEO:4",
+      "contentId": "v=72059920&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72059920,
       "launchParam": null
@@ -6682,6 +6682,45 @@
     "language": "en"
   },
   {
+    "titleText": "Indonesia: Torrential rains trap residents in flooded homes",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 86,
+    "updateTime": "2025-03-04T13:31:17.91Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71823794&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 71823794,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71823955_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71823955_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Jordanians wary of Trump's Gaza 'relocation' plan",
     "category": "Politics",
     "subCategory": null,
@@ -10587,22 +10626,22 @@
     "language": "es"
   },
   {
-    "titleText": "Brasil avanza hacia el modelo circular",
+    "titleText": "Reciclar neumáticos y ganar recursos",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
-      "region:cala:BR": "Brasil"
+      "region:cala:CL": "Chile"
     },
     "regions": [
-      "Brasil"
+      "Chile"
     ],
-    "runningTime": 303,
+    "runningTime": 563,
     "updateTime": "2025-03-20T23:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
+      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 71942269,
+      "id": 71942263,
       "launchParam": null
     },
     "providerLogo": {
@@ -10612,13 +10651,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71910704_6.jpeg",
+      "url": "https://static.dw.com/image/71910682_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71910704_7.jpeg",
+      "url": "https://static.dw.com/image/71910682_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10665,45 +10704,6 @@
     "language": "es"
   },
   {
-    "titleText": "Reciclar neumáticos y ganar recursos",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 563,
-    "updateTime": "2025-03-20T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71942263&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 71942263,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71910682_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71910682_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Arena de vidrio reciclado",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10736,6 +10736,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65853862_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Brasil avanza hacia el modelo circular",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:BR": "Brasil"
+    },
+    "regions": [
+      "Brasil"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-03-20T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71942269&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71942269,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71910704_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71910704_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11714,13 +11753,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72054494_6.jpg",
+      "url": "https://static.dw.com/image/72054480_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72054494_7.jpg",
+      "url": "https://static.dw.com/image/72054480_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
