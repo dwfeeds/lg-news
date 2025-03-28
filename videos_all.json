@@ -357,16 +357,18 @@
     "category": "Politics",
     "subCategory": "Business",
     "region_ids": {
+      "region:northamerica:US": "United States of America",
       "region:europe:DE": "Germany"
     },
     "regions": [
+      "United States of America",
       "Germany"
     ],
     "runningTime": 130,
     "updateTime": "2025-03-28T07:53:38.798Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72065907&list=REGION_VIDEO:7",
+      "contentId": "v=72065907&list=REGION_VIDEO:5",
       "type": "video",
       "id": 72065907,
       "launchParam": null
@@ -2215,6 +2217,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72019851_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Turkey arrests more than 1,000 protesters",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:TR": "Turkey"
+    },
+    "regions": [
+      "Turkey"
+    ],
+    "runningTime": 286,
+    "updateTime": "2025-03-24T21:09:54.655Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72024475&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72024475,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71991767_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71991767_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5116,45 +5157,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71913915_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump wields budget ax against US science, medical research",
-    "category": "Politics",
-    "subCategory": "Science",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 175,
-    "updateTime": "2025-03-14T12:38:11.239Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71924042&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 71924042,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71865331_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71865331_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12227,6 +12229,49 @@
     "language": "es"
   },
   {
+    "titleText": "Putin will keinen schnellen Frieden",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:EE": "Estland",
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Estland",
+      "Ukraine",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 335,
+    "updateTime": "2025-03-28T18:01:34.373Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72074135&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72074135,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72073071_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72073071_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Vance-Besuch: Provokation für Grönland",
     "category": "Politik",
     "subCategory": null,
@@ -12690,41 +12735,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71987248_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie unsere Nerven funktionieren ",
-    "category": "Gesundheit",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 190,
-    "updateTime": "2025-03-26T13:05:59.173Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72041845&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72041845,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71924264_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71924264_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
