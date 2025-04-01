@@ -64,13 +64,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72095087_6.jpg",
+      "url": "https://static.dw.com/image/71918694_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72095087_7.jpg",
+      "url": "https://static.dw.com/image/71918694_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -273,7 +273,7 @@
     "language": "en"
   },
   {
-    "titleText": "Myanmar needs everything from body bags to basic medicine",
+    "titleText": "Myanmar needs everything from 'body bags to basic medicine'",
     "category": "Catastrophe",
     "subCategory": null,
     "region_ids": {
@@ -312,15 +312,13 @@
     "language": "en"
   },
   {
-    "titleText": "Pakistan's star woman basketball player ",
+    "titleText": "Pakistan's star female basketballer fights for recognition",
     "category": "Equality",
     "subCategory": null,
     "region_ids": {
-      "region:asia": "Asia",
       "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Asia",
       "Pakistan"
     ],
     "runningTime": 124,
@@ -339,13 +337,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72099076_6.jpg",
+      "url": "https://static.dw.com/image/72099119_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72099076_7.jpg",
+      "url": "https://static.dw.com/image/72099119_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -354,13 +352,15 @@
   },
   {
     "titleText": "In Czech Republic, future of US broadcasters in jeopardy",
-    "category": "Society",
-    "subCategory": "Politics",
+    "category": "Press Freedom",
+    "subCategory": "Society",
     "region_ids": {
-      "region:europe:CZ": "Czech Republic"
+      "region:europe:CZ": "Czech Republic",
+      "region:global": "Global"
     },
     "regions": [
-      "Czech Republic"
+      "Czech Republic",
+      "Global"
     ],
     "runningTime": 290,
     "updateTime": "2025-03-31T13:17:56.036Z",
@@ -2891,45 +2891,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why Berlin could be the hub for female founders",
-    "category": "Business",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 273,
-    "updateTime": "2025-03-26T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72025970&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72025970,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72001351_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72001351_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why insolvencies are surging in Germany",
     "category": "Business",
     "subCategory": null,
@@ -2962,6 +2923,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72001339_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Berlin could be the hub for female founders",
+    "category": "Business",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 273,
+    "updateTime": "2025-03-26T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72025970&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72025970,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72001351_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72001351_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3464,7 +3464,7 @@
     "updateTime": "2025-03-24T15:11:58.181Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72002384&list=FEATURED_VIDEO:1",
+      "contentId": "v=72002384&list=REGION_VIDEO:6",
       "type": "video",
       "id": 72002384,
       "launchParam": null
@@ -9346,45 +9346,6 @@
     "language": "en"
   },
   {
-    "titleText": "Hit by drought, Brazilian cattle farmers struggle to adapt",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 146,
-    "updateTime": "2025-01-10T15:08:35.974Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71268024&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 71268024,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/58810149_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/58810149_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "South Africa's 'spaza' shop shutdown sparks tensions",
     "category": "Society",
     "subCategory": "Business",
@@ -12221,6 +12182,45 @@
     "language": "es"
   },
   {
+    "titleText": "Trump erschüttert \"Little America\" in Deutschland",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 187,
+    "updateTime": "2025-04-01T08:13:37.545Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72033639&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72033639,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/59033668_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/59033668_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Mit Wasserstoffzügen in die Zukunft?",
     "category": "Natur und Umwelt",
     "subCategory": "Wirtschaft",
@@ -12651,45 +12651,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72062695_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Deutschland will Infrastruktur modernisieren",
-    "category": "Wirtschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 180,
-    "updateTime": "2025-03-27T15:55:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72061605&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72061605,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71897978_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71897978_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
