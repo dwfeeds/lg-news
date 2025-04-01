@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "China carries out fresh military drills around Taiwan",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:TW": "Taiwan",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Taiwan",
+      "China"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-04-01T16:52:43.949Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72109858&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 72109858,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72102464_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72102464_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 80,
+    "updateTime": "2025-04-01T16:52:18.054Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72095849_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72095849_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hong Kong journalists fighting censorship, crackdown",
     "category": "Politics",
     "subCategory": null,
@@ -192,45 +272,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72105508_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 80,
-    "updateTime": "2025-04-01T12:04:56.601Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:7",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72095849_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72095849_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6204,45 +6245,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71199436_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Amid Kashmir's water crisis, dry weather set off alarm bells",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 183,
-    "updateTime": "2025-03-11T14:27:30.194Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71890722&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 71890722,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71891412_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71891412_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12271,7 +12273,7 @@
     "updateTime": "2025-04-01T07:03:05.703Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72098334&list=REPORTS_VIDEO:1",
+      "contentId": "v=72098334&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72098334,
       "launchParam": null
@@ -12388,7 +12390,7 @@
     "updateTime": "2025-03-31T07:03:26.552Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72089542&list=FEATURED_VIDEO:1",
+      "contentId": "v=72089542&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72089542,
       "launchParam": null
