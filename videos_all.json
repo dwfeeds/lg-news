@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 97,
+    "updateTime": "2025-04-03T16:41:43.398Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72121976_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72121976_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany to deport pro-Palestinian protesters",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Germany",
+      "Middle East"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-04-03T15:56:45.169Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72132041&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72132041,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70418293_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70418293_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Slovakia approves plans to kill hundreds of wild bears",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -149,45 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71448985_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-04-03T11:48:02.248Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71865926_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71865926_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1229,45 +1270,6 @@
     "language": "en"
   },
   {
-    "titleText": "German paper mill generates cheap bio-power",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 264,
-    "updateTime": "2025-04-02T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72092468&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72092468,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72077042_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72077042_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How EU companies lose billions to Chinese counterfeits",
     "category": "Globalization",
     "subCategory": "Business",
@@ -1302,6 +1304,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72077061_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German paper mill generates cheap bio-power",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 264,
+    "updateTime": "2025-04-02T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72092468&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72092468,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72077042_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72077042_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8563,7 +8604,7 @@
     "updateTime": "2025-02-21T13:04:37.741Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71694865&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71694865&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71694865,
       "launchParam": null
@@ -8781,45 +8822,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71672273_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Syria's Druze minority calls for rights and protection",
-    "category": "Politics",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 156,
-    "updateTime": "2025-02-19T09:53:21.012Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71668883&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71668883,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71667782_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71667782_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11359,7 +11361,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-04-03T15:20:03.762Z",
+    "updateTime": "2025-04-03T16:21:11.187Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11374,13 +11376,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72126645_6.jpg",
+      "url": "https://static.dw.com/image/72132022_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72126645_7.jpg",
+      "url": "https://static.dw.com/image/72132022_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
