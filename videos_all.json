@@ -1,5 +1,126 @@
 [
   {
+    "titleText": "US volunteers in Ukraine continue to fight",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Ukraine",
+      "United States of America"
+    ],
+    "runningTime": 243,
+    "updateTime": "2025-04-07T12:40:13.993Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72164273&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72164273,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72164684_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72164684_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Kenya ready for e-mobility?",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Kenya",
+      "Africa"
+    ],
+    "runningTime": 370,
+    "updateTime": "2025-04-07T12:30:44.108Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72164512&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72164512,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72136845_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72136845_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-04-07T11:46:47.949Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70688035_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70688035_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "In Sardinia, Italian charm meets Caribbean vibes",
     "category": "Travel",
     "subCategory": null,
@@ -195,22 +316,22 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
+    "titleText": "Colombian village gets creative with plastic on its beaches",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
     "region_ids": {
-      "region:europe": "Europe"
+      "region:cala:CO": "Colombia"
     },
     "regions": [
-      "Europe"
+      "Colombia"
     ],
-    "runningTime": 88,
-    "updateTime": "2025-04-07T06:33:11.827Z",
+    "runningTime": 493,
+    "updateTime": "2025-04-07T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "contentId": "v=72146336&list=REGION_VIDEO:6",
       "type": "video",
-      "id": 49496622,
+      "id": 72146336,
       "launchParam": null
     },
     "providerLogo": {
@@ -220,13 +341,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70688035_6.jpg",
+      "url": "https://static.dw.com/image/72127701_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70688035_7.jpg",
+      "url": "https://static.dw.com/image/72127701_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2482,45 +2603,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72117791_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Making biodiesel with used cooking oil",
-    "category": "Climate",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 306,
-    "updateTime": "2025-04-02T12:59:10.78Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72056903&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72056903,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72057264_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72057264_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5459,45 +5541,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71409719_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Making Benin's drums talk — My Hustle ",
-    "category": "Dance",
-    "subCategory": "Music",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 319,
-    "updateTime": "2025-03-25T08:49:34.705Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71950253&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 71950253,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71926528_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71926528_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8957,7 +9000,7 @@
     "updateTime": "2025-02-21T14:47:29.004Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71701050&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71701050&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71701050,
       "launchParam": null
@@ -9015,45 +9058,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71524572_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What Israeli police are saying about Tel Aviv bus explosions",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-02-21T09:05:08.535Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71694765&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71694765,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71693782_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71693782_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11441,7 +11445,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-04-07T11:16:40.81Z",
+    "updateTime": "2025-04-07T12:27:55.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12375,6 +12379,41 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Kolumbien: Ein Dorf hat eine Idee gegen das Plastikproblem",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 501,
+    "updateTime": "2025-04-07T11:40:11.901Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72159389&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72159389,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72127701_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72127701_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Sardinien – die Karibik Europas?",
