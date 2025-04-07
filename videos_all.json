@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-04-07T00:08:23.106Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72151185_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72151185_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "France's Le Pen denounces graft ruling as 'political'",
     "category": "Law and Justice",
     "subCategory": "Politics",
@@ -110,45 +149,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72120191_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 88,
-    "updateTime": "2025-04-06T17:56:34.612Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72151185_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72151185_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1777,45 +1777,6 @@
     "language": "en"
   },
   {
-    "titleText": "Italy: The 100-year-old barista",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-04-02T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72077142&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72077142,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72079005_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72079005_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Scotland's polluted Loch Long",
     "category": "Nature and Environment",
     "subCategory": "Politics",
@@ -1848,6 +1809,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72079059_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Italy: The 100-year-old barista",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-04-02T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72077142&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72077142,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72079005_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72079005_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2692,24 +2692,22 @@
     "language": "en"
   },
   {
-    "titleText": "How EU companies lose billions to Chinese counterfeits",
-    "category": "Globalization",
-    "subCategory": "Business",
+    "titleText": "German paper mill generates cheap bio-power",
+    "category": "Business",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:asia:CN": "China"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Germany",
-      "China"
+      "Germany"
     ],
-    "runningTime": 248,
+    "runningTime": 264,
     "updateTime": "2025-04-02T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72093704&list=REGION_VIDEO:7",
+      "contentId": "v=72092468&list=REGION_VIDEO:7",
       "type": "video",
-      "id": 72093704,
+      "id": 72092468,
       "launchParam": null
     },
     "providerLogo": {
@@ -2719,13 +2717,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72077061_6.jpeg",
+      "url": "https://static.dw.com/image/72077042_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72077061_7.jpeg",
+      "url": "https://static.dw.com/image/72077042_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
