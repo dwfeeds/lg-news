@@ -39,6 +39,86 @@
     "language": "en"
   },
   {
+    "titleText": "Is the new battery plant in Germany a good idea?",
+    "category": "Business",
+    "subCategory": "Globalization",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:europe:SE": "Sweden"
+    },
+    "regions": [
+      "Germany",
+      "Sweden"
+    ],
+    "runningTime": 269,
+    "updateTime": "2025-04-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72158412&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72158412,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72131031_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72131031_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can AI help with livestock farming?",
+    "category": "Business",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 399,
+    "updateTime": "2025-04-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72158340&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72158340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72131050_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72131050_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US stocks take another hit amid tariff standoff with China",
     "category": "Trade",
     "subCategory": "Politics",
@@ -2209,45 +2289,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72133515_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Anger in Hungary at Pride ban and restriction of freedoms",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:HU": "Hungary"
-    },
-    "regions": [
-      "Hungary"
-    ],
-    "runningTime": 274,
-    "updateTime": "2025-04-04T07:34:25.927Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72134774&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72134774,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70937942_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70937942_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11250,6 +11291,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 180,
+    "updateTime": "2025-04-09T07:29:23.901Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72170183_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72170183_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Trump mantiene aranceles pese a caidas bursátiles mayúsculas",
     "category": "Economía",
     "subCategory": "Comercio",
@@ -11278,41 +11354,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69105334_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 180,
-    "updateTime": "2025-04-08T16:37:10.499Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72170183_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72170183_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
