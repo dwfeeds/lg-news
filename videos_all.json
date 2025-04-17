@@ -27,13 +27,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72179409_6.jpg",
+      "url": "https://static.dw.com/image/71295119_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72179409_7.jpg",
+      "url": "https://static.dw.com/image/71295119_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -205,20 +205,20 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:europe:UA": "Ukraine",
+      "region:asia:CN": "China",
       "region:europe:RU": "Russian Federation",
-      "region:asia:CN": "China"
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Ukraine",
+      "China",
       "Russian Federation",
-      "China"
+      "Ukraine"
     ],
     "runningTime": 282,
     "updateTime": "2025-04-16T19:50:44.351Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72268913&list=REGION_VIDEO:7",
+      "contentId": "v=72268913&list=REGION_VIDEO:4",
       "type": "video",
       "id": 72268913,
       "launchParam": null
@@ -2816,6 +2816,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72130525_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German industry under pressure",
+    "category": "Business",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 212,
+    "updateTime": "2025-04-10T10:52:48.203Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72196152&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72196152,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55883231_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55883231_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5715,45 +5754,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72059008_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hong Kong journalists fighting censorship, crackdown",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-04-01T15:17:05.802Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72108663&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 72108663,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72108540_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72108540_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
