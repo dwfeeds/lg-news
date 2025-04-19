@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-04-19T07:47:55.196Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71918656_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71918656_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What China is doing to win Trump's trade war",
     "category": "Politics",
     "subCategory": null,
@@ -151,45 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72285176_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 85,
-    "updateTime": "2025-04-18T20:56:54.836Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72281363_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72281363_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
