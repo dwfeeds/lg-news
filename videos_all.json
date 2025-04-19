@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-04-19T12:58:53.88Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71918656_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71918656_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "EU vs. Big Tech: What are the bloc's regulation options?",
     "category": "Trade",
     "subCategory": "Politics",
@@ -123,45 +162,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-04-19T07:47:55.196Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71918656_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71918656_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What China is doing to win Trump's trade war",
     "category": "Politics",
     "subCategory": null,
@@ -203,45 +203,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kenyan company use 3D printing to make low-cost prostheses",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 102,
-    "updateTime": "2025-04-19T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72278850&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72278850,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72278022_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72278022_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Digital skills for people who are blind",
     "category": "Equality",
     "subCategory": "Technology",
@@ -274,6 +235,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72278094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kenyan company use 3D printing to make low-cost prostheses",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 102,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278850&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72278850,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278022_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278022_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12953,7 +12953,7 @@
     "updateTime": "2025-04-15T08:23:51.828Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72184155&list=FEATURED_VIDEO:1",
+      "contentId": "v=72184155&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72184155,
       "launchParam": null
@@ -13368,45 +13368,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72173207_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Italien: Die 100-jährige Barista",
-    "category": "Gesellschaft",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:IT": "Italien"
-    },
-    "regions": [
-      "Italien"
-    ],
-    "runningTime": 132,
-    "updateTime": "2025-04-08T07:48:46.655Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72119330&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72119330,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72079005_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72079005_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
