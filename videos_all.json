@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "EU vs. Big Tech: What are the bloc's regulation options?",
+    "category": "Trade",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Europe",
+      "United States of America"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-04-19T10:16:25.821Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278306&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72278306,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72273129_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72273129_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is child rape so prevalent in Zambia? ",
+    "category": "Society",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:ZM": "Zambia"
+    },
+    "regions": [
+      "Africa",
+      "Zambia"
+    ],
+    "runningTime": 330,
+    "updateTime": "2025-04-19T10:10:29.962Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72287329&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72287329,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/55133136_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/55133136_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US senator meets falsely deported man in El Salvador",
     "category": "Law and Justice",
     "subCategory": "Crime",
@@ -27,13 +109,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72280271_6.jpg",
+      "url": "https://static.dw.com/image/72285339_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72280271_7.jpg",
+      "url": "https://static.dw.com/image/72285339_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -121,45 +203,6 @@
     "language": "en"
   },
   {
-    "titleText": "Digital skills for people who are blind",
-    "category": "Equality",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 107,
-    "updateTime": "2025-04-19T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72278851&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72278851,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72278094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72278094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenyan company use 3D printing to make low-cost prostheses",
     "category": "Health",
     "subCategory": null,
@@ -192,6 +235,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72278022_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Digital skills for people who are blind",
+    "category": "Equality",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 107,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278851&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72278851,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278094_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4962,45 +5044,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72127701_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Torrential rains kill dozens in DR Congo",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 85,
-    "updateTime": "2025-04-06T20:19:53.273Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72156869&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72156869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72156854_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72156854_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12343,7 +12386,7 @@
     "language": "de"
   },
   {
-    "titleText": "Selenskij beschuldigt China, Russland im Krieg zu helfen",
+    "titleText": "Selenskyj beschuldigt China, Russland im Krieg zu helfen",
     "category": "Konflikte",
     "subCategory": null,
     "region_ids": {
