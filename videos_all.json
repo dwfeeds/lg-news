@@ -320,10 +320,10 @@
     "category": "Religion",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:PS": "Palestinian Territories"
     },
     "regions": [
-      "Middle East"
+      "Palestinian Territories"
     ],
     "runningTime": 164,
     "updateTime": "2025-04-22T09:35:15.376Z",
@@ -1159,45 +1159,6 @@
     "language": "en"
   },
   {
-    "titleText": "Digital skills for people who are blind",
-    "category": "Equality",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 107,
-    "updateTime": "2025-04-19T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72278851&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72278851,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72278094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72278094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenyan company uses 3D printing to make low-cost prostheses",
     "category": "Health",
     "subCategory": null,
@@ -1230,6 +1191,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72278022_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Digital skills for people who are blind",
+    "category": "Equality",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 107,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278851&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72278851,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278094_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11255,6 +11255,88 @@
     "language": "en"
   },
   {
+    "titleText": "El pan de Semana Santa de Polonia, Bulgaria y Grecia",
+    "category": "Cultura",
+    "subCategory": "Religión",
+    "region_ids": {
+      "region:europe:PL": "Polonia",
+      "region:europe:BG": "Bulgaria",
+      "region:europe:GR": "Grecia"
+    },
+    "regions": [
+      "Polonia",
+      "Bulgaria",
+      "Grecia"
+    ],
+    "runningTime": 314,
+    "updateTime": "2025-04-23T06:46:20.643Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72223534&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72223534,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72212728_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72212728_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Barcelona y la crisis de la vivienda",
+    "category": "Política",
+    "subCategory": "Economía",
+    "region_ids": {
+      "region:europe:ES": "España"
+    },
+    "regions": [
+      "España"
+    ],
+    "runningTime": 363,
+    "updateTime": "2025-04-23T05:52:31.529Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72191083&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72191083,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70484089_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70484089_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -11443,82 +11525,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72101494_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Patrulla contra el sabotaje en el Báltico",
-    "category": "Política",
-    "subCategory": "Conflictos",
-    "region_ids": {
-      "region:europe:EE": "Estonia",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Estonia",
-      "Europa"
-    ],
-    "runningTime": 207,
-    "updateTime": "2025-04-17T12:09:20.174Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72037537&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72037537,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72031496_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72031496_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Un hospital levantado por mujeres",
-    "category": "Economía",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 208,
-    "updateTime": "2025-04-17T03:08:17.481Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72269281&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72269281,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69105334_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69105334_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
