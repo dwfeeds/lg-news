@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "This man is determined to live in Cyprus' 'Buffer Zone'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CY": "Cyprus"
+    },
+    "regions": [
+      "Cyprus"
+    ],
+    "runningTime": 252,
+    "updateTime": "2025-04-24T08:17:03.028Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72329705&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72329705,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72330327_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72330327_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3338,47 +3377,6 @@
     "language": "en"
   },
   {
-    "titleText": "Spain's Valencia region mulls future flood defenses",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:europe:ES": "Spain",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Spain",
-      "Europe"
-    ],
-    "runningTime": 167,
-    "updateTime": "2025-04-15T11:28:49.543Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72249488&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72249488,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72249921_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72249921_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sudan's civil war, humanitarian crisis enter third year",
     "category": "Conflicts",
     "subCategory": null,
@@ -3530,45 +3528,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72238428_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Russia criticizes Merz over Taurus comments",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 118,
-    "updateTime": "2025-04-14T20:46:05.378Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72245298&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72245298,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72237470_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72237470_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12362,7 +12321,7 @@
     "updateTime": "2025-04-22T08:41:02.898Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72260566&list=FEATURED_VIDEO:1",
+      "contentId": "v=72260566&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72260566,
       "launchParam": null
@@ -12401,7 +12360,7 @@
     "updateTime": "2025-04-22T08:04:27.629Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72261199&list=REPORTS_VIDEO:1",
+      "contentId": "v=72261199&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72261199,
       "launchParam": null
