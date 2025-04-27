@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-04-27T11:32:29.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72363056_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72363056_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza struggles to survive as Israel's aid block continues",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-04-27T10:58:35.219Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72367639&list=GLOBAL_TOPIC_VIDEO:9",
+      "type": "video",
+      "id": 72367639,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72260690_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72260690_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Dozens of people killed in Iran port blast",
     "category": "Catastrophe",
     "subCategory": null,
@@ -32,45 +112,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72364908_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 93,
-    "updateTime": "2025-04-27T07:02:46.934Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72363056_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72363056_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3112,45 +3153,6 @@
     "language": "en"
   },
   {
-    "titleText": "Water Hyacinths: From harmful plant to useful paper! ",
-    "category": "Nature and Environment",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 248,
-    "updateTime": "2025-04-18T14:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72264610&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72264610,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72264503_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72264503_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Are water ATMs the answer to Delhi's clean water needs?",
     "category": "Food Security",
     "subCategory": "Innovation",
@@ -3183,6 +3185,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72264526_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Water Hyacinths: From harmful plant to useful paper! ",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 248,
+    "updateTime": "2025-04-18T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72264610&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72264610,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72264503_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72264503_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9418,7 +9459,7 @@
     "updateTime": "2025-03-10T18:26:18.713Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71881816&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=71881816&list=REGION_VIDEO:9",
       "type": "video",
       "id": 71881816,
       "launchParam": null
@@ -9794,45 +9835,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67776104_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Syria forces battle loyalists of Bashar Assad on west coast",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 143,
-    "updateTime": "2025-03-07T21:04:07.529Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71864721&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 71864721,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71860095_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71860095_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11325,7 +11327,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-04-27T10:16:30.601Z",
+    "updateTime": "2025-04-27T11:33:32.908Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11340,13 +11342,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72366975_6.jpg",
+      "url": "https://static.dw.com/image/72366705_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72366975_7.jpg",
+      "url": "https://static.dw.com/image/72366705_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
