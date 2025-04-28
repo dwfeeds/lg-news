@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Trump looms large over elections in Canada",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "North America"
+    ],
+    "runningTime": 202,
+    "updateTime": "2025-04-28T08:52:55.785Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72372585&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72372585,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72369502_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72369502_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India threatens to cut off water supply to Pakistan",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Asia"
+    ],
+    "runningTime": 173,
+    "updateTime": "2025-04-28T08:50:18.168Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72372497&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 72372497,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71896828_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71896828_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ukraine talks enter a 'very critical week' ",
     "category": "Conflicts",
     "subCategory": null,
@@ -121,10 +199,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
+      "region:asia": "Asia",
       "region:asia:IN": "India",
       "region:asia:PK": "Pakistan"
     },
     "regions": [
+      "Asia",
       "India",
       "Pakistan"
     ],
@@ -3079,45 +3159,6 @@
     "language": "en"
   },
   {
-    "titleText": "Vibrating vests allow deaf people to feel music",
-    "category": "Technology",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 180,
-    "updateTime": "2025-04-19T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72278848&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72278848,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72278046_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72278046_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Barrier-free navigation in buildings",
     "category": "Equality",
     "subCategory": "Technology",
@@ -3150,6 +3191,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72278118_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Vibrating vests allow deaf people to feel music",
+    "category": "Technology",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 180,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278848&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72278848,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278046_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278046_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4375,51 +4455,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72215996_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "International trade: Pivot to Asia?",
-    "category": "Business",
-    "subCategory": "Trade",
-    "region_ids": {
-      "region:asia": "Asia",
-      "region:asia:IN": "India",
-      "region:asia:CN": "China",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Asia",
-      "India",
-      "China",
-      "Germany"
-    ],
-    "runningTime": 440,
-    "updateTime": "2025-04-16T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72236392&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 72236392,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72215976_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72215976_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6712,47 +6747,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72133515_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "People around the globe worried about Trump tariffs",
-    "category": "Trade",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 109,
-    "updateTime": "2025-04-04T06:56:23.718Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72134687&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72134687,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72129370_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72129370_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12232,6 +12226,123 @@
     "language": "es"
   },
   {
+    "titleText": "Von Müll zu Fashion",
+    "category": "Natur und Umwelt",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:asia:IN": "Indien"
+    },
+    "regions": [
+      "Indien"
+    ],
+    "runningTime": 199,
+    "updateTime": "2025-04-28T08:25:03.021Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70490150&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70490150,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70471330_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70471330_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Nigeria: Schule für ein besseres Leben",
+    "category": "Gesellschaft",
+    "subCategory": "Bildung",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 324,
+    "updateTime": "2025-04-28T08:23:43.964Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70489850&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70489850,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65606691_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65606691_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Drogenkartelle in Ecuador gewinnen immer mehr Einfluss",
+    "category": "Gesellschaft",
+    "subCategory": "Kriminalität",
+    "region_ids": {
+      "region:cala:EC": "Ecuador"
+    },
+    "regions": [
+      "Ecuador"
+    ],
+    "runningTime": 413,
+    "updateTime": "2025-04-28T08:22:42.308Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70489712&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 70489712,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70471307_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70471307_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Wohnen in der Pufferzone Zyperns",
     "category": "Politik",
     "subCategory": null,
@@ -12565,7 +12676,7 @@
     "updateTime": "2025-04-22T08:41:02.898Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72260566&list=REPORTS_VIDEO:1",
+      "contentId": "v=72260566&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72260566,
       "launchParam": null
@@ -12604,7 +12715,7 @@
     "updateTime": "2025-04-22T08:04:27.629Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72261199&list=REPORTS_VIDEO:1",
+      "contentId": "v=72261199&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72261199,
       "launchParam": null
@@ -12643,7 +12754,7 @@
     "updateTime": "2025-04-22T04:38:32.594Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72251988&list=REPORTS_VIDEO:1",
+      "contentId": "v=72251988&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72251988,
       "launchParam": null
@@ -13180,47 +13291,6 @@
     "language": "de"
   },
   {
-    "titleText": "US-Zollpläne bedrohen Volkskunst aus dem Erzgebirge",
-    "category": "Handel",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:northamerica": "Nordamerika",
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Nordamerika",
-      "Deutschland"
-    ],
-    "runningTime": 161,
-    "updateTime": "2025-04-14T13:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72219651&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72219651,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72227763_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72227763_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Bangladesch: Rohingya-Flüchtlinge fürchten größere Not ",
     "category": "Konflikte",
     "subCategory": "Migration",
@@ -13262,45 +13332,6 @@
     "language": "de"
   },
   {
-    "titleText": "Das größte Brautmodengeschäft der Welt",
-    "category": "Lifestyle",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:NL": "Niederlande"
-    },
-    "regions": [
-      "Niederlande"
-    ],
-    "runningTime": 318,
-    "updateTime": "2025-04-13T09:55:12.084Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72224128&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72224128,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72212734_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72212734_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "USA: Indigene fürchten Trumps Ausgabenkürzungen",
     "category": "Politik",
     "subCategory": "Kultur",
@@ -13333,45 +13364,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72181890_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Tschechien: Wie Biber halfen, Millionen zu sparen",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:CZ": "Tschechische Republik"
-    },
-    "regions": [
-      "Tschechische Republik"
-    ],
-    "runningTime": 156,
-    "updateTime": "2025-04-12T13:30:46.984Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72184375&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72184375,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72130665_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72130665_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
