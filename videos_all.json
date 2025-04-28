@@ -4,10 +4,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:northamerica": "North America"
+      "region:northamerica:CA": "Canada",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "North America"
+      "Canada",
+      "United States of America"
     ],
     "runningTime": 202,
     "updateTime": "2025-04-28T08:52:55.785Z",
@@ -41,12 +43,16 @@
   {
     "titleText": "India threatens to cut off water supply to Pakistan",
     "category": "Conflicts",
-    "subCategory": null,
+    "subCategory": "Nature and Environment",
     "region_ids": {
-      "region:asia": "Asia"
+      "region:asia": "Asia",
+      "region:asia:IN": "India",
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Asia"
+      "Asia",
+      "India",
+      "Pakistan"
     ],
     "runningTime": 173,
     "updateTime": "2025-04-28T08:50:18.168Z",
@@ -82,10 +88,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:europe:UA": "Ukraine"
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Ukraine"
+      "Ukraine",
+      "Russian Federation"
     ],
     "runningTime": 102,
     "updateTime": "2025-04-28T07:15:13.031Z",
@@ -3159,45 +3167,6 @@
     "language": "en"
   },
   {
-    "titleText": "Barrier-free navigation in buildings",
-    "category": "Equality",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:oceania:AU": "Australia"
-    },
-    "regions": [
-      "Australia"
-    ],
-    "runningTime": 127,
-    "updateTime": "2025-04-19T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72278859&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72278859,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72278118_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72278118_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Vibrating vests allow deaf people to feel music",
     "category": "Technology",
     "subCategory": "Innovation",
@@ -3230,6 +3199,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72278046_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Barrier-free navigation in buildings",
+    "category": "Equality",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:oceania:AU": "Australia"
+    },
+    "regions": [
+      "Australia"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278859&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72278859,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278118_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278118_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
