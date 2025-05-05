@@ -1036,7 +1036,7 @@
     "language": "en"
   },
   {
-    "titleText": "The tasteful duo from Durban",
+    "titleText": "The sister chef duo from Durban",
     "category": "Equality",
     "subCategory": "Human Rights",
     "region_ids": {
@@ -1051,7 +1051,7 @@
     "updateTime": "2025-05-02T12:12:41.246Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72414524&list=REGION_VIDEO:8",
+      "contentId": "v=72414524&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72414524,
       "launchParam": null
@@ -3299,7 +3299,7 @@
     "updateTime": "2025-04-24T12:21:43.214Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72310091&list=FEATURED_VIDEO:1",
+      "contentId": "v=72310091&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72310091,
       "launchParam": null
@@ -4586,6 +4586,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72102892_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Zimbabwe's NGO law really fighting terrorism?",
+    "category": "Politics",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:ZW": "Zimbabwe"
+    },
+    "regions": [
+      "Zimbabwe"
+    ],
+    "runningTime": 344,
+    "updateTime": "2025-04-18T10:00:43.353Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72281706&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72281706,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66641545_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66641545_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7793,45 +7832,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72109683_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "From invasive species to organic plastic substitute",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 163,
-    "updateTime": "2025-04-01T11:37:51.966Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72056404&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72056404,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72046845_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72046845_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11185,7 +11185,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-05-05T08:11:59.085Z",
+    "updateTime": "2025-05-05T11:13:58.166Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
