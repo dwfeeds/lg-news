@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Graphic novels about the dangers of facism",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-05-05T08:29:45.264Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72354100&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72354100,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72335063_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72335063_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Nationalist Simion wins first round of Romania election",
     "category": "Politics",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2025-05-05T06:49:40.384Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -2034,47 +2073,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/15302359_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ötzi the Iceman's second life",
-    "category": "Science",
-    "subCategory": "History",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Europe",
-      "Global"
-    ],
-    "runningTime": 218,
-    "updateTime": "2025-04-29T12:50:59.866Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72280437&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72280437,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66552760_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66552760_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
