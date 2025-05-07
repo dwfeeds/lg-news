@@ -25,13 +25,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72459937_6.jpg",
+      "url": "https://static.dw.com/image/72464994_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72459937_7.jpg",
+      "url": "https://static.dw.com/image/72464994_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9499,7 +9499,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-05-07T15:45:24.537Z",
+    "updateTime": "2025-05-07T17:57:42.943Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10682,8 +10682,12 @@
     "titleText": "Deutschlands Energiekrise: Chemieindustrie in Gefahr",
     "category": "Wirtschaft",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
     "runningTime": 186,
     "updateTime": "2025-05-07T17:02:47.6Z",
     "onClick": {
