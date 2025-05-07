@@ -13,7 +13,7 @@
     "updateTime": "2025-05-07T06:41:27.644Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -247,7 +247,7 @@
     "updateTime": "2025-05-06T18:26:34.382Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72456240&list=REGION_VIDEO:8",
+      "contentId": "v=72456240&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72456240,
       "launchParam": null
@@ -2421,45 +2421,6 @@
     "language": "en"
   },
   {
-    "titleText": "New German government weighs hiking minimum wage  ",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-04-30T16:52:51.114Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72402137&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72402137,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/15529689_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/15529689_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trans people in the US fear massive setbacks under Trump",
     "category": "Human Rights",
     "subCategory": null,
@@ -3870,6 +3831,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72118301_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The waste museum in Nigeria ",
+    "category": "Innovation",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 236,
+    "updateTime": "2025-04-23T18:28:54.64Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72320182&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72320182,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72118317_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72118317_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9331,57 +9333,6 @@
     "language": "en"
   },
   {
-    "titleText": "Peak oil: Are crude oil supplies running out?",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global",
-      "region:me": "Middle East",
-      "region:me:SA": "Saudi Arabia",
-      "region:northamerica:US": "United States of America",
-      "region:me:AE": "United Arab Emirates",
-      "region:me:KW": "Kuwait",
-      "region:northamerica": "North America"
-    },
-    "regions": [
-      "Global",
-      "Middle East",
-      "Saudi Arabia",
-      "United States of America",
-      "United Arab Emirates",
-      "Kuwait",
-      "North America"
-    ],
-    "runningTime": 400,
-    "updateTime": "2024-12-27T17:20:35.997Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69570425&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 69570425,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/62235892_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/62235892_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How gamers are funding Myanmar's resistance",
     "category": "Conflicts",
     "subCategory": "Business",
@@ -9706,7 +9657,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-05-07T11:27:56.184Z",
+    "updateTime": "2025-05-07T12:17:20.175Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10993,13 +10944,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72453097_6.jpg",
+      "url": "https://static.dw.com/image/72450670_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72453097_7.jpg",
+      "url": "https://static.dw.com/image/72450670_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
