@@ -4,12 +4,10 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:asia:IN": "India",
-      "region:asia:PK": "Pakistan"
+      "region:asia": "Asia"
     },
     "regions": [
-      "India",
-      "Pakistan"
+      "Asia"
     ],
     "runningTime": 111,
     "updateTime": "2025-05-07T14:44:13.443Z",
@@ -10681,6 +10679,82 @@
     "language": "es"
   },
   {
+    "titleText": "Chemieindustrie in Gefahr",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 186,
+    "updateTime": "2025-05-07T15:13:56.121Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72465963&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72465963,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63053091_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63053091_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Kaschmir-Krise: Indien feuert Raketen auf Pakistan ab",
+    "category": "Video-Nachrichten",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "Indien",
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Indien",
+      "Pakistan"
+    ],
+    "runningTime": 103,
+    "updateTime": "2025-05-07T15:00:17.174Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72464676&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72464676,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72465466_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72465466_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Gaza: Journalisten trotzen der tödlichen Kriegs-Gefahr",
     "category": "Konflikte",
     "subCategory": "Medien",
@@ -10726,11 +10800,9 @@
     "category": "Wirtschaft",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Deutschland",
       "region:europe": "Europa"
     },
     "regions": [
-      "Deutschland",
       "Europa"
     ],
     "runningTime": 152,
@@ -11111,84 +11183,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72404528_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Präsidentenwahl in Rumänien: Ein Test für die Demokratie",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RO": "Rumänien"
-    },
-    "regions": [
-      "Rumänien"
-    ],
-    "runningTime": 281,
-    "updateTime": "2025-05-03T07:25:48.57Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72416130&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72416130,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72389150_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72389150_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie die Pressefreiheit in der Türkei weiter schwindet",
-    "category": "Pressefreiheit",
-    "subCategory": "Menschenrechte",
-    "region_ids": {
-      "region:europe:TR": "Türkei"
-    },
-    "regions": [
-      "Türkei"
-    ],
-    "runningTime": 206,
-    "updateTime": "2025-05-03T06:53:16.913Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72420678&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72420678,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71650892_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71650892_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
