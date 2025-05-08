@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 89,
+    "updateTime": "2025-05-08T20:06:02.165Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72483846_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72483846_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India accuses Pakistan of launching its own missile strikes",
     "category": "Conflicts",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2025-05-08T14:49:51.814Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72433971&list=REGION_VIDEO:7",
+      "contentId": "v=72433971&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 72433971,
       "launchParam": null
@@ -114,45 +153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72481448_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 89,
-    "updateTime": "2025-05-08T13:39:25.402Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70361354_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70361354_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3759,84 +3759,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72338499_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "My Hustle: Catching up with a Ghanaian fisherman",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 387,
-    "updateTime": "2025-04-24T14:27:19.813Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72241299&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72241299,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72219614_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72219614_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ethiopia: TPLF leader calls for peace and justice for Tigray",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ET": "Ethiopia"
-    },
-    "regions": [
-      "Ethiopia"
-    ],
-    "runningTime": 237,
-    "updateTime": "2025-04-24T14:25:22.863Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72338152&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72338152,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70182079_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70182079_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7971,7 +7893,7 @@
     "updateTime": "2025-03-07T13:35:54.577Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71855070&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=71855070&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71855070,
       "launchParam": null
