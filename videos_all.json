@@ -126,11 +126,11 @@
     "subCategory": "Freedom of Speech",
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:asia:TM": "Turkmenistan"
+      "region:europe:TR": "Turkey"
     },
     "regions": [
       "United States of America",
-      "Turkmenistan"
+      "Turkey"
     ],
     "runningTime": 151,
     "updateTime": "2025-05-10T09:42:05.639Z",
@@ -242,7 +242,7 @@
     "language": "en"
   },
   {
-    "titleText": "Russia marks Victory Day as Estonians remain wary",
+    "titleText": "Russia marks Victory Day, as Estonians remain wary",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -322,7 +322,7 @@
     "language": "en"
   },
   {
-    "titleText": "Germany's Left party ready to sue govt over asylum controls",
+    "titleText": "Germany's Left party ready to sue gov't over asylum controls",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -577,7 +577,7 @@
     "updateTime": "2025-05-09T09:13:10.573Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72487652&list=REGION_VIDEO:9",
+      "contentId": "v=72487652&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72487652,
       "launchParam": null
@@ -644,9 +644,9 @@
     "language": "en"
   },
   {
-    "titleText": "Britain's generation of non-smokers",
-    "category": "Politics",
-    "subCategory": "Health",
+    "titleText": "Can the UK create a generation of nonsmokers?",
+    "category": "Health",
+    "subCategory": "Politics",
     "region_ids": {
       "region:europe:GB": "United Kingdom"
     },
@@ -657,7 +657,7 @@
     "updateTime": "2025-05-09T07:33:14.881Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72433823&list=REGION_VIDEO:7",
+      "contentId": "v=72433823&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72433823,
       "launchParam": null
@@ -1669,6 +1669,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72449756_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Who is Germany's would-be chancellor, Friedrich Merz?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 245,
+    "updateTime": "2025-05-06T12:03:12.519Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72441811&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72441811,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72378169_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72378169_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6349,6 +6388,47 @@
     "language": "en"
   },
   {
+    "titleText": "'There is no safe place in Gaza': Save the Children",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 272,
+    "updateTime": "2025-04-05T18:52:13.929Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72151086&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72151086,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71796975_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71796975_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "From life on the streets of London to successful artist",
     "category": "Arts",
     "subCategory": "Society",
@@ -7059,45 +7139,6 @@
     "language": "en"
   },
   {
-    "titleText": "Growing up between Paris' Louvre and the Eiffel Tower",
-    "category": "Lifestyle",
-    "subCategory": "Design",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-03-25T16:41:54.114Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72000784&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72000784,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71987240_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71987240_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump's spat with Greenland: What's next for Greenlanders?",
     "category": "Society",
     "subCategory": "Politics",
@@ -7613,7 +7654,7 @@
     "language": "en"
   },
   {
-    "titleText": "Filipino journalists in the crosshairs of anti-terror laws",
+    "titleText": "Filipino journalists in crosshairs of anti-terror laws",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
