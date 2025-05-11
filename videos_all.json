@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Miel de Paris: honey from the rooftops",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 261,
+    "updateTime": "2025-05-11T10:12:22.786Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72492129&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72492129,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72481878_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72481878_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India-Pakistan ceasefire shaky but holding",
     "category": "Conflicts",
     "subCategory": "Terrorism",
@@ -1671,45 +1710,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72444346_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Women at the pulpit ",
-    "category": "Religion",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-05-06T12:57:07.932Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72446289&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72446289,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72449983_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72449983_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9324,7 +9324,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-05-11T09:37:49.273Z",
+    "updateTime": "2025-05-11T10:19:42.983Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9346,6 +9346,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72502190_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "¿Cuánto tiempo se puede almacenar los datos?",
+    "category": "Ciencia",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 132,
+    "updateTime": "2025-05-11T10:05:13.587Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69450927&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 69450927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/43843991_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/43843991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Sin tocar el volante: ¿Cuándo vendrá la conducción autónoma?",
+    "category": "Ciencia",
+    "subCategory": "Automóviles y movilidad",
+    "region_ids": {
+      "region:global": "Global",
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Global",
+      "Alemania"
+    ],
+    "runningTime": 126,
+    "updateTime": "2025-05-11T10:04:53.83Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69439065&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 69439065,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68267550_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68267550_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9580,45 +9660,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72191073_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Tiene contras el hidrógeno verde?",
-    "category": "Naturaleza y medio ambiente",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 462,
-    "updateTime": "2025-05-05T05:12:07.713Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68051088&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 68051088,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68010024_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68010024_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10383,6 +10424,45 @@
     "language": "es"
   },
   {
+    "titleText": "Miel de Paris: So entsteht Honig mitten in der Stadt",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Frankreich"
+    ],
+    "runningTime": 261,
+    "updateTime": "2025-05-11T10:13:18.15Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72498283&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72498283,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72481878_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72481878_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Nachhaltigkeit: Recycling beim Bau",
     "category": "Wirtschaft",
     "subCategory": "Klima",
@@ -10655,45 +10735,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72449756_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Erdogan stellt Studenten in der Türkei unter Hausarrest ",
-    "category": "Politik",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:TR": "Türkei"
-    },
-    "regions": [
-      "Türkei"
-    ],
-    "runningTime": 268,
-    "updateTime": "2025-05-08T07:32:27.122Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72465129&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72465129,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72418281_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72418281_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
