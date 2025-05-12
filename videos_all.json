@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Poland´s baby seal rescuers in action",
+    "category": "Society",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 209,
+    "updateTime": "2025-05-12T07:15:44.446Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72434340&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72434340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72418305_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72418305_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Inside one of Vienna’s oldest coffeehouses",
     "category": "Lifestyle",
     "subCategory": null,
@@ -52,7 +91,7 @@
     "updateTime": "2025-05-11T18:34:58.462Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -378,7 +417,7 @@
     "updateTime": "2025-05-10T09:42:05.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72499656&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72499656&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72499656,
       "launchParam": null
@@ -1838,45 +1877,6 @@
     "language": "en"
   },
   {
-    "titleText": "Women at the pulpit ",
-    "category": "Religion",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-05-06T12:57:07.932Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72446289&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72446289,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72449983_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72449983_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Filipino LGBTQ+ community backs local papal hopeful Tagle",
     "category": "Religion",
     "subCategory": null,
@@ -2485,7 +2485,7 @@
     "updateTime": "2025-05-03T15:21:42.27Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72425912&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72425912&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72425912,
       "launchParam": null
@@ -2604,7 +2604,7 @@
     "updateTime": "2025-05-02T15:49:38.456Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72410681&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72410681&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72410681,
       "launchParam": null
@@ -2928,7 +2928,7 @@
     "updateTime": "2025-05-02T09:10:15.152Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72409019&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72409019&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72409019,
       "launchParam": null
@@ -3340,7 +3340,7 @@
     "updateTime": "2025-04-29T08:35:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72369046,
       "launchParam": null
@@ -3379,7 +3379,7 @@
     "updateTime": "2025-04-29T08:26:43.675Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72384413&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72384413&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72384413,
       "launchParam": null
@@ -4258,6 +4258,86 @@
     "language": "en"
   },
   {
+    "titleText": "Ethiopia: TPLF leader calls for peace and justice for Tigray",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Ethiopia"
+    ],
+    "runningTime": 237,
+    "updateTime": "2025-04-24T14:25:22.863Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72338152&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72338152,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70182079_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70182079_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "War in Ukraine: What became of the African peace initiative?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Africa",
+      "Ukraine"
+    ],
+    "runningTime": 86,
+    "updateTime": "2025-04-24T13:45:37.424Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72336734&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72336734,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65947086_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65947086_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India acts against Pakistan after deadly attack in Kashmir",
     "category": "Conflicts",
     "subCategory": null,
@@ -4624,7 +4704,7 @@
     "updateTime": "2025-04-18T19:08:43.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72285199&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72285199&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72285199,
       "launchParam": null
@@ -5098,7 +5178,7 @@
     "updateTime": "2025-04-15T20:45:20.073Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72255603&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72255603&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72255603,
       "launchParam": null
@@ -6524,7 +6604,7 @@
     "updateTime": "2025-04-04T17:12:40.654Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146184&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72146184&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72146184,
       "launchParam": null
@@ -6719,7 +6799,7 @@
     "updateTime": "2025-04-01T15:17:05.802Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72108663&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72108663&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72108663,
       "launchParam": null
@@ -6760,7 +6840,7 @@
     "updateTime": "2025-03-31T13:17:56.036Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71999481&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71999481&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71999481,
       "launchParam": null
@@ -7312,7 +7392,7 @@
     "updateTime": "2025-03-20T16:06:52.463Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71988026&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71988026&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71988026,
       "launchParam": null
@@ -7351,7 +7431,7 @@
     "updateTime": "2025-03-19T19:34:45.446Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71964406&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71964406&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71964406,
       "launchParam": null
@@ -7390,7 +7470,7 @@
     "updateTime": "2025-03-19T18:10:27.125Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71973636&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71973636&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71973636,
       "launchParam": null
@@ -7429,7 +7509,7 @@
     "updateTime": "2025-03-17T20:43:12.957Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71956445&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71956445&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71956445,
       "launchParam": null
@@ -7470,7 +7550,7 @@
     "updateTime": "2025-03-17T12:01:40.63Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71943067&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71943067&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71943067,
       "launchParam": null
@@ -7669,7 +7749,7 @@
     "updateTime": "2025-03-13T14:14:50.397Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71913484&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71913484&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71913484,
       "launchParam": null
@@ -8151,7 +8231,7 @@
     "updateTime": "2025-02-26T14:25:00.756Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71760465&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71760465&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71760465,
       "launchParam": null
@@ -8270,7 +8350,7 @@
     "updateTime": "2025-02-21T17:25:21.179Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71702723&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71702723&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71702723,
       "launchParam": null
@@ -8311,7 +8391,7 @@
     "updateTime": "2025-02-21T08:17:20.918Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71694802&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71694802&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71694802,
       "launchParam": null
@@ -8428,7 +8508,7 @@
     "updateTime": "2025-02-14T20:41:36.015Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71617746&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71617746&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71617746,
       "launchParam": null
@@ -8467,7 +8547,7 @@
     "updateTime": "2025-02-14T16:46:56.368Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71614909&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71614909&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71614909,
       "launchParam": null
@@ -8580,7 +8660,7 @@
     "updateTime": "2025-01-30T08:56:01.913Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71453285&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71453285&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71453285,
       "launchParam": null
@@ -8701,7 +8781,7 @@
     "updateTime": "2025-01-24T13:30:50.464Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71392476&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71392476&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 71392476,
       "launchParam": null
@@ -10387,6 +10467,45 @@
     "language": "es"
   },
   {
+    "titleText": "Polens Robbenbaby-Retter im Einsatz ",
+    "category": "Natur und Umwelt",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:PL": "Polen"
+    },
+    "regions": [
+      "Polen"
+    ],
+    "runningTime": 211,
+    "updateTime": "2025-05-12T07:09:38.611Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72465523&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72465523,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72418305_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72418305_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Zu Besuch in einem der ältesten Kaffeehäuser Wiens",
     "category": "Lifestyle",
     "subCategory": "Kultur",
@@ -10700,45 +10819,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72488696_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Johann Wadephul: Wer ist der neue deutsche Außenminister?",
-    "category": "Video-Nachrichten",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-05-08T09:49:14.836Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72475316&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72475316,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72373423_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72373423_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
