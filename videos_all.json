@@ -95,7 +95,7 @@
     "updateTime": "2025-05-13T06:47:08.266Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -11359,7 +11359,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-05-13T08:24:58.779Z",
+    "updateTime": "2025-05-13T09:32:29.181Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11381,6 +11381,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72522785_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "\"Papa-Tour\" en Buenos Aires",
+    "category": "Religión",
+    "subCategory": "Viajes",
+    "region_ids": {
+      "region:cala:AR": "Argentina",
+      "region:europe:VA": "Vaticano"
+    },
+    "regions": [
+      "Argentina",
+      "Vaticano"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-05-13T09:14:13.701Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72304194&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72304194,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72303630_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72303630_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11620,45 +11661,6 @@
     "language": "es"
   },
   {
-    "titleText": "Comedores de Gaza sin comida",
-    "category": "Conflictos",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Oriente Medio"
-    },
-    "regions": [
-      "Oriente Medio"
-    ],
-    "runningTime": 216,
-    "updateTime": "2025-05-09T19:35:06.601Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72496562&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72496562,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72486365_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72486365_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Encaje, tul y volantes en la mayor tienda de moda nupcial",
     "category": "Estilo",
     "subCategory": null,
@@ -11773,47 +11775,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70484089_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "\"Papa-Tour\" en Buenos Aires",
-    "category": "Religión",
-    "subCategory": "Viajes",
-    "region_ids": {
-      "region:cala:AR": "Argentina",
-      "region:europe:VA": "Vaticano"
-    },
-    "regions": [
-      "Argentina",
-      "Vaticano"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-04-21T18:49:36.158Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72304194&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72304194,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72303630_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72303630_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12089,6 +12050,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71688747_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Grandes novedades en miniatura",
+    "category": "Cultura",
+    "subCategory": "Estilo",
+    "region_ids": {
+      "region:europe:DE": "Alemania"
+    },
+    "regions": [
+      "Alemania"
+    ],
+    "runningTime": 322,
+    "updateTime": "2025-03-05T11:50:42.316Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68986459&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 68986459,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68979860_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68979860_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12416,7 +12416,7 @@
     "language": "es"
   },
   {
-    "titleText": "Was die deutsch-israelischen Beziehungen so besonders macht",
+    "titleText": "Die besonderen Beziehungen zwischen Deutschland und Israel",
     "category": "Politik",
     "subCategory": null,
     "region_ids": {
