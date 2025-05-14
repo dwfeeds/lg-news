@@ -40,7 +40,7 @@
     "updateTime": "2025-05-14T08:00:50.552Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72465475&list=REPORTS_VIDEO:1",
+      "contentId": "v=72465475&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72465475,
       "launchParam": null
@@ -370,7 +370,7 @@
     "updateTime": "2025-05-10T13:35:50.493Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72471700&list=PANORAMA_VIDEO:1",
+      "contentId": "v=72471700&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72471700,
       "launchParam": null
@@ -403,7 +403,7 @@
     "updateTime": "2025-05-10T09:49:42.725Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72498280&list=FEATURED_VIDEO:1",
+      "contentId": "v=72498280&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 72498280,
       "launchParam": null
@@ -891,6 +891,39 @@
     "language": "de"
   },
   {
+    "titleText": "Wie erleben Gehörlose und Hörgeschädigte Musik?",
+    "category": "Lifestyle",
+    "subCategory": "Gesellschaft",
+    "runningTime": 311,
+    "updateTime": "2025-04-17T10:08:57.221Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72224333&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 72224333,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72212740_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72212740_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Russland zieht 160.000 Männer zum Militärdienst ein",
     "category": "Konflikte",
     "subCategory": null,
@@ -983,39 +1016,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72132888_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Schottland: Das dreckige Loch Long",
-    "category": "Natur und Umwelt",
-    "subCategory": "Gesellschaft",
-    "runningTime": 337,
-    "updateTime": "2025-04-03T07:48:35.859Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72119366&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 72119366,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72079059_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72079059_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
