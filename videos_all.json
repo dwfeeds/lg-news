@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "What is the banned \"Kingdom of Germany\" group?  ",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 54,
+    "updateTime": "2025-05-14T12:56:20.229Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72540802&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72540802,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72526255_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72526255_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Helping young refugees start their careers",
     "category": "Business",
     "subCategory": "Diversity",
@@ -376,7 +415,7 @@
     "updateTime": "2025-05-14T07:17:48.49Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "contentId": "v=49496622&list=NEWS_VIDEO:7",
       "type": "video",
       "id": 49496622,
       "launchParam": null
