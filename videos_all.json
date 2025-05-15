@@ -11188,14 +11188,12 @@
     "subCategory": null,
     "region_ids": {
       "region:northamerica:US": "Vereinigte Staaten von Amerika",
-      "region:me": "Nahost",
       "region:me:SA": "Saudi Arabien",
       "region:me:QA": "Katar",
       "region:me:AE": "Vereinigte Arabische Emirate"
     },
     "regions": [
       "Vereinigte Staaten von Amerika",
-      "Nahost",
       "Saudi Arabien",
       "Katar",
       "Vereinigte Arabische Emirate"
@@ -11428,8 +11426,8 @@
   },
   {
     "titleText": "Deutschlands neue Migrationspolitik stößt auf Kritik",
-    "category": "Politik",
-    "subCategory": null,
+    "category": "Migration",
+    "subCategory": "Politik",
     "region_ids": {
       "region:europe:DE": "Deutschland"
     },
@@ -11637,7 +11635,7 @@
     "updateTime": "2025-05-12T07:09:38.611Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72465523&list=PANORAMA_VIDEO:1",
+      "contentId": "v=72465523&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72465523,
       "launchParam": null
@@ -12532,6 +12530,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70663775_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Tourismus statt Koks in Medellín",
+    "category": "Gesellschaft",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:cala:CO": "Kolumbien"
+    },
+    "regions": [
+      "Kolumbien"
+    ],
+    "runningTime": 383,
+    "updateTime": "2025-04-18T12:20:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72253561&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 72253561,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72215986_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72215986_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
