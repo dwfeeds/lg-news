@@ -2080,9 +2080,9 @@
     "language": "en"
   },
   {
-    "titleText": "Rebuilding Mosul's cultural heritage",
-    "category": "Politics",
-    "subCategory": "Conflicts",
+    "titleText": "Iraq works to rebuild Mosul's cultural heritage",
+    "category": "Culture",
+    "subCategory": "Politics",
     "region_ids": {
       "region:me:IQ": "Iraq"
     },
@@ -2105,13 +2105,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71499439_6.jpg",
+      "url": "https://static.dw.com/image/71496205_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71499439_7.jpg",
+      "url": "https://static.dw.com/image/71496205_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2205,7 +2205,7 @@
   {
     "titleText": "Miel de Paris: Honey from the rooftops",
     "category": "Nature and Environment",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:FR": "France"
     },
@@ -2216,7 +2216,7 @@
     "updateTime": "2025-05-11T10:12:22.786Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72492129&list=REGION_VIDEO:7",
+      "contentId": "v=72492129&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72492129,
       "launchParam": null
@@ -2602,6 +2602,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72448481_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's Left party ready to sue gov't over asylum controls",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 411,
+    "updateTime": "2025-05-09T17:35:58.218Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72496022&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72496022,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72496161_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72496161_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7996,45 +8035,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why the fascination with the Viennese waltz?",
-    "category": "Culture",
-    "subCategory": "Dance",
-    "region_ids": {
-      "region:europe:AT": "Austria"
-    },
-    "regions": [
-      "Austria"
-    ],
-    "runningTime": 361,
-    "updateTime": "2025-03-29T11:28:12.432Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72073110&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72073110,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72069148_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72069148_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "South African artist aims to 'decolonize' photography",
     "category": "Human Rights",
     "subCategory": "Equality",
@@ -10175,6 +10175,51 @@
     "language": "en"
   },
   {
+    "titleText": "Frenar la desertificación",
+    "category": "Naturaleza y medio ambiente",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:asia:MN": "Mongolia",
+      "region:me:SA": "Arabia Saudita",
+      "region:africa": "África"
+    },
+    "regions": [
+      "China",
+      "Mongolia",
+      "Arabia Saudita",
+      "África"
+    ],
+    "runningTime": 265,
+    "updateTime": "2025-05-16T06:42:13.35Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68184858&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 68184858,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/57346309_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/57346309_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Bombardeos israelíes en Gaza en aniversario de la Nakba",
     "category": "Conflictos",
     "subCategory": null,
@@ -10420,7 +10465,7 @@
     "updateTime": "2025-05-13T09:14:13.701Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72304194&list=REPORTS_VIDEO:1",
+      "contentId": "v=72304194&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72304194,
       "launchParam": null
@@ -10835,45 +10880,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71688747_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Grandes novedades en miniatura",
-    "category": "Cultura",
-    "subCategory": "Estilo",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 322,
-    "updateTime": "2025-03-05T11:50:42.316Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68986459&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 68986459,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68979860_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68979860_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
