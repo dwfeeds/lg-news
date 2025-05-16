@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-05-16T09:39:41.75Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72554282&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 72554282,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69427468_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69427468_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nickel mine pollutes island",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 185,
+    "updateTime": "2025-05-16T08:54:00.99Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72562796&list=FULL_SHOWS_VIDEO:10",
+      "type": "video",
+      "id": 72562796,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72562636_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72562636_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why French are wary of Macron's nuclear umbrella for Europe",
     "category": "Conflicts",
     "subCategory": null,
@@ -46,11 +124,13 @@
     "subCategory": null,
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:me:SA": "Saudi Arabia"
+      "region:me:SA": "Saudi Arabia",
+      "region:me:IL": "Israel"
     },
     "regions": [
       "United States of America",
-      "Saudi Arabia"
+      "Saudi Arabia",
+      "Israel"
     ],
     "runningTime": 124,
     "updateTime": "2025-05-16T08:13:11.309Z",
@@ -639,45 +719,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72528111_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 125,
-    "updateTime": "2025-05-15T10:18:38.606Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72554282&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72554282,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69427468_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69427468_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5503,6 +5544,47 @@
     "language": "en"
   },
   {
+    "titleText": "Cameroonians lose protections in US",
+    "category": "Society",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:africa:CM": "Cameroon",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Cameroon",
+      "United States of America"
+    ],
+    "runningTime": 220,
+    "updateTime": "2025-04-25T11:15:07.178Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72353073&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72353073,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70189449_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70189449_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump says Russia not conquering Ukraine is a 'concession'",
     "category": "Conflicts",
     "subCategory": null,
@@ -8684,7 +8766,7 @@
     "updateTime": "2025-03-17T09:18:08.548Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71861012&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=71861012&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71861012,
       "launchParam": null
@@ -10177,6 +10259,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 182,
+    "updateTime": "2025-05-16T09:18:28.465Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72556454_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72556454_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Frenar la desertificación",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -10254,41 +10371,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72552049_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 182,
-    "updateTime": "2025-05-15T19:35:04.182Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72556454_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72556454_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
