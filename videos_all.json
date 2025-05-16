@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-05-16T13:14:48.501Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72568125_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72568125_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
     "category": "Human Rights",
     "subCategory": null,
@@ -196,45 +235,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72554940_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 85,
-    "updateTime": "2025-05-16T07:08:42.343Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72556477_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72556477_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2527,18 +2527,16 @@
     "language": "en"
   },
   {
-    "titleText": "Asylum-seeker to pop star: ESC candidate Claude Kiambe",
+    "titleText": "Former refugee hoping to win 2025 Eurovision Song Contest",
     "category": "Lifestyle",
     "subCategory": "Music",
     "region_ids": {
       "region:europe:NL": "Netherlands",
-      "region:africa:CG": "Republic of the Congo",
-      "region:europe:CH": "Switzerland"
+      "region:africa:CD": "Democratic Republic of Congo"
     },
     "regions": [
       "Netherlands",
-      "Republic of the Congo",
-      "Switzerland"
+      "Democratic Republic of Congo"
     ],
     "runningTime": 274,
     "updateTime": "2025-05-10T09:51:41.013Z",
@@ -2645,45 +2643,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72496867_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Who is Pope Leo XIV?",
-    "category": "Religion",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:VA": "Vatican"
-    },
-    "regions": [
-      "Vatican"
-    ],
-    "runningTime": 182,
-    "updateTime": "2025-05-09T19:14:54.787Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72496914&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72496914,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72502513_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72502513_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4492,45 +4451,6 @@
     "language": "en"
   },
   {
-    "titleText": "Claude — the Congolese who made it to Eurovision  ",
-    "category": "Music",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:africa:CG": "Republic of the Congo"
-    },
-    "regions": [
-      "Republic of the Congo"
-    ],
-    "runningTime": 314,
-    "updateTime": "2025-05-02T12:03:29.523Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72414225&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72414225,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72397755_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72397755_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "UN decries Israeli blockade of aid supplies to Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -5537,6 +5457,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72109615_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cameroonians lose protections in US",
+    "category": "Society",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:africa:CM": "Cameroon",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Cameroon",
+      "United States of America"
+    ],
+    "runningTime": 220,
+    "updateTime": "2025-04-25T11:15:07.178Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72353073&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72353073,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70189449_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70189449_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10224,7 +10185,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-05-16T09:18:28.465Z",
+    "updateTime": "2025-05-16T13:22:14.855Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10239,13 +10200,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72556454_6.jpg",
+      "url": "https://static.dw.com/image/72568125_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72556454_7.jpg",
+      "url": "https://static.dw.com/image/72568125_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
