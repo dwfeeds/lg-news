@@ -40,8 +40,8 @@
   },
   {
     "titleText": "Countdown to Eurovision final in Switzerland begins",
-    "category": "Culture",
-    "subCategory": null,
+    "category": "Music",
+    "subCategory": "Culture",
     "region_ids": {
       "region:europe": "Europe",
       "region:europe:CH": "Switzerland"
@@ -1245,6 +1245,45 @@
     "language": "en"
   },
   {
+    "titleText": "A safe space for queer seniors",
+    "category": "Society",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 159,
+    "updateTime": "2025-05-14T21:55:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68785289&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 68785289,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68751565_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68751565_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chancellor Merz vows to build strongest army in Europe",
     "category": "Politics",
     "subCategory": null,
@@ -2354,47 +2393,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72454239_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Commemorating 60 years of Israeli-German relations ",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Germany",
-      "Israel"
-    ],
-    "runningTime": 260,
-    "updateTime": "2025-05-12T10:34:12.302Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72515133&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72515133,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72512937_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72512937_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12046,7 +12044,7 @@
   {
     "titleText": "Der ESC vor dem Finale: Wer sind die Favoriten?",
     "category": "Panorama",
-    "subCategory": null,
+    "subCategory": "Musik",
     "region_ids": {
       "region:europe": "Europa"
     },
