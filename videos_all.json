@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-05-18T11:09:03.676Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72581615_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72581615_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "A 300-year-old orchestra electrifies at Jazzfest Bonn",
     "category": "Music",
     "subCategory": null,
@@ -114,45 +153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72578227_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 85,
-    "updateTime": "2025-05-18T07:20:17.205Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72576037_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72576037_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10856,7 +10856,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-05-18T10:18:23.866Z",
+    "updateTime": "2025-05-18T11:17:23.659Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10871,13 +10871,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72580617_6.jpg",
+      "url": "https://static.dw.com/image/72581615_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72580617_7.jpg",
+      "url": "https://static.dw.com/image/72581615_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11962,6 +11962,45 @@
     "language": "es"
   },
   {
+    "titleText": "Neapel: Lohnt sich ein Besuch der italienischen Hafenstadt?",
+    "category": "Reise",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:europe:IT": "Italien"
+    },
+    "regions": [
+      "Italien"
+    ],
+    "runningTime": 278,
+    "updateTime": "2025-05-18T11:05:23.28Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72571344&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72571344,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72568739_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72568739_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Österreich gewinnt Eurovision Song Contest vor Israel",
     "category": "Panorama",
     "subCategory": "Musik",
@@ -12410,7 +12449,7 @@
     "updateTime": "2025-05-16T10:39:46.553Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72564677&list=REPORTS_VIDEO:1",
+      "contentId": "v=72564677&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 72564677,
       "launchParam": null
@@ -13744,47 +13783,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69180440_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Putin will erst über Details eines Waffenstillstands beraten",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RU": "Russische Föderation",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Russische Föderation",
-      "Ukraine"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-03-14T14:49:33.549Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71922461&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 71922461,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71916562_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71916562_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
