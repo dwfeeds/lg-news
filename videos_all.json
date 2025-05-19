@@ -788,9 +788,9 @@
     "language": "en"
   },
   {
-    "titleText": "Cyberwar: The invisible weapons",
-    "category": "Conflicts",
-    "subCategory": null,
+    "titleText": "Cyberwar: The invisible weapons of cyberattacks",
+    "category": "Technology",
+    "subCategory": "Conflicts",
     "region_ids": {
       "region:global": "Global",
       "region:europe:UA": "Ukraine",
@@ -1602,9 +1602,9 @@
     "language": "en"
   },
   {
-    "titleText": "France: Opera on wheels",
-    "category": "Society",
-    "subCategory": "Music",
+    "titleText": "Opera house on wheels brings French culture to rural towns",
+    "category": "Music",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:FR": "France"
     },
@@ -12287,7 +12287,7 @@
     "updateTime": "2025-05-16T16:31:06.883Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571315&list=TOPIC_CLUSTER_VIDEO:2",
+      "contentId": "v=72571315&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72571315,
       "launchParam": null
@@ -13625,6 +13625,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72062695_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Wie Luftabwehrsysteme aus Deutschland der Ukraine helfen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-03-24T06:44:52.04Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71997636&list=TOPIC_CLUSTER_VIDEO:2",
+      "type": "video",
+      "id": 71997636,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69180440_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69180440_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
