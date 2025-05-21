@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-05-21T16:54:01.499Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72625047_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72625047_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Naples: the birthplace of pizza, but is it worth a visit?",
     "category": "Lifestyle",
     "subCategory": "Travel",
@@ -112,45 +151,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72623478_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 88,
-    "updateTime": "2025-05-21T11:50:15.812Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72604576_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72604576_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10600,7 +10600,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-05-21T16:25:09.981Z",
+    "updateTime": "2025-05-21T17:15:34.698Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10622,6 +10622,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72625047_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Muere José \"Pepe\" Mujica",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala": "América Latina"
+    },
+    "regions": [
+      "América Latina"
+    ],
+    "runningTime": 201,
+    "updateTime": "2025-05-21T17:01:39.768Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72539126&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72539126,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69105274_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69105274_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10891,45 +10930,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72191073_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Quién es el nuevo Ministro de Asuntos Exteriores alemán?",
-    "category": "Política",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 135,
-    "updateTime": "2025-05-20T08:19:01.578Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72403319&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72403319,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72192414_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72192414_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
