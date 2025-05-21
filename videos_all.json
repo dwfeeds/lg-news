@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Lebanon hosts security talks on Palestinian refugee camps",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Lebanon",
+      "Middle East"
+    ],
+    "runningTime": 124,
+    "updateTime": "2025-05-21T13:26:50.431Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72624291&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72624291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68941151_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68941151_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "South African farmers refute Trump: No 'white genocide'",
     "category": "Crime",
     "subCategory": "Politics",
@@ -52,7 +93,7 @@
     "updateTime": "2025-05-21T11:50:15.812Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -82,10 +123,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
+      "region:asia": "Asia",
       "region:asia:IN": "India",
       "region:asia:PK": "Pakistan"
     },
     "regions": [
+      "Asia",
       "India",
       "Pakistan"
     ],
@@ -6482,45 +6525,6 @@
     "language": "en"
   },
   {
-    "titleText": "Christians in Gaza pay tribute to Pope Francis",
-    "category": "Religion",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 164,
-    "updateTime": "2025-04-22T09:35:15.376Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72307305&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72307305,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72307249_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72307249_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump's immigration clampdown snares Indigenous Americans",
     "category": "Migration",
     "subCategory": "Politics",
@@ -10596,7 +10600,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-05-21T12:30:03.418Z",
+    "updateTime": "2025-05-21T13:39:54.901Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10611,13 +10615,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72621435_6.jpg",
+      "url": "https://static.dw.com/image/72622090_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72621435_7.jpg",
+      "url": "https://static.dw.com/image/72622090_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11768,6 +11772,45 @@
     "language": "es"
   },
   {
+    "titleText": "Taiwan baut eigene Satelliten für den Kriegsfall",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asien"
+    },
+    "regions": [
+      "Asien"
+    ],
+    "runningTime": 231,
+    "updateTime": "2025-05-21T13:16:06.706Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72615553&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72615553,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72609990_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72609990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Wie wirkt Sonnenstrahlung auf den Mond?",
     "category": "Wissenschaft",
     "subCategory": null,
@@ -12214,7 +12257,7 @@
     "updateTime": "2025-05-18T11:05:23.28Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571344&list=REPORTS_VIDEO:1",
+      "contentId": "v=72571344&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72571344,
       "launchParam": null
@@ -13191,45 +13234,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70471326_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Von Müll zu Fashion",
-    "category": "Innovation",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:asia:IN": "Indien"
-    },
-    "regions": [
-      "Indien"
-    ],
-    "runningTime": 199,
-    "updateTime": "2025-04-28T08:25:03.021Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70490150&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70490150,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70471330_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70471330_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
