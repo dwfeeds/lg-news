@@ -43,7 +43,7 @@
   {
     "titleText": "How women in northern Ghana resolved a land conflict ",
     "category": "Conflicts",
-    "subCategory": null,
+    "subCategory": "Equality",
     "region_ids": {
       "region:africa:GH": "Ghana"
     },
@@ -279,7 +279,7 @@
     "language": "en"
   },
   {
-    "titleText": "5 modes of transport in Malawi",
+    "titleText": "How to travel around Malawi like a local",
     "category": "Travel",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -441,10 +441,12 @@
     "category": "Nature and Environment",
     "subCategory": "Innovation",
     "region_ids": {
-      "region:cala:EC": "Ecuador"
+      "region:cala:EC": "Ecuador",
+      "region:cala": "Latin America"
     },
     "regions": [
-      "Ecuador"
+      "Ecuador",
+      "Latin America"
     ],
     "runningTime": 371,
     "updateTime": "2025-05-20T12:46:25.113Z",
@@ -8764,49 +8766,6 @@
     "language": "en"
   },
   {
-    "titleText": "Afghans seeking US asylum fear deportation from Pakistan",
-    "category": "Conflicts",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:asia:AF": "Afghanistan",
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "United States of America",
-      "Afghanistan",
-      "Pakistan"
-    ],
-    "runningTime": 191,
-    "updateTime": "2025-03-17T09:57:39.771Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71941100&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 71941100,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71940365_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71940365_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium short on health workers 5 years into COVID",
     "category": "Health",
     "subCategory": "Society",
@@ -10631,6 +10590,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 179,
+    "updateTime": "2025-05-21T09:30:06.819Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72618073_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72618073_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Interacción social contra la depresión",
     "category": "Sociedad",
     "subCategory": "Salud",
@@ -10741,41 +10735,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71878270_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 179,
-    "updateTime": "2025-05-21T08:24:47.691Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72618073_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72618073_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11822,7 +11781,7 @@
     "updateTime": "2025-05-21T08:35:52.012Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72564738&list=REPORTS_VIDEO:1",
+      "contentId": "v=72564738&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72564738,
       "launchParam": null
@@ -11852,10 +11811,12 @@
     "category": "Gesellschaft",
     "subCategory": "Glaube",
     "region_ids": {
-      "region:asia:ID": "Indonesien"
+      "region:asia:ID": "Indonesien",
+      "region:asia": "Asien"
     },
     "regions": [
-      "Indonesien"
+      "Indonesien",
+      "Asien"
     ],
     "runningTime": 325,
     "updateTime": "2025-05-20T12:50:17.158Z",
@@ -11891,10 +11852,12 @@
     "category": "Natur und Umwelt",
     "subCategory": "Innovation",
     "region_ids": {
-      "region:cala:EC": "Ecuador"
+      "region:cala:EC": "Ecuador",
+      "region:cala": "Lateinamerika"
     },
     "regions": [
-      "Ecuador"
+      "Ecuador",
+      "Lateinamerika"
     ],
     "runningTime": 372,
     "updateTime": "2025-05-20T12:47:46.464Z",
@@ -12017,7 +11980,7 @@
     "updateTime": "2025-05-19T15:18:59.264Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72599588&list=FEATURED_VIDEO:1",
+      "contentId": "v=72599588&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72599588,
       "launchParam": null
