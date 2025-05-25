@@ -183,13 +183,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72657779_6.jpg",
+      "url": "https://static.dw.com/image/72663490_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72657779_7.jpg",
+      "url": "https://static.dw.com/image/72663490_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2440,7 +2440,7 @@
     "updateTime": "2025-05-20T08:06:27.921Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72562667&list=FEATURED_VIDEO:1",
+      "contentId": "v=72562667&list=REGION_VIDEO:7",
       "type": "video",
       "id": 72562667,
       "launchParam": null
@@ -12127,6 +12127,47 @@
     "language": "de"
   },
   {
+    "titleText": "Wie die EU mit Donald Trumps Zollpolitik umgehen will",
+    "category": "Handel",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Europa",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-05-22T08:01:55.953Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72568447&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72568447,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72180352_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72180352_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Neue EU-Sanktionen sollen Russland hart treffen ",
     "category": "Politik",
     "subCategory": null,
@@ -12179,7 +12220,7 @@
     "updateTime": "2025-05-19T06:57:18.223Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72543700&list=FEATURED_VIDEO:1",
+      "contentId": "v=72543700&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72543700,
       "launchParam": null
@@ -13193,47 +13234,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72378794_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Waldsterben in Europa und Amerika - eine gute Nachricht?",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Deutschland",
-      "Global"
-    ],
-    "runningTime": 515,
-    "updateTime": "2025-04-28T12:47:44.969Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70461336&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 70461336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70471326_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70471326_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
