@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Car ploughs into crowd of Liverpool fans celebrating title",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 116,
+    "updateTime": "2025-05-27T07:22:07.906Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72679824&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72679824,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72677562_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72677562_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10,7 +49,7 @@
       "Europe"
     ],
     "runningTime": 87,
-    "updateTime": "2025-05-27T04:16:25.249Z",
+    "updateTime": "2025-05-27T06:52:49.484Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:11",
@@ -2195,6 +2234,45 @@
     "language": "en"
   },
   {
+    "titleText": "War shifts roles: Women in Ukraine’s workforce",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 255,
+    "updateTime": "2025-05-21T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72606502&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72606502,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72557764_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72557764_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "'Godfather of AI' urges tougher government rules",
     "category": "Technology",
     "subCategory": null,
@@ -3069,90 +3147,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump says Russia-Ukraine truce talks to start immediately",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Ukraine",
-      "Russian Federation",
-      "United States of America"
-    ],
-    "runningTime": 159,
-    "updateTime": "2025-05-20T06:57:57.292Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72603735&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72603735,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72603075_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72603075_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Netanyahu: Israel 'to take control of all areas' of Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-05-19T21:46:29.059Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72602619&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72602619,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72587969_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72587969_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "UK seeks EU trade deal five years after Brexit",
     "category": "Trade",
     "subCategory": "Business",
@@ -3345,45 +3339,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72592466_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Former US President Joe Biden diagnosed with cancer",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-05-19T10:58:08.848Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72595844&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72595844,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72596078_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72596078_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5284,47 +5239,6 @@
     "language": "en"
   },
   {
-    "titleText": "US, Saudi Arabia conclude 'largest arms sale in history'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SA": "Saudi Arabia",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Saudi Arabia",
-      "United States of America"
-    ],
-    "runningTime": 105,
-    "updateTime": "2025-05-14T07:16:57.511Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72535257&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72535257,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72532502_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72532502_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Miel de Paris: Honey from the rooftops",
     "category": "Nature and Environment",
     "subCategory": "Lifestyle",
@@ -6800,6 +6714,45 @@
     "language": "en"
   },
   {
+    "titleText": "Internally displaced Syrians long to return home",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-05-05T09:04:35.586Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72434914&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72434914,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72434940_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72434940_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bolivia: Amazon plane crash survivors rescued after 2 days",
     "category": "Catastrophe",
     "subCategory": null,
@@ -6832,6 +6785,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72439806_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel on alert as Houthi missile hits near Tel Aviv airport",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-05-04T13:51:29.009Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72430871&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72430871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71980454_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71980454_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7870,6 +7862,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72285074_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Travel to US dips after tourists are detained at border",
+    "category": "Travel",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 142,
+    "updateTime": "2025-04-18T09:02:19.806Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72281221&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72281221,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72097750_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72097750_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11747,6 +11778,45 @@
     "language": "es"
   },
   {
+    "titleText": "Ukraine: Frauen in Männerberufen",
+    "category": "Gesellschaft",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 256,
+    "updateTime": "2025-05-27T07:13:43.4Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72624283&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72624283,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72557764_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72557764_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Weißes Gold: Das besondere Meersalz aus Frankreich",
     "category": "Lifestyle",
     "subCategory": null,
@@ -12126,45 +12196,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72633473_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Nobelpreisträger Geoffrey Hinton warnt vor Gefahren durch KI",
-    "category": "Technik",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 253,
-    "updateTime": "2025-05-22T13:28:37.139Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72633510&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72633510,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72636741_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72636741_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
