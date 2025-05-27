@@ -9,8 +9,8 @@
     "regions": [
       "Europe"
     ],
-    "runningTime": 91,
-    "updateTime": "2025-05-26T20:25:59.232Z",
+    "runningTime": 87,
+    "updateTime": "2025-05-27T04:16:25.249Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:11",
@@ -119,7 +119,7 @@
     "language": "en"
   },
   {
-    "titleText": "Russia continues Ukraine air strikes",
+    "titleText": "Russia bombs Ukraine for third straight night",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -201,24 +201,24 @@
     "language": "en"
   },
   {
-    "titleText": "US-China tensions testing ASEAN members' relations ",
+    "titleText": "US-China tensions test ties between ASEAN members",
     "category": "Business",
     "subCategory": "Conflicts",
     "region_ids": {
+      "region:northamerica:US": "United States of America",
       "region:asia:MY": "Malaysia",
-      "region:asia:CN": "China",
-      "region:northamerica:US": "United States of America"
+      "region:asia:CN": "China"
     },
     "regions": [
+      "United States of America",
       "Malaysia",
-      "China",
-      "United States of America"
+      "China"
     ],
     "runningTime": 116,
     "updateTime": "2025-05-26T09:21:54.754Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72669540&list=REGION_VIDEO:4",
+      "contentId": "v=72669540&list=REGION_VIDEO:5",
       "type": "video",
       "id": 72669540,
       "launchParam": null
@@ -230,13 +230,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72667975_6.jpg",
+      "url": "https://static.dw.com/image/72667905_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72667975_7.jpg",
+      "url": "https://static.dw.com/image/72667905_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6599,6 +6599,47 @@
     "language": "en"
   },
   {
+    "titleText": "Filipino LGBTQ+ community backs local papal hopeful Tagle",
+    "category": "Religion",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PH": "Philippines",
+      "region:europe:VA": "Vatican"
+    },
+    "regions": [
+      "Philippines",
+      "Vatican"
+    ],
+    "runningTime": 194,
+    "updateTime": "2025-05-06T12:53:00.853Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72449569&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 72449569,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72449756_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72449756_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump ponders to reopen infamous Alcatraz prison",
     "category": "Crime",
     "subCategory": "Law and Justice",
@@ -7829,45 +7870,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72285074_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Travel to US dips after tourists are detained at border",
-    "category": "Travel",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 142,
-    "updateTime": "2025-04-18T09:02:19.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72281221&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72281221,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72097750_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72097750_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10650,7 +10652,7 @@
     "subCategory": null,
     "region_ids": {},
     "regions": [],
-    "runningTime": 174,
+    "runningTime": 181,
     "updateTime": "2025-05-26T19:31:16.911Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
