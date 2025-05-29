@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Swiss glacier collapse partially destroys village of Blatten",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-05-29T08:03:27.352Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72709073&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72709073,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72704990_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72704990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Denmark: Women drafted",
     "category": "Society",
     "subCategory": "Equality",
@@ -579,7 +618,7 @@
     "updateTime": "2025-05-27T11:38:53.833Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674108&list=REGION_VIDEO:9",
+      "contentId": "v=72674108&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72674108,
       "launchParam": null
@@ -968,20 +1007,22 @@
     "category": "Business",
     "subCategory": "Conflicts",
     "region_ids": {
-      "region:northamerica:US": "United States of America",
+      "region:asia": "Asia",
       "region:asia:MY": "Malaysia",
-      "region:asia:CN": "China"
+      "region:asia:CN": "China",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "United States of America",
+      "Asia",
       "Malaysia",
-      "China"
+      "China",
+      "United States of America"
     ],
     "runningTime": 116,
     "updateTime": "2025-05-26T09:21:54.754Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72669540&list=REGION_VIDEO:5",
+      "contentId": "v=72669540&list=REGION_VIDEO:4",
       "type": "video",
       "id": 72669540,
       "launchParam": null
@@ -5098,7 +5139,7 @@
     "updateTime": "2025-05-15T08:02:25.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72550039&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=72550039&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72550039,
       "launchParam": null
@@ -6080,41 +6121,6 @@
     "language": "en"
   },
   {
-    "titleText": "Russia's Putin proposes direct peace talks with Ukraine",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 115,
-    "updateTime": "2025-05-11T17:31:34.682Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72510668&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72510668,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72504495_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72504495_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Gaza's wounded and sick left hungry by Israel's blockade",
     "category": "Conflicts",
     "subCategory": "Human Rights",
@@ -6391,49 +6397,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72418281_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Inside Bahawalpur: City on alert after India missile strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia": "Asia",
-      "region:asia:PK": "Pakistan",
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "Asia",
-      "Pakistan",
-      "India"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-05-08T14:24:46.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72481211&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 72481211,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72481448_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72481448_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6755,6 +6718,45 @@
     "language": "en"
   },
   {
+    "titleText": "Israel on alert as Houthi missile hits near Tel Aviv airport",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-05-04T13:51:29.009Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72430871&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72430871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71980454_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71980454_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "At Copacabana, 2 million Brazilians go gaga for Lady Gaga",
     "category": "Music",
     "subCategory": "Business",
@@ -6913,47 +6915,6 @@
     "language": "en"
   },
   {
-    "titleText": "Witnessing Gaza: Palestinian journalists take deadly risks",
-    "category": "Conflicts",
-    "subCategory": "Media",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Middle East"
-    ],
-    "runningTime": 203,
-    "updateTime": "2025-05-03T15:21:42.27Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72425912&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72425912,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72426134_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72426134_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "State Department's Thomas Pigott on Trump's first 100 days",
     "category": "Politics",
     "subCategory": null,
@@ -7006,7 +6967,7 @@
     "updateTime": "2025-05-02T15:49:38.456Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72410681&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72410681&list=REGION_VIDEO:5",
       "type": "video",
       "id": 72410681,
       "launchParam": null
@@ -7064,45 +7025,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72413510_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Turkish reporters covering anti-Erdogan protests face trials",
-    "category": "Press Freedom",
-    "subCategory": "Media",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 206,
-    "updateTime": "2025-05-02T09:10:15.152Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72409019&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72409019,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71650892_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71650892_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7224,86 +7146,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/15302359_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "DW FoSA winner: 'You need to have credible information'",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GE": "Georgia",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Georgia",
-      "Germany"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-04-29T08:35:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72369046,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/58758113_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/58758113_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Courage is essential in the fight for freedom of expression",
-    "category": "Press Freedom",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GE": "Georgia"
-    },
-    "regions": [
-      "Georgia"
-    ],
-    "runningTime": 386,
-    "updateTime": "2025-04-29T08:26:43.675Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72384413&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72384413,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72388949_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72388949_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7635,22 +7477,22 @@
     "language": "en"
   },
   {
-    "titleText": "Trial opens for nearly 200 detained during Istanbul protests",
-    "category": "Politics",
-    "subCategory": null,
+    "titleText": "Digital skills for people who are blind",
+    "category": "Equality",
+    "subCategory": "Technology",
     "region_ids": {
-      "region:europe:TR": "Turkey"
+      "region:africa:NG": "Nigeria"
     },
     "regions": [
-      "Turkey"
+      "Nigeria"
     ],
-    "runningTime": 133,
-    "updateTime": "2025-04-18T19:08:43.516Z",
+    "runningTime": 107,
+    "updateTime": "2025-04-19T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72285199&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72278851&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 72285199,
+      "id": 72278851,
       "launchParam": null
     },
     "providerLogo": {
@@ -7660,13 +7502,52 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72285074_6.jpg",
+      "url": "https://static.dw.com/image/72278094_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72285074_7.jpg",
+      "url": "https://static.dw.com/image/72278094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Indian educational center combatting caste ",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Asia"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-04-17T14:14:42.89Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72277300&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72277300,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72276150_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72276150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7825,45 +7706,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72215986_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Four Russian journalists sentenced to nearly six years",
-    "category": "Politics",
-    "subCategory": "Media",
-    "region_ids": {
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Russian Federation"
-    ],
-    "runningTime": 185,
-    "updateTime": "2025-04-15T20:45:20.073Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72255603&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72255603,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72256075_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72256075_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8575,47 +8417,6 @@
     "language": "en"
   },
   {
-    "titleText": "Cambodia: USAID freeze imperils human rights, press freedom",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:KH": "Cambodia",
-      "region:asia": "Asia"
-    },
-    "regions": [
-      "Cambodia",
-      "Asia"
-    ],
-    "runningTime": 363,
-    "updateTime": "2025-04-04T17:12:40.654Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146184&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72146184,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72144467_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72144467_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How space debris threatens satellites",
     "category": "Technology",
     "subCategory": null,
@@ -8733,45 +8534,6 @@
     "language": "en"
   },
   {
-    "titleText": "Hong Kong journalists fighting censorship, crackdown",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-04-01T15:17:05.802Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72108663&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72108663,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72108540_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72108540_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Future of US overseas news outlet Radio Liberty at risk",
     "category": "Press Freedom",
     "subCategory": "Society",
@@ -8787,7 +8549,7 @@
     "updateTime": "2025-03-31T13:17:56.036Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71999481&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71999481&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 71999481,
       "launchParam": null
@@ -8930,6 +8692,45 @@
     "language": "en"
   },
   {
+    "titleText": "In Albania, kids with disabilities face school challenges",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:AL": "Albania"
+    },
+    "regions": [
+      "Albania"
+    ],
+    "runningTime": 197,
+    "updateTime": "2025-03-23T06:07:54.295Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71990387&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71990387,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71990372_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71990372_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Predicting weather extremes with smart data and AI",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -8969,22 +8770,22 @@
     "language": "en"
   },
   {
-    "titleText": "What are Germany's limits on free speech?",
-    "category": "Society",
-    "subCategory": "Freedom of Speech",
+    "titleText": "Music, art changing lives for Angolan street children",
+    "category": "Music",
+    "subCategory": "Equality",
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:africa:AO": "Angola"
     },
     "regions": [
-      "Germany"
+      "Angola"
     ],
-    "runningTime": 59,
-    "updateTime": "2025-03-20T16:06:52.463Z",
+    "runningTime": 318,
+    "updateTime": "2025-03-19T18:41:07.266Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71988026&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71902807&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 71988026,
+      "id": 71902807,
       "launchParam": null
     },
     "providerLogo": {
@@ -8994,171 +8795,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/59291259_6.jpg",
+      "url": "https://static.dw.com/image/71769306_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/59291259_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Press freedom in the US threatened under Donald Trump",
-    "category": "Media",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 252,
-    "updateTime": "2025-03-19T19:34:45.446Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71964406&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71964406,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68192302_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68192302_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Russia: Reporters on trial in latest free speech crackdown",
-    "category": "Press Freedom",
-    "subCategory": "Law and Justice",
-    "region_ids": {
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Russian Federation"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-03-19T18:10:27.125Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71973636&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71973636,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70391397_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70391397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Europeans worried over Trump's cuts to public broadcasters",
-    "category": "Media",
-    "subCategory": "Press Freedom",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-03-17T20:43:12.957Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71956445&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71956445,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71940246_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71940246_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump slashes Voice of America, Radio Free Europe budget",
-    "category": "Media",
-    "subCategory": "Freedom of Speech",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "Europe"
-    ],
-    "runningTime": 223,
-    "updateTime": "2025-03-17T12:01:40.63Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71943067&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71943067,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71940510_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71940510_7.jpg",
+      "url": "https://static.dw.com/image/71769306_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9248,22 +8891,22 @@
     "language": "en"
   },
   {
-    "titleText": "Filipino journalists in crosshairs of anti-terror laws",
+    "titleText": "Serbia's protesting students, teachers remain defiant",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:asia:PH": "Philippines"
+      "region:europe:RS": "Serbia"
     },
     "regions": [
-      "Philippines"
+      "Serbia"
     ],
-    "runningTime": 198,
-    "updateTime": "2025-03-13T14:14:50.397Z",
+    "runningTime": 224,
+    "updateTime": "2025-03-13T16:29:38.918Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71913484&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71914973&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 71913484,
+      "id": 71914973,
       "launchParam": null
     },
     "providerLogo": {
@@ -9273,13 +8916,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71912191_6.jpg",
+      "url": "https://static.dw.com/image/71915150_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71912191_7.jpg",
+      "url": "https://static.dw.com/image/71915150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9652,22 +9295,22 @@
     "language": "en"
   },
   {
-    "titleText": "How to use art to achieve greater justice  ",
-    "category": "Arts",
-    "subCategory": "Freedom of Speech",
+    "titleText": "Namibia: Beyond German colonialism",
+    "category": "History",
+    "subCategory": "Society",
     "region_ids": {
-      "region:africa:AO": "Angola"
+      "region:africa:NA": "Namibia"
     },
     "regions": [
-      "Angola"
+      "Namibia"
     ],
-    "runningTime": 342,
-    "updateTime": "2025-02-26T14:25:00.756Z",
+    "runningTime": 519,
+    "updateTime": "2025-02-26T09:49:09.948Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71760465&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=71696666&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 71760465,
+      "id": 71696666,
       "launchParam": null
     },
     "providerLogo": {
@@ -9677,13 +9320,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71584373_6.jpeg",
+      "url": "https://static.dw.com/image/71614210_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71584373_7.jpeg",
+      "url": "https://static.dw.com/image/71614210_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9723,6 +9366,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71675830_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is less Russian being taught at Estonian schools?",
+    "category": "Society",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:EE": "Estonia"
+    },
+    "regions": [
+      "Estonia"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-02-24T11:53:17.396Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71611215&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71611215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71594700_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71594700_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9808,88 +9490,6 @@
     "language": "en"
   },
   {
-    "titleText": "Freedom online: Who's negotiating it?",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Germany",
-      "Global"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-02-21T17:25:21.179Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71702723&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71702723,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71698285_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71698285_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fact check: Free speech 'in retreat' — is JD Vance right?",
-    "category": "[Miscellaneous]",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "United States of America"
-    ],
-    "runningTime": 529,
-    "updateTime": "2025-02-21T08:17:20.918Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71694802&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71694802,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71612397_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71612397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Philippines: Big fishing threatens small fishermen ",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -9922,6 +9522,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71672273_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What families expect of the next German government",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 320,
+    "updateTime": "2025-02-19T09:04:34.851Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71639870&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71639870,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71632131_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71632131_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9968,84 +9607,6 @@
     "language": "en"
   },
   {
-    "titleText": "Pistorius: JD Vance's criticism 'is not acceptable'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 412,
-    "updateTime": "2025-02-14T20:41:36.015Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71617746&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71617746,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71616203_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71616203_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Vance speech a 'massive intervention in European politics'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 391,
-    "updateTime": "2025-02-14T16:46:56.368Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71614909&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71614909,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71616801_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71616801_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Imagine the world you want to live in: Mumbai",
     "category": "Business",
     "subCategory": null,
@@ -10078,6 +9639,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71455573_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Slovakia: Falconry imparts practical skills to students",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:SK": "Slovakia"
+    },
+    "regions": [
+      "Slovakia"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-02-04T07:59:10.864Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71402897&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71402897,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71385631_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71385631_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10156,6 +9756,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70422012_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "'Bus school' delivers education one stop at a time",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 194,
+    "updateTime": "2025-01-30T09:39:28.483Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71453373&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71453373,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71453973_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71453973_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10284,6 +9923,84 @@
     "language": "en"
   },
   {
+    "titleText": "In Germany, young and old bear witness to Holocaust horrors",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 314,
+    "updateTime": "2025-01-26T12:43:25.875Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71331244&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71331244,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67356228_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67356228_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Holocaust survivor shares her story with South African youth",
+    "category": "History",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 253,
+    "updateTime": "2025-01-26T07:41:16.65Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71393938&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71393938,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71391211_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71391211_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Philippines: How a coastal community revived its mangroves",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -10364,6 +10081,47 @@
     "language": "en"
   },
   {
+    "titleText": "Kashmir's educators brave harsh weather to teach children",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "Asia",
+      "India"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-01-23T15:37:45.683Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71389438&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71389438,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71388057_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71388057_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Freezing temperatures, snow hit US south coast",
     "category": "Climate",
     "subCategory": null,
@@ -10403,6 +10161,45 @@
     "language": "en"
   },
   {
+    "titleText": "Afghanistan: Women become 'invisible' under Taliban",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Afghanistan"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-01-21T08:41:43.49Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71274770&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71274770,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/64178459_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/64178459_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Imagine the world you want to live in: Mumbai",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -10435,6 +10232,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71244744_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistan struggles with education emergency",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 120,
+    "updateTime": "2025-01-12T13:48:19.821Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71278402&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 71278402,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65891393_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65891393_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10760,7 +10596,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-05-29T07:20:08.654Z",
+    "updateTime": "2025-05-29T08:25:11.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10775,13 +10611,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72700160_6.jpg",
+      "url": "https://static.dw.com/image/72708792_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72700160_7.jpg",
+      "url": "https://static.dw.com/image/72708792_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
