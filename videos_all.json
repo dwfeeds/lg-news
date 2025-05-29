@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Israel approves new settlements in the West Bank",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 169,
+    "updateTime": "2025-05-29T20:49:34.397Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72727559&list=GLOBAL_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 72727559,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70776845_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70776845_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -6258,7 +6293,7 @@
     "updateTime": "2025-05-04T13:51:29.009Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72430871&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=72430871&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72430871,
       "launchParam": null
@@ -8068,47 +8103,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72014417_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel intensifies Gaza strikes, orders evacuations",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-04-13T08:16:12.892Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72231126&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72231126,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72231911_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72231911_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
