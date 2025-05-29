@@ -25,13 +25,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72708533_6.jpg",
+      "url": "https://static.dw.com/image/72148599_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72708533_7.jpg",
+      "url": "https://static.dw.com/image/72148599_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -358,8 +358,8 @@
   },
   {
     "titleText": "China's ban on foreign adoptions leaves children in limbo",
-    "category": "Politics",
-    "subCategory": "Society",
+    "category": "Society",
+    "subCategory": "Politics",
     "region_ids": {
       "region:asia:CN": "China",
       "region:northamerica:US": "United States of America"
@@ -372,7 +372,7 @@
     "updateTime": "2025-05-28T13:14:08.257Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72700809&list=REGION_VIDEO:4",
+      "contentId": "v=72700809&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 72700809,
       "launchParam": null
@@ -8465,45 +8465,6 @@
     "language": "en"
   },
   {
-    "titleText": "Spaniards rally against housing crisis",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 143,
-    "updateTime": "2025-04-05T21:15:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72151493&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72151493,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72151420_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72151420_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Bolivian city drowns in rubbish",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -10712,6 +10673,47 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "El mito de los lácteos",
+    "category": "Ciencia",
+    "subCategory": "Salud",
+    "region_ids": {
+      "region:europe:DE": "Alemania",
+      "region:global": "Global"
+    },
+    "regions": [
+      "Alemania",
+      "Global"
+    ],
+    "runningTime": 324,
+    "updateTime": "2025-05-29T13:32:37.633Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72564043&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72564043,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/43843991_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/43843991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Noticias - Última hora",
