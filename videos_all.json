@@ -6,18 +6,18 @@
     "region_ids": {
       "region:asia:CN": "China",
       "region:asia:TW": "Taiwan",
-      "region:northamerica": "North America"
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
       "China",
       "Taiwan",
-      "North America"
+      "United States of America"
     ],
     "runningTime": 364,
     "updateTime": "2025-05-30T14:40:49.3Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72739289&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=72739289&list=REGION_VIDEO:4",
       "type": "video",
       "id": 72739289,
       "launchParam": null
@@ -123,7 +123,7 @@
     "language": "en"
   },
   {
-    "titleText": "Do school cellphone bans work?",
+    "titleText": "Brazil: Do school cellphone bans work?",
     "category": "Digital World",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -290,8 +290,8 @@
   },
   {
     "titleText": "Trump tariffs threaten Italy's pecorino cheese",
-    "category": "Trade",
-    "subCategory": "Business",
+    "category": "Business",
+    "subCategory": null,
     "region_ids": {
       "region:europe:IT": "Italy",
       "region:northamerica:US": "United States of America"
@@ -316,13 +316,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72652731_6.jpeg",
+      "url": "https://static.dw.com/image/72739771_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72652731_7.jpeg",
+      "url": "https://static.dw.com/image/72739771_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6138,49 +6138,6 @@
     "language": "en"
   },
   {
-    "titleText": "India and Pakistan exchange cross-border strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia": "Asia",
-      "region:asia:PK": "Pakistan",
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "Asia",
-      "Pakistan",
-      "India"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-05-09T12:35:02.906Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72492081&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 72492081,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72486080_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72486080_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trade war: Will the US-China tariff talks break the ice?",
     "category": "Business",
     "subCategory": null,
@@ -8546,6 +8503,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72179805_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Poland is wary about US overtures to Russia",
+    "category": "Conflicts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 312,
+    "updateTime": "2025-04-08T07:52:44.716Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72075195&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 72075195,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72079025_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72079025_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
