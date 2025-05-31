@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Cholera outbreak claims at least 70 lives in Sudan",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 97,
+    "updateTime": "2025-05-31T09:44:51.978Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72742765&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72742765,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69970618_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69970618_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Forests clear-cut as Philippines builds solar projects",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -42,8 +81,12 @@
     "titleText": "Torrential rain submerges Nigerian market town",
     "category": "Catastrophe",
     "subCategory": "Nature and Environment",
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
     "runningTime": 112,
     "updateTime": "2025-05-31T07:54:22.147Z",
     "onClick": {
@@ -5292,45 +5335,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72542618_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What's next after SADC troops withdraw from eastern Congo?",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 271,
-    "updateTime": "2025-05-15T20:05:42.74Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72560423&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72560423,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64344490_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64344490_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
