@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Germany will play 'leading role in combating global crises'",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:global": "Global",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Germany",
+      "Global",
+      "Middle East"
+    ],
+    "runningTime": 259,
+    "updateTime": "2025-06-02T16:55:40.195Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72765090&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72765090,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72766921_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72766921_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kyiv smuggled over 100 drones into Russia to attack airbases",
     "category": "Conflicts",
     "subCategory": null,
@@ -52,7 +95,7 @@
     "updateTime": "2025-06-02T12:44:14.582Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -368,7 +411,7 @@
     "updateTime": "2025-06-02T06:20:00.742Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72680745&list=REGION_VIDEO:8",
+      "contentId": "v=72680745&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72680745,
       "launchParam": null
@@ -1084,7 +1127,7 @@
     "updateTime": "2025-05-30T10:25:51.569Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72734732&list=REGION_VIDEO:6",
+      "contentId": "v=72734732&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72734732,
       "launchParam": null
@@ -1648,7 +1691,7 @@
     "updateTime": "2025-05-29T14:56:59.421Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72724240&list=REGION_VIDEO:5",
+      "contentId": "v=72724240&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72724240,
       "launchParam": null
@@ -2552,45 +2595,6 @@
     "language": "en"
   },
   {
-    "titleText": "The ferry operator — an unsung hero",
-    "category": "Business",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 180,
-    "updateTime": "2025-05-26T13:04:07.611Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72600291&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72600291,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72598861_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72598861_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sri Lanka tea pickers missing worker protection",
     "category": "Health",
     "subCategory": "Business",
@@ -3357,7 +3361,7 @@
     "updateTime": "2025-05-24T13:24:13.299Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72658689&list=REGION_VIDEO:5",
+      "contentId": "v=72658689&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72658689,
       "launchParam": null
@@ -3435,7 +3439,7 @@
     "updateTime": "2025-05-23T20:55:34.398Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72654710&list=REGION_VIDEO:5",
+      "contentId": "v=72654710&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72654710,
       "launchParam": null
@@ -5174,6 +5178,45 @@
     "language": "en"
   },
   {
+    "titleText": "How fake agents ruined a Ghanaian football player's life",
+    "category": "Soccer",
+    "subCategory": "Sports",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 176,
+    "updateTime": "2025-05-18T07:16:30.355Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72559927&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72559927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72559956_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72559956_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Stepped up Israeli strikes kill more than 150 in Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -5587,7 +5630,7 @@
     "updateTime": "2025-05-15T08:02:25.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72550039&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=72550039&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72550039,
       "launchParam": null
@@ -6104,7 +6147,7 @@
     "updateTime": "2025-05-13T10:25:55.119Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72523290&list=REGION_VIDEO:5",
+      "contentId": "v=72523290&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72523290,
       "launchParam": null
@@ -7039,6 +7082,45 @@
     "language": "en"
   },
   {
+    "titleText": "US press freedom no longer a matter of course under Trump",
+    "category": "Press Freedom",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 208,
+    "updateTime": "2025-05-02T15:49:38.456Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72410681&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72410681,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72245481_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72245481_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "UN decries Israeli blockade of aid supplies to Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -7071,6 +7153,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72357009_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Americans rally on May Day to protest Trump's policies",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-05-02T10:52:19.16Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72415474&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72415474,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72413510_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72413510_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7149,6 +7270,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72102418_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why US President Trump welcomes a weaker dollar",
+    "category": "Globalization",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "United States of America",
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 483,
+    "updateTime": "2025-04-30T07:54:34.453Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72239746&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72239746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68751740_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68751740_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7591,6 +7755,45 @@
     "language": "en"
   },
   {
+    "titleText": "Digital skills for people with visual impairment",
+    "category": "Equality",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 107,
+    "updateTime": "2025-04-19T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72278851&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72278851,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72278094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72278094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Dozens killed in US strike on Yemen, Houthis say",
     "category": "Conflicts",
     "subCategory": null,
@@ -7662,6 +7865,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72273740_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Indian educational center combatting caste ",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Asia"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-04-17T14:14:42.89Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72277300&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72277300,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72276150_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72276150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8180,6 +8422,45 @@
     "language": "en"
   },
   {
+    "titleText": "Poland is wary about US overtures to Russia",
+    "category": "Conflicts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:PL": "Poland"
+    },
+    "regions": [
+      "Poland"
+    ],
+    "runningTime": 312,
+    "updateTime": "2025-04-08T07:52:44.716Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72075195&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 72075195,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72079025_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72079025_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Brazil's Ex-President Bolsonaro pushes amnesty bill",
     "category": "Politics",
     "subCategory": null,
@@ -8212,6 +8493,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72161370_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Colombian village gets creative with plastic on its beaches",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:cala:CO": "Colombia"
+    },
+    "regions": [
+      "Colombia"
+    ],
+    "runningTime": 493,
+    "updateTime": "2025-04-07T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72146336&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 72146336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72127701_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72127701_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8336,6 +8656,84 @@
     "language": "en"
   },
   {
+    "titleText": "How Albania is failing children with learning disabilities",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:AL": "Albania"
+    },
+    "regions": [
+      "Albania"
+    ],
+    "runningTime": 197,
+    "updateTime": "2025-03-23T06:07:54.295Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71990387&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71990387,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71990372_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71990372_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Music, art changing lives for Angolan street children",
+    "category": "Music",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:AO": "Angola"
+    },
+    "regions": [
+      "Angola"
+    ],
+    "runningTime": 318,
+    "updateTime": "2025-03-19T18:41:07.266Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71902807&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71902807,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71769306_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71769306_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Belgium short on health workers 5 years into COVID",
     "category": "Health",
     "subCategory": "Society",
@@ -8368,6 +8766,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71863710_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Serbia's protesting students, teachers remain defiant",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RS": "Serbia"
+    },
+    "regions": [
+      "Serbia"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-03-13T16:29:38.918Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71914973&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71914973,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71915150_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71915150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8740,6 +9177,84 @@
     "language": "en"
   },
   {
+    "titleText": "Namibia: Beyond German colonialism",
+    "category": "History",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NA": "Namibia"
+    },
+    "regions": [
+      "Namibia"
+    ],
+    "runningTime": 519,
+    "updateTime": "2025-02-26T09:49:09.948Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71696666&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71696666,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71614210_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71614210_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is less Russian being taught at Estonian schools?",
+    "category": "Society",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:EE": "Estonia"
+    },
+    "regions": [
+      "Estonia"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-02-24T11:53:17.396Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71611215&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71611215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71594700_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71594700_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can India's industrial waste be used as building material?",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -8857,6 +9372,84 @@
     "language": "en"
   },
   {
+    "titleText": "What families expect of the next German government",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 320,
+    "updateTime": "2025-02-19T09:04:34.851Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71639870&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71639870,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71632131_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71632131_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Slovakia: Falconry imparts practical skills to students",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:SK": "Slovakia"
+    },
+    "regions": [
+      "Slovakia"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-02-04T07:59:10.864Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71402897&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71402897,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71385631_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71385631_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Ukraine turns to solar panels amid power blackouts",
     "category": "Conflicts",
     "subCategory": "Innovation",
@@ -8889,6 +9482,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71385673_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "'Bus school' delivers education one stop at a time",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 194,
+    "updateTime": "2025-01-30T09:39:28.483Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71453373&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71453373,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71453973_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71453973_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8939,6 +9571,84 @@
     "language": "en"
   },
   {
+    "titleText": "In Germany, young and old bear witness to Holocaust horrors",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 314,
+    "updateTime": "2025-01-26T12:43:25.875Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71331244&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71331244,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67356228_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67356228_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Holocaust survivor shares her story with South African youth",
+    "category": "History",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 253,
+    "updateTime": "2025-01-26T07:41:16.65Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71393938&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71393938,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71391211_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71391211_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How can the EU deal with Musk and his tech agenda?",
     "category": "Business",
     "subCategory": null,
@@ -8973,6 +9683,125 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71104758_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kashmir's educators brave harsh weather to teach children",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "Asia",
+      "India"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-01-23T15:37:45.683Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71389438&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71389438,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71388057_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71388057_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghanistan: Women become 'invisible' under Taliban",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Afghanistan"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-01-21T08:41:43.49Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71274770&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71274770,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/64178459_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/64178459_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistan struggles with education emergency",
+    "category": "Equality",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 120,
+    "updateTime": "2025-01-12T13:48:19.821Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71278402&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71278402,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65891393_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65891393_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10365,7 +11194,7 @@
     "language": "de"
   },
   {
-    "titleText": "Sarah Almagro: „Das Meer behandelt alle gleich“",
+    "titleText": "Sarah Almagro: \"Das Meer behandelt alle gleich\"",
     "category": "Gleichberechtigung",
     "subCategory": "Sport",
     "region_ids": {
