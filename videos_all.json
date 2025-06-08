@@ -10325,7 +10325,7 @@
     "updateTime": "2025-06-05T07:36:53.619Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72785375&list=PANORAMA_VIDEO:1",
+      "contentId": "v=72785375&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 72785375,
       "launchParam": null
@@ -10975,6 +10975,45 @@
     "language": "de"
   },
   {
+    "titleText": "Frankreich: Eine Oper auf Rädern",
+    "category": "Gesellschaft",
+    "subCategory": "Musik",
+    "region_ids": {
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Frankreich"
+    ],
+    "runningTime": 268,
+    "updateTime": "2025-05-19T06:57:18.223Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72543700&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 72543700,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72478687_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72478687_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Spanien - ein ganzes Land kämpft gegen Femizide",
     "category": "Politik",
     "subCategory": "Gesellschaft",
@@ -11409,47 +11448,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/63053091_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Gaza: Journalisten trotzen der tödlichen Kriegs-Gefahr",
-    "category": "Konflikte",
-    "subCategory": "Medien",
-    "region_ids": {
-      "region:me:PS": "Palästinensische Gebiete",
-      "region:me": "Nahost"
-    },
-    "regions": [
-      "Palästinensische Gebiete",
-      "Nahost"
-    ],
-    "runningTime": 211,
-    "updateTime": "2025-05-06T17:58:38.778Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72440741&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 72440741,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72426134_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72426134_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
