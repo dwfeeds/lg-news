@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-06-08T12:11:34.391Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72834079_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72834079_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Amsterdam life: more than a tourist destination ",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:NL": "Netherlands"
+    },
+    "regions": [
+      "Netherlands"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-06-08T11:56:33.359Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72822973&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72822973,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72821896_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72821896_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Thousands join Washington DC World Pride parade",
     "category": "Equality",
     "subCategory": "Society",
@@ -71,45 +149,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72834247_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 87,
-    "updateTime": "2025-06-08T06:42:16.439Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72834079_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72834079_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6036,45 +6075,6 @@
     "language": "en"
   },
   {
-    "titleText": "Growing up in the crossfire: A teenager's life in Ukraine",
-    "category": "Society",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 314,
-    "updateTime": "2025-05-16T16:53:57.446Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72570027&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72570027,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72568721_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72568721_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
     "category": "Human Rights",
     "subCategory": null,
@@ -8816,7 +8816,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-06-08T11:15:00.817Z",
+    "updateTime": "2025-06-08T12:11:12.183Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9801,6 +9801,45 @@
     "language": "es"
   },
   {
+    "titleText": "Amsterdam - wie lebt es sich in dem Touristen-Hotspot?",
+    "category": "Lifestyle",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:NL": "Niederlande"
+    },
+    "regions": [
+      "Niederlande"
+    ],
+    "runningTime": 285,
+    "updateTime": "2025-06-08T11:57:19.889Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72827997&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72827997,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72821896_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72821896_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Welche Heilpflanzen helfen gegen Krebs?",
     "category": "Gesundheit",
     "subCategory": "Panorama",
@@ -10188,45 +10227,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72732710_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Trump verhängt Einreiseverbot für zwölf Länder",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-06-05T16:34:06.543Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72806771&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72806771,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72800548_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72800548_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
