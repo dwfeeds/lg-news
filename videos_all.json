@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 86,
+    "updateTime": "2025-06-09T16:50:08.037Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72845288_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72845288_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Berlin marks 'Wrapped Reichstag' anniversary",
     "category": "Arts",
     "subCategory": null,
@@ -151,45 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72845363_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 86,
-    "updateTime": "2025-06-09T11:59:40.356Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72834079_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72834079_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9873,6 +9873,45 @@
     "language": "es"
   },
   {
+    "titleText": "Erinnerung an verhüllten Reichstag vor 30 Jahren",
+    "category": "Kunst",
+    "subCategory": "Video-Nachrichten",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 152,
+    "updateTime": "2025-06-09T17:27:58.281Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72845223&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72845223,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72689382_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72689382_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Trump nutzt Proteste für eine Machtdemonstration",
     "category": "Konflikte",
     "subCategory": null,
@@ -10280,7 +10319,7 @@
     "updateTime": "2025-06-06T09:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72785356&list=REPORTS_VIDEO:1",
+      "contentId": "v=72785356&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72785356,
       "launchParam": null
@@ -10969,45 +11008,6 @@
     "language": "de"
   },
   {
-    "titleText": "Riesenfrachter strandet fast im Schlafzimmer",
-    "category": "Politik",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:NO": "Norwegen"
-    },
-    "regions": [
-      "Norwegen"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-05-24T00:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72650772&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72650772,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72641250_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72641250_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Neue EU-Sanktionen sollen Russland hart treffen ",
     "category": "Politik",
     "subCategory": null,
@@ -11488,7 +11488,7 @@
     "language": "de"
   },
   {
-    "titleText": "Gaza: Journalisten trotzen der tödlichen Kriegs-Gefahr",
+    "titleText": "Gaza: Journalistinnen trotzen der tödlichen Kriegs-Gefahr",
     "category": "Konflikte",
     "subCategory": "Medien",
     "region_ids": {
