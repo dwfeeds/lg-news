@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Care exodus: from Manila to Germany",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:PH": "Philippines"
+    },
+    "regions": [
+      "Germany",
+      "Philippines"
+    ],
+    "runningTime": 406,
+    "updateTime": "2025-06-12T09:14:03.155Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72827051&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72827051,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72806360_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72806360_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Germany has a tense relationship with its military",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 59,
+    "updateTime": "2025-06-12T09:07:06.771Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72880336&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72880336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69390913_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69390913_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "USA: From a life of crime to top cuisine",
     "category": "Society",
     "subCategory": "Crime",
@@ -3533,47 +3613,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72798203_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukrainian drones damage more than Russian aircraft",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-06-04T06:57:33.626Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72783040&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72783040,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72443608_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72443608_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10961,7 +11000,7 @@
   {
     "titleText": "Norwegen: Umweltschutz oder Energiewende?",
     "category": "Natur und Umwelt",
-    "subCategory": "Wirtschaft",
+    "subCategory": "Panorama",
     "region_ids": {
       "region:europe:NO": "Norwegen"
     },
