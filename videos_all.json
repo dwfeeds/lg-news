@@ -532,7 +532,7 @@
     "updateTime": "2025-06-12T08:48:49.667Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72826895&list=REGION_VIDEO:5",
+      "contentId": "v=72826895&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72826895,
       "launchParam": null
@@ -571,7 +571,7 @@
     "updateTime": "2025-06-11T23:33:03.126Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72877404&list=REGION_VIDEO:9",
+      "contentId": "v=72877404&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72877404,
       "launchParam": null
@@ -1435,7 +1435,7 @@
     "updateTime": "2025-06-10T11:08:15.27Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72854521&list=REGION_VIDEO:9",
+      "contentId": "v=72854521&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72854521,
       "launchParam": null
@@ -1827,7 +1827,7 @@
     "updateTime": "2025-06-09T14:14:19.537Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72845245&list=REGION_VIDEO:9",
+      "contentId": "v=72845245&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72845245,
       "launchParam": null
@@ -2219,7 +2219,7 @@
     "updateTime": "2025-06-08T19:06:21.353Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72838169&list=REGION_VIDEO:9",
+      "contentId": "v=72838169&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72838169,
       "launchParam": null
@@ -2453,7 +2453,7 @@
     "updateTime": "2025-06-08T05:19:27.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72809140&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72809140&list=REGION_VIDEO:8",
       "type": "video",
       "id": 72809140,
       "launchParam": null
@@ -4108,45 +4108,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nigeria: Who will fill the gap left by USAID? ",
-    "category": "Politics",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 216,
-    "updateTime": "2025-06-02T08:20:10.049Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674448&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72674448,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72651980_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72651980_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "China's ban on foreign adoptions leaves children in limbo",
     "category": "Society",
     "subCategory": "Politics",
@@ -4547,6 +4508,47 @@
     "language": "en"
   },
   {
+    "titleText": "Germany debates whether to keep supplying weapons to Israel",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Germany",
+      "Israel"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-05-30T08:15:34.76Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72731623&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72731623,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71090850_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71090850_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "China threat set to dominate Singapore security talks",
     "category": "Politics",
     "subCategory": null,
@@ -4798,7 +4800,7 @@
     "updateTime": "2025-05-29T20:49:34.397Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72727559&list=REGION_VIDEO:9",
+      "contentId": "v=72727559&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72727559,
       "launchParam": null
@@ -5194,7 +5196,7 @@
     "updateTime": "2025-05-27T11:38:53.833Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674108&list=REGION_VIDEO:9",
+      "contentId": "v=72674108&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72674108,
       "launchParam": null
@@ -5252,6 +5254,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72631257_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German Chancellor Merz criticizes Israel attacks on Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Germany",
+      "Middle East"
+    ],
+    "runningTime": 117,
+    "updateTime": "2025-05-27T08:45:54.798Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72678451&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72678451,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72676461_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72676461_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5395,7 +5438,7 @@
     "updateTime": "2025-05-26T08:43:49.84Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72637078&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72637078&list=REGION_VIDEO:4",
       "type": "video",
       "id": 72637078,
       "launchParam": null
@@ -5555,7 +5598,7 @@
     "updateTime": "2025-05-25T19:51:48.575Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72665854&list=REGION_VIDEO:9",
+      "contentId": "v=72665854&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72665854,
       "launchParam": null
@@ -5752,7 +5795,7 @@
     "updateTime": "2025-05-24T20:56:09.551Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72661059&list=REGION_VIDEO:9",
+      "contentId": "v=72661059&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72661059,
       "launchParam": null
@@ -6051,6 +6094,45 @@
     "language": "en"
   },
   {
+    "titleText": "What do Trump voters think of the US president's policies?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 205,
+    "updateTime": "2025-05-23T16:34:18.341Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72651132&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72651132,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72651422_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72651422_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The US is giving up on climate — others are cashing in",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -6133,6 +6215,47 @@
     "language": "en"
   },
   {
+    "titleText": "Washington DC attack raises security fears in Germany",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Germany",
+      "United States of America"
+    ],
+    "runningTime": 188,
+    "updateTime": "2025-05-23T04:31:01.49Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72640466&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72640466,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69687829_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69687829_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel faces criticism over Gaza aid plan",
     "category": "Conflicts",
     "subCategory": null,
@@ -6146,7 +6269,7 @@
     "updateTime": "2025-05-22T17:45:52.931Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72638603&list=REGION_VIDEO:9",
+      "contentId": "v=72638603&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72638603,
       "launchParam": null
@@ -6165,6 +6288,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72627528_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gunman kills 2 Israeli embassy staff in Washington",
+    "category": "Crime",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "United States of America",
+      "Israel"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-05-22T16:32:55.546Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72634048&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72634048,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72631810_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72631810_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6263,7 +6427,7 @@
     "updateTime": "2025-05-21T19:40:26.215Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72627541&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72627541&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72627541,
       "launchParam": null
@@ -6343,7 +6507,7 @@
     "updateTime": "2025-05-21T13:26:50.431Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72624291&list=REGION_VIDEO:9",
+      "contentId": "v=72624291&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72624291,
       "launchParam": null
@@ -6382,7 +6546,7 @@
     "updateTime": "2025-05-20T21:46:52.146Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72616911&list=REGION_VIDEO:9",
+      "contentId": "v=72616911&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72616911,
       "launchParam": null
@@ -6522,45 +6686,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72609990_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Securing supplies of leafy greens ",
-    "category": "Food Security",
-    "subCategory": "Science",
-    "region_ids": {
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Denmark"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-05-20T08:06:27.921Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72562667&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72562667,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72566765_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72566765_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6884,6 +7009,45 @@
     "language": "en"
   },
   {
+    "titleText": "Israeli strikes kill dozens in Gaza on Nakba anniversary",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 124,
+    "updateTime": "2025-05-15T16:24:50.713Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72559430&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72559430,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72552033_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72552033_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Dakar's award-winning all-electric bus system",
     "category": "Nature and Environment",
     "subCategory": "Cars and Transportation",
@@ -7020,7 +7184,7 @@
     "updateTime": "2025-05-14T18:43:29.789Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72541974&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72541974&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72541974,
       "launchParam": null
@@ -7039,6 +7203,88 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72505689_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iraq works to rebuild Mosul's cultural heritage",
+    "category": "Culture",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me:IQ": "Iraq"
+    },
+    "regions": [
+      "Iraq"
+    ],
+    "runningTime": 111,
+    "updateTime": "2025-05-14T12:25:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72510847&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72510847,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71496205_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71496205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Donald Trump skips Israel on Middle East tour",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:northamerica:US": "United States of America",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "United States of America",
+      "Palestinian Territories"
+    ],
+    "runningTime": 186,
+    "updateTime": "2025-05-14T08:14:07.853Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72535990&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72535990,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72524944_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72524944_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7085,6 +7331,47 @@
     "language": "en"
   },
   {
+    "titleText": "Donald Trump seeks to strengthen ties with Saudi Arabia",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SA": "Saudi Arabia",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Saudi Arabia",
+      "United States of America"
+    ],
+    "runningTime": 175,
+    "updateTime": "2025-05-12T18:21:06.181Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72520183&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72520183,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72511654_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72511654_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Steep energy costs harm German industry",
     "category": "Business",
     "subCategory": null,
@@ -7117,6 +7404,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/63053091_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza's wounded and sick left hungry by Israel's blockade",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 152,
+    "updateTime": "2025-05-11T14:35:05.702Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72509704&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72509704,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70913104_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70913104_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7360,6 +7688,45 @@
     "language": "en"
   },
   {
+    "titleText": "Israel: Security cabinet agrees Gaza escalation",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-05-05T22:27:42.16Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72443349&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72443349,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72425254_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72425254_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How Hong Kong rice farmers are saving local agriculture",
     "category": "Food Security",
     "subCategory": "Nature and Environment",
@@ -7399,6 +7766,45 @@
     "language": "en"
   },
   {
+    "titleText": "Internally displaced Syrians long to return home",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-05-05T09:04:35.586Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72434914&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72434914,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72434940_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72434940_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bolivia: Amazon plane crash survivors rescued after 2 days",
     "category": "Catastrophe",
     "subCategory": null,
@@ -7431,6 +7837,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72439806_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel on alert as Houthi missile hits near Tel Aviv airport",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-05-04T13:51:29.009Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72430871&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72430871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71980454_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71980454_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7596,84 +8041,6 @@
     "language": "en"
   },
   {
-    "titleText": "Agritech startups producing lab-grown food ",
-    "category": "Business",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 284,
-    "updateTime": "2025-05-02T12:55:42.575Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72377919&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72377919,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71878262_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71878262_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN decries Israeli blockade of aid supplies to Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 127,
-    "updateTime": "2025-05-02T11:56:48.449Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72413363&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72413363,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72357009_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72357009_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trans people in the US fear massive setbacks under Trump",
     "category": "Human Rights",
     "subCategory": null,
@@ -7791,45 +8158,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nobel Peace Prize contender fights for girls in Africa",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 89,
-    "updateTime": "2025-04-25T16:26:42.872Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72356834&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72356834,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72357295_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72357295_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "German manufacturers seek solutions to tariff threat",
     "category": "Business",
     "subCategory": null,
@@ -7905,47 +8233,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72118351_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Children go hungry in Afghanistan after Trump cuts to USAID",
-    "category": "Politics",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:asia:AF": "Afghanistan",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Afghanistan",
-      "United States of America"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-04-20T09:25:25.734Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72292146&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72292146,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70819088_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70819088_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8466,45 +8753,6 @@
     "language": "en"
   },
   {
-    "titleText": "City life in Uganda: Harnessing plants for a healthier home",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 296,
-    "updateTime": "2025-03-31T11:44:50.089Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72056352&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72056352,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72046815_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72046815_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How a market in Buenos Aires turns food waste into jobs",
     "category": "Business",
     "subCategory": "Society",
@@ -8518,7 +8766,7 @@
     "updateTime": "2025-03-24T15:11:58.181Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72002384&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72002384&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72002384,
       "launchParam": null
@@ -8537,45 +8785,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69281753_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Simple solution helps Ethiopian farmers to cut food loss",
-    "category": "Food Security",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:africa:ET": "Ethiopia"
-    },
-    "regions": [
-      "Ethiopia"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-03-24T12:03:26.757Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71975877&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71975877,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71975830_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71975830_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9065,123 +9274,6 @@
     "language": "en"
   },
   {
-    "titleText": "Burundi: Students boost food security with AI",
-    "category": "Food Security",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:africa:BI": "Burundi"
-    },
-    "regions": [
-      "Burundi"
-    ],
-    "runningTime": 262,
-    "updateTime": "2025-03-03T13:37:46.794Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71761310&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71761310,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71758907_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71758907_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Preserving heirloom potatoes with science",
-    "category": "Science",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Denmark"
-    ],
-    "runningTime": 371,
-    "updateTime": "2025-03-03T11:02:34.612Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71787742&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71787742,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71773404_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71773404_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Tamil Nadu: Fish acid for farmers",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 190,
-    "updateTime": "2025-03-03T10:59:39.647Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71773732&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 71773732,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71773164_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71773164_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Keeping Serbia's wolf population under control",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -9214,45 +9306,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71773826_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Natural dyes reduce toxic textiles' impact",
-    "category": "Health",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 274,
-    "updateTime": "2025-02-27T08:31:39.452Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71686723&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71686723,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71688227_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71688227_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10608,6 +10661,45 @@
     "language": "es"
   },
   {
+    "titleText": "Türkei: Gewogen - und zu schwer befunden",
+    "category": "Gesundheit",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:europe:TR": "Türkei"
+    },
+    "regions": [
+      "Türkei"
+    ],
+    "runningTime": 119,
+    "updateTime": "2025-06-13T13:52:19.504Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72883469&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72883469,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72871365_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72871365_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Pflege-Exodus: Von Manila nach Deutschland",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -11034,45 +11126,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72868113_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kenia: Proteste gegen Polizeigewalt",
-    "category": "Recht und Justiz",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenia"
-    },
-    "regions": [
-      "Kenia"
-    ],
-    "runningTime": 120,
-    "updateTime": "2025-06-11T18:41:13.27Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72874816&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72874816,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72848963_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72848963_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
