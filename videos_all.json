@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Iron Dome interceptions seen above Tel Aviv",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Israel",
+      "Iran",
+      "Middle East"
+    ],
+    "runningTime": 126,
+    "updateTime": "2025-06-14T08:22:21.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72906591&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72906591,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72903153_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72903153_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -112,45 +155,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72893189_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump's Africa travel ban: Security move or visa racism?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 246,
-    "updateTime": "2025-06-13T19:33:39.091Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72903681&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72903681,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72900436_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72900436_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -510,6 +514,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72892737_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump's Africa travel ban: Security move or visa racism?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 246,
+    "updateTime": "2025-06-13T10:25:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72903681&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72903681,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72900436_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72900436_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6425,7 +6468,7 @@
     "updateTime": "2025-05-22T17:45:52.931Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72638603&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72638603&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72638603,
       "launchParam": null
