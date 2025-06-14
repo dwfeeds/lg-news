@@ -1,8 +1,49 @@
 [
   {
+    "titleText": "Iranian retaliatory strikes kill 3 in Israel ",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 112,
+    "updateTime": "2025-06-14T15:22:45.206Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72910243&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72910243,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72910061_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72910061_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Families flock to Ahmedabad in search of loved ones",
-    "category": "[Miscellaneous]",
-    "subCategory": "Catastrophe",
+    "category": "Catastrophe",
+    "subCategory": null,
     "region_ids": {
       "region:asia:IN": "India"
     },
@@ -6492,47 +6533,6 @@
     "language": "en"
   },
   {
-    "titleText": "Washington DC attack raises security fears in Germany",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Germany",
-      "United States of America"
-    ],
-    "runningTime": 188,
-    "updateTime": "2025-05-23T04:31:01.49Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72640466&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 72640466,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69687829_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69687829_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel faces criticism over Gaza aid plan",
     "category": "Conflicts",
     "subCategory": null,
@@ -9717,7 +9717,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-06-14T14:36:09.701Z",
+    "updateTime": "2025-06-14T15:15:55.744Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
