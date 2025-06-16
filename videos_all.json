@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israel strikes Iranian state-run television",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Iran"
+    ],
+    "runningTime": 177,
+    "updateTime": "2025-06-16T22:32:10.825Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72938007&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72938007,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72937263_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72937263_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "France shuts down Israeli stands at Paris Air Show",
     "category": "Politics",
     "subCategory": null,
@@ -6008,7 +6047,7 @@
     "updateTime": "2025-05-29T08:09:00.071Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72709006&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72709006&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72709006,
       "launchParam": null
@@ -7455,45 +7494,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72577187_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN human rights chief accuses Israel of 'ethnic cleansing'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-05-17T08:30:05.362Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72573592&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72573592,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72572645_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72572645_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9729,7 +9729,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-06-16T19:41:24.994Z",
+    "updateTime": "2025-06-16T22:08:04.394Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
