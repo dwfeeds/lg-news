@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2025-06-18T09:11:14.709Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72953090_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72953090_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nairobi: Police, protesters clash in second week of unrest",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-06-18T08:46:12.516Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72956674&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72956674,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72954895_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72954895_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Between Israel and Iran: What's at stake for Putin's Russia?",
     "category": "Politics",
     "subCategory": null,
@@ -39,86 +117,6 @@
     "language": "en"
   },
   {
-    "titleText": "The Kipsigis’ unending fight against empire",
-    "category": "Society",
-    "subCategory": "History",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Africa",
-      "Kenya"
-    ],
-    "runningTime": 250,
-    "updateTime": "2025-06-18T07:37:41.99Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856039&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72856039,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72823632_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72823632_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 96,
-    "updateTime": "2025-06-18T06:34:30.111Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72953090_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72953090_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Dozens of people killed at aid distribution center in Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -136,7 +134,7 @@
     "updateTime": "2025-06-17T21:11:17.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72955885,
       "launchParam": null
@@ -179,7 +177,7 @@
     "updateTime": "2025-06-17T20:52:44.654Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72955883&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72955883&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72955883,
       "launchParam": null
@@ -283,16 +281,18 @@
     "language": "en"
   },
   {
-    "titleText": "Fear deepens in Tehran as Israel targets the city",
+    "titleText": "Fear deepens in Tehran as Israel targets Iran's capital",
     "category": "Business",
     "subCategory": null,
     "region_ids": {
       "region:me:IR": "Iran",
-      "region:me": "Middle East"
+      "region:me": "Middle East",
+      "region:me:IL": "Israel"
     },
     "regions": [
       "Iran",
-      "Middle East"
+      "Middle East",
+      "Israel"
     ],
     "runningTime": 117,
     "updateTime": "2025-06-17T15:33:34.673Z",
@@ -544,7 +544,7 @@
     "updateTime": "2025-06-17T08:00:22.656Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72939948&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72939948&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72939948,
       "launchParam": null
@@ -624,7 +624,7 @@
     "updateTime": "2025-06-16T20:18:58.364Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72938818&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72938818&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72938818,
       "launchParam": null
@@ -1036,7 +1036,7 @@
     "updateTime": "2025-06-15T20:43:53.537Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72919495&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72919495&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72919495,
       "launchParam": null
@@ -1071,7 +1071,7 @@
     "updateTime": "2025-06-15T19:34:30.457Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72919388&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72919388&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72919388,
       "launchParam": null
@@ -1114,7 +1114,7 @@
     "updateTime": "2025-06-15T11:44:17.306Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72916680&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72916680&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72916680,
       "launchParam": null
@@ -1157,7 +1157,7 @@
     "updateTime": "2025-06-15T11:39:41.294Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72916797&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72916797&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72916797,
       "launchParam": null
@@ -1438,7 +1438,7 @@
     "updateTime": "2025-06-14T15:22:45.206Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72910243&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72910243&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72910243,
       "launchParam": null
@@ -1637,7 +1637,7 @@
     "updateTime": "2025-06-14T08:22:21.137Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72906591&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72906591&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72906591,
       "launchParam": null
@@ -1663,6 +1663,47 @@
     "language": "en"
   },
   {
+    "titleText": "The Kipsigis’ unending fight against empire",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 250,
+    "updateTime": "2025-06-14T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72856039&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72856039,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72823632_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72823632_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What can the EU do to influence Israel on Gaza?",
     "category": "Politics",
     "subCategory": null,
@@ -1678,7 +1719,7 @@
     "updateTime": "2025-06-14T04:56:06.518Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72898422&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72898422&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72898422,
       "launchParam": null
@@ -1758,7 +1799,7 @@
     "updateTime": "2025-06-13T18:55:31.872Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72901275&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72901275&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72901275,
       "launchParam": null
@@ -2037,7 +2078,7 @@
     "updateTime": "2025-06-13T13:34:53.192Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72899956&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72899956&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72899956,
       "launchParam": null
@@ -2595,7 +2636,7 @@
     "updateTime": "2025-06-11T23:33:03.126Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72877404&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72877404&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72877404,
       "launchParam": null
@@ -3340,7 +3381,7 @@
     "updateTime": "2025-06-10T11:08:15.27Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72854521&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72854521&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72854521,
       "launchParam": null
@@ -3574,7 +3615,7 @@
     "updateTime": "2025-06-09T14:14:19.537Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72845245&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72845245&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72845245,
       "launchParam": null
@@ -3888,7 +3929,7 @@
     "updateTime": "2025-06-08T19:06:21.353Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72838169&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72838169&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72838169,
       "launchParam": null
@@ -4161,7 +4202,7 @@
     "updateTime": "2025-06-07T13:09:04.896Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72831216&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72831216&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72831216,
       "launchParam": null
@@ -4200,7 +4241,7 @@
     "updateTime": "2025-06-07T11:27:14.081Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72830453&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72830453&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72830453,
       "launchParam": null
@@ -4661,47 +4702,6 @@
     "language": "en"
   },
   {
-    "titleText": "Tanzania's e-mobility revolution",
-    "category": "Cars and Transportation",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:TZ": "Tanzania",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Tanzania",
-      "Africa"
-    ],
-    "runningTime": 414,
-    "updateTime": "2025-06-05T10:22:36.944Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72741140&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72741140,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72732710_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72732710_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India media crackdown after Pakistan cross-border fighting",
     "category": "Media",
     "subCategory": "Conflicts",
@@ -5074,7 +5074,7 @@
     "updateTime": "2025-06-01T12:50:26.16Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72750336&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72750336&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72750336,
       "launchParam": null
@@ -5230,7 +5230,7 @@
     "updateTime": "2025-05-31T07:31:18.772Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72741543&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72741543&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72741543,
       "launchParam": null
@@ -9897,6 +9897,47 @@
     "language": "es"
   },
   {
+    "titleText": "Kunst aus Resten: Afghanische Frauen in Indien",
+    "category": "Migration",
+    "subCategory": "Gleichberechtigung",
+    "region_ids": {
+      "region:asia:IN": "Indien",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Indien",
+      "Afghanistan"
+    ],
+    "runningTime": 316,
+    "updateTime": "2025-06-18T08:26:00.844Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72935351&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72935351,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72926157_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72926157_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Pakistan: E-Mobilität auf dem Vormarsch",
     "category": "Wirtschaft",
     "subCategory": "Auto und Mobilität",
@@ -10312,7 +10353,7 @@
     "updateTime": "2025-06-14T06:45:22.547Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72874048&list=REPORTS_VIDEO:1",
+      "contentId": "v=72874048&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 72874048,
       "launchParam": null
@@ -11115,47 +11156,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72557692_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Schokolade wird knapp! Wie kann sie gerettet werden?",
-    "category": "Lifestyle",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:CH": "Schweiz",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Schweiz",
-      "Global"
-    ],
-    "runningTime": 310,
-    "updateTime": "2025-05-27T14:01:30.62Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72649221&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72649221,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72633984_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72633984_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
