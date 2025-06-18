@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Could US bunker busting bombs destroy Iran's Fordow site?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "United States of America"
+    ],
+    "runningTime": 146,
+    "updateTime": "2025-06-18T19:23:23.2Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72966467&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72966467,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72953603_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72953603_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5209,7 +5250,7 @@
     "updateTime": "2025-06-01T12:50:26.16Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72750336&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72750336&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72750336,
       "launchParam": null
@@ -6816,45 +6857,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72634122_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel faces criticism over Gaza aid plan",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 98,
-    "updateTime": "2025-05-22T17:45:52.931Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72638603&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72638603,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72627528_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72627528_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
