@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Women in Mauritania show what zero waste looks like",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:MR": "Mauritania"
+    },
+    "regions": [
+      "Mauritania"
+    ],
+    "runningTime": 415,
+    "updateTime": "2025-06-18T11:07:15.113Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72888112&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72888112,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72886876_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72886876_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "AI in restaurants — efficient and sustainable?",
     "category": "Science",
     "subCategory": "Technology",
@@ -78,7 +117,7 @@
     "language": "en"
   },
   {
-    "titleText": "German outcry over Merz's Remark on Israel's 'Dirty Work'",
+    "titleText": "German outcry over Merz's remark on Israel's 'dirty work'",
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
@@ -164,10 +203,14 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:RU": "Russian Federation"
+      "region:europe:RU": "Russian Federation",
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
     },
     "regions": [
-      "Russian Federation"
+      "Russian Federation",
+      "Israel",
+      "Iran"
     ],
     "runningTime": 148,
     "updateTime": "2025-06-18T08:03:53.475Z",
@@ -4617,45 +4660,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72809189_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Congo cocoa — a blessing and curse",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 235,
-    "updateTime": "2025-06-05T18:44:11.218Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72809153&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72809153,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72809177_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72809177_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10065,7 +10069,7 @@
     "language": "de"
   },
   {
-    "titleText": "Irans Wirtschaft unter Druck",
+    "titleText": "Wirtschaft im Iran leidet unter Israel-Iran-Konflikt",
     "category": "Handel",
     "subCategory": "Konflikte",
     "region_ids": {
