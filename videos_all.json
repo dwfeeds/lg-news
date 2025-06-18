@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "The Kipsigis’ unending fight against empire",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 250,
+    "updateTime": "2025-06-18T07:37:41.99Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72856039&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72856039,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72823632_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72823632_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -4654,45 +4695,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72801797_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Aid cuts deepen crisis in war-torn Congo",
-    "category": "Health",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-06-05T08:46:56.846Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674457&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72674457,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72651842_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72651842_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
