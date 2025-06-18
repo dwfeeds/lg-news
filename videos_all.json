@@ -1,13 +1,56 @@
 [
   {
-    "titleText": "Dozens killed at aid distribution center in Gaza",
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 96,
+    "updateTime": "2025-06-18T06:34:30.111Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72953090_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72953090_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dozens of people killed at aid distribution center in Gaza",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me": "Middle East",
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
     },
     "regions": [
-      "Middle East"
+      "Middle East",
+      "Palestinian Territories",
+      "Israel"
     ],
     "runningTime": 132,
     "updateTime": "2025-06-17T21:11:17.357Z",
@@ -25,13 +68,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72944034_6.jpg",
+      "url": "https://static.dw.com/image/72679053_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72944034_7.jpg",
+      "url": "https://static.dw.com/image/72679053_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -114,45 +157,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72948562_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 96,
-    "updateTime": "2025-06-17T17:32:47.296Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72940771_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72940771_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1613,6 +1617,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70810323_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Powerful concrete — turning walls into batteries ",
+    "category": "Science",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 409,
+    "updateTime": "2025-06-14T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900326&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72900326,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69406055_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69406055_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6554,45 +6597,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72633979_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Judge blocks Harvard foreign student ban",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 164,
-    "updateTime": "2025-05-23T20:55:34.398Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72654710&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72654710,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72181457_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72181457_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
