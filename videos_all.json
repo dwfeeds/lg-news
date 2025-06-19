@@ -159,8 +159,8 @@
   },
   {
     "titleText": "Chancellor Merz' praise of Israeli strikes sparks criticism",
-    "category": "Conflicts",
-    "subCategory": null,
+    "category": "Politics",
+    "subCategory": "Conflicts",
     "region_ids": {
       "region:europe:DE": "Germany"
     },
@@ -201,15 +201,11 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East",
       "region:me:IR": "Iran",
-      "region:northamerica:US": "United States of America",
       "region:me:IL": "Israel"
     },
     "regions": [
-      "Middle East",
       "Iran",
-      "United States of America",
       "Israel"
     ],
     "runningTime": 110,
@@ -235,49 +231,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72963434_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel-Iran conflict poses major risk for the global economy",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Israel",
-      "Iran",
-      "Global"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-06-18T13:34:31.572Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72961548&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72961548,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67764875_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67764875_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6903,6 +6856,45 @@
     "language": "en"
   },
   {
+    "titleText": "Israel faces criticism over Gaza aid plan",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 98,
+    "updateTime": "2025-05-22T17:45:52.931Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72638603&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72638603,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72627528_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72627528_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Indonesia's FGM ban: Is change on the horizon?",
     "category": "Society",
     "subCategory": "Religion",
@@ -9950,7 +9942,7 @@
     "language": "es"
   },
   {
-    "titleText": "Kenia: Polizei erschießt Unbeteiligten bei Demonstration",
+    "titleText": "Kenia: Polizist tötet Unbeteiligten bei Demonstration",
     "category": "Menschenrechte",
     "subCategory": null,
     "region_ids": {
@@ -10002,7 +9994,7 @@
     "updateTime": "2025-06-19T06:46:37.01Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72966033&list=REPORTS_VIDEO:1",
+      "contentId": "v=72966033&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72966033,
       "launchParam": null
@@ -10041,7 +10033,7 @@
     "updateTime": "2025-06-18T11:41:11.048Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72949924&list=FEATURED_VIDEO:1",
+      "contentId": "v=72949924&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72949924,
       "launchParam": null
