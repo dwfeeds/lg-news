@@ -725,7 +725,7 @@
     "updateTime": "2025-06-18T09:36:38.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900338&list=REGION_VIDEO:7",
+      "contentId": "v=72900338&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72900338,
       "launchParam": null
@@ -2915,7 +2915,7 @@
     "updateTime": "2025-06-13T10:25:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72903681&list=FEATURED_VIDEO:1",
+      "contentId": "v=72903681&list=REGION_VIDEO:8",
       "type": "video",
       "id": 72903681,
       "launchParam": null
@@ -3213,6 +3213,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72762915_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russia faces huge losses in its war against Ukraine",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 173,
+    "updateTime": "2025-06-12T09:52:33.851Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72881688&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72881688,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69935984_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69935984_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8922,7 +8963,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-06-19T14:22:50.787Z",
+    "updateTime": "2025-06-19T15:49:31.565Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
