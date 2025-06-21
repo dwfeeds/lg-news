@@ -1,14 +1,59 @@
 [
   {
+    "titleText": "How do Europeans really meet today?",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:europe:BG": "Bulgaria",
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "Germany",
+      "Bulgaria",
+      "United Kingdom"
+    ],
+    "runningTime": 341,
+    "updateTime": "2025-06-21T10:35:26.087Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72986177&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72986177,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72975738_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72975738_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "European ministers hold de-escalation talks with Iran",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
       "region:me:IR": "Iran",
+      "region:me:IL": "Israel",
       "region:europe": "Europe"
     },
     "regions": [
       "Iran",
+      "Israel",
       "Europe"
     ],
     "runningTime": 139,
@@ -8967,7 +9012,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 175,
-    "updateTime": "2025-06-21T09:31:46.809Z",
+    "updateTime": "2025-06-21T10:30:35.666Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9987,6 +10032,49 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Top oder Flop: Generation Online-Dating ",
+    "category": "Lifestyle",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:DE": "Deutschland",
+      "region:europe:BG": "Bulgarien",
+      "region:europe:GB": "Vereinigtes Königreich"
+    },
+    "regions": [
+      "Deutschland",
+      "Bulgarien",
+      "Vereinigtes Königreich"
+    ],
+    "runningTime": 341,
+    "updateTime": "2025-06-21T10:35:56.583Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72983897&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72983897,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72975738_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72975738_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Immer mehr junge Deutsche radikalisieren sich ",
