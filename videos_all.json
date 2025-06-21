@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "European ministers hold de-escalation talks with Iran",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Iran",
+      "Europe"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-06-21T08:30:13.319Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72991686&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72991686,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72990161_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72990161_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel, Iran continue to exchange strikes a week into war",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 146,
+    "updateTime": "2025-06-21T08:26:26.167Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72991656&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72991656,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72981106_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72981106_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -32,47 +114,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72990161_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How can Nigeria tackle deadly farmer-herder conflicts?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Nigeria",
-      "Africa"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-06-21T06:33:45.215Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72981403&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72981403,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72966009_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72966009_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6538,45 +6579,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israel closes 6 UNWRA-operated schools in east Jerusalem",
-    "category": "Education",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 211,
-    "updateTime": "2025-05-27T11:38:53.833Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674108&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72674108,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72677364_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72677364_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Ghana races to preserve rare Atewa slippery frog",
     "category": "Nature and Environment",
     "subCategory": "Climate",
@@ -6609,45 +6611,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72631257_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Resumed Gaza aid deliveries fail to alleviate hunger",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 154,
-    "updateTime": "2025-05-26T08:18:49.701Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72667764&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72667764,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72645071_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72645071_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9004,7 +8967,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 175,
-    "updateTime": "2025-06-21T07:31:12.719Z",
+    "updateTime": "2025-06-21T08:22:43.338Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9019,13 +8982,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72402494_6.jpg",
+      "url": "https://static.dw.com/image/72991801_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72402494_7.jpg",
+      "url": "https://static.dw.com/image/72991801_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
