@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 101,
+    "updateTime": "2025-06-23T11:49:49.598Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72996433_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72996433_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "NATO's defense spending boost draws protest",
     "category": "Politics",
     "subCategory": "Conflicts",
@@ -199,45 +238,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-06-23T06:33:07.029Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72997346_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72997346_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Spain is opting out of NATO's 5% defense target",
     "category": "Politics",
     "subCategory": null,
@@ -302,13 +302,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72999990_6.jpg",
+      "url": "https://static.dw.com/image/73000068_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72999990_7.jpg",
+      "url": "https://static.dw.com/image/73000068_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -950,13 +950,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72989756_6.jpg",
+      "url": "https://static.dw.com/image/72989680_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72989756_7.jpg",
+      "url": "https://static.dw.com/image/72989680_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3935,49 +3935,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72897702_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How governments use AI-powered facial recognition",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:TR": "Turkey",
-      "region:asia:CN": "China",
-      "region:europe:HU": "Hungary"
-    },
-    "regions": [
-      "Turkey",
-      "China",
-      "Hungary"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-06-13T15:04:31.73Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900002&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72900002,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72890057_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72890057_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9102,7 +9059,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-06-23T08:02:53.866Z",
+    "updateTime": "2025-06-23T11:58:09.462Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10126,6 +10083,47 @@
     "language": "es"
   },
   {
+    "titleText": "Biennale: Carlo Ratti und die Architektur der Anpassung",
+    "category": "Architektur",
+    "subCategory": "Klima",
+    "region_ids": {
+      "region:europe:IT": "Italien",
+      "region:global": "Global"
+    },
+    "regions": [
+      "Italien",
+      "Global"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-06-23T12:55:56.733Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73006758&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73006758,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72974874_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72974874_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Was ist die NATO und was sind ihre Aufgaben?",
     "category": "Politik",
     "subCategory": null,
@@ -10217,7 +10215,7 @@
     "updateTime": "2025-06-23T07:46:06.13Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72963628&list=REPORTS_VIDEO:1",
+      "contentId": "v=72963628&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 72963628,
       "launchParam": null
@@ -10541,7 +10539,7 @@
     "updateTime": "2025-06-19T07:22:48.172Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72963444&list=FEATURED_VIDEO:1",
+      "contentId": "v=72963444&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 72963444,
       "launchParam": null
@@ -10599,45 +10597,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72961013_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Gaza: Schüsse auf Hilfesuchende nehmen zu",
-    "category": "Menschenrechte",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palästinensische Gebiete"
-    },
-    "regions": [
-      "Palästinensische Gebiete"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-06-19T06:46:37.01Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72966033&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72966033,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72960954_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72960954_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
