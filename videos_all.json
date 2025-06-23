@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Pumpernickel — a quirky Westphalian bread creation",
+    "category": "Lifestyle",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 248,
+    "updateTime": "2025-06-23T09:25:40.394Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72986185&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 72986185,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72975747_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72975747_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "World leaders call for de-escalation in Israel-Iran conflict",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -41,9 +80,9 @@
     "language": "en"
   },
   {
-    "titleText": "Italy's first hedgehog clinic",
-    "category": "Society",
-    "subCategory": "Nature and Environment",
+    "titleText": "Italian vet fights for Europe's hedgehogs",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:IT": "Italy"
     },
@@ -54,7 +93,7 @@
     "updateTime": "2025-06-23T07:49:19.17Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900096&list=REGION_VIDEO:7",
+      "contentId": "v=72900096&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72900096,
       "launchParam": null
@@ -318,9 +357,9 @@
     "language": "en"
   },
   {
-    "titleText": "L’Après M —  a fast-food plus social project in one",
+    "titleText": "L’Après M —  McDonald's restaurant becomes social hub",
     "category": "Society",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:FR": "France"
     },
@@ -331,7 +370,7 @@
     "updateTime": "2025-06-22T10:52:05.836Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72986178&list=REGION_VIDEO:7",
+      "contentId": "v=72986178&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72986178,
       "launchParam": null
@@ -399,8 +438,8 @@
   },
   {
     "titleText": "Kenyan app uses AI to produce sign-language translations",
-    "category": "Science",
-    "subCategory": "Technology",
+    "category": "Technology",
+    "subCategory": "Science",
     "region_ids": {
       "region:africa:KE": "Kenya"
     },
@@ -597,7 +636,7 @@
     "language": "en"
   },
   {
-    "titleText": "Dating: How do Europeans really find love today?",
+    "titleText": "Online dating: How do Europeans really find love?",
     "category": "Society",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -749,13 +788,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/61626570_6.jpg",
+      "url": "https://static.dw.com/image/72978165_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/61626570_7.jpg",
+      "url": "https://static.dw.com/image/72978165_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3816,6 +3855,88 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72897702_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How governments use AI-powered facial recognition",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:TR": "Turkey",
+      "region:asia:CN": "China",
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Turkey",
+      "China",
+      "Hungary"
+    ],
+    "runningTime": 115,
+    "updateTime": "2025-06-13T15:04:31.73Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900002&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72900002,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72890057_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72890057_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How police use AI facial recognition ",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 65,
+    "updateTime": "2025-06-13T15:02:53.191Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900097&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72900097,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72890121_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72890121_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7024,45 +7145,6 @@
     "language": "en"
   },
   {
-    "titleText": "Rotterdam: Architecture highlight and museum of migration ",
-    "category": "Migration",
-    "subCategory": "History",
-    "region_ids": {
-      "region:europe:NL": "Netherlands"
-    },
-    "regions": [
-      "Netherlands"
-    ],
-    "runningTime": 264,
-    "updateTime": "2025-05-24T10:55:18.461Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72650976&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72650976,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72633979_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72633979_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "The US is giving up on climate — others are cashing in",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -7177,45 +7259,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72636741_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Naples: Is Italy's birthplace of pizza worth a visit?",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 277,
-    "updateTime": "2025-05-21T14:58:55.068Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72570029&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72570029,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72568739_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72568739_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10040,6 +10083,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Pumpernickel – eine westfälische Brot-Spezialität ",
+    "category": "Kultur",
+    "subCategory": "Ernährungssicherheit",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 248,
+    "updateTime": "2025-06-23T09:26:24.859Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72990125&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 72990125,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72975747_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72975747_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Ein Italiener kämpft für Europas Igel",
