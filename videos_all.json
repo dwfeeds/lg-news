@@ -1,5 +1,126 @@
 [
   {
+    "titleText": "Has Croatia become too pricey for tourists?",
+    "category": "Travel",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:HR": "Croatia"
+    },
+    "regions": [
+      "Croatia"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-06-24T13:02:21.099Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73022732&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73022732,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/57870728_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/57870728_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Three creative Biennale ideas for coping with climate change",
+    "category": "Architecture",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:cala:BR": "Brazil",
+      "region:cala:MX": "Mexico"
+    },
+    "regions": [
+      "Brazil",
+      "Mexico"
+    ],
+    "runningTime": 280,
+    "updateTime": "2025-06-24T12:11:59.697Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72988495&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 72988495,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72974872_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72974872_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Thailand closes border crossings to Cambodia ",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:TH": "Thailand",
+      "region:asia:KH": "Cambodia"
+    },
+    "regions": [
+      "Thailand",
+      "Cambodia"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-06-24T11:49:51.361Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73019375&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73019375,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73022770_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73022770_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Could Iran be facing regime change?",
     "category": "Politics",
     "subCategory": null,
@@ -162,49 +283,6 @@
     "language": "en"
   },
   {
-    "titleText": "Iran launches missile strikes on US base in Qatar",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:QA": "Qatar",
-      "region:northamerica:US": "United States of America",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Qatar",
-      "United States of America",
-      "Iran"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-06-24T07:43:29.106Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73015353&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73015353,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73012938_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73012938_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Chile's Vera Rubin Observatory reveals stunning first photos",
     "category": "Science",
     "subCategory": null,
@@ -269,13 +347,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72901579_6.jpg",
+      "url": "https://static.dw.com/image/73021781_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72901579_7.jpg",
+      "url": "https://static.dw.com/image/73021781_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -566,7 +644,7 @@
     "language": "en"
   },
   {
-    "titleText": "Pumpernickel — a quirky Westphalian bread creation",
+    "titleText": "What makes Germany's Pumpernickel rye bread so special",
     "category": "Lifestyle",
     "subCategory": "Culture",
     "region_ids": {
@@ -884,7 +962,7 @@
     "language": "en"
   },
   {
-    "titleText": "L'Après M —  McDonald's restaurant becomes social hub",
+    "titleText": "Former Marseille McDonald's restaurant becomes social hub",
     "category": "Society",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -6047,22 +6125,22 @@
     "language": "en"
   },
   {
-    "titleText": "India media crackdown after Pakistan cross-border fighting",
-    "category": "Media",
-    "subCategory": "Conflicts",
+    "titleText": "Aid distribution in Gaza suspended after fatal shootings",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:asia:IN": "India"
+      "region:me": "Middle East"
     },
     "regions": [
-      "India"
+      "Middle East"
     ],
-    "runningTime": 205,
-    "updateTime": "2025-06-05T09:09:29.932Z",
+    "runningTime": 109,
+    "updateTime": "2025-06-04T16:38:40.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72798393&list=REGION_VIDEO:4",
+      "contentId": "v=72791396&list=REGION_VIDEO:9",
       "type": "video",
-      "id": 72798393,
+      "id": 72791396,
       "launchParam": null
     },
     "providerLogo": {
@@ -6072,13 +6150,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72801797_6.jpg",
+      "url": "https://static.dw.com/image/72708561_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72801797_7.jpg",
+      "url": "https://static.dw.com/image/72708561_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8119,45 +8197,6 @@
     "language": "en"
   },
   {
-    "titleText": "Puerto Rico plunged into darkness by massive power outage",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala": "Latin America"
-    },
-    "regions": [
-      "Latin America"
-    ],
-    "runningTime": 102,
-    "updateTime": "2025-04-17T12:43:51.42Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72275770&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 72275770,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72273070_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72273070_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Explainer: Why Meta's monopoly is dangerous for you",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -9988,6 +10027,92 @@
     "language": "es"
   },
   {
+    "titleText": "Samba – Tanz, Musik, Lebensgefühl",
+    "category": "Tanz",
+    "subCategory": "Musik",
+    "region_ids": {
+      "region:cala:BR": "Brasilien"
+    },
+    "regions": [
+      "Brasilien"
+    ],
+    "runningTime": 354,
+    "updateTime": "2025-06-24T12:25:46.681Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71730165&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 71730165,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71700616_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71700616_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Biennale: Drei Länder, drei Sichtweisen auf den Klimawandel ",
+    "category": "Architektur",
+    "subCategory": "Klima",
+    "region_ids": {
+      "region:cala:BR": "Brasilien",
+      "region:cala:MX": "Mexiko",
+      "region:me:AE": "Vereinigte Arabische Emirate",
+      "region:global": "Global",
+      "region:europe:IT": "Italien"
+    },
+    "regions": [
+      "Brasilien",
+      "Mexiko",
+      "Vereinigte Arabische Emirate",
+      "Global",
+      "Italien"
+    ],
+    "runningTime": 284,
+    "updateTime": "2025-06-24T12:20:58.16Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73006770&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73006770,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72974872_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72974872_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Flüchtlinge aus Syrien ohne Hilfe im Libanon",
     "category": "Politik",
     "subCategory": "Migration",
@@ -10029,7 +10154,7 @@
     "language": "de"
   },
   {
-    "titleText": "Streng bewacht: Russlands Route durch die EU",
+    "titleText": "Streng bewacht: Russlands Route von Moskau durch die EU",
     "category": "Gesellschaft",
     "subCategory": "Konflikte",
     "region_ids": {
@@ -10424,86 +10549,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72975738_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Immer mehr junge Deutsche radikalisieren sich ",
-    "category": "Gesellschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 329,
-    "updateTime": "2025-06-20T08:26:01.825Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72963436&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72963436,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72885698_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72885698_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Israel errichtet weitere Sperren im Westjordanland",
-    "category": "Konflikte",
-    "subCategory": "Menschenrechte",
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palästinensische Gebiete"
-    },
-    "regions": [
-      "Israel",
-      "Palästinensische Gebiete"
-    ],
-    "runningTime": 211,
-    "updateTime": "2025-06-19T15:16:50.097Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72976283&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 72976283,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72969527_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72969527_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
