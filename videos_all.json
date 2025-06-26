@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "How much damage did the US inflict on Iran's nuclear sites?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "Israel",
+      "United States of America"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-06-26T18:49:06.366Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73055250,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72996945_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72996945_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Stolen bronzes return to Nigeria from the Netherlands",
     "category": "History",
     "subCategory": "Culture",
@@ -437,45 +480,6 @@
     "language": "en"
   },
   {
-    "titleText": "Wildfires: Athens and the looming catastrophe",
-    "category": "Climate",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:GR": "Greece"
-    },
-    "regions": [
-      "Greece"
-    ],
-    "runningTime": 412,
-    "updateTime": "2025-06-26T12:35:41.271Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989331&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72989331,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69914722_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69914722_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Ecuador recaptures notorious prison escapee 'Fito'",
     "category": "Crime",
     "subCategory": null,
@@ -871,6 +875,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73038713_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Wildfires: Athens and the looming catastrophe",
+    "category": "Climate",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 282,
+    "updateTime": "2025-06-25T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72989331&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72989331,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69914722_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69914722_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6082,7 +6125,7 @@
     "updateTime": "2025-06-10T11:08:15.27Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72854521&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72854521&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72854521,
       "launchParam": null
@@ -6257,47 +6300,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72845363_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel intercepts activist boat bound for Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 254,
-    "updateTime": "2025-06-09T11:22:08.381Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72843789&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72843789,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72840187_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72840187_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10162,13 +10164,54 @@
     "language": "en"
   },
   {
+    "titleText": "CIA: el programa nuclear de Irán fue \"gravemente dañado\"",
+    "category": "Política",
+    "subCategory": "Conflictos",
+    "region_ids": {
+      "region:me:IR": "Irán",
+      "region:northamerica:US": "Estados Unidos"
+    },
+    "regions": [
+      "Irán",
+      "Estados Unidos"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-06-26T18:46:16.08Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73055207&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73055207,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73040035_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73040035_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-06-26T16:15:58.35Z",
+    "updateTime": "2025-06-26T18:07:11.353Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10183,13 +10226,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73050549_6.jpg",
+      "url": "https://static.dw.com/image/73048473_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73050549_7.jpg",
+      "url": "https://static.dw.com/image/73048473_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10389,45 +10432,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/43843991_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "¿Puede hacer yoga atenuar las secuelas del Covid?",
-    "category": "Ciencia",
-    "subCategory": "Salud",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 377,
-    "updateTime": "2025-06-22T10:53:38.193Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70344779&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 70344779,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/53041595_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/53041595_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
