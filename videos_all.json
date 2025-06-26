@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Food scarcity affects civilians' lives in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 176,
+    "updateTime": "2025-06-26T20:53:55.568Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73055413&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73055413,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73036359_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73036359_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5768,7 +5807,7 @@
     "updateTime": "2025-06-11T23:33:03.126Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72877404&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72877404&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72877404,
       "launchParam": null
@@ -6142,45 +6181,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72814655_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "DW visits Gaza on heavily controlled trip",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-06-10T11:08:15.27Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72854521&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72854521,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72868103_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72868103_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
