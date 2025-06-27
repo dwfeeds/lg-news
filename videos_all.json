@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "DRC and Rwanda to sign peace deal after decades of violence",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 169,
+    "updateTime": "2025-06-27T14:43:29.839Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73069337&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73069337,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71949315_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71949315_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Renewed militarization sparks rift in Germany's SPD",
     "category": "Politics",
     "subCategory": null,
@@ -565,7 +604,7 @@
     "updateTime": "2025-06-26T20:53:55.568Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055413&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73055413&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73055413,
       "launchParam": null
@@ -645,7 +684,7 @@
     "updateTime": "2025-06-26T19:01:30.209Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73055250&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73055250,
       "launchParam": null
@@ -1121,7 +1160,7 @@
     "updateTime": "2025-06-26T12:26:25.165Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73022779&list=REGION_VIDEO:7",
+      "contentId": "v=73022779&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73022779,
       "launchParam": null
@@ -1771,7 +1810,7 @@
     "updateTime": "2025-06-25T09:27:02.635Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73032206&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=73032206&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73032206,
       "launchParam": null
@@ -2091,7 +2130,7 @@
     "updateTime": "2025-06-24T19:21:23.076Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73026843&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73026843&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73026843,
       "launchParam": null
@@ -2212,7 +2251,7 @@
     "updateTime": "2025-06-24T14:19:25.954Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73023595&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73023595&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73023595,
       "launchParam": null
@@ -2558,6 +2597,49 @@
     "language": "en"
   },
   {
+    "titleText": "Iranians flee to Turkey as conflict deepens",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:TR": "Turkey",
+      "region:me:IR": "Iran",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Turkey",
+      "Iran",
+      "Middle East"
+    ],
+    "runningTime": 191,
+    "updateTime": "2025-06-24T07:48:03.087Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73015356&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73015356,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72989680_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72989680_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chile's Vera Rubin Observatory reveals stunning first photos",
     "category": "Science",
     "subCategory": null,
@@ -2612,7 +2694,7 @@
     "updateTime": "2025-06-23T18:51:30.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73012184&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73012184,
       "launchParam": null
@@ -2638,47 +2720,6 @@
     "language": "en"
   },
   {
-    "titleText": "Lithuania wants 'no exceptions' on NATO spending",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica": "North America"
-    },
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "runningTime": 501,
-    "updateTime": "2025-06-23T17:02:55.347Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73012130&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73012130,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72743663_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72743663_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel doubles down on Iran following US strikes",
     "category": "Conflicts",
     "subCategory": null,
@@ -2696,7 +2737,7 @@
     "updateTime": "2025-06-23T13:32:08.067Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73007268&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=73007268&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73007268,
       "launchParam": null
@@ -2817,7 +2858,7 @@
     "updateTime": "2025-06-23T12:55:38.766Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73005342&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73005342,
       "launchParam": null
@@ -2975,7 +3016,7 @@
     "updateTime": "2025-06-22T22:30:56.359Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73001197&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=73001197&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73001197,
       "launchParam": null
@@ -3016,7 +3057,7 @@
     "updateTime": "2025-06-22T19:29:01.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73001120&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=73001120&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73001120,
       "launchParam": null
@@ -3096,7 +3137,7 @@
     "updateTime": "2025-06-22T13:18:06.125Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72999991&list=REGION_VIDEO:9",
       "type": "video",
       "id": 72999991,
       "launchParam": null
@@ -3176,7 +3217,7 @@
     "updateTime": "2025-06-22T10:13:50.146Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72998666&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=72998666&list=REGION_VIDEO:5",
       "type": "video",
       "id": 72998666,
       "launchParam": null
@@ -4105,7 +4146,7 @@
     "updateTime": "2025-06-18T19:23:23.2Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72966467&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72966467&list=REGION_VIDEO:5",
       "type": "video",
       "id": 72966467,
       "launchParam": null
@@ -4170,86 +4211,6 @@
     "language": "en"
   },
   {
-    "titleText": "Chancellor Merz's praise of Israeli strikes sparks criticism",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 102,
-    "updateTime": "2025-06-18T15:28:09.708Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72964737&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72964737,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72964971_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72964971_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Iran's Khamenei defies Trump's call to surrender",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Iran",
-      "Israel"
-    ],
-    "runningTime": 110,
-    "updateTime": "2025-06-18T15:11:54.858Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72964547&list=TOPIC_CLUSTER_VIDEO:1",
-      "type": "video",
-      "id": 72964547,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72963434_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72963434_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Women in Mauritania show what zero-waste looks like",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -4289,26 +4250,22 @@
     "language": "en"
   },
   {
-    "titleText": "German outcry over Merz's remark on Israel's 'dirty work'",
-    "category": "Politics",
-    "subCategory": "Conflicts",
+    "titleText": "AI in restaurants: When robots serve the food",
+    "category": "Science",
+    "subCategory": "Technology",
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Germany",
-      "Israel",
-      "Iran"
+      "Germany"
     ],
-    "runningTime": 192,
-    "updateTime": "2025-06-18T09:00:32.638Z",
+    "runningTime": 248,
+    "updateTime": "2025-06-18T09:36:38.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72958848&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=72900338&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
-      "id": 72958848,
+      "id": 72900338,
       "launchParam": null
     },
     "providerLogo": {
@@ -4318,13 +4275,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72936692_6.jpg",
+      "url": "https://static.dw.com/image/70139416_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72936692_7.jpg",
+      "url": "https://static.dw.com/image/70139416_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4364,92 +4321,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72954895_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Dozens of people killed at aid distribution center in Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 132,
-    "updateTime": "2025-06-17T21:11:17.357Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72955885,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72679053_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72679053_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Tehran gridlocked as thousands try to flee Israeli strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Iran",
-      "Israel"
-    ],
-    "runningTime": 105,
-    "updateTime": "2025-06-17T20:52:44.654Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72955883&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72955883,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72943331_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72943331_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4528,49 +4399,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72954865_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fear deepens in Tehran as Israel targets Iran's capital",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me": "Middle East",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Iran",
-      "Middle East",
-      "Israel"
-    ],
-    "runningTime": 117,
-    "updateTime": "2025-06-17T15:33:34.673Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72950784&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72950784,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72944578_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72944578_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4658,90 +4486,6 @@
     "language": "en"
   },
   {
-    "titleText": "Rise of reported shootings at Gaza aid distribution points",
-    "category": "Human Rights",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel",
-      "Middle East"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-06-17T08:00:22.656Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72939948&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72939948,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72877535_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72877535_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "France shuts down Israeli stands at Paris Air Show",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "France",
-      "Israel"
-    ],
-    "runningTime": 131,
-    "updateTime": "2025-06-16T20:18:58.364Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72938818&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72938818,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72932236_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72932236_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Can Europe keep up with the US, China in the high-tech race?",
     "category": "Business",
     "subCategory": null,
@@ -4761,7 +4505,7 @@
     "updateTime": "2025-06-16T18:03:36.295Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72934185&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=72934185&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72934185,
       "launchParam": null
@@ -4860,49 +4604,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886854_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel says 24 killed in attacks by Iran",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Israel",
-      "Iran",
-      "Middle East"
-    ],
-    "runningTime": 98,
-    "updateTime": "2025-06-16T13:03:09.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72931839&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72931839,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72925780_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72925780_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5035,127 +4736,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israel and Iran trade strikes for a third day",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 384,
-    "updateTime": "2025-06-15T16:19:18.528Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72918803&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72918803,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72918141_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72918141_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "More Palestinians killed waiting for food in Gaza ",
-    "category": "Human Rights",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel",
-      "Middle East"
-    ],
-    "runningTime": 121,
-    "updateTime": "2025-06-15T11:44:17.306Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72916680&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72916680,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72877539_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72877539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli death toll in Bat Yam climbs after Iran strike",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Israel",
-      "Iran",
-      "Middle East"
-    ],
-    "runningTime": 135,
-    "updateTime": "2025-06-15T11:39:41.294Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72916797&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72916797,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72915847_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72915847_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "From tourist to local: An American in Florence",
     "category": "Lifestyle",
     "subCategory": "Society",
@@ -5190,47 +4770,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886353_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Iran: Death toll from Israeli overnight strikes rises to 78",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Iran",
-      "Israel"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-06-14T17:08:16.176Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72910245&list=TOPIC_CLUSTER_VIDEO:1",
-      "type": "video",
-      "id": 72910245,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72909577_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72909577_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5355,131 +4894,6 @@
     "language": "en"
   },
   {
-    "titleText": "Iron Dome interceptions seen above Tel Aviv",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Israel",
-      "Iran",
-      "Middle East"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-06-14T08:22:21.137Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72906591&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72906591,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72903153_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72903153_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The Kipsigis' unending fight against empire",
-    "category": "Society",
-    "subCategory": "History",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Africa",
-      "Kenya"
-    ],
-    "runningTime": 250,
-    "updateTime": "2025-06-14T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856039&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72856039,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72823632_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72823632_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What can the EU do to influence Israel on Gaza?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Europe",
-      "Palestinian Territories"
-    ],
-    "runningTime": 160,
-    "updateTime": "2025-06-14T04:56:06.518Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72898422&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72898422,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70810323_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70810323_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Powerful concrete — turning walls into batteries ",
     "category": "Science",
     "subCategory": "Technology",
@@ -5512,47 +4926,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69406055_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel launches strikes on Iran, sparking fears of wider war",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Iran",
-      "Israel"
-    ],
-    "runningTime": 167,
-    "updateTime": "2025-06-13T18:55:31.872Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72901275&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72901275,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72899167_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72899167_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5594,6 +4967,166 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72897702_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How governments use AI-powered facial recognition",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:TR": "Turkey",
+      "region:asia:CN": "China",
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Turkey",
+      "China",
+      "Hungary"
+    ],
+    "runningTime": 115,
+    "updateTime": "2025-06-13T15:04:31.73Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900002&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72900002,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72890057_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72890057_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How facial recognition cameras identify you with AI  ",
+    "category": "Technology",
+    "subCategory": "Digital World",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 84,
+    "updateTime": "2025-06-13T15:04:20.773Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900023&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72900023,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72890153_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72890153_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How police use AI facial recognition ",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 65,
+    "updateTime": "2025-06-13T15:02:53.191Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900097&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72900097,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72890121_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72890121_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Facial recognition at protests in Hungary? ",
+    "category": "Human Rights",
+    "subCategory": "Digital World",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 68,
+    "updateTime": "2025-06-13T15:02:43.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900163&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72900163,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72687150_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72687150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5675,45 +5208,6 @@
     "language": "en"
   },
   {
-    "titleText": "Netanyahu: 'Israel launched Operation Rising Lion'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-06-13T13:34:53.192Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72899956&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72899956,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72893938_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72893938_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "A single passenger survives Air India plane crash",
     "category": "Catastrophe",
     "subCategory": null,
@@ -5753,49 +5247,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israel attacks Iran amid growing criticism over Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Middle East",
-      "Israel",
-      "Iran"
-    ],
-    "runningTime": 435,
-    "updateTime": "2025-06-13T09:56:39.343Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72895364&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72895364,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72894058_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72894058_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "AI, drones, cyber weapons: How tech is changing warfare ",
     "category": "Digital World",
     "subCategory": null,
@@ -5809,7 +5260,7 @@
     "updateTime": "2025-06-13T07:45:07.412Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72890197&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=72890197&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72890197,
       "launchParam": null
@@ -5986,45 +5437,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72806397_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Reports: Many killed in Gaza trying to access aid",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-06-11T23:33:03.126Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72877404&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72877404,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72812976_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72812976_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6268,45 +5680,6 @@
     "language": "en"
   },
   {
-    "titleText": "DW visits Gaza on heavily controlled trip",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-06-10T11:08:15.27Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72854521&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72854521,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72868103_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72868103_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Water tasting: Expert craft or passing trend?",
     "category": "Health",
     "subCategory": "Nature and Environment",
@@ -6385,45 +5758,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israeli naval forces seize vessel en route to Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-06-09T14:14:19.537Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72845245&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72845245,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72840223_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72840223_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Indian school addresses gender education gap",
     "category": "Society",
     "subCategory": null,
@@ -6456,47 +5790,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72845363_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel intercepts activist boat bound for Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 254,
-    "updateTime": "2025-06-09T11:22:08.381Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72843789&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72843789,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72840187_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72840187_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6614,45 +5907,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72712660_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Press freedom groups demand open access to Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 275,
-    "updateTime": "2025-06-08T19:06:21.353Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72838169&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72838169,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72166491_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72166491_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6848,84 +6102,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72834247_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gaza's youngest suffering from 'man-made nutritional crisis'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 266,
-    "updateTime": "2025-06-07T13:09:04.896Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72831216&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72831216,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72829931_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72829931_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Muslims in Gaza mark second Eid under Israeli bombardment",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 143,
-    "updateTime": "2025-06-07T11:27:14.081Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72830453&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72830453,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72830452_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72830452_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7231,7 +6407,7 @@
     "updateTime": "2025-06-03T18:29:11.824Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72722019&list=REGION_VIDEO:5",
+      "contentId": "v=72722019&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72722019,
       "launchParam": null
@@ -8014,45 +7190,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump seeks to quell 'centers of dissent': Harvard professor",
-    "category": "Education",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 282,
-    "updateTime": "2025-05-24T13:24:13.299Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72658689&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72658689,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72658363_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72658363_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "The US is giving up on climate — others are cashing in",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -8148,7 +7285,7 @@
     "updateTime": "2025-05-21T22:28:26.931Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72627765&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=72627765&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72627765,
       "launchParam": null
@@ -8174,6 +7311,45 @@
     "language": "en"
   },
   {
+    "titleText": "AI eyes on the forest: Testing an AI-fire prediction system",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:TN": "Tunisia"
+    },
+    "regions": [
+      "Tunisia"
+    ],
+    "runningTime": 157,
+    "updateTime": "2025-05-21T09:38:43.063Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72620601&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72620601,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72620461_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72620461_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How a group in Ecuador uses AI to try to save a hummingbird",
     "category": "Nature and Environment",
     "subCategory": "Innovation",
@@ -8189,7 +7365,7 @@
     "updateTime": "2025-05-20T12:46:25.113Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571403&list=REGION_VIDEO:6",
+      "contentId": "v=72571403&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72571403,
       "launchParam": null
@@ -8247,6 +7423,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72609990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How artificial intelligence is saving elephants' lives",
+    "category": "Science",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 208,
+    "updateTime": "2025-05-20T09:10:36.37Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72559268&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72559268,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72559123_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72559123_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8334,6 +7549,49 @@
     "language": "en"
   },
   {
+    "titleText": "Autonomous weapons: Machines decide over life and death",
+    "category": "Technology",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:global": "Global",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Global",
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 158,
+    "updateTime": "2025-05-16T10:31:45.608Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72565302&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72565302,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72558336_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72558336_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
     "category": "Human Rights",
     "subCategory": null,
@@ -8366,47 +7624,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69427468_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why French are wary of Macron's nuclear umbrella for Europe",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "runningTime": 305,
-    "updateTime": "2025-05-16T08:45:10.197Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72433502&list=TOPIC_CLUSTER_VIDEO:1",
-      "type": "video",
-      "id": 72433502,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71908427_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71908427_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8723,6 +7940,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/61375735_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cow AI: How robots are changing cattle farming",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-05-05T12:28:11.344Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72438322&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72438322,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/61717767_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/61717767_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9128,47 +8384,6 @@
     "language": "en"
   },
   {
-    "titleText": "US, Iran talks about breaking 'deep mistrust,' analyst says",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Iran",
-      "United States of America"
-    ],
-    "runningTime": 253,
-    "updateTime": "2025-04-13T09:00:49.475Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72230753&list=TOPIC_CLUSTER_VIDEO:1",
-      "type": "video",
-      "id": 72230753,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72229980_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72229980_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "NASA's moon-based time standard",
     "category": "Science",
     "subCategory": null,
@@ -9240,6 +8455,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70484089_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can AI help with livestock farming?",
+    "category": "Business",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 399,
+    "updateTime": "2025-04-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72158340&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72158340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72131050_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72131050_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump tariffs and AI dominate Hanover industry trade fair",
+    "category": "Technology",
+    "subCategory": "Globalization",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Europe",
+      "United States of America"
+    ],
+    "runningTime": 187,
+    "updateTime": "2025-04-04T22:28:08.883Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72107598&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72107598,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72123843_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72123843_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9325,6 +8620,45 @@
     "language": "en"
   },
   {
+    "titleText": "AI entrepreneur empowering women in Pakistan",
+    "category": "Technology",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 107,
+    "updateTime": "2025-03-27T14:16:24.042Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72059920&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72059920,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72059709_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72059709_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What's behind India's high tuberculosis infection rate?",
     "category": "Health",
     "subCategory": null,
@@ -9403,24 +8737,22 @@
     "language": "en"
   },
   {
-    "titleText": "Germany rethinks future of nuclear security",
-    "category": "Politics",
-    "subCategory": null,
+    "titleText": "In India, AI tech keeps elephants away from trains",
+    "category": "Technology",
+    "subCategory": "Nature and Environment",
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:FR": "France"
+      "region:asia:IN": "India"
     },
     "regions": [
-      "Germany",
-      "France"
+      "India"
     ],
-    "runningTime": 173,
-    "updateTime": "2025-03-19T21:31:08.625Z",
+    "runningTime": 146,
+    "updateTime": "2025-03-23T08:39:37.148Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71979057&list=TOPIC_CLUSTER_VIDEO:1",
+      "contentId": "v=71960025&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
-      "id": 71979057,
+      "id": 71960025,
       "launchParam": null
     },
     "providerLogo": {
@@ -9430,13 +8762,91 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71874690_6.jpg",
+      "url": "https://static.dw.com/image/71958324_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71874690_7.jpg",
+      "url": "https://static.dw.com/image/71958324_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Better weather forecasts with satellites ",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 95,
+    "updateTime": "2025-03-21T16:27:15.572Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71994713&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71994713,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71989347_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71989347_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Predicting weather extremes with smart data and AI",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 107,
+    "updateTime": "2025-03-21T16:26:25.43Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71994720&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71994720,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71989283_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71989283_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10043,6 +9453,129 @@
     "language": "en"
   },
   {
+    "titleText": "Germany's relations with Russia, US loom large in election",
+    "category": "Politics",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:northamerica:US": "United States of America",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Germany",
+      "United States of America",
+      "Russian Federation"
+    ],
+    "runningTime": 518,
+    "updateTime": "2025-01-28T22:21:53.753Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71440212&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 71440212,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71440204_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71440204_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How can the EU deal with Musk and his tech agenda?",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 159,
+    "updateTime": "2025-01-24T10:08:25.973Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71393786&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 71393786,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71104758_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71104758_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "South Africa's 'spaza' shop shutdown sparks tensions",
+    "category": "Society",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 271,
+    "updateTime": "2025-01-09T15:15:18.996Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71257272&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 71257272,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71257404_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71257404_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "NASA probe makes closest ever pass by the sun",
     "category": "Science",
     "subCategory": null,
@@ -10118,49 +9651,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66129886_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Nagasaki, Hiroshima survivors receive Nobel Peace Prize",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:JP": "Japan",
-      "region:europe:NO": "Norway",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Japan",
-      "Norway",
-      "Global"
-    ],
-    "runningTime": 113,
-    "updateTime": "2024-12-10T19:27:01.226Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71017491&list=TOPIC_CLUSTER_VIDEO:1",
-      "type": "video",
-      "id": 71017491,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71017534_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71017534_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
