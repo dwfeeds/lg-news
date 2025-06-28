@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Extortion in South Africa drives up construction costs",
+    "category": "Crime",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 207,
+    "updateTime": "2025-06-28T10:20:09.614Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73055132&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73055132,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73053632_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73053632_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistani female pilot breaks age, gender barriers",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 129,
+    "updateTime": "2025-06-28T10:10:11.062Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73058963&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73058963,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73058519_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73058519_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump claims win in Supreme Court blow to US federal judges",
     "category": "Law and Justice",
     "subCategory": "Politics",
@@ -366,7 +444,7 @@
     "updateTime": "2025-06-27T11:41:53.968Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73065644&list=REGION_VIDEO:4",
+      "contentId": "v=73065644&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73065644,
       "launchParam": null
@@ -545,45 +623,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65734550_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Pakistan: Female pilot breaks age and gender barriers",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 129,
-    "updateTime": "2025-06-27T09:07:09.59Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73058963&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73058963,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73058519_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73058519_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -900,45 +939,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72616810_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Extortion in South Africa drives up construction costs",
-    "category": "Crime",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 207,
-    "updateTime": "2025-06-26T17:30:10.857Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055132&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73055132,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73053632_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73053632_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5442,6 +5442,47 @@
     "language": "en"
   },
   {
+    "titleText": "Bangladesh: Could the UN help the Rohingya return home?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:MM": "Myanmar",
+      "region:asia:BD": "Bangladesh"
+    },
+    "regions": [
+      "Myanmar",
+      "Bangladesh"
+    ],
+    "runningTime": 396,
+    "updateTime": "2025-06-12T09:43:42.745Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72880971&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 72880971,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72877607_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72877607_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US chef helps convicts move on from a life of crime",
     "category": "Society",
     "subCategory": "Crime",
@@ -7741,45 +7782,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/63053091_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why Pakistan can't stop child marriages",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 208,
-    "updateTime": "2025-05-10T16:00:17.148Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72495796&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72495796,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72495153_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72495153_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10177,7 +10179,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-06-28T08:18:07.122Z",
+    "updateTime": "2025-06-28T10:14:23.947Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11360,8 +11362,8 @@
   },
   {
     "titleText": "Ukraine setzt auf neue Starlink-Drohne \"Nemesis\"",
-    "category": "Video-Nachrichten",
-    "subCategory": null,
+    "category": "Konflikte",
+    "subCategory": "Video-Nachrichten",
     "region_ids": {
       "region:europe:UA": "Ukraine"
     },
