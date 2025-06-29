@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Russian trains cross EU via Lithuania — under close watch",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:LT": "Lithuania"
+    },
+    "regions": [
+      "Lithuania"
+    ],
+    "runningTime": 251,
+    "updateTime": "2025-06-29T04:38:37.241Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900017&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 72900017,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73021781_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73021781_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Thai protesters call for PM's resignation",
     "category": "Politics",
     "subCategory": null,
@@ -1104,7 +1143,7 @@
     "language": "en"
   },
   {
-    "titleText": "EU Council Summit dominated by trade issues, armed conflicts",
+    "titleText": "EU Council summit dominated by trade issues, armed conflicts",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -2787,45 +2826,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72443608_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Revamping old German machinery for modern industry",
-    "category": "Nature and Environment",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 287,
-    "updateTime": "2025-06-24T08:54:08.179Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977612&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72977612,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72976594_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72976594_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11356,8 +11356,8 @@
   },
   {
     "titleText": "Johann Wadephul: \"Wir müssen mit dem Iran verhandeln\"",
-    "category": "Video-Nachrichten",
-    "subCategory": null,
+    "category": "Politik",
+    "subCategory": "Video-Nachrichten",
     "region_ids": {
       "region:europe:DE": "Deutschland",
       "region:europe": "Europa"
