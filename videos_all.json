@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Could Syria join an 'Abraham Alliance' with Israel?",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me:SY": "Syria",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Syria",
+      "Israel"
+    ],
+    "runningTime": 167,
+    "updateTime": "2025-06-29T14:38:47.907Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73084597&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73084597,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73084935_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73084935_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "France tightens public smoking restrictions",
     "category": "Health",
     "subCategory": "Lifestyle",
@@ -3991,47 +4032,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72987395_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Iranians flee conflict to neighboring Turkey",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Iran",
-      "Turkey"
-    ],
-    "runningTime": 98,
-    "updateTime": "2025-06-20T16:26:03.038Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989499&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72989499,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73015349_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73015349_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10202,6 +10202,41 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 181,
+    "updateTime": "2025-06-29T14:37:10.093Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73082340_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73082340_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Fiesta preboda de Bezos en Venecia entre protestas",
