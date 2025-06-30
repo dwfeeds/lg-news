@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 100,
+    "updateTime": "2025-06-30T05:17:37.389Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72972710_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72972710_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trans women banned from English women's football",
     "category": "Equality",
     "subCategory": "Soccer",
@@ -110,45 +149,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73082340_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 100,
-    "updateTime": "2025-06-29T17:57:36.34Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72972710_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72972710_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11193,6 +11193,45 @@
     "language": "de"
   },
   {
+    "titleText": "Parkinson und MS: mit Tanzen Lebensqualität steigern",
+    "category": "Gesundheit",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:europe:CH": "Schweiz"
+    },
+    "regions": [
+      "Schweiz"
+    ],
+    "runningTime": 311,
+    "updateTime": "2025-06-29T19:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73006813&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73006813,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72974878_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72974878_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Georgien: Wie die Clubszene für Freiheit kämpft",
     "category": "Gesellschaft",
     "subCategory": "Politik",
@@ -11381,45 +11420,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72973845_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Parkinson und MS: mit Tanzen Lebensqualität steigern",
-    "category": "Gesundheit",
-    "subCategory": "Tanz",
-    "region_ids": {
-      "region:europe:CH": "Schweiz"
-    },
-    "regions": [
-      "Schweiz"
-    ],
-    "runningTime": 311,
-    "updateTime": "2025-06-27T07:26:59.148Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73006813&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73006813,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72974878_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72974878_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
