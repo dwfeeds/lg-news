@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "Donald Trump claims peace in the Middle East is imminent",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-06-30T19:16:51.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73097999&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73097999,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72168924_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72168924_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UNICEF funding cut could end education for Rohingya kids",
+    "category": "Education",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:asia:BD": "Bangladesh",
+      "region:asia:MM": "Myanmar"
+    },
+    "regions": [
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "runningTime": 230,
+    "updateTime": "2025-06-30T18:58:45.58Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73095696&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73095696,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73096272_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73096272_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -4326,49 +4408,6 @@
     "language": "en"
   },
   {
-    "titleText": "European ministers hold de-escalation talks with Iran",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Iran",
-      "Israel",
-      "Europe"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-06-21T08:30:13.319Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72991686&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72991686,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72990161_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72990161_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Is South Africa the right voice for Africa on energy?",
     "category": "Politics",
     "subCategory": "Society",
@@ -5716,45 +5755,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72870634_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "A single passenger survives Air India plane crash",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 135,
-    "updateTime": "2025-06-13T11:46:22.854Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72891412&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 72891412,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72892737_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72892737_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10253,6 +10253,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 181,
+    "updateTime": "2025-06-30T19:14:20.784Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73087155_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73087155_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Excluídas las mujeres transexuales la liga inglesa de fútbol",
     "category": "Igualdad de derechos",
     "subCategory": "Fútbol",
@@ -10285,41 +10320,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73086276_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 181,
-    "updateTime": "2025-06-30T17:32:02.239Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73087155_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73087155_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11363,6 +11363,45 @@
     "language": "es"
   },
   {
+    "titleText": "Erste Hitzewelle des Jahres rollt über Europa",
+    "category": "Klima",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Europa"
+    ],
+    "runningTime": 94,
+    "updateTime": "2025-06-30T18:53:50.324Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73096695&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73096695,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73085441_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73085441_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Braiding Nairobi: Sichtbarkeit für Flechterinnen",
     "category": "Digitale Welt",
     "subCategory": "Gesellschaft",
@@ -11848,7 +11887,7 @@
     "updateTime": "2025-06-28T04:26:51.431Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73038485&list=REPORTS_VIDEO:1",
+      "contentId": "v=73038485&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73038485,
       "launchParam": null
@@ -12382,47 +12421,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66266911_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ausgewandert: Eine US-Amerikanerin in Italien",
-    "category": "Lifestyle",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:europe:IT": "Italien",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Italien",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 358,
-    "updateTime": "2025-06-15T09:51:44.981Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72905478&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72905478,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72886353_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72886353_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
