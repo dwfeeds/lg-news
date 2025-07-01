@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Israeli army launches review into Gaza cafe strike",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 120,
+    "updateTime": "2025-07-01T15:42:06.369Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73108279&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73108279,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73098541_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73098541_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Thai court suspends prime minister over leaked phone call",
     "category": "Politics",
     "subCategory": null,
@@ -158,7 +199,7 @@
   {
     "titleText": "Romania: Ethnic Hungarian embroiderers take on fashion brand",
     "category": "Design",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:RO": "Romania"
     },
@@ -4424,49 +4465,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72975738_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "European ministers hold de-escalation talks with Iran",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Iran",
-      "Israel",
-      "Europe"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-06-21T08:30:13.319Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72991686&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 72991686,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72990161_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72990161_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10471,7 +10469,7 @@
     "language": "de"
   },
   {
-    "titleText": "Venedigs Massentourismus — Warum die Einwohner leiden",
+    "titleText": "Venedigs Massentourismus - Warum die Einwohner leiden",
     "category": "Reise",
     "subCategory": "Globalisierung",
     "region_ids": {
