@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 98,
+    "updateTime": "2025-07-02T16:37:48.283Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73125477_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73125477_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why India's Prime Minister Modi's visit to Ghana matters",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-07-02T16:13:10.533Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73126181&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73126181,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72214476_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72214476_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kyiv seeks 'clarity' on US cutback of arms deliveries",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -276,45 +356,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68706719_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 98,
-    "updateTime": "2025-07-02T12:04:40.53Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73113437_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73113437_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9500,7 +9541,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 173,
-    "updateTime": "2025-07-02T15:27:32.193Z",
+    "updateTime": "2025-07-02T16:23:18.425Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10722,8 +10763,8 @@
   },
   {
     "titleText": "Wer gewinnt den Wettlauf im Weltall?",
-    "category": "Wirtschaft",
-    "subCategory": "Technik",
+    "category": "Technik",
+    "subCategory": "Wirtschaft",
     "region_ids": {
       "region:asia:IN": "Indien",
       "region:europe:DE": "Deutschland"
