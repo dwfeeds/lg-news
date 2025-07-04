@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "US House passes Trump's bill cutting taxes and safety net",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-07-04T07:05:40.166Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73151583&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73151583,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73147565_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73147565_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7279,45 +7318,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump issues travel ban for people from 12 countries",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-06-05T19:30:18.724Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72809284&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72809284,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72804731_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72804731_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kashmir: Fears dampen celebrations at Hindu festival ",
     "category": "Society",
     "subCategory": "Conflicts",
@@ -9392,7 +9392,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-07-03T21:58:56.719Z",
+    "updateTime": "2025-07-04T07:23:14.196Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -9407,13 +9407,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73138335_6.jpg",
+      "url": "https://static.dw.com/image/73135422_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73138335_7.jpg",
+      "url": "https://static.dw.com/image/73135422_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10492,6 +10492,49 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Drohnen transportieren Laborproben",
+    "category": "Technik",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:HR": "Kroatien",
+      "region:europe:DE": "Deutschland",
+      "region:europe:CH": "Schweiz"
+    },
+    "regions": [
+      "Kroatien",
+      "Deutschland",
+      "Schweiz"
+    ],
+    "runningTime": 308,
+    "updateTime": "2025-07-04T07:13:05.406Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73106974&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73106974,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73064438_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73064438_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Medizin der Zukunft: Arzt operiert aus Florida in Angola",
