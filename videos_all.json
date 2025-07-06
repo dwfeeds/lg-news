@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Syria battles wildfires in mountainous coastal region ",
+    "category": "Catastrophe",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:me:SY": "Syria",
+      "region:europe:TR": "Turkey"
+    },
+    "regions": [
+      "Syria",
+      "Turkey"
+    ],
+    "runningTime": 103,
+    "updateTime": "2025-07-06T09:20:14.892Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73174376&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73174376,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73174197_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73174197_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "United States: Search for Texas flood missing continues",
+    "category": "Catastrophe",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-06T08:54:30.41Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73174375&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73174375,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73173055_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73173055_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -4977,47 +5057,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gaza hospitals filled with people injured trying to get food",
-    "category": "Human Rights",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 118,
-    "updateTime": "2025-06-24T14:19:25.954Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73023595&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73023595,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72877539_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72877539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India's truck art is world famous. Why is it dying out?",
     "category": "Arts",
     "subCategory": "Lifestyle",
@@ -7188,45 +7227,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72834247_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Thousands gather for WorldPride in Washington",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 207,
-    "updateTime": "2025-06-06T18:09:49.126Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72827393&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72827393,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72827589_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72827589_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10174,6 +10174,45 @@
     "language": "es"
   },
   {
+    "titleText": "Afrikanische Perspektiven in Schweden: Fotografin Lola Akinmade",
+    "category": "Lifestyle",
+    "subCategory": "Diversität",
+    "region_ids": {
+      "region:europe:SE": "Schweden"
+    },
+    "regions": [
+      "Schweden"
+    ],
+    "runningTime": 267,
+    "updateTime": "2025-07-06T09:38:02.196Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159394&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73159394,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72790825_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Weniger Entwicklungshilfe: NGOs warnen vor tödlichen Folgen",
     "category": "Politik",
     "subCategory": "Ernährungssicherheit",
@@ -10702,7 +10741,7 @@
     "updateTime": "2025-07-03T08:05:05.705Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73090869&list=REPORTS_VIDEO:1",
+      "contentId": "v=73090869&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73090869,
       "launchParam": null
@@ -11234,45 +11273,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73035981_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Großbritanniens polnische Community liebt Tradition",
-    "category": "Gesellschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:GB": "Vereinigtes Königreich"
-    },
-    "regions": [
-      "Vereinigtes Königreich"
-    ],
-    "runningTime": 187,
-    "updateTime": "2025-06-25T21:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72963463&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 72963463,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72901602_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72901602_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
