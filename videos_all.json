@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 99,
+    "updateTime": "2025-07-08T12:39:04.584Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73191201_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73191201_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Women lead climate fight in Bangladesh slum",
+    "category": "Climate",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:asia:BD": "Bangladesh"
+    },
+    "regions": [
+      "Bangladesh"
+    ],
+    "runningTime": 296,
+    "updateTime": "2025-07-08T12:23:55.264Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73142837&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73142837,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73142807_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73142807_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Farming without soil helps to tackle Somalia's hunger crisis",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -136,7 +210,7 @@
     "updateTime": "2025-07-08T08:18:44.547Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73192790&list=REGION_VIDEO:8",
+      "contentId": "v=73192790&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73192790,
       "launchParam": null
@@ -155,41 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73189273_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 99,
-    "updateTime": "2025-07-08T06:54:00.088Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:8",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73191201_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73191201_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -532,7 +571,7 @@
     "updateTime": "2025-07-07T07:05:33.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070085&list=REGION_VIDEO:8",
+      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73070085,
       "launchParam": null
@@ -2723,7 +2762,7 @@
     "updateTime": "2025-07-02T08:53:58.004Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070013&list=REGION_VIDEO:8",
+      "contentId": "v=73070013&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73070013,
       "launchParam": null
@@ -3363,7 +3402,7 @@
     "updateTime": "2025-06-30T14:07:00.991Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73060917&list=REGION_VIDEO:8",
+      "contentId": "v=73060917&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73060917,
       "launchParam": null
@@ -3525,7 +3564,7 @@
     "updateTime": "2025-06-30T08:59:24.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069965&list=REGION_VIDEO:8",
+      "contentId": "v=73069965&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73069965,
       "launchParam": null
@@ -4034,7 +4073,7 @@
     "updateTime": "2025-06-27T19:21:28.913Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73073429&list=REGION_VIDEO:8",
+      "contentId": "v=73073429&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73073429,
       "launchParam": null
@@ -4899,6 +4938,45 @@
     "language": "en"
   },
   {
+    "titleText": "Anti-government protests in Kenya turn deadly",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 132,
+    "updateTime": "2025-06-26T06:59:49.333Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73044124&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73044124,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73038713_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73038713_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Fact check: How AI fakes are distorting the Israel-Iran war",
     "category": "Conflicts",
     "subCategory": "Digital World",
@@ -5013,6 +5091,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73036864_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Unrest spreads in Kenya, a year after deadly Gen Z protests",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 245,
+    "updateTime": "2025-06-25T11:36:36.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73035594&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73035594,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73031453_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73031453_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5900,6 +6017,47 @@
     "language": "en"
   },
   {
+    "titleText": "Is South Africa the right voice for Africa on energy?",
+    "category": "Politics",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "Africa",
+      "South Africa"
+    ],
+    "runningTime": 216,
+    "updateTime": "2025-06-20T15:38:54.895Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72989266&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72989266,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71850613_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71850613_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Olympics leave mixed legacy in Paris suburb of Saint-Denis",
     "category": "Society",
     "subCategory": "Politics",
@@ -5973,6 +6131,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72983945_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nigeria faces synthetic marijuana drug crisis",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 257,
+    "updateTime": "2025-06-19T17:56:24.555Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72977986&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72977986,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72977938_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72977938_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6140,22 +6337,22 @@
     "language": "en"
   },
   {
-    "titleText": "Electric vehicles in Pakistan — trends and developments",
-    "category": "Business",
-    "subCategory": "Cars and Transportation",
+    "titleText": "Death toll rises to over 100 in Nigeria's Benue State",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:asia:PK": "Pakistan"
+      "region:africa:NG": "Nigeria"
     },
     "regions": [
-      "Pakistan"
+      "Nigeria"
     ],
-    "runningTime": 412,
-    "updateTime": "2025-06-19T08:18:24.182Z",
+    "runningTime": 178,
+    "updateTime": "2025-06-18T16:12:56.701Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72953655&list=REGION_VIDEO:4",
+      "contentId": "v=72965708&list=REGION_VIDEO:8",
       "type": "video",
-      "id": 72953655,
+      "id": 72965708,
       "launchParam": null
     },
     "providerLogo": {
@@ -6165,13 +6362,169 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72898737_6.jpeg",
+      "url": "https://static.dw.com/image/72966031_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72898737_7.jpeg",
+      "url": "https://static.dw.com/image/72966031_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Women in Mauritania show what zero-waste looks like",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:MR": "Mauritania"
+    },
+    "regions": [
+      "Mauritania"
+    ],
+    "runningTime": 415,
+    "updateTime": "2025-06-18T11:07:15.113Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72888112&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 72888112,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72886876_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72886876_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nairobi: Police, protesters clash in second week of unrest",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-06-18T08:46:12.516Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72956674&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72956674,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72954895_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72954895_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kenyan police shoot dead trader at protests in Nairobi",
+    "category": "Rule of Law",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 270,
+    "updateTime": "2025-06-17T18:08:57.223Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72954929,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72948562_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72948562_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Clashes erupt in Kenya's capital Nairobi ",
+    "category": "Rule of Law",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 91,
+    "updateTime": "2025-06-17T16:35:06.395Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72954902,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72954865_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72954865_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6388,6 +6741,51 @@
     "language": "en"
   },
   {
+    "titleText": "How critically are land rights discussed in your country?",
+    "category": "Human Rights",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya",
+      "region:africa:NG": "Nigeria",
+      "region:asia:KR": "South Korea"
+    },
+    "regions": [
+      "Africa",
+      "Kenya",
+      "Nigeria",
+      "South Korea"
+    ],
+    "runningTime": 184,
+    "updateTime": "2025-06-16T09:19:58.766Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72856022&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72856022,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72823702_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72823702_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "G7 summit: What are the key issues on the agenda in Canada?",
     "category": "Politics",
     "subCategory": null,
@@ -6500,6 +6898,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886327_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Kipsigis' unending fight against empire",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 250,
+    "updateTime": "2025-06-14T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72856039&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72856039,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72823632_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72823632_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7051,6 +7490,45 @@
     "language": "en"
   },
   {
+    "titleText": "Kenyan blogger's death sparks fresh anti-government protests",
+    "category": "Freedom of Speech",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 117,
+    "updateTime": "2025-06-09T20:45:44.871Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72849407&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72849407,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72848963_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72848963_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Indian school addresses gender education gap",
     "category": "Society",
     "subCategory": null,
@@ -7278,6 +7756,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72786858_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US Aid cuts hit schools and clinics in Africa",
+    "category": "Politics",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:ZA": "South Africa",
+      "region:africa:KE": "Kenya",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "South Africa",
+      "Kenya",
+      "Nigeria"
+    ],
+    "runningTime": 77,
+    "updateTime": "2025-06-03T09:02:26.797Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72674453&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72674453,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72651947_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72651947_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7804,6 +8325,45 @@
     "language": "en"
   },
   {
+    "titleText": "Kenya goes flat out to protect the pancake tortoise",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 173,
+    "updateTime": "2025-05-25T14:16:13.425Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72637966,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72638304_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72638304_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How women in northern Ghana resolved a land conflict ",
     "category": "Conflicts",
     "subCategory": "Equality",
@@ -8003,6 +8563,45 @@
     "language": "en"
   },
   {
+    "titleText": "Monicah Muteti, the deaf chef from Kenya",
+    "category": "Diversity",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 392,
+    "updateTime": "2025-05-20T18:01:56.616Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72616546&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72616546,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72466504_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72466504_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How a group in Ecuador uses AI to try to save a hummingbird",
     "category": "Nature and Environment",
     "subCategory": "Innovation",
@@ -8156,6 +8755,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72579014_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What's behind Kenya's gambling epidemic?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 202,
+    "updateTime": "2025-05-17T09:49:39.333Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72559920&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72559920,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72559970_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72559970_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8355,6 +8993,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72479253_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afrofuturism: Cyrus Kabiru makes art from trash",
+    "category": "Innovation",
+    "subCategory": "Arts",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 184,
+    "updateTime": "2025-05-06T18:30:15.052Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72456244&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72456244,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72186545_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72186545_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8598,6 +9275,47 @@
     "language": "en"
   },
   {
+    "titleText": "How this Kenyan is unscrambling Africa  ",
+    "category": "Culture",
+    "subCategory": "Arts",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 365,
+    "updateTime": "2025-05-02T12:19:17.745Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72414570&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72414570,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72397773_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72397773_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Soccer fans honor Pope Francis with memorial mass",
     "category": "Society",
     "subCategory": null,
@@ -8673,6 +9391,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72342423_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "DIY: How to get clean water?",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 464,
+    "updateTime": "2025-04-23T09:34:08.627Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72241296&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72241296,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72219516_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72219516_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Africans wonder if it's time for a Black pope",
+    "category": "Religion",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 191,
+    "updateTime": "2025-04-22T20:45:23.789Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72314603&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72314603,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72314635_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72314635_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9320,7 +10118,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-07-08T10:18:49.443Z",
+    "updateTime": "2025-07-08T11:47:54.087Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
