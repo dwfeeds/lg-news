@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "Report: Nearly 1,500 Alawites killed in Syria in March",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 153,
+    "updateTime": "2025-07-09T15:05:51.519Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73218030&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73218030,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71860047_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71860047_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US cancels designation of Syria's HTS as a terrorist group",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria",
+      "region:northamerica:US": "United States of America",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Syria",
+      "United States of America",
+      "Israel"
+    ],
+    "runningTime": 98,
+    "updateTime": "2025-07-09T14:43:18.056Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73216694&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73216694,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72100798_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72100798_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -9,7 +91,7 @@
     "updateTime": "2025-07-09T12:16:50.344Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -175,7 +257,7 @@
     "updateTime": "2025-07-09T09:41:35.509Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73137173&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73137173&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73137173,
       "launchParam": null
@@ -374,7 +456,7 @@
     "updateTime": "2025-07-08T19:51:48.118Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204985&list=REGION_VIDEO:9",
+      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73204985,
       "launchParam": null
@@ -413,7 +495,7 @@
     "updateTime": "2025-07-08T17:51:58.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73204475,
       "launchParam": null
@@ -454,7 +536,7 @@
     "updateTime": "2025-07-08T16:41:44.531Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73200304&list=REGION_VIDEO:9",
+      "contentId": "v=73200304&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73200304,
       "launchParam": null
@@ -616,7 +698,7 @@
     "updateTime": "2025-07-08T10:12:47.612Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73137159&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73137159&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73137159,
       "launchParam": null
@@ -737,7 +819,7 @@
     "updateTime": "2025-07-08T08:18:44.547Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73192790&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73192790&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73192790,
       "launchParam": null
@@ -817,7 +899,7 @@
     "updateTime": "2025-07-07T19:53:09.062Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72369046,
       "launchParam": null
@@ -856,7 +938,7 @@
     "updateTime": "2025-07-07T19:52:24.734Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73190692&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73190692&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73190692,
       "launchParam": null
@@ -979,7 +1061,7 @@
     "updateTime": "2025-07-07T13:16:34.331Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73182899&list=REGION_VIDEO:9",
+      "contentId": "v=73182899&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73182899,
       "launchParam": null
@@ -1059,7 +1141,7 @@
     "updateTime": "2025-07-07T10:01:12.991Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73137157&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73137157&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73137157,
       "launchParam": null
@@ -1178,7 +1260,7 @@
     "updateTime": "2025-07-07T07:05:33.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73070085,
       "launchParam": null
@@ -1260,7 +1342,7 @@
     "updateTime": "2025-07-06T16:46:40.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73174938&list=REGION_VIDEO:9",
+      "contentId": "v=73174938&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73174938,
       "launchParam": null
@@ -1457,7 +1539,7 @@
     "updateTime": "2025-07-05T19:41:17.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170697&list=REGION_VIDEO:9",
+      "contentId": "v=73170697&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73170697,
       "launchParam": null
@@ -1496,7 +1578,7 @@
     "updateTime": "2025-07-05T19:29:07.147Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170786&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73170786&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73170786,
       "launchParam": null
@@ -1970,7 +2052,7 @@
     "updateTime": "2025-07-04T15:18:17.299Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73160238&list=REGION_VIDEO:9",
+      "contentId": "v=73160238&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73160238,
       "launchParam": null
@@ -2136,7 +2218,7 @@
     "updateTime": "2025-07-04T11:02:52.226Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72988905&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72988905&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72988905,
       "launchParam": null
@@ -2175,7 +2257,7 @@
     "updateTime": "2025-07-04T11:01:41.796Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989330&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72989330&list=REGION_VIDEO:7",
       "type": "video",
       "id": 72989330,
       "launchParam": null
@@ -2292,7 +2374,7 @@
     "updateTime": "2025-07-04T08:49:50.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73151585&list=REGION_VIDEO:9",
+      "contentId": "v=73151585&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73151585,
       "launchParam": null
@@ -2528,7 +2610,7 @@
     "updateTime": "2025-07-03T12:16:34.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069416&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73069416&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73069416,
       "launchParam": null
@@ -2647,7 +2729,7 @@
     "updateTime": "2025-07-03T08:14:26.392Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73136239&list=REGION_VIDEO:9",
+      "contentId": "v=73136239&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73136239,
       "launchParam": null
@@ -2686,7 +2768,7 @@
     "updateTime": "2025-07-03T08:03:42.865Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73074156&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73074156&list=REGION_VIDEO:7",
       "type": "video",
       "id": 73074156,
       "launchParam": null
@@ -2790,49 +2872,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukrainians reflect on fighting Russia without US support",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 132,
-    "updateTime": "2025-07-02T22:06:10.441Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73128512&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73128512,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72959437_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72959437_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump's 'Big Beautiful Bill' sparks fear for healthcare, aid",
     "category": "Politics",
     "subCategory": "Society",
@@ -2928,7 +2967,7 @@
     "updateTime": "2025-07-02T15:04:51.092Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73033548&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73033548&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73033548,
       "launchParam": null
@@ -3008,7 +3047,7 @@
     "updateTime": "2025-07-02T14:18:43.183Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73114382&list=REGION_VIDEO:9",
+      "contentId": "v=73114382&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73114382,
       "launchParam": null
@@ -3088,7 +3127,7 @@
     "updateTime": "2025-07-02T14:03:58.184Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73116569&list=REGION_VIDEO:9",
+      "contentId": "v=73116569&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73116569,
       "launchParam": null
@@ -3155,45 +3194,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Berlin engineers made a swamp into a swimmable lake",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 413,
-    "updateTime": "2025-07-02T09:47:28.207Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73050565&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73050565,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73049074_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73049074_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Rides, rhythms and real talk ",
     "category": "Press Freedom",
     "subCategory": "Equality",
@@ -3209,7 +3209,7 @@
     "updateTime": "2025-07-02T08:53:58.004Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070013&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73070013&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73070013,
       "launchParam": null
@@ -3291,7 +3291,7 @@
     "updateTime": "2025-07-02T08:02:04.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73113983&list=REGION_VIDEO:9",
+      "contentId": "v=73113983&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73113983,
       "launchParam": null
@@ -3492,7 +3492,7 @@
     "updateTime": "2025-07-01T16:09:43.028Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73111007&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73111007&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73111007,
       "launchParam": null
@@ -3652,7 +3652,7 @@
     "updateTime": "2025-07-01T15:42:06.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73108279&list=REGION_VIDEO:9",
+      "contentId": "v=73108279&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73108279,
       "launchParam": null
@@ -3849,7 +3849,7 @@
     "updateTime": "2025-06-30T14:07:00.991Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73060917&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73060917&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73060917,
       "launchParam": null
@@ -4011,7 +4011,7 @@
     "updateTime": "2025-06-30T08:59:24.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069965&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73069965&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73069965,
       "launchParam": null
@@ -4520,7 +4520,7 @@
     "updateTime": "2025-06-27T19:21:28.913Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73073429&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73073429&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73073429,
       "launchParam": null
@@ -4598,7 +4598,7 @@
     "updateTime": "2025-06-27T14:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73050471&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73050471&list=REGION_VIDEO:4",
       "type": "video",
       "id": 73050471,
       "launchParam": null
@@ -4797,7 +4797,7 @@
     "updateTime": "2025-06-26T20:53:55.568Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055413&list=REGION_VIDEO:9",
+      "contentId": "v=73055413&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73055413,
       "launchParam": null
@@ -4877,7 +4877,7 @@
     "updateTime": "2025-06-26T19:01:30.209Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055250&list=REGION_VIDEO:9",
+      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73055250,
       "launchParam": null
@@ -5273,7 +5273,7 @@
     "updateTime": "2025-06-26T10:19:43.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=REGION_VIDEO:9",
+      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73047711,
       "launchParam": null
@@ -5398,7 +5398,7 @@
     "updateTime": "2025-06-26T06:59:49.333Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73044124&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73044124&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73044124,
       "launchParam": null
@@ -5441,7 +5441,7 @@
     "updateTime": "2025-06-25T17:40:59.243Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=REGION_VIDEO:9",
+      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73042647,
       "launchParam": null
@@ -5558,7 +5558,7 @@
     "updateTime": "2025-06-25T11:36:36.755Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73035594&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73035594&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73035594,
       "launchParam": null
@@ -5599,7 +5599,7 @@
     "updateTime": "2025-06-25T09:30:25.202Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72963308&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72963308&list=REGION_VIDEO:8",
       "type": "video",
       "id": 72963308,
       "launchParam": null
@@ -5681,7 +5681,7 @@
     "updateTime": "2025-06-25T08:28:08.402Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72986181&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72986181&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72986181,
       "launchParam": null
@@ -5746,6 +5746,49 @@
     "language": "en"
   },
   {
+    "titleText": "Iran nuclear program 'not obliterated,' US media reports",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Middle East",
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 181,
+    "updateTime": "2025-06-25T07:55:51.732Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73029845&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73029845,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73029402_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73029402_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Massive rains cut off towns, villages in southern China",
     "category": "Catastrophe",
     "subCategory": null,
@@ -5778,6 +5821,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73029254_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "'Diplomacy continues to fail' in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 213,
+    "updateTime": "2025-06-24T19:21:23.076Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73026843&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73026843,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72987469_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72987469_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza hospitals filled with people injured trying to get food",
+    "category": "Human Rights",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 118,
+    "updateTime": "2025-06-24T14:19:25.954Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73023595&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73023595,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72877539_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72877539_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5839,7 +5962,7 @@
     "updateTime": "2025-06-24T12:11:59.697Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72988495&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72988495&list=REGION_VIDEO:6",
       "type": "video",
       "id": 72988495,
       "launchParam": null
@@ -5906,22 +6029,22 @@
     "language": "en"
   },
   {
-    "titleText": "Revamping old German machinery for modern industry",
-    "category": "Nature and Environment",
-    "subCategory": "Innovation",
+    "titleText": "Could Iran be facing regime change?",
+    "category": "Politics",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:me:IR": "Iran"
     },
     "regions": [
-      "Germany"
+      "Iran"
     ],
-    "runningTime": 287,
-    "updateTime": "2025-06-24T08:54:08.179Z",
+    "runningTime": 104,
+    "updateTime": "2025-06-24T09:42:46.681Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977612&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73019203&list=REGION_VIDEO:9",
       "type": "video",
-      "id": 72977612,
+      "id": 73019203,
       "launchParam": null
     },
     "providerLogo": {
@@ -5931,13 +6054,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72976594_6.jpeg",
+      "url": "https://static.dw.com/image/72973741_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72976594_7.jpeg",
+      "url": "https://static.dw.com/image/72973741_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5977,6 +6100,131 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73013030_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nuclear enrichment a matter of 'dignity': Iranian ambassador",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Iran",
+      "Israel"
+    ],
+    "runningTime": 215,
+    "updateTime": "2025-06-23T18:51:30.645Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73012184,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71918706_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71918706_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Lithuania wants 'no exceptions' on NATO spending",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 501,
+    "updateTime": "2025-06-23T17:02:55.347Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73012130&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73012130,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72743663_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72743663_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel doubles down on Iran following US strikes",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Israel",
+      "Iran",
+      "United States of America"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-06-23T13:32:08.067Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73007268&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73007268,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73000162_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73000162_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6036,7 +6284,7 @@
     "updateTime": "2025-06-23T13:05:15.822Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977611&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72977611&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72977611,
       "launchParam": null
@@ -6055,6 +6303,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72976572_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Aid agencies fear for Gaza as Iran-Israel conflict continues",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 114,
+    "updateTime": "2025-06-23T12:55:38.766Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73005342,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72972603_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72972603_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6114,7 +6405,7 @@
     "updateTime": "2025-06-23T07:49:19.17Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900096&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72900096&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 72900096,
       "launchParam": null
@@ -6133,6 +6424,127 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886093_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iran left with 'limited' options after US strike",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "United States of America"
+    ],
+    "runningTime": 462,
+    "updateTime": "2025-06-22T19:29:01.045Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73001120&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73001120,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73002475_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73002475_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel: Several injured in Iranian strikes as US bombs Iran",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 241,
+    "updateTime": "2025-06-22T13:35:54.181Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73000116&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73000116,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72997764_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72997764_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Situation in Iran, Middle East 'precarious' after US strikes",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "United States of America"
+    ],
+    "runningTime": 359,
+    "updateTime": "2025-06-22T13:18:06.125Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72999991,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72998312_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72998312_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6213,6 +6625,88 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72997198_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel-Iran war enters second week with renewed strikes",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 170,
+    "updateTime": "2025-06-21T21:16:43.465Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72996529&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72996529,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72992817_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72992817_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How long can Israel and Iran remain at war? ",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Iran",
+      "Israel"
+    ],
+    "runningTime": 142,
+    "updateTime": "2025-06-21T18:00:53.291Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72995940&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72995940,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72995753_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72995753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6341,24 +6835,26 @@
     "language": "en"
   },
   {
-    "titleText": "Is South Africa the right voice for Africa on energy?",
-    "category": "Politics",
-    "subCategory": "Society",
+    "titleText": "European ministers hold de-escalation talks with Iran",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:ZA": "South Africa"
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Africa",
-      "South Africa"
+      "Iran",
+      "Israel",
+      "Europe"
     ],
-    "runningTime": 216,
-    "updateTime": "2025-06-20T15:38:54.895Z",
+    "runningTime": 139,
+    "updateTime": "2025-06-21T08:30:13.319Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989266&list=REGION_VIDEO:8",
+      "contentId": "v=72991686&list=REGION_VIDEO:9",
       "type": "video",
-      "id": 72989266,
+      "id": 72991686,
       "launchParam": null
     },
     "providerLogo": {
@@ -6368,13 +6864,175 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71850613_6.jpg",
+      "url": "https://static.dw.com/image/72990161_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71850613_7.jpg",
+      "url": "https://static.dw.com/image/72990161_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Air-raid alarms send Israelis fleeing into bomb shelters",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Israel",
+      "Iran"
+    ],
+    "runningTime": 172,
+    "updateTime": "2025-06-20T17:45:38.144Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72988600&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72988600,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72987395_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72987395_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iranians flee conflict to neighboring Turkey",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:europe:TR": "Turkey"
+    },
+    "regions": [
+      "Iran",
+      "Turkey"
+    ],
+    "runningTime": 98,
+    "updateTime": "2025-06-20T16:26:03.038Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72989499&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72989499,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73015349_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73015349_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dozens of Gazans waiting for aid killed by Israeli gunfire",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 124,
+    "updateTime": "2025-06-20T09:25:24.052Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72979777&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72979777,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72960863_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72960863_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Syrian refugees face tough decision on returning home",
+    "category": "Human Rights",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:me:LB": "Lebanon",
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Lebanon",
+      "Syria"
+    ],
+    "runningTime": 241,
+    "updateTime": "2025-06-20T08:00:05.4Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72981058&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72981058,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72981398_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72981398_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6455,45 +7113,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72983945_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Nigeria faces synthetic marijuana drug crisis",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 257,
-    "updateTime": "2025-06-19T17:56:24.555Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977986&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72977986,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72977938_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72977938_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6583,22 +7202,24 @@
     "language": "en"
   },
   {
-    "titleText": "Death toll rises to over 100 in Nigeria's Benue State",
+    "titleText": "Iran's Khamenei defies Trump's call to surrender",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:africa:NG": "Nigeria"
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel"
     },
     "regions": [
-      "Nigeria"
+      "Iran",
+      "Israel"
     ],
-    "runningTime": 178,
-    "updateTime": "2025-06-18T16:12:56.701Z",
+    "runningTime": 110,
+    "updateTime": "2025-06-18T15:11:54.858Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72965708&list=REGION_VIDEO:8",
+      "contentId": "v=72964547&list=REGION_VIDEO:9",
       "type": "video",
-      "id": 72965708,
+      "id": 72964547,
       "launchParam": null
     },
     "providerLogo": {
@@ -6608,13 +7229,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72966031_6.jpg",
+      "url": "https://static.dw.com/image/72963434_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72966031_7.jpg",
+      "url": "https://static.dw.com/image/72963434_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6635,7 +7256,7 @@
     "updateTime": "2025-06-18T08:46:12.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72956674&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72956674&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72956674,
       "launchParam": null
@@ -6661,6 +7282,92 @@
     "language": "en"
   },
   {
+    "titleText": "Dozens of people killed at aid distribution center in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Middle East",
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 132,
+    "updateTime": "2025-06-17T21:11:17.357Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 72955885,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72679053_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72679053_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Tehran gridlocked as thousands try to flee Israeli strikes",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Middle East",
+      "Iran",
+      "Israel"
+    ],
+    "runningTime": 105,
+    "updateTime": "2025-06-17T20:52:44.654Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72955883&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 72955883,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72943331_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72943331_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenyan police shoot dead trader at protests in Nairobi",
     "category": "Rule of Law",
     "subCategory": null,
@@ -6674,7 +7381,7 @@
     "updateTime": "2025-06-17T18:08:57.223Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72954929,
       "launchParam": null
@@ -6713,7 +7420,7 @@
     "updateTime": "2025-06-17T16:35:06.395Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72954902,
       "launchParam": null
@@ -6732,49 +7439,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72954865_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fear deepens in Tehran as Israel targets Iran's capital",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me": "Middle East",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Iran",
-      "Middle East",
-      "Israel"
-    ],
-    "runningTime": 117,
-    "updateTime": "2025-06-17T15:33:34.673Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72950784&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72950784,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72944578_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72944578_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6868,86 +7532,6 @@
     "language": "en"
   },
   {
-    "titleText": "Cape Town residents unite to document urban biodiversity",
-    "category": "Nature and Environment",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 341,
-    "updateTime": "2025-06-16T13:45:12.963Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72888059&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72888059,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72886854_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72886854_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Reality Check: Is Frankfurt as great as it looks?",
-    "category": "Lifestyle",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Europe",
-      "Germany"
-    ],
-    "runningTime": 245,
-    "updateTime": "2025-06-16T09:20:32.904Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900172&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72900172,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66266911_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66266911_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How critically are land rights discussed in your country?",
     "category": "Human Rights",
     "subCategory": "Society",
@@ -6967,7 +7551,7 @@
     "updateTime": "2025-06-16T09:19:58.766Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856022&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72856022&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72856022,
       "launchParam": null
@@ -7032,47 +7616,6 @@
     "language": "en"
   },
   {
-    "titleText": "From tourist to local: An American in Florence",
-    "category": "Lifestyle",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:IT": "Italy",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Italy",
-      "United States of America"
-    ],
-    "runningTime": 358,
-    "updateTime": "2025-06-15T09:50:32.865Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900108&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72900108,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72886353_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72886353_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Sailing coffee to Germany: A sustainable trade model?",
     "category": "Lifestyle",
     "subCategory": "Trade",
@@ -7127,7 +7670,7 @@
     "updateTime": "2025-06-14T05:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856039&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72856039&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72856039,
       "launchParam": null
@@ -7266,45 +7809,6 @@
     "language": "en"
   },
   {
-    "titleText": "Portugal's 'seaweed' boats are boosting tourism",
-    "category": "Culture",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 255,
-    "updateTime": "2025-06-12T13:52:21.243Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72823191&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72823191,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72821908_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72821908_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US chef helps convicts move on from a life of crime",
     "category": "Society",
     "subCategory": "Crime",
@@ -7417,45 +7921,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/15507297_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "South African teenagers helping animals — and themselves  ",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-06-11T09:59:10.305Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72778300&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72778300,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72762941_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72762941_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7632,7 +8097,7 @@
     "updateTime": "2025-06-09T20:45:44.871Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72849407&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72849407&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72849407,
       "launchParam": null
@@ -7775,45 +8240,6 @@
     "language": "en"
   },
   {
-    "titleText": "California governor calls Trump's actions 'inflammatory'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-06-08T10:44:07.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72835680&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72835680,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72834021_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72834021_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kashmir: Fears dampen celebrations at Hindu festival ",
     "category": "Society",
     "subCategory": "Conflicts",
@@ -7870,7 +8296,7 @@
     "updateTime": "2025-06-03T09:02:26.797Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674453&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72674453&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72674453,
       "launchParam": null
@@ -8428,7 +8854,7 @@
     "updateTime": "2025-05-25T14:16:13.425Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72637966,
       "launchParam": null
@@ -8666,7 +9092,7 @@
     "updateTime": "2025-05-20T18:01:56.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72616546&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72616546&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72616546,
       "launchParam": null
@@ -8865,7 +9291,7 @@
     "updateTime": "2025-05-17T09:49:39.333Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72559920&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72559920&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72559920,
       "launchParam": null
@@ -8923,47 +9349,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69427468_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why many in Pakistan are learning Mandarin Chinese",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PK": "Pakistan",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Pakistan",
-      "China"
-    ],
-    "runningTime": 191,
-    "updateTime": "2025-05-15T08:02:25.516Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72550039&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72550039,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72551251_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72551251_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9103,7 +9488,7 @@
     "updateTime": "2025-05-06T18:30:15.052Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72456244&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72456244&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72456244,
       "launchParam": null
@@ -9380,7 +9765,7 @@
     "updateTime": "2025-05-02T12:19:17.745Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72414570&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72414570&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72414570,
       "launchParam": null
@@ -9399,45 +9784,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72397773_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Soccer fans honor Pope Francis with memorial mass",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:AR": "Argentina"
-    },
-    "regions": [
-      "Argentina"
-    ],
-    "runningTime": 206,
-    "updateTime": "2025-04-26T16:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72365507&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 72365507,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72365294_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72365294_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9501,7 +9847,7 @@
     "updateTime": "2025-04-23T09:34:08.627Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72241296&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72241296&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72241296,
       "launchParam": null
@@ -9542,7 +9888,7 @@
     "updateTime": "2025-04-22T20:45:23.789Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72314603&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=72314603&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72314603,
       "launchParam": null
@@ -10085,84 +10431,6 @@
     "language": "en"
   },
   {
-    "titleText": "Balkan bird hunting: Illegal methods rife ",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:BA": "Bosnia and Herzegovina"
-    },
-    "regions": [
-      "Bosnia and Herzegovina"
-    ],
-    "runningTime": 320,
-    "updateTime": "2025-03-03T15:50:01.26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71815503&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71815503,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71816100_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71816100_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Keeping Serbia's wolf population under control",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RS": "Serbia"
-    },
-    "regions": [
-      "Serbia"
-    ],
-    "runningTime": 214,
-    "updateTime": "2025-03-02T08:38:04.213Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71773574&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71773574,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71773826_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71773826_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Baerbock at Global Media Forum: Journalism is under pressure",
     "category": "Media",
     "subCategory": null,
@@ -10176,7 +10444,7 @@
     "updateTime": "2024-06-17T19:36:39.033Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69393848&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=69393848&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 69393848,
       "launchParam": null
@@ -10211,7 +10479,7 @@
     "updateTime": "2023-08-17T03:28:11.096Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=66555243&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=66555243&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 66555243,
       "launchParam": null
@@ -10250,7 +10518,7 @@
     "updateTime": "2023-06-22T14:42:59.071Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=66005460&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=66005460&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 66005460,
       "launchParam": null
@@ -10293,7 +10561,7 @@
     "updateTime": "2023-06-20T08:39:41.646Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=65969578&list=GLOBAL_TOPIC_VIDEO:2",
+      "contentId": "v=65969578&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 65969578,
       "launchParam": null
@@ -10325,7 +10593,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-07-09T14:24:42.808Z",
+    "updateTime": "2025-07-09T15:15:15.52Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
