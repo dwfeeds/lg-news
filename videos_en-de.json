@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 87,
+    "updateTime": "2025-07-09T12:16:50.344Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73208003_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73208003_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Families separated by new policy",
     "category": "Politics",
     "subCategory": "Migration",
@@ -26,39 +59,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73210447_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 87,
-    "updateTime": "2025-07-09T07:23:14.557Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73191201_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73191201_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -172,7 +172,7 @@
     "updateTime": "2025-07-08T17:51:58.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204475&list=REGION_VIDEO:7",
+      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 73204475,
       "launchParam": null
@@ -271,7 +271,7 @@
     "updateTime": "2025-07-07T19:53:09.062Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=REGION_VIDEO:7",
+      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72369046,
       "launchParam": null
@@ -436,7 +436,7 @@
     "updateTime": "2025-07-05T19:29:07.147Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170786&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73170786&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73170786,
       "launchParam": null
@@ -799,7 +799,7 @@
     "updateTime": "2025-07-04T11:02:52.226Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72988905&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72988905&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72988905,
       "launchParam": null
@@ -832,7 +832,7 @@
     "updateTime": "2025-07-04T11:01:41.796Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989330&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72989330&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72989330,
       "launchParam": null
@@ -1030,7 +1030,7 @@
     "updateTime": "2025-07-03T12:16:34.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069416&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73069416&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73069416,
       "launchParam": null
@@ -1096,7 +1096,7 @@
     "updateTime": "2025-07-03T08:03:42.865Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73074156&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73074156&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73074156,
       "launchParam": null
@@ -1122,6 +1122,39 @@
     "language": "en"
   },
   {
+    "titleText": "Ukrainians reflect on fighting Russia without US support",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "runningTime": 132,
+    "updateTime": "2025-07-02T22:06:10.441Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73128512&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73128512,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72959437_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72959437_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How Berlin engineers made a swamp into a swimmable lake",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -1129,7 +1162,7 @@
     "updateTime": "2025-07-02T09:47:28.207Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73050565&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73050565&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73050565,
       "launchParam": null
@@ -1591,7 +1624,7 @@
     "updateTime": "2025-06-25T08:28:08.402Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72986181&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72986181&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72986181,
       "launchParam": null
@@ -1624,7 +1657,7 @@
     "updateTime": "2025-06-24T08:54:08.179Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977612&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72977612&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72977612,
       "launchParam": null
@@ -1723,7 +1756,7 @@
     "updateTime": "2025-06-23T07:49:19.17Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900096&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72900096&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72900096,
       "launchParam": null
@@ -2600,6 +2633,72 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70287674_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Baerbock at Global Media Forum: Journalism is under pressure",
+    "category": "Media",
+    "subCategory": null,
+    "runningTime": 161,
+    "updateTime": "2024-06-17T19:36:39.033Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69393848&list=GLOBAL_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 69393848,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69388032_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69388032_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Street Debate: Are you a journalist or an activist?",
+    "category": "Society",
+    "subCategory": "Press Freedom",
+    "runningTime": 526,
+    "updateTime": "2023-08-17T03:28:11.096Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=66555243&list=GLOBAL_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 66555243,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66528905_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66528905_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
