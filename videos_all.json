@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Donald Trump hosts African leaders at White House",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "United States of America",
+      "Africa"
+    ],
+    "runningTime": 172,
+    "updateTime": "2025-07-10T09:02:04.508Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73223776&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73223776,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73222157_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73222157_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russia attacks Kyiv as US resumes weapons deliveries",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-07-10T09:00:24.834Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73223699&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73223699,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73221954_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73221954_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump's immigration crackdown sparks fear across the US",
     "category": "Politics",
     "subCategory": "Human Rights",
@@ -126,7 +206,7 @@
     "updateTime": "2025-07-10T06:42:34.451Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -657,7 +737,7 @@
     "updateTime": "2025-07-08T19:51:48.118Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73204985,
       "launchParam": null
@@ -696,7 +776,7 @@
     "updateTime": "2025-07-08T17:51:58.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73204475,
       "launchParam": null
@@ -737,7 +817,7 @@
     "updateTime": "2025-07-08T16:41:44.531Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73200304&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73200304&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73200304,
       "launchParam": null
@@ -780,7 +860,7 @@
     "updateTime": "2025-07-08T16:32:49.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73200881&list=REGION_VIDEO:4",
+      "contentId": "v=73200881&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73200881,
       "launchParam": null
@@ -1020,7 +1100,7 @@
     "updateTime": "2025-07-08T08:18:44.547Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73192790&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73192790&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73192790,
       "launchParam": null
@@ -1100,7 +1180,7 @@
     "updateTime": "2025-07-07T19:53:09.062Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72369046,
       "launchParam": null
@@ -1139,7 +1219,7 @@
     "updateTime": "2025-07-07T19:52:24.734Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73190692&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73190692&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73190692,
       "launchParam": null
@@ -1262,7 +1342,7 @@
     "updateTime": "2025-07-07T13:16:34.331Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73182899&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73182899&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73182899,
       "launchParam": null
@@ -1461,7 +1541,7 @@
     "updateTime": "2025-07-07T07:05:33.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73070085,
       "launchParam": null
@@ -1543,7 +1623,7 @@
     "updateTime": "2025-07-06T16:46:40.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73174938&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73174938&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73174938,
       "launchParam": null
@@ -1740,7 +1820,7 @@
     "updateTime": "2025-07-05T19:41:17.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170697&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73170697&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73170697,
       "launchParam": null
@@ -2253,7 +2333,7 @@
     "updateTime": "2025-07-04T15:18:17.299Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73160238&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73160238&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73160238,
       "launchParam": null
@@ -2575,7 +2655,7 @@
     "updateTime": "2025-07-04T08:49:50.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73151585&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73151585&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73151585,
       "launchParam": null
@@ -2718,47 +2798,6 @@
     "language": "en"
   },
   {
-    "titleText": "What are the challenges facing Denmark's EU presidency?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Europe",
-      "Denmark"
-    ],
-    "runningTime": 179,
-    "updateTime": "2025-07-03T15:21:50.242Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73146099&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73146099,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73097432_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73097432_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "At least five dead after ferry sinks near Bali, Indonesia",
     "category": "Catastrophe",
     "subCategory": null,
@@ -2891,7 +2930,7 @@
     "updateTime": "2025-07-03T08:14:26.392Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73136239&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73136239&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73136239,
       "launchParam": null
@@ -3170,7 +3209,7 @@
     "updateTime": "2025-07-02T14:18:43.183Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73114382&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73114382&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73114382,
       "launchParam": null
@@ -3250,7 +3289,7 @@
     "updateTime": "2025-07-02T14:03:58.184Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73116569&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73116569&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73116569,
       "launchParam": null
@@ -3291,7 +3330,7 @@
     "updateTime": "2025-07-02T10:46:11.744Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73108677&list=REGION_VIDEO:8",
+      "contentId": "v=73108677&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73108677,
       "launchParam": null
@@ -3332,7 +3371,7 @@
     "updateTime": "2025-07-02T08:53:58.004Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070013&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73070013&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73070013,
       "launchParam": null
@@ -3414,7 +3453,7 @@
     "updateTime": "2025-07-02T08:02:04.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73113983&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73113983&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73113983,
       "launchParam": null
@@ -3775,7 +3814,7 @@
     "updateTime": "2025-07-01T15:42:06.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73108279&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73108279&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73108279,
       "launchParam": null
@@ -3972,7 +4011,7 @@
     "updateTime": "2025-06-30T14:07:00.991Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73060917&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73060917&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73060917,
       "launchParam": null
@@ -4134,7 +4173,7 @@
     "updateTime": "2025-06-30T08:59:24.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069965&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73069965&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73069965,
       "launchParam": null
@@ -4643,7 +4682,7 @@
     "updateTime": "2025-06-27T19:21:28.913Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73073429&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73073429&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73073429,
       "launchParam": null
@@ -4920,7 +4959,7 @@
     "updateTime": "2025-06-26T20:53:55.568Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055413&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73055413&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73055413,
       "launchParam": null
@@ -5000,7 +5039,7 @@
     "updateTime": "2025-06-26T19:01:30.209Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73055250,
       "launchParam": null
@@ -5396,7 +5435,7 @@
     "updateTime": "2025-06-26T10:19:43.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73047711,
       "launchParam": null
@@ -5521,7 +5560,7 @@
     "updateTime": "2025-06-26T06:59:49.333Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73044124&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73044124&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73044124,
       "launchParam": null
@@ -5564,7 +5603,7 @@
     "updateTime": "2025-06-25T17:40:59.243Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73042647,
       "launchParam": null
@@ -5681,7 +5720,7 @@
     "updateTime": "2025-06-25T11:36:36.755Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73035594&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73035594&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73035594,
       "launchParam": null
@@ -5964,7 +6003,7 @@
     "updateTime": "2025-06-24T19:21:23.076Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73026843&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73026843&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73026843,
       "launchParam": null
@@ -6005,7 +6044,7 @@
     "updateTime": "2025-06-24T14:19:25.954Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73023595&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73023595&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73023595,
       "launchParam": null
@@ -6111,6 +6150,47 @@
     "language": "en"
   },
   {
+    "titleText": "Thailand closes border crossings to Cambodia ",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:TH": "Thailand",
+      "region:asia:KH": "Cambodia"
+    },
+    "regions": [
+      "Thailand",
+      "Cambodia"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-06-24T11:49:51.361Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73019375&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73019375,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73022770_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73022770_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Could Iran be facing regime change?",
     "category": "Politics",
     "subCategory": null,
@@ -6204,7 +6284,7 @@
     "updateTime": "2025-06-23T18:51:30.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73012184,
       "launchParam": null
@@ -6245,7 +6325,7 @@
     "updateTime": "2025-06-23T17:02:55.347Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73012130&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73012130&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73012130,
       "launchParam": null
@@ -6409,7 +6489,7 @@
     "updateTime": "2025-06-23T12:55:38.766Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73005342,
       "launchParam": null
@@ -6608,7 +6688,7 @@
     "updateTime": "2025-06-22T13:18:06.125Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72999991,
       "launchParam": null
@@ -6649,7 +6729,7 @@
     "updateTime": "2025-06-22T12:20:39.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72999826,
       "launchParam": null
@@ -7327,6 +7407,45 @@
     "language": "en"
   },
   {
+    "titleText": "AI in restaurants: When robots serve the food",
+    "category": "Science",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 248,
+    "updateTime": "2025-06-18T09:36:38.36Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900338&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72900338,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70139416_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70139416_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Nairobi: Police, protesters clash in second week of unrest",
     "category": "Politics",
     "subCategory": null,
@@ -7340,7 +7459,7 @@
     "updateTime": "2025-06-18T08:46:12.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72956674&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72956674&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72956674,
       "launchParam": null
@@ -7383,7 +7502,7 @@
     "updateTime": "2025-06-17T21:11:17.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72955885&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72955885,
       "launchParam": null
@@ -7465,7 +7584,7 @@
     "updateTime": "2025-06-17T18:08:57.223Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72954929,
       "launchParam": null
@@ -7504,7 +7623,7 @@
     "updateTime": "2025-06-17T16:35:06.395Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72954902,
       "launchParam": null
@@ -7635,7 +7754,7 @@
     "updateTime": "2025-06-16T09:19:58.766Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856022&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72856022&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72856022,
       "launchParam": null
@@ -7754,7 +7873,7 @@
     "updateTime": "2025-06-14T05:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72856039&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72856039&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72856039,
       "launchParam": null
@@ -8129,45 +8248,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump 'inviting legal challenges' with National Guard order",
-    "category": "Rule of Law",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 495,
-    "updateTime": "2025-06-09T22:00:45.455Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72849503&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72849503,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72849758_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72849758_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenyan blogger's death sparks fresh anti-government protests",
     "category": "Freedom of Speech",
     "subCategory": "Human Rights",
@@ -8181,7 +8261,7 @@
     "updateTime": "2025-06-09T20:45:44.871Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72849407&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72849407&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72849407,
       "launchParam": null
@@ -8341,7 +8421,7 @@
     "updateTime": "2025-06-03T09:02:26.797Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72674453&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72674453&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72674453,
       "launchParam": null
@@ -8899,7 +8979,7 @@
     "updateTime": "2025-05-25T14:16:13.425Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72637966,
       "launchParam": null
@@ -9137,7 +9217,7 @@
     "updateTime": "2025-05-20T18:01:56.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72616546&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72616546&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72616546,
       "launchParam": null
@@ -9336,7 +9416,7 @@
     "updateTime": "2025-05-17T09:49:39.333Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72559920&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72559920&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72559920,
       "launchParam": null
@@ -9355,6 +9435,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72559970_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Autonomous weapons: Machines decide over life and death",
+    "category": "Technology",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:global": "Global",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Global",
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 158,
+    "updateTime": "2025-05-16T10:31:45.608Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72565302&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72565302,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72558336_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72558336_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9533,7 +9656,7 @@
     "updateTime": "2025-05-06T18:30:15.052Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72456244&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72456244&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72456244,
       "launchParam": null
@@ -9630,6 +9753,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/61375735_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cow AI: How robots are changing cattle farming",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-05-05T12:28:11.344Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72438322&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72438322,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/61717767_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/61717767_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9795,6 +9957,45 @@
     "language": "en"
   },
   {
+    "titleText": "Robot chef revolutionizes hospital catering",
+    "category": "Business",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 371,
+    "updateTime": "2025-05-02T12:57:23.868Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72377939&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72377939,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71878270_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71878270_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How this Kenyan is unscrambling Africa  ",
     "category": "Culture",
     "subCategory": "Arts",
@@ -9810,7 +10011,7 @@
     "updateTime": "2025-05-02T12:19:17.745Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72414570&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72414570&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72414570,
       "launchParam": null
@@ -9892,7 +10093,7 @@
     "updateTime": "2025-04-23T09:34:08.627Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72241296&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72241296&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72241296,
       "launchParam": null
@@ -9933,7 +10134,7 @@
     "updateTime": "2025-04-22T20:45:23.789Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72314603&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=72314603&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72314603,
       "launchParam": null
@@ -10437,6 +10638,45 @@
     "language": "en"
   },
   {
+    "titleText": "How did the Ingenuity helicopter fly on Mars?",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 151,
+    "updateTime": "2025-03-07T09:19:30.932Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71790766&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71790766,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/57152635_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/57152635_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Justice for oil workers in Norway? ",
     "category": "Society",
     "subCategory": "Health",
@@ -10476,6 +10716,671 @@
     "language": "en"
   },
   {
+    "titleText": "Machine oil instead of olive oil? Robots as cooks",
+    "category": "Innovation",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 244,
+    "updateTime": "2025-02-25T12:36:45.342Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71704518&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71704518,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71688694_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71688694_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's shift to robot automation",
+    "category": "Business",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 286,
+    "updateTime": "2025-02-20T08:51:59.385Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71639884&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71639884,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71632215_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71632215_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robotic elephant in Indian temple rituals",
+    "category": "Digital World",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 75,
+    "updateTime": "2025-02-07T11:56:24.688Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71537232&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71537232,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71518198_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71518198_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cutting-edge technology: AI robots made in Germany",
+    "category": "Digital World",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 449,
+    "updateTime": "2024-12-24T10:09:23.494Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71121599&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71121599,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70952795_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70952795_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robots that mimic marine life",
+    "category": "Business",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 266,
+    "updateTime": "2024-12-18T11:27:21.214Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71065134&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71065134,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71048824_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71048824_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Could an AI robot cowboy help Australia muster its cattle?",
+    "category": "Technology",
+    "subCategory": null,
+    "region_ids": {
+      "region:oceania:AU": "Australia"
+    },
+    "regions": [
+      "Australia"
+    ],
+    "runningTime": 83,
+    "updateTime": "2024-12-12T12:00:32.942Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71036670&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 71036670,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71031276_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71031276_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany: Three-armed robot conductor makes debut in Dresden",
+    "category": "Culture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 142,
+    "updateTime": "2024-11-29T15:57:52.745Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70921548&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70921548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70471677_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70471677_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How sea animals are inspiring autonomous robots",
+    "category": "Technology",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 264,
+    "updateTime": "2024-11-21T14:12:45.799Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70840890&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70840890,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/18523485_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/18523485_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Farming robots: The future of agriculture? ",
+    "category": "Innovation",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 145,
+    "updateTime": "2024-11-15T15:19:51.902Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70793706&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70793706,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70779668_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70779668_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A robot chef for hospital staff ",
+    "category": "Technology",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 86,
+    "updateTime": "2024-11-15T15:18:39.203Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70793675&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70793675,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70779620_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70779620_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robots: Coworkers or competitors? ",
+    "category": "Business",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 255,
+    "updateTime": "2024-11-13T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70751236&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70751236,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70734847_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70734847_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robotic conductors — orchestra embraces cutting-edge tech",
+    "category": "Science",
+    "subCategory": "Music",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 150,
+    "updateTime": "2024-11-12T13:45:22.269Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70735907&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70735907,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70653938_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70653938_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robo-pups to the rescue — can you trust robotic guide dogs?",
+    "category": "Technology",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "China"
+    ],
+    "runningTime": 74,
+    "updateTime": "2024-11-01T16:03:22.73Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70659818&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70659818,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70650712_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70650712_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The cellist that can play music humans can't",
+    "category": "Society",
+    "subCategory": "Music",
+    "region_ids": {
+      "region:europe:SE": "Sweden"
+    },
+    "regions": [
+      "Sweden"
+    ],
+    "runningTime": 117,
+    "updateTime": "2024-10-23T12:54:55.902Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70579993&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70579993,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70580486_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70580486_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Young Nigerian creates device to track deforestation",
+    "category": "Science",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 105,
+    "updateTime": "2024-10-23T08:42:04.662Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70456418&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70456418,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70456823_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70456823_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Robot conductor takes charge at Dresden Symphony Orchestra ",
+    "category": "Innovation",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 154,
+    "updateTime": "2024-10-13T07:48:47.724Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70480474&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70480474,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70471665_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70471665_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German robot maker takes on Chinese rivals",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Germany",
+      "China"
+    ],
+    "runningTime": 168,
+    "updateTime": "2024-09-23T16:37:34.601Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70302067&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 70302067,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65040888_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65040888_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Baerbock at Global Media Forum: Journalism is under pressure",
     "category": "Media",
     "subCategory": null,
@@ -10489,7 +11394,7 @@
     "updateTime": "2024-06-17T19:36:39.033Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69393848&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=69393848&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 69393848,
       "launchParam": null
@@ -10524,7 +11429,7 @@
     "updateTime": "2023-08-17T03:28:11.096Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=66555243&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=66555243&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 66555243,
       "launchParam": null
@@ -10563,7 +11468,7 @@
     "updateTime": "2023-06-22T14:42:59.071Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=66005460&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=66005460&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 66005460,
       "launchParam": null
@@ -10606,7 +11511,7 @@
     "updateTime": "2023-06-20T08:39:41.646Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=65969578&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=65969578&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 65969578,
       "launchParam": null
@@ -10638,7 +11543,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-07-10T08:36:05.779Z",
+    "updateTime": "2025-07-10T09:25:45.122Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
