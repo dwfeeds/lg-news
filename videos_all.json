@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Security loopholes in Germany's parliament spark concern",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 176,
+    "updateTime": "2025-07-10T19:03:48.182Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73233994&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73233994,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63836858_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63836858_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "No signal? How to message your friends anyway ",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -2715,45 +2754,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72973845_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Romania: Soon Europe's top gas supplier?",
-    "category": "Business",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:RO": "Romania"
-    },
-    "regions": [
-      "Romania"
-    ],
-    "runningTime": 406,
-    "updateTime": "2025-07-04T11:01:41.796Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72989330&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 72989330,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72973827_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72973827_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11543,7 +11543,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-07-10T16:10:17.711Z",
+    "updateTime": "2025-07-10T19:14:51.301Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12689,8 +12689,8 @@
   },
   {
     "titleText": "Simbabwe: Plastikmüll überschwemmt die Victoriafälle",
-    "category": "Wirtschaft",
-    "subCategory": "Natur und Umwelt",
+    "category": "Natur und Umwelt",
+    "subCategory": "Gesellschaft",
     "region_ids": {
       "region:africa:ZW": "Simbabwe"
     },
@@ -12728,8 +12728,8 @@
   },
   {
     "titleText": "Japan: Die letzten Meerfrauen",
-    "category": "Wirtschaft",
-    "subCategory": "Natur und Umwelt",
+    "category": "Natur und Umwelt",
+    "subCategory": "Klima",
     "region_ids": {
       "region:asia:JP": "Japan"
     },
