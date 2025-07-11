@@ -86,7 +86,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 90,
-    "updateTime": "2025-07-11T15:12:34.497Z",
+    "updateTime": "2025-07-11T16:28:44.355Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:10",
@@ -101,13 +101,95 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73241432_6.jpg",
+      "url": "https://static.dw.com/image/73241401_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73241432_7.jpg",
+      "url": "https://static.dw.com/image/73241401_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Palestinians risk Israeli fire for share of insufficient aid",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me": "Middle East",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Middle East",
+      "Israel"
+    ],
+    "runningTime": 160,
+    "updateTime": "2025-07-11T15:54:17.629Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73246694&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73246694,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73246805_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73246805_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Inside Pakistan's morphine crisis",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 340,
+    "updateTime": "2025-07-11T15:48:31.54Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73246721&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73246721,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73242758_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73242758_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1268,13 +1350,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73144224_6.jpeg",
+      "url": "https://static.dw.com/image/69662207_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73144224_7.jpeg",
+      "url": "https://static.dw.com/image/69662207_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2720,45 +2802,6 @@
     "language": "en"
   },
   {
-    "titleText": "The birthplace of Port: A journey to the Douro Valley",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159589,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73140521_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73140521_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
     "category": "Arts",
     "subCategory": "Equality",
@@ -2791,6 +2834,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The birthplace of Port: A journey to the Douro Valley",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 289,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159589,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73140521_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73140521_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5813,88 +5895,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73024812_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How India is becoming a major exporter of medical technology",
-    "category": "Technology",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 216,
-    "updateTime": "2025-06-25T14:30:39.663Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73039744&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73039744,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73036864_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73036864_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Mideast nuclear pursuits shrouded in decades of ambiguity",
-    "category": "Politics",
-    "subCategory": "History",
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Iran",
-      "Israel"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-06-25T09:27:02.635Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73032206&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73032206,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70394549_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70394549_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10939,7 +10939,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-07-11T15:32:09.485Z",
+    "updateTime": "2025-07-11T16:35:07.238Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10954,13 +10954,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73241432_6.jpg",
+      "url": "https://static.dw.com/image/73241401_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73241432_7.jpg",
+      "url": "https://static.dw.com/image/73241401_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12514,45 +12514,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73144244_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Deutschland - vom Kriegsverlierer zur NATO-Führungsmacht",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 134,
-    "updateTime": "2025-07-09T13:27:39.951Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73215755&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73215755,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73198822_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73198822_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
