@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "30 years on: The Srebrenica genocide explained",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:BA": "Bosnia and Herzegovina"
+    },
+    "regions": [
+      "Bosnia and Herzegovina"
+    ],
+    "runningTime": 270,
+    "updateTime": "2025-07-11T05:18:24.624Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73202413&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73202413,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73137707_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73137707_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -195,13 +234,11 @@
   {
     "titleText": "Chimamanda Ngozi Adichie returns to Nigeria on book tour",
     "category": "Literature",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:africa": "Africa",
       "region:africa:NG": "Nigeria"
     },
     "regions": [
-      "Africa",
       "Nigeria"
     ],
     "runningTime": 136,
@@ -1242,45 +1279,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73201187_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "30 years on: the Srebrenica genocide explained",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:BA": "Bosnia and Herzegovina"
-    },
-    "regions": [
-      "Bosnia and Herzegovina"
-    ],
-    "runningTime": 270,
-    "updateTime": "2025-07-08T15:05:09.922Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73202413&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73202413,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73137707_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73137707_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12863,7 +12861,7 @@
     "updateTime": "2025-07-10T14:23:09.714Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73229991&list=REPORTS_VIDEO:1",
+      "contentId": "v=73229991&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 73229991,
       "launchParam": null
@@ -12941,7 +12939,7 @@
     "updateTime": "2025-07-10T10:08:50.6Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73226016&list=FEATURED_VIDEO:1",
+      "contentId": "v=73226016&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 73226016,
       "launchParam": null
