@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Trump announces 30% tariffs on EU goods ",
+    "category": "Trade",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 105,
+    "updateTime": "2025-07-13T14:44:45.216Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73261659&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73261659,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73261912_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73261912_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -2972,45 +3013,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mourners gather for football star Diogo Jota's wake",
-    "category": "Soccer",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-07-05T14:32:52.118Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73169681&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73169681,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73165329_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73165329_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Texas flash flooding kills at least 24 with several missing",
     "category": "Catastrophe",
     "subCategory": "Climate",
@@ -3128,45 +3130,6 @@
     "language": "en"
   },
   {
-    "titleText": "The birthplace of Port: A journey to the Douro Valley",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159589,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73140521_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73140521_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
     "category": "Arts",
     "subCategory": "Equality",
@@ -3199,6 +3162,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The birthplace of Port: A journey to the Douro Valley",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 289,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159589,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73140521_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73140521_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
