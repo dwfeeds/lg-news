@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 88,
+    "updateTime": "2025-07-13T17:57:51.84Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73254278_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73254278_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Syrian island hopes for tourist boom",
+    "category": "Business",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 153,
+    "updateTime": "2025-07-13T17:45:35.542Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73262927&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73262927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73051538_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73051538_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump announces 30% tariffs on EU goods ",
     "category": "Trade",
     "subCategory": null,
@@ -34,41 +108,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73261912_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 88,
-    "updateTime": "2025-07-13T12:26:21.624Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73254278_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73254278_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5631,45 +5670,6 @@
     "language": "en"
   },
   {
-    "titleText": "Syria's Christians in fear after church attack",
-    "category": "Terrorism",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 220,
-    "updateTime": "2025-06-26T20:02:44.136Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055385&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73055385,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73001972_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73001972_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Netherlands returns stolen bronzes to Nigeria",
     "category": "Culture",
     "subCategory": "History",
@@ -10814,6 +10814,45 @@
     "language": "en"
   },
   {
+    "titleText": "Campesinos se oponen a explotación minera",
+    "category": "Economía",
+    "subCategory": "Naturaleza y medio ambiente",
+    "region_ids": {
+      "region:cala:CO": "Colombia"
+    },
+    "regions": [
+      "Colombia"
+    ],
+    "runningTime": 210,
+    "updateTime": "2025-07-13T18:10:35.161Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73220493&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73220493,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73215714_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73215714_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -10924,45 +10963,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73210447_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Campesinos se oponen a explotación minera",
-    "category": "Economía",
-    "subCategory": "Naturaleza y medio ambiente",
-    "region_ids": {
-      "region:cala:CO": "Colombia"
-    },
-    "regions": [
-      "Colombia"
-    ],
-    "runningTime": 210,
-    "updateTime": "2025-07-09T20:48:08.404Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73220493&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73220493,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73215714_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73215714_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
