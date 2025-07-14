@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israeli missile kills children collecting water in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-07-14T08:36:21.158Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73267138&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73267138,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73266875_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73266875_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -9,7 +48,7 @@
     "updateTime": "2025-07-14T06:39:48.947Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:8",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -452,7 +491,7 @@
     "updateTime": "2025-07-12T10:54:39.882Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73245194&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73245194&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73245194,
       "launchParam": null
@@ -561,8 +600,8 @@
   },
   {
     "titleText": "How AI is used in anime productions",
-    "category": "Film",
-    "subCategory": "Technology",
+    "category": "Technology",
+    "subCategory": "Film",
     "region_ids": {
       "region:asia:JP": "Japan"
     },
@@ -573,7 +612,7 @@
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73238616&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 73238616,
       "launchParam": null
@@ -733,7 +772,7 @@
     "updateTime": "2025-07-11T17:05:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73210993&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73210993&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73210993,
       "launchParam": null
@@ -776,7 +815,7 @@
     "updateTime": "2025-07-11T16:36:37.611Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73247445&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73247445&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73247445,
       "launchParam": null
@@ -936,7 +975,7 @@
     "updateTime": "2025-07-11T08:19:27.567Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238115&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73238115&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73238115,
       "launchParam": null
@@ -1293,7 +1332,7 @@
     "updateTime": "2025-07-10T16:13:01.424Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73227847&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73227847&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73227847,
       "launchParam": null
@@ -1375,7 +1414,7 @@
     "updateTime": "2025-07-10T10:39:45.509Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72800137&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72800137&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72800137,
       "launchParam": null
@@ -1533,7 +1572,7 @@
     "updateTime": "2025-07-10T08:40:37.67Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73223560&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73223560&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73223560,
       "launchParam": null
@@ -1822,7 +1861,7 @@
     "updateTime": "2025-07-09T09:52:08.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73209666&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73209666&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73209666,
       "launchParam": null
@@ -2062,7 +2101,7 @@
     "updateTime": "2025-07-08T19:51:48.118Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73204985,
       "launchParam": null
@@ -2185,7 +2224,7 @@
     "updateTime": "2025-07-08T16:32:49.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73200881&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73200881&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73200881,
       "launchParam": null
@@ -2384,7 +2423,7 @@
     "updateTime": "2025-07-08T06:23:03.898Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73191711&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73191711&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73191711,
       "launchParam": null
@@ -2706,7 +2745,7 @@
     "updateTime": "2025-07-07T07:23:28.413Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069444&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73069444&list=REGION_VIDEO:7",
       "type": "video",
       "id": 73069444,
       "launchParam": null
@@ -3537,7 +3576,7 @@
     "updateTime": "2025-07-03T15:21:50.242Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73146099&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73146099&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73146099,
       "launchParam": null
@@ -3935,7 +3974,7 @@
     "updateTime": "2025-07-02T14:27:59.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73114777&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73114777&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73114777,
       "launchParam": null
@@ -4095,7 +4134,7 @@
     "updateTime": "2025-07-02T10:46:11.744Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73108677&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73108677&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73108677,
       "launchParam": null
@@ -4795,49 +4834,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73046011_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel issues new evacuation order for northern Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel",
-      "Iran"
-    ],
-    "runningTime": 134,
-    "updateTime": "2025-06-30T11:28:21.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73087306&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73087306,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72972710_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72972710_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5564,7 +5560,7 @@
     "updateTime": "2025-06-27T11:41:53.968Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73065644&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73065644&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73065644,
       "launchParam": null
@@ -6044,7 +6040,7 @@
     "updateTime": "2025-06-24T07:48:03.087Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73015356&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73015356&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73015356,
       "launchParam": null
@@ -6187,84 +6183,6 @@
     "language": "en"
   },
   {
-    "titleText": "What makes Germany's Pumpernickel rye bread so special",
-    "category": "Lifestyle",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 248,
-    "updateTime": "2025-06-23T09:25:40.394Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72986185&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72986185,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72975747_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72975747_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Italian vet fights for Europe's hedgehogs",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 231,
-    "updateTime": "2025-06-23T07:49:19.17Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900096&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72900096,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72886093_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72886093_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Turkey concerned over wider fallout from Israel-Iran war",
     "category": "Conflicts",
     "subCategory": null,
@@ -6280,7 +6198,7 @@
     "updateTime": "2025-06-22T12:20:39.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72999826,
       "launchParam": null
@@ -6401,7 +6319,7 @@
     "updateTime": "2025-06-20T08:00:05.4Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72981058&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72981058&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72981058,
       "launchParam": null
@@ -6440,7 +6358,7 @@
     "updateTime": "2025-06-20T07:44:41.455Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72873084&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72873084&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72873084,
       "launchParam": null
@@ -6520,7 +6438,7 @@
     "updateTime": "2025-06-19T20:43:42.241Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72978683&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72978683&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72978683,
       "launchParam": null
@@ -6641,7 +6559,7 @@
     "updateTime": "2025-06-18T09:36:38.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900338&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72900338&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 72900338,
       "launchParam": null
@@ -6842,7 +6760,7 @@
     "updateTime": "2025-06-13T16:35:27.309Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72902353&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72902353&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72902353,
       "launchParam": null
@@ -6957,7 +6875,7 @@
     "updateTime": "2025-06-12T16:55:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72888416&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=72888416&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 72888416,
       "launchParam": null
@@ -7102,45 +7020,6 @@
     "language": "en"
   },
   {
-    "titleText": "South African teenagers helping animals — and themselves  ",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-06-11T09:59:10.305Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72778300&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72778300,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72762941_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72762941_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Downtown LA under curfew after days of protests",
     "category": "Politics",
     "subCategory": "Migration",
@@ -7219,45 +7098,6 @@
     "language": "en"
   },
   {
-    "titleText": "In Uganda, former poachers now protect mountain gorillas",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Uganda"
-    ],
-    "runningTime": 365,
-    "updateTime": "2025-06-10T14:56:17.15Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72778224&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72778224,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/59448934_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/59448934_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India's Konyak tribe rethinks tradition to save wildlife",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -7271,7 +7111,7 @@
     "updateTime": "2025-06-10T13:01:58.461Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72806583&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72806583&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 72806583,
       "launchParam": null
@@ -7585,7 +7425,7 @@
     "updateTime": "2025-05-30T19:58:44.986Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72741496&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72741496&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72741496,
       "launchParam": null
@@ -8011,45 +7851,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kenya goes flat out to protect the pancake tortoise",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 173,
-    "updateTime": "2025-05-25T14:16:13.425Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72637966&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72637966,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72638304_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72638304_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How women in northern Ghana resolved a land conflict ",
     "category": "Conflicts",
     "subCategory": "Equality",
@@ -8329,45 +8130,6 @@
     "language": "en"
   },
   {
-    "titleText": "How artificial intelligence is saving elephants' lives",
-    "category": "Science",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 208,
-    "updateTime": "2025-05-20T09:10:36.37Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72559268&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72559268,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72559123_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72559123_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Torrential rain causes flooding near Buenos Aires",
     "category": "Catastrophe",
     "subCategory": null,
@@ -8465,7 +8227,7 @@
     "updateTime": "2025-05-16T10:31:45.608Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72565302&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72565302&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 72565302,
       "launchParam": null
@@ -8564,45 +8326,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72551251_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Italy's infamous Scampia housing estate gets a make-over",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 317,
-    "updateTime": "2025-05-14T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72491869&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72491869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72478709_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72478709_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8729,45 +8452,6 @@
     "language": "en"
   },
   {
-    "titleText": "Cabblow Studios turns medicine into animation",
-    "category": "Innovation",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:africa:ZA": "South Africa"
-    },
-    "regions": [
-      "South Africa"
-    ],
-    "runningTime": 379,
-    "updateTime": "2025-05-06T18:33:23.719Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72456251&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72456251,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72186566_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72186566_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Rwandan architect redesigns urban development in Africa",
     "category": "Architecture",
     "subCategory": "Health",
@@ -8859,7 +8543,7 @@
     "updateTime": "2025-05-05T12:28:11.344Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72438322&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72438322&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 72438322,
       "launchParam": null
@@ -9056,7 +8740,7 @@
     "updateTime": "2025-05-02T12:57:23.868Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72377939&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72377939&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 72377939,
       "launchParam": null
@@ -9218,7 +8902,7 @@
     "updateTime": "2025-04-14T07:24:03.21Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146399&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72146399&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72146399,
       "launchParam": null
@@ -9237,45 +8921,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72130665_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Aboriginal wisdom to fight bushfires",
-    "category": "Catastrophe",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:oceania:AU": "Australia"
-    },
-    "regions": [
-      "Australia"
-    ],
-    "runningTime": 263,
-    "updateTime": "2025-04-14T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72224029&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72224029,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72213832_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72213832_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9322,123 +8967,6 @@
     "language": "en"
   },
   {
-    "titleText": "Scientists say they have revived prehistoric dire wolves",
-    "category": "Nature and Environment",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 114,
-    "updateTime": "2025-04-08T13:42:10.865Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72176437&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72176437,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72174439_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72174439_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Could a new highway divide Kenya's Aberdare national park?",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-04-07T09:59:30.186Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72129808&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72129808,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72119709_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72119709_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "At this Polish teahouse cats, not customers, are king",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:PL": "Poland"
-    },
-    "regions": [
-      "Poland"
-    ],
-    "runningTime": 206,
-    "updateTime": "2025-04-05T08:00:15.754Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72106103&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72106103,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72105228_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72105228_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Space debris is threatening satellites",
     "category": "Technology",
     "subCategory": null,
@@ -9471,84 +8999,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/62702336_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "West Bank: Israeli settlers accused of stealing sheep",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 261,
-    "updateTime": "2025-03-31T19:54:46.02Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72101632&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72101632,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72101494_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72101494_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How do our nervous systems work? ",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 191,
-    "updateTime": "2025-03-31T07:41:57.819Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72067877&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 72067877,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71924264_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71924264_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9627,45 +9077,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72015096_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Istanbul's cat guardian dotes on street cats",
-    "category": "Society",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-03-17T10:32:48.423Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71785734&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 71785734,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71594749_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71594749_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9792,51 +9203,6 @@
     "language": "en"
   },
   {
-    "titleText": "How female politicians deal with hate speech",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:global": "Global",
-      "region:africa": "Africa",
-      "region:asia": "Asia",
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "Global",
-      "Africa",
-      "Asia",
-      "India"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-03-07T13:35:54.577Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71855070&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 71855070,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71851068_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71851068_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "EU to weaken legal protection of wolves",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -9850,7 +9216,7 @@
     "updateTime": "2025-03-07T10:18:01.578Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71854321&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=71854321&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71854321,
       "launchParam": null
@@ -9889,7 +9255,7 @@
     "updateTime": "2025-03-07T09:19:30.932Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71790766&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71790766&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71790766,
       "launchParam": null
@@ -9954,123 +9320,6 @@
     "language": "en"
   },
   {
-    "titleText": "Balkan bird hunting: Illegal methods rife ",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:BA": "Bosnia and Herzegovina"
-    },
-    "regions": [
-      "Bosnia and Herzegovina"
-    ],
-    "runningTime": 320,
-    "updateTime": "2025-03-03T15:50:01.26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71815503&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 71815503,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71816100_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71816100_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Keeping Serbia's wolf population under control",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RS": "Serbia"
-    },
-    "regions": [
-      "Serbia"
-    ],
-    "runningTime": 214,
-    "updateTime": "2025-03-02T08:38:04.213Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71773574&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71773574,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71773826_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71773826_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why isn't Pakistan polio-free?",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 339,
-    "updateTime": "2025-02-26T16:13:46.947Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71761970&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71761970,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71761830_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71761830_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Machine oil instead of olive oil? Robots as cooks",
     "category": "Innovation",
     "subCategory": "Technology",
@@ -10084,7 +9333,7 @@
     "updateTime": "2025-02-25T12:36:45.342Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71704518&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71704518&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71704518,
       "launchParam": null
@@ -10110,45 +9359,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can India's industrial waste be used as building material?",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 423,
-    "updateTime": "2025-02-24T09:12:01.123Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71686663&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71686663,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71688253_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71688253_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany's shift to robot automation",
     "category": "Business",
     "subCategory": "Technology",
@@ -10162,7 +9372,7 @@
     "updateTime": "2025-02-20T08:51:59.385Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71639884&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71639884&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71639884,
       "launchParam": null
@@ -10201,7 +9411,7 @@
     "updateTime": "2025-02-07T11:56:24.688Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71537232&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71537232&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71537232,
       "launchParam": null
@@ -10240,7 +9450,7 @@
     "updateTime": "2024-12-24T10:09:23.494Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71121599&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71121599&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71121599,
       "launchParam": null
@@ -10279,7 +9489,7 @@
     "updateTime": "2024-12-18T11:27:21.214Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71065134&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71065134&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71065134,
       "launchParam": null
@@ -10318,7 +9528,7 @@
     "updateTime": "2024-12-12T12:00:32.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71036670&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71036670&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 71036670,
       "launchParam": null
@@ -10357,7 +9567,7 @@
     "updateTime": "2024-11-29T15:57:52.745Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70921548&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70921548&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70921548,
       "launchParam": null
@@ -10396,7 +9606,7 @@
     "updateTime": "2024-11-21T14:12:45.799Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70840890&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70840890&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70840890,
       "launchParam": null
@@ -10435,7 +9645,7 @@
     "updateTime": "2024-11-15T15:19:51.902Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70793706&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70793706&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70793706,
       "launchParam": null
@@ -10474,7 +9684,7 @@
     "updateTime": "2024-11-15T15:18:39.203Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70793675&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70793675&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70793675,
       "launchParam": null
@@ -10513,7 +9723,7 @@
     "updateTime": "2024-11-13T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70751236&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70751236&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70751236,
       "launchParam": null
@@ -10552,7 +9762,7 @@
     "updateTime": "2024-11-12T13:45:22.269Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70735907&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70735907&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70735907,
       "launchParam": null
@@ -10591,7 +9801,7 @@
     "updateTime": "2024-11-01T16:03:22.73Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70659818&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70659818&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70659818,
       "launchParam": null
@@ -10630,7 +9840,7 @@
     "updateTime": "2024-10-23T12:54:55.902Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70579993&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70579993&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70579993,
       "launchParam": null
@@ -10669,7 +9879,7 @@
     "updateTime": "2024-10-23T08:42:04.662Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70456418&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70456418&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70456418,
       "launchParam": null
@@ -10708,7 +9918,7 @@
     "updateTime": "2024-10-13T07:48:47.724Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70480474&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70480474&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70480474,
       "launchParam": null
@@ -10749,7 +9959,7 @@
     "updateTime": "2024-09-23T16:37:34.601Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70302067&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70302067&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 70302067,
       "launchParam": null
