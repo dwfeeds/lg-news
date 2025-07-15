@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-07-15T12:32:26.96Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73275992_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73275992_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How is real Czech Pilsner brewed?",
     "category": "Lifestyle",
     "subCategory": "Travel",
@@ -162,7 +197,7 @@
     "language": "en"
   },
   {
-    "titleText": "Syria: Scores in sectarian violence between Bedouins, Druze",
+    "titleText": "Syria: Sectarian violence between Bedouins, Druze",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -194,41 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73273012_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2025-07-15T06:54:44.591Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73275992_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73275992_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -333,7 +333,7 @@
     "updateTime": "2025-07-14T15:33:57.927Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73275590&list=REGION_VIDEO:7",
+      "contentId": "v=73275590&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73275590,
       "launchParam": null
@@ -2255,7 +2255,7 @@
     "updateTime": "2025-07-10T10:26:49.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73157643&list=REGION_VIDEO:7",
+      "contentId": "v=73157643&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73157643,
       "launchParam": null
@@ -2480,6 +2480,49 @@
     "language": "en"
   },
   {
+    "titleText": "Wildfires rage in France, Serbia",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France",
+      "region:europe:RS": "Serbia",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "France",
+      "Serbia",
+      "Europe"
+    ],
+    "runningTime": 131,
+    "updateTime": "2025-07-09T16:03:58.506Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73219165&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73219165,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73203636_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73203636_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Report: Nearly 1,500 Alawites killed in Syria in March",
     "category": "Conflicts",
     "subCategory": null,
@@ -2680,6 +2723,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73157271_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "World's longest undersea tunnel gets even longer",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:DE": "Germany",
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "Europe",
+      "Germany",
+      "Denmark"
+    ],
+    "runningTime": 188,
+    "updateTime": "2025-07-09T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73204980&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73204980,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69662207_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69662207_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8345,45 +8431,6 @@
     "language": "en"
   },
   {
-    "titleText": "How women in northern Ghana resolved a land conflict ",
-    "category": "Conflicts",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-05-24T15:11:38.173Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72480858&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 72480858,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72481467_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72481467_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Protests in Panama after union leaders' arrest",
     "category": "Politics",
     "subCategory": null,
@@ -8479,7 +8526,7 @@
     "updateTime": "2025-05-22T09:41:49.386Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571391&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=72571391&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72571391,
       "launchParam": null
@@ -10152,45 +10199,6 @@
     "language": "en"
   },
   {
-    "titleText": "EU to weaken legal protection of wolves",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 163,
-    "updateTime": "2025-03-07T10:18:01.578Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71854321&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 71854321,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71854118_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71854118_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How did the Ingenuity helicopter fly on Mars?",
     "category": "Science",
     "subCategory": null,
@@ -10985,7 +10993,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-07-15T10:37:45.498Z",
+    "updateTime": "2025-07-15T12:32:02.202Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
