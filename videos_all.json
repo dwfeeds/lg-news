@@ -1,5 +1,120 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 93,
+    "updateTime": "2025-07-16T11:43:05.092Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73295155_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73295155_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Azerbaijan edges away from Russia's orbit as rifts emerge",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:AZ": "Azerbaijan"
+    },
+    "regions": [
+      "Russian Federation",
+      "Azerbaijan"
+    ],
+    "runningTime": 207,
+    "updateTime": "2025-07-16T11:42:05.068Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73296609&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73296609,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69549252_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69549252_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Knives make murderers",
+    "category": "Society",
+    "subCategory": "Crime",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 180,
+    "updateTime": "2025-07-16T11:25:21.815Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73286467&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73286467,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73125032_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73125032_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Anti-migrant unrest shakes small Spanish town",
     "category": "Migration",
     "subCategory": null,
@@ -425,48 +540,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73236503_6.jpeg",
+      "url": "https://static.dw.com/image/72383304_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73236503_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 93,
-    "updateTime": "2025-07-16T06:44:27.755Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73287208_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73287208_7.jpg",
+      "url": "https://static.dw.com/image/72383304_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2672,45 +2752,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67669476_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Kyiv children's hospital on the mend after strike by Russia",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 243,
-    "updateTime": "2025-07-10T11:12:00.619Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73227736&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73227736,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73193514_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73193514_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10921,7 +10962,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 171,
-    "updateTime": "2025-07-16T11:24:09.961Z",
+    "updateTime": "2025-07-16T12:21:42.196Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12448,7 +12489,7 @@
     "updateTime": "2025-07-14T09:46:02.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73216868&list=FEATURED_VIDEO:1",
+      "contentId": "v=73216868&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73216868,
       "launchParam": null
@@ -12487,7 +12528,7 @@
     "updateTime": "2025-07-13T11:12:08.797Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73241119&list=REPORTS_VIDEO:1",
+      "contentId": "v=73241119&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73241119,
       "launchParam": null
@@ -13141,84 +13182,6 @@
     "language": "de"
   },
   {
-    "titleText": "Wie aus einem stinkenden Tümpel ein Berliner Seeidyll wurde",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 413,
-    "updateTime": "2025-07-03T10:46:08.217Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73102434&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73102434,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73049074_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73049074_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Santorini zwischen Tourismus und Umweltschutz",
-    "category": "Reise",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:europe:GR": "Griechenland"
-    },
-    "regions": [
-      "Griechenland"
-    ],
-    "runningTime": 403,
-    "updateTime": "2025-07-03T08:05:05.705Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73090869&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73090869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73050231_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73050231_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Dalai Lama: Streit um die Nachfolge mit China",
     "category": "Glaube",
     "subCategory": "Politik",
@@ -13292,6 +13255,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73035981_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Athen - und das Warten auf die Katastrophe",
+    "category": "Klima",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:GR": "Griechenland"
+    },
+    "regions": [
+      "Griechenland"
+    ],
+    "runningTime": 283,
+    "updateTime": "2025-06-26T08:45:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73038726&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 73038726,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69547841_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69547841_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""

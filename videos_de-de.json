@@ -304,7 +304,7 @@
     "updateTime": "2025-07-14T09:46:02.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73216868&list=FEATURED_VIDEO:1",
+      "contentId": "v=73216868&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73216868,
       "launchParam": null
@@ -337,7 +337,7 @@
     "updateTime": "2025-07-13T11:12:08.797Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73241119&list=REPORTS_VIDEO:1",
+      "contentId": "v=73241119&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73241119,
       "launchParam": null
@@ -825,72 +825,6 @@
     "language": "de"
   },
   {
-    "titleText": "Wie aus einem stinkenden Tümpel ein Berliner Seeidyll wurde",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "runningTime": 413,
-    "updateTime": "2025-07-03T10:46:08.217Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73102434&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73102434,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73049074_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73049074_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Santorini zwischen Tourismus und Umweltschutz",
-    "category": "Reise",
-    "subCategory": "Natur und Umwelt",
-    "runningTime": 403,
-    "updateTime": "2025-07-03T08:05:05.705Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73090869&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73090869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73050231_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73050231_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Ukraine setzt auf neue Starlink-Drohne \"Nemesis\"",
     "category": "Konflikte",
     "subCategory": "Video-Nachrichten",
@@ -917,6 +851,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73035981_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Athen - und das Warten auf die Katastrophe",
+    "category": "Klima",
+    "subCategory": "Gesellschaft",
+    "runningTime": 283,
+    "updateTime": "2025-06-26T08:45:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73038726&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 73038726,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69547841_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69547841_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
