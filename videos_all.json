@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 94,
+    "updateTime": "2025-07-17T08:05:06.41Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73301296_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73301296_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israel bombs Damascus amid sectarian conflict in Syria",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 93,
+    "updateTime": "2025-07-17T07:48:42.506Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73306831&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73306831,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73306264_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73306264_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tariffs hit US textile industry hard",
     "category": "Business",
     "subCategory": "Trade",
@@ -114,41 +188,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73241649_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 94,
-    "updateTime": "2025-07-17T01:27:59.428Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73301296_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73301296_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10755,49 +10794,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ramadan begins for Muslims worldwide",
-    "category": "Religion",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:PS": "Palestinian Territories",
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Middle East",
-      "Palestinian Territories",
-      "Syria"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-03-02T08:28:46.231Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71797348&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71797348,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71797007_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71797007_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Ukraine turns to solar panels amid power blackouts",
     "category": "Conflicts",
     "subCategory": "Innovation",
@@ -10919,41 +10915,6 @@
       "bgColor": ""
     },
     "language": "en"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 182,
-    "updateTime": "2025-07-17T01:26:53.632Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73287208_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73287208_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
   },
   {
     "titleText": "200 años de Isla de los Museos en Berlín",
@@ -12043,6 +12004,84 @@
     "language": "es"
   },
   {
+    "titleText": "Südafrika: Kampf gegen Wilderer",
+    "category": "Natur und Umwelt",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:ZA": "Südafrika"
+    },
+    "regions": [
+      "Südafrika"
+    ],
+    "runningTime": 275,
+    "updateTime": "2025-07-17T08:27:32.335Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73274843&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73274843,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73247637_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73247637_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Italien: Eine Stadt ohne Müll",
+    "category": "Gesellschaft",
+    "subCategory": "Klima",
+    "region_ids": {
+      "region:europe:IT": "Italien"
+    },
+    "regions": [
+      "Italien"
+    ],
+    "runningTime": 311,
+    "updateTime": "2025-07-17T08:07:31.613Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73294557&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73294557,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73231056_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73231056_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Shein und Temu: Frankreich gegen Fast Fashion",
     "category": "Wirtschaft",
     "subCategory": null,
@@ -12413,7 +12452,7 @@
     "updateTime": "2025-07-15T09:19:32.832Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73241200&list=REPORTS_VIDEO:1",
+      "contentId": "v=73241200&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73241200,
       "launchParam": null
@@ -12452,7 +12491,7 @@
     "updateTime": "2025-07-15T07:35:52.707Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73274822&list=REPORTS_VIDEO:1",
+      "contentId": "v=73274822&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73274822,
       "launchParam": null
@@ -13177,84 +13216,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72985578_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Spanischer Schinkenhersteller rettet ungarische Wollschweine",
-    "category": "Kultur",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:HU": "Ungarn"
-    },
-    "regions": [
-      "Ungarn"
-    ],
-    "runningTime": 261,
-    "updateTime": "2025-07-03T15:21:11.774Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73145981&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73145981,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/52546463_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/52546463_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie aus einem stinkenden Tümpel ein Berliner Seeidyll wurde",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 413,
-    "updateTime": "2025-07-03T10:46:08.217Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73102434&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73102434,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73049074_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73049074_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
