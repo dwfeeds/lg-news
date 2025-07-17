@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "How Jakarta is trying to mitigate flood risks ",
+    "category": "Nature and Environment",
+    "subCategory": "Catastrophe",
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 390,
+    "updateTime": "2025-07-17T06:37:37.985Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73229436&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73229436,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73241649_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73241649_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -39,16 +78,18 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me": "Middle East",
+      "region:me:SY": "Syria"
     },
     "regions": [
-      "Middle East"
+      "Middle East",
+      "Syria"
     ],
     "runningTime": 147,
     "updateTime": "2025-07-16T17:34:41.505Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73304250&list=REGION_VIDEO:9",
+      "contentId": "v=73304250&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73304250,
       "launchParam": null
@@ -76,7 +117,7 @@
   {
     "titleText": "Pakistan: The man who built his own dam",
     "category": "Nature and Environment",
-    "subCategory": "Society",
+    "subCategory": null,
     "region_ids": {
       "region:asia:PK": "Pakistan"
     },
@@ -87,7 +128,7 @@
     "updateTime": "2025-07-16T15:03:45.074Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73302973&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73302973&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73302973,
       "launchParam": null
@@ -2275,6 +2316,45 @@
     "language": "en"
   },
   {
+    "titleText": "Making shipping greener with e-methanol ",
+    "category": "Science",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "Denmark"
+    ],
+    "runningTime": 221,
+    "updateTime": "2025-07-12T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73229475&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73229475,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68214634_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68214634_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Fans line up to see reunited Oasis play in Manchester",
     "category": "Music",
     "subCategory": null,
@@ -2865,49 +2945,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72379213_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Freight companies miffed by German-Polish border checks",
-    "category": "Trade",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:europe:PL": "Poland",
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Poland",
-      "Europe",
-      "Germany"
-    ],
-    "runningTime": 166,
-    "updateTime": "2025-07-10T16:13:01.424Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73227847&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73227847,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67669476_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67669476_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6630,6 +6667,49 @@
     "language": "en"
   },
   {
+    "titleText": "Fact check: How AI fakes are distorting the Israel-Iran war",
+    "category": "Conflicts",
+    "subCategory": "Digital World",
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:me:IL": "Israel",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "Israel",
+      "United States of America"
+    ],
+    "runningTime": 174,
+    "updateTime": "2025-06-25T17:40:59.243Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73042647&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73042647,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73048538_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73048538_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan's women fight to enter the labor force",
     "category": "Equality",
     "subCategory": "Business",
@@ -7553,45 +7633,6 @@
     "language": "en"
   },
   {
-    "titleText": "Is China's facial recognition data for sale?",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "China"
-    ],
-    "runningTime": 154,
-    "updateTime": "2025-06-13T15:02:37.164Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900170&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72900170,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72890089_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72890089_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Upcycling as a way of living and saving money",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -8090,45 +8131,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72834021_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Washington DC World Pride parade draws tens of thousands",
-    "category": "Equality",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-06-08T09:22:13.169Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72834833&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72834833,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72833301_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72833301_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10787,47 +10789,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71797007_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Jailed Kurdish PKK leader urges group to disarm and dissolve",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:TR": "Turkey",
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Turkey",
-      "Syria"
-    ],
-    "runningTime": 127,
-    "updateTime": "2025-02-28T07:06:25.171Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71778759&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 71778759,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71775561_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71775561_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
