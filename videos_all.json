@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Israeli airstrikes hit Gaza's Holy Family Catholic church",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-07-17T16:19:14.175Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73315398&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73315398,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73314730_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73314730_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israeli raids in West Bank displace tens of thousands",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 183,
+    "updateTime": "2025-07-17T16:17:49.833Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73316433&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73316433,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73315371_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73315371_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Uganda reopens Bunagana border amid M23 rebel control ",
     "category": "Politics",
     "subCategory": null,
@@ -56,7 +136,7 @@
     "updateTime": "2025-07-17T14:22:44.746Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73314830&list=REGION_VIDEO:5",
+      "contentId": "v=73314830&list=FULL_SHOWS_VIDEO:10",
       "type": "video",
       "id": 73314830,
       "launchParam": null
@@ -123,7 +203,7 @@
   {
     "titleText": "Is Capannori in Italy a zero-waste city?",
     "category": "Climate",
-    "subCategory": null,
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:IT": "Italy"
     },
@@ -134,7 +214,7 @@
     "updateTime": "2025-07-17T10:44:03.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73243288&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=73243288&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73243288,
       "launchParam": null
@@ -2603,45 +2683,6 @@
     "language": "en"
   },
   {
-    "titleText": "Making street lights insect-friendly",
-    "category": "Science",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 310,
-    "updateTime": "2025-07-12T01:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73229473&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73229473,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/46008242_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/46008242_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Making shipping greener with e-methanol ",
     "category": "Science",
     "subCategory": "Cars and Transportation",
@@ -2674,6 +2715,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68214634_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Making street lights insect-friendly",
+    "category": "Science",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 310,
+    "updateTime": "2025-07-12T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73229473&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73229473,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/46008242_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/46008242_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4494,45 +4574,6 @@
     "language": "en"
   },
   {
-    "titleText": "The birthplace of Port: A journey to the Douro Valley",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159589,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73140521_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73140521_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
     "category": "Arts",
     "subCategory": "Equality",
@@ -4565,6 +4606,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The birthplace of Port: A journey to the Douro Valley",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 289,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159589,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73140521_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73140521_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6673,47 +6753,6 @@
     "language": "en"
   },
   {
-    "titleText": "Fooling millions: How AI fakes hijack real wars ",
-    "category": "Digital World",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Israel",
-      "Iran"
-    ],
-    "runningTime": 268,
-    "updateTime": "2025-06-26T10:19:43.639Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73047711,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72906525_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72906525_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "New Russian messaging app raises online monitoring fears",
     "category": "Technology",
     "subCategory": "Politics",
@@ -6785,49 +6824,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73040035_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fact check: How AI fakes are distorting the Israel-Iran war",
-    "category": "Conflicts",
-    "subCategory": "Digital World",
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Iran",
-      "Israel",
-      "United States of America"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-06-25T17:40:59.243Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73042647,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73048538_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73048538_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8178,6 +8174,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72712660_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "California governor calls Trump's actions 'inflammatory'",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 128,
+    "updateTime": "2025-06-08T10:44:07.806Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72835680&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72835680,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72834021_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72834021_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12005,7 +12040,7 @@
   },
   {
     "titleText": "Italien: Eine Stadt ohne Müll",
-    "category": "Gesellschaft",
+    "category": "Panorama",
     "subCategory": "Klima",
     "region_ids": {
       "region:europe:IT": "Italien"
@@ -12233,45 +12268,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73140861_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Messer machen Mörder",
-    "category": "Gesellschaft",
-    "subCategory": "Kriminalität",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 179,
-    "updateTime": "2025-07-16T11:24:03.643Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73286459&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73286459,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73125032_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73125032_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
