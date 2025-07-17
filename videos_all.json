@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Why Meta deleted 10 Million Facebook accounts ",
+    "category": "Digital World",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 169,
+    "updateTime": "2025-07-17T14:22:44.746Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73314830&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73314830,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72179409_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72179409_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syrian leader al-Sharaa promises to protect Druze community",
     "category": "Conflicts",
     "subCategory": null,
@@ -52,7 +93,7 @@
     "updateTime": "2025-07-17T10:44:03.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73243288&list=REGION_VIDEO:7",
+      "contentId": "v=73243288&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73243288,
       "launchParam": null
@@ -238,12 +279,12 @@
     "category": "Technology",
     "subCategory": "Crime",
     "region_ids": {
-      "region:europe:DE": "Germany",
+      "region:europe": "Europe",
       "region:asia:CN": "China",
       "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Germany",
+      "Europe",
       "China",
       "Russian Federation"
     ],
@@ -370,7 +411,7 @@
     "updateTime": "2025-07-16T15:03:45.074Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73302973&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=73302973&list=REGION_VIDEO:4",
       "type": "video",
       "id": 73302973,
       "launchParam": null
@@ -3077,6 +3118,47 @@
     "language": "en"
   },
   {
+    "titleText": "Kyiv bombarded as Russia escalates attacks",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 92,
+    "updateTime": "2025-07-10T20:40:03.753Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73234983&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73234983,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73221850_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73221850_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chimamanda Ngozi Adichie returns to Nigeria on book tour",
     "category": "Literature",
     "subCategory": "Lifestyle",
@@ -4371,45 +4453,6 @@
     "language": "en"
   },
   {
-    "titleText": "The birthplace of Port: A journey to the Douro Valley",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159589,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73140521_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73140521_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
     "category": "Arts",
     "subCategory": "Equality",
@@ -4442,6 +4485,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The birthplace of Port: A journey to the Douro Valley",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 289,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159589,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73140521_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73140521_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6632,45 +6714,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Pakistan's textile industry is fighting to survive",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 437,
-    "updateTime": "2025-06-26T12:25:25.766Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73022748&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73022748,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73024900_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73024900_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Fooling millions: How AI fakes hijack real wars ",
     "category": "Digital World",
     "subCategory": "Conflicts",
@@ -8176,45 +8219,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72712660_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "California governor calls Trump's actions 'inflammatory'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-06-08T10:44:07.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72835680&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72835680,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72834021_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72834021_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11922,6 +11926,47 @@
     "language": "es"
   },
   {
+    "titleText": "Ein Trump-Tower in Belgrad?",
+    "category": "Wirtschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:europe:RS": "Serbien"
+    },
+    "regions": [
+      "Europa",
+      "Serbien"
+    ],
+    "runningTime": 300,
+    "updateTime": "2025-07-17T13:59:35.695Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73115631&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73115631,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73314227_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73314227_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Südafrika: Kampf gegen Wilderer",
     "category": "Natur und Umwelt",
     "subCategory": "Innovation",
@@ -12290,7 +12335,7 @@
     "updateTime": "2025-07-16T10:08:30.949Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73293278&list=REPORTS_VIDEO:1",
+      "contentId": "v=73293278&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 73293278,
       "launchParam": null
@@ -12584,45 +12629,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73244434_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Griechenland: Steigende Gewalt gegen ältere Frauen",
-    "category": "Gleichberechtigung",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:GR": "Griechenland"
-    },
-    "regions": [
-      "Griechenland"
-    ],
-    "runningTime": 348,
-    "updateTime": "2025-07-11T08:00:34.171Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73216732&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 73216732,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73143422_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73143422_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
