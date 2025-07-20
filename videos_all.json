@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israeli forces reportedly kill dozens in Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-07-20T22:21:05.966Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73345291&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73345291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73335546_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73335546_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -4978,47 +5017,6 @@
     "language": "en"
   },
   {
-    "titleText": "What can be expected of Netanyahu's US trip?",
-    "category": "Politics",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Israel",
-      "United States of America"
-    ],
-    "runningTime": 189,
-    "updateTime": "2025-07-06T16:46:40.506Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73174938&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73174938,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72168962_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72168962_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Rio gears up to host BRICS leaders",
     "category": "Business",
     "subCategory": null,
@@ -5214,45 +5212,6 @@
     "language": "en"
   },
   {
-    "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
-    "category": "Arts",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:europe:SE": "Sweden"
-    },
-    "regions": [
-      "Sweden"
-    ],
-    "runningTime": 267,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159522&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159522,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72790825_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72790825_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "The birthplace of Port: A journey to the Douro Valley",
     "category": "Lifestyle",
     "subCategory": "Travel",
@@ -5285,6 +5244,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73140521_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
+    "category": "Arts",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:europe:SE": "Sweden"
+    },
+    "regions": [
+      "Sweden"
+    ],
+    "runningTime": 267,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159522&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159522,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72790825_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72790825_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
