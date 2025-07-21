@@ -154,7 +154,7 @@
   {
     "titleText": "Vietnam boat capsizing claims dozens, shatters families",
     "category": "Catastrophe",
-    "subCategory": "Travel",
+    "subCategory": null,
     "region_ids": {
       "region:asia:VN": "Vietnam"
     },
@@ -519,20 +519,20 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
+      "region:cala:VE": "Venezuela",
       "region:northamerica:US": "United States of America",
-      "region:cala:SV": "El Salvador",
-      "region:cala:VE": "Venezuela"
+      "region:cala:SV": "El Salvador"
     },
     "regions": [
+      "Venezuela",
       "United States of America",
-      "El Salvador",
-      "Venezuela"
+      "El Salvador"
     ],
     "runningTime": 132,
     "updateTime": "2025-07-19T08:16:35.723Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73334138&list=REGION_VIDEO:5",
+      "contentId": "v=73334138&list=REGION_VIDEO:6",
       "type": "video",
       "id": 73334138,
       "launchParam": null
@@ -3524,45 +3524,6 @@
     "language": "en"
   },
   {
-    "titleText": "How AI is used in anime productions",
-    "category": "Technology",
-    "subCategory": "Film",
-    "region_ids": {
-      "region:asia:JP": "Japan"
-    },
-    "regions": [
-      "Japan"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:9",
-      "type": "video",
-      "id": 73238616,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72528397_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72528397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why AI is almost always the bad guy in movies",
     "category": "Film",
     "subCategory": "Society",
@@ -3597,6 +3558,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How AI is used in anime productions",
+    "category": "Technology",
+    "subCategory": "Film",
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:9",
+      "type": "video",
+      "id": 73238616,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72528397_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72528397_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5212,45 +5212,6 @@
     "language": "en"
   },
   {
-    "titleText": "The birthplace of Port: A journey to the Douro Valley",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-07-05T04:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73159589,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73140521_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73140521_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Standing out in Sweden: Photographer Lola Akinmade",
     "category": "Arts",
     "subCategory": "Equality",
@@ -5283,6 +5244,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72790825_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The birthplace of Port: A journey to the Douro Valley",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 289,
+    "updateTime": "2025-07-05T04:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73159589&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73159589,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73140521_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73140521_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8060,6 +8060,45 @@
     "language": "en"
   },
   {
+    "titleText": "LA sees another day of unrest following ICE raids",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 262,
+    "updateTime": "2025-06-09T08:06:07.273Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72840844&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72840844,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72839496_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72839496_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "In Northern Ireland, Belfast's murals tell a new story",
     "category": "Society",
     "subCategory": "Arts",
@@ -9630,45 +9669,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72439806_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "At Copacabana, 2 million Brazilians go gaga for Lady Gaga",
-    "category": "Music",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 116,
-    "updateTime": "2025-05-04T11:02:42.36Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72430578&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 72430578,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72428879_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72428879_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11772,6 +11772,47 @@
     "language": "es"
   },
   {
+    "titleText": "Klein aber fein: Kapselhotels in Singapur werden luxuriös",
+    "category": "Panorama",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:asia:SG": "Singapur",
+      "region:asia": "Asien"
+    },
+    "regions": [
+      "Singapur",
+      "Asien"
+    ],
+    "runningTime": 206,
+    "updateTime": "2025-07-21T06:06:57.796Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73327781&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73327781,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73330253_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73330253_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Russlands geheimer Krieg: Haft und Folter gegen Zivilisten",
     "category": "Menschenrechte",
     "subCategory": null,
@@ -11785,7 +11826,7 @@
     "updateTime": "2025-07-20T13:12:26.754Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73342197&list=REPORTS_VIDEO:1",
+      "contentId": "v=73342197&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 73342197,
       "launchParam": null
@@ -12224,7 +12265,7 @@
     "updateTime": "2025-07-18T07:12:09.095Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73294540&list=FEATURED_VIDEO:1",
+      "contentId": "v=73294540&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 73294540,
       "launchParam": null
@@ -12243,45 +12284,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72521340_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Syrer in Dänemark unter Druck: Bleiben oder Gehen?",
-    "category": "Politik",
-    "subCategory": "Geschichte",
-    "region_ids": {
-      "region:europe:DK": "Dänemark"
-    },
-    "regions": [
-      "Dänemark"
-    ],
-    "runningTime": 220,
-    "updateTime": "2025-07-17T16:33:06.185Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73316646&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73316646,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73097200_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73097200_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
