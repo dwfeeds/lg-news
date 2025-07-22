@@ -238,18 +238,18 @@
     "category": "Migration",
     "subCategory": null,
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:africa:SZ": "eSwatini"
+      "region:africa:SZ": "eSwatini",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "United States of America",
-      "eSwatini"
+      "eSwatini",
+      "United States of America"
     ],
     "runningTime": 128,
     "updateTime": "2025-07-21T13:53:34.902Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73354516&list=REGION_VIDEO:5",
+      "contentId": "v=73354516&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73354516,
       "launchParam": null
@@ -474,7 +474,7 @@
     "language": "en"
   },
   {
-    "titleText": "Tower of London: crown jewels and royal history ",
+    "titleText": "Tower of London: Crown jewels and royal history ",
     "category": "Culture",
     "subCategory": "History",
     "region_ids": {
@@ -5091,47 +5091,6 @@
     "language": "en"
   },
   {
-    "titleText": "3D printing plastic waste into new, useful objects",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:SN": "Senegal"
-    },
-    "regions": [
-      "Africa",
-      "Senegal"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-07-09T09:41:35.509Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73137173&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73137173,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73157271_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73157271_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel to confine Gazans in camp near border",
     "category": "Conflicts",
     "subCategory": null,
@@ -8248,6 +8207,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72845363_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "LA sees another day of unrest following ICE raids",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 262,
+    "updateTime": "2025-06-09T08:06:07.273Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72840844&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 72840844,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72839496_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72839496_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11990,7 +11988,7 @@
     "language": "de"
   },
   {
-    "titleText": "Boom bei Rüstungsstartups ",
+    "titleText": "Boom bei deutschen Rüstungsstartups",
     "category": "Technik",
     "subCategory": "Wirtschaft",
     "region_ids": {
