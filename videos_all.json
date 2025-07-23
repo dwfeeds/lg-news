@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 90,
+    "updateTime": "2025-07-23T17:30:43.002Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71111763_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71111763_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UN's top court rules climate change 'existential threat'",
+    "category": "Law and Justice",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 335,
+    "updateTime": "2025-07-23T16:57:51.495Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73388441&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73388441,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69092191_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69092191_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Russia's war in Ukraine: A timeline of diplomatic efforts",
     "category": "Conflicts",
     "subCategory": null,
@@ -592,41 +666,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73371882_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 90,
-    "updateTime": "2025-07-23T07:28:37.593Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71111763_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71111763_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2234,45 +2273,6 @@
     "language": "en"
   },
   {
-    "titleText": "A furry threat - controlling cat populations in Switzerland",
-    "category": "Science",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 329,
-    "updateTime": "2025-07-19T01:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73306347&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73306347,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230995_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230995_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Lab alternative - can biochips replace animal testing?",
     "category": "Science",
     "subCategory": null,
@@ -2305,6 +2305,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73231013_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A furry threat - controlling cat populations in Switzerland",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 329,
+    "updateTime": "2025-07-19T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73306347&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73306347,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230995_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230995_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3345,45 +3384,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69549252_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Knives make murderers",
-    "category": "Society",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 180,
-    "updateTime": "2025-07-16T11:25:21.815Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73286467&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73286467,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73125032_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73125032_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4794,49 +4794,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why filmmakers protested against AI",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "Germany",
-      "Europe"
-    ],
-    "runningTime": 79,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73239209,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230173_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How AI is used in anime productions",
     "category": "Technology",
     "subCategory": "Film",
@@ -4910,6 +4867,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why filmmakers protested against AI",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "United States of America",
+      "Germany",
+      "Europe"
+    ],
+    "runningTime": 79,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73239209,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10921,7 +10921,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-07-23T13:29:32.835Z",
+    "updateTime": "2025-07-23T17:30:18.468Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
