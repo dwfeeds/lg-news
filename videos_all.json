@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 87,
+    "updateTime": "2025-07-25T06:54:45.404Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73379404_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73379404_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Aid groups warn of mass starvation in Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -149,41 +184,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73404114_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 87,
-    "updateTime": "2025-07-24T16:55:45.577Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73379404_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73379404_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2784,45 +2784,6 @@
     "language": "en"
   },
   {
-    "titleText": "Lab alternative — can biochips replace animal testing?",
-    "category": "Science",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-07-19T01:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73306346&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73306346,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73231013_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73231013_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "A furry threat — controlling cat populations in Switzerland",
     "category": "Science",
     "subCategory": null,
@@ -2855,6 +2816,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230995_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Lab alternative — can biochips replace animal testing?",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 123,
+    "updateTime": "2025-07-19T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73306346&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73306346,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73231013_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73231013_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12138,7 +12138,7 @@
     "updateTime": "2025-07-24T11:35:02.154Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73388572&list=REPORTS_VIDEO:1",
+      "contentId": "v=73388572&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 73388572,
       "launchParam": null
@@ -12173,7 +12173,7 @@
     "updateTime": "2025-07-23T19:41:47.609Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73389420&list=FEATURED_VIDEO:1",
+      "contentId": "v=73389420&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 73389420,
       "launchParam": null
