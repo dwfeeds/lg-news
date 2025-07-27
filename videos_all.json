@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "The pub – Britain’s second living room?",
+    "category": "Lifestyle",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 291,
+    "updateTime": "2025-07-27T10:15:55.489Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73417550&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73417550,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73398692_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73398692_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza: Israel announces tactical pauses in fighting",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 263,
+    "updateTime": "2025-07-27T10:00:03.096Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73428365&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73428365,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73428049_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73428049_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Mexican town welcomes US emigres",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:MX": "Mexico"
+    },
+    "regions": [
+      "Mexico"
+    ],
+    "runningTime": 156,
+    "updateTime": "2025-07-27T09:57:16.615Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73428370&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73428370,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73428408_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73428408_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -3709,45 +3826,6 @@
     "language": "en"
   },
   {
-    "titleText": "Synesthesia - when the boundaries between the senses blur",
-    "category": "Science",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 483,
-    "updateTime": "2025-07-19T01:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73306348&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73306348,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73231031_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73231031_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "A furry threat — controlling cat populations in Switzerland",
     "category": "Science",
     "subCategory": null,
@@ -3819,6 +3897,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73231013_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Synesthesia - when the boundaries between the senses blur",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 483,
+    "updateTime": "2025-07-19T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73306348&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73306348,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73231031_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73231031_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5869,45 +5986,6 @@
     "language": "en"
   },
   {
-    "titleText": "Fans line up to see reunited Oasis play in Manchester",
-    "category": "Music",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 96,
-    "updateTime": "2025-07-11T19:47:37.98Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73248577&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73248577,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73248596_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73248596_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Victims of Srebrenica massacre laid to rest after 30 years",
     "category": "Society",
     "subCategory": null,
@@ -6346,45 +6424,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73214575_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Report: Nearly 1,500 Alawites killed in Syria in March",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 153,
-    "updateTime": "2025-07-09T15:05:51.519Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73218030&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73218030,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71860047_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71860047_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8362,7 +8401,7 @@
     "updateTime": "2025-06-10T13:01:58.461Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72806583&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=72806583&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 72806583,
       "launchParam": null
@@ -12071,6 +12110,45 @@
     "language": "es"
   },
   {
+    "titleText": "Der Pub — das zweite Wohnzimmer der Briten?",
+    "category": "Lifestyle",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:europe:GB": "Vereinigtes Königreich"
+    },
+    "regions": [
+      "Vereinigtes Königreich"
+    ],
+    "runningTime": 291,
+    "updateTime": "2025-07-27T10:13:26.339Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73419272&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73419272,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73398692_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73398692_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "USA: Einwanderungsrazzien schüren Angst unter Landarbeitern",
     "category": "Migration",
     "subCategory": null,
@@ -12441,7 +12519,7 @@
     "updateTime": "2025-07-23T14:12:48.39Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73374307&list=REPORTS_VIDEO:1",
+      "contentId": "v=73374307&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73374307,
       "launchParam": null
@@ -13051,45 +13129,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73244404_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Sansibar: Hotelboom im Inselparadies",
-    "category": "Natur und Umwelt",
-    "subCategory": "Reise",
-    "region_ids": {
-      "region:africa:TZ": "Tansania"
-    },
-    "regions": [
-      "Tansania"
-    ],
-    "runningTime": 408,
-    "updateTime": "2025-07-15T07:35:52.707Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73274822&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73274822,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61768983_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61768983_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
