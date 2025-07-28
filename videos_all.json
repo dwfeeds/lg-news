@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Luther – The revolutionary from Wittenberg",
+    "category": "History",
+    "subCategory": "Religion",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 357,
+    "updateTime": "2025-07-28T10:24:09.662Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73417563&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73417563,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73398716_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73398716_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel begins military pause to allow aid into Gaza",
     "category": "Human Rights",
     "subCategory": "Conflicts",
@@ -6200,7 +6239,7 @@
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=73239209&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73239209,
       "launchParam": null
@@ -8574,45 +8613,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72870634_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US chef helps convicts move on from a life of crime",
-    "category": "Society",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 324,
-    "updateTime": "2025-06-12T08:48:49.667Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72826895&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 72826895,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72806397_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72806397_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11036,7 +11036,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-07-28T09:33:30.624Z",
+    "updateTime": "2025-07-28T10:31:18.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11051,13 +11051,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73433668_6.jpg",
+      "url": "https://static.dw.com/image/73433077_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73433668_7.jpg",
+      "url": "https://static.dw.com/image/73433077_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12175,6 +12175,45 @@
     "language": "es"
   },
   {
+    "titleText": "Martin Luther — der Revolutionär von Wittenberg",
+    "category": "Geschichte",
+    "subCategory": "Glaube",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 357,
+    "updateTime": "2025-07-28T10:23:00.059Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73419275&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73419275,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73398716_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73398716_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Nigeria: Terrorismus im Nordosten flammt wieder auf",
     "category": "Konflikte",
     "subCategory": null,
@@ -12631,7 +12670,7 @@
     "updateTime": "2025-07-24T11:35:02.154Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73388572&list=REPORTS_VIDEO:1",
+      "contentId": "v=73388572&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 73388572,
       "launchParam": null
@@ -13758,45 +13797,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886327_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Norwegen: Umweltschutz oder Energiewende?",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:NO": "Norwegen"
-    },
-    "regions": [
-      "Norwegen"
-    ],
-    "runningTime": 308,
-    "updateTime": "2025-06-11T07:02:48.888Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72785376&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 72785376,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72712515_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72712515_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
