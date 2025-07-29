@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Rolls-Royce to expand jet-engine plant near Berlin",
+    "category": "Cars and Transportation",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-07-29T10:56:26.227Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73447074&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73447074,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/61151362_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/61151362_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Turning art into activism in Ghana",
     "category": "Nature and Environment",
     "subCategory": "Arts",
@@ -195,7 +236,7 @@
     "language": "en"
   },
   {
-    "titleText": "Full-blown trade war avoided, but who came out victorious?",
+    "titleText": "Who won, who lost in the US-EU trade deal?",
     "category": "Trade",
     "subCategory": "Politics",
     "region_ids": {
@@ -1116,10 +1157,10 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:IL": "Israel"
     },
     "regions": [
-      "Middle East"
+      "Israel"
     ],
     "runningTime": 203,
     "updateTime": "2025-07-26T16:11:55.357Z",
@@ -1769,7 +1810,7 @@
     "updateTime": "2025-07-25T10:40:57.625Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73411020&list=FULL_SHOWS_VIDEO:10",
+      "contentId": "v=73411020&list=REGION_VIDEO:8",
       "type": "video",
       "id": 73411020,
       "launchParam": null
@@ -4304,6 +4345,47 @@
     "language": "en"
   },
   {
+    "titleText": "Cameroon presidential election: A vote or a coronation?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:CM": "Cameroon"
+    },
+    "regions": [
+      "Africa",
+      "Cameroon"
+    ],
+    "runningTime": 297,
+    "updateTime": "2025-07-18T15:05:19.059Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73330366&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73330366,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73267221_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73267221_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Death toll from Pakistan floods continues to rise",
     "category": "Nature and Environment",
     "subCategory": "Catastrophe",
@@ -4540,47 +4622,6 @@
     "language": "en"
   },
   {
-    "titleText": "Uganda reopens Bunagana border amid M23 rebel control ",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Democratic Republic of Congo",
-      "Africa"
-    ],
-    "runningTime": 83,
-    "updateTime": "2025-07-17T15:07:42.821Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73315118&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73315118,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64266957_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64266957_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Syrian leader al-Sharaa promises to protect Druze community",
     "category": "Conflicts",
     "subCategory": null,
@@ -4652,49 +4693,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73231056_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany: Care work in a strained system",
-    "category": "Health",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:africa": "Africa",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Nigeria",
-      "Africa",
-      "Germany"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-07-17T09:50:45.42Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72798533&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 72798533,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72790940_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72790940_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
