@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 85,
+    "updateTime": "2025-07-29T06:57:23.616Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73444800_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73444800_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israeli rights groups accuse government of genocide in Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -155,41 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/37391051_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 85,
-    "updateTime": "2025-07-28T16:47:26.59Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73440756_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73440756_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2427,6 +2427,45 @@
     "language": "en"
   },
   {
+    "titleText": "Saving the giant pen shell in Greece",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 290,
+    "updateTime": "2025-07-23T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73327722&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73327722,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73308118_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73308118_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "UN's top court rules climate change 'existential threat'",
     "category": "Law and Justice",
     "subCategory": "Climate",
@@ -3305,45 +3344,6 @@
     "language": "en"
   },
   {
-    "titleText": "At least 20 killed in Bangladesh Air Force jet crash",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:BD": "Bangladesh"
-    },
-    "regions": [
-      "Bangladesh"
-    ],
-    "runningTime": 89,
-    "updateTime": "2025-07-21T20:42:02.888Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73360505&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73360505,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73351804_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73351804_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel begins new offensive in Gaza",
     "category": "Conflicts",
     "subCategory": null,
@@ -3830,45 +3830,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israeli forces reportedly kill dozens in Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 125,
-    "updateTime": "2025-07-20T22:21:05.966Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73345291&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73345291,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73335546_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73335546_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Syrian government: Bedouin fighters pulled out of Sweida",
     "category": "Conflicts",
     "subCategory": null,
@@ -3947,6 +3908,45 @@
     "language": "en"
   },
   {
+    "titleText": "Vietnam boat capsizing claims dozens, shatters families",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:VN": "Vietnam"
+    },
+    "regions": [
+      "Vietnam"
+    ],
+    "runningTime": 94,
+    "updateTime": "2025-07-20T10:30:10.715Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73342200&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73342200,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73338176_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73338176_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan: Undocumented Afghan children living off scraps",
     "category": "Human Rights",
     "subCategory": null,
@@ -3979,47 +3979,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73330704_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Zelenskyy calls on Putin to enter ceasefire talks",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-07-20T07:47:52.405Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73341531&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73341531,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67326018_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67326018_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4217,51 +4176,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73320635_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany holds EU migration summit, starts first deportation",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:FR": "France",
-      "region:europe": "Europe",
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Germany",
-      "France",
-      "Europe",
-      "Afghanistan"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-07-19T08:33:36.902Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73334139&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73334139,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73322750_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73322750_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4705,45 +4619,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73315395_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Complex demographics pose a challenge for a unified Syria",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-07-17T19:59:11.934Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73317509&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73317509,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73306172_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73306172_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5949,6 +5824,45 @@
     "language": "en"
   },
   {
+    "titleText": "Syrian island hopes for tourism boom",
+    "category": "Business",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 153,
+    "updateTime": "2025-07-13T17:45:35.542Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73262927&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73262927,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73051538_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73051538_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump announces 30% tariffs on EU goods ",
     "category": "Trade",
     "subCategory": null,
@@ -5983,6 +5897,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73261912_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Israeli settlers reportedly kill 2 Palestinians in West Bank",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel",
+      "Middle East"
+    ],
+    "runningTime": 148,
+    "updateTime": "2025-07-13T12:17:48.725Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73259397&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73259397,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73260543_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73260543_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6347,47 +6304,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -6424,6 +6340,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7632,6 +7589,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73123392_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukrainian woman holds hope with the baby of a fallen soldier",
+    "category": "Conflicts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 253,
+    "updateTime": "2025-07-02T10:19:38.19Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73114552&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73114552,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73120750_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73120750_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10999,7 +10995,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-07-28T20:06:42.574Z",
+    "updateTime": "2025-07-29T07:34:37.141Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -11014,13 +11010,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73433660_6.jpg",
+      "url": "https://static.dw.com/image/73444020_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73433660_7.jpg",
+      "url": "https://static.dw.com/image/73444020_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12103,6 +12099,45 @@
     "language": "es"
   },
   {
+    "titleText": "Griechenland: Die Rettung der Riesenmuscheln",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GR": "Griechenland"
+    },
+    "regions": [
+      "Griechenland"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-07-29T07:09:33.47Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73388569&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73388569,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73308118_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73308118_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Südafrika: Wie HIV-infizierten Prostituierten geholfen wird ",
     "category": "Gesundheit",
     "subCategory": "Gesellschaft",
@@ -12551,7 +12586,7 @@
     "updateTime": "2025-07-26T12:57:58.57Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73402646&list=REPORTS_VIDEO:1",
+      "contentId": "v=73402646&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 73402646,
       "launchParam": null
@@ -13710,7 +13745,7 @@
     "updateTime": "2025-06-15T06:31:39.784Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900016&list=DW_RECOMMENDS_VIDEO:1",
+      "contentId": "v=72900016&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 72900016,
       "launchParam": null
@@ -13887,45 +13922,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72772933_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Dänemark rüstet auf - auch mit Frauen",
-    "category": "Gesellschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DK": "Dänemark"
-    },
-    "regions": [
-      "Dänemark"
-    ],
-    "runningTime": 225,
-    "updateTime": "2025-05-29T07:23:21.156Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72624259&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 72624259,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72557692_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72557692_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
