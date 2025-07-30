@@ -1,5 +1,81 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 85,
+    "updateTime": "2025-07-30T12:38:03.193Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73459478_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73459478_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russia's 8.8 quake sparks tsunami warnings across Pacific ",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Asia",
+      "North America"
+    ],
+    "runningTime": 99,
+    "updateTime": "2025-07-30T12:37:13.427Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73467871&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73467871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73459094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73459094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump thinks US will let Ukrainians stay until war ends",
     "category": "Conflicts",
     "subCategory": "Migration",
@@ -197,41 +273,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 85,
-    "updateTime": "2025-07-30T08:44:00.547Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73459478_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73459478_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "UK plans to recognize Palestine if Israel doesn't stop war",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -275,7 +316,7 @@
     "language": "en"
   },
   {
-    "titleText": "Come on a unique gourmet bike tour through Denmark",
+    "titleText": "Denmark: Come on a unique gourmet bike tour of Copenhagen ",
     "category": "Travel",
     "subCategory": "Lifestyle",
     "region_ids": {
@@ -4105,45 +4146,6 @@
     "language": "en"
   },
   {
-    "titleText": "Japanese PM to stay on after weak election result",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:JP": "Japan"
-    },
-    "regions": [
-      "Japan"
-    ],
-    "runningTime": 166,
-    "updateTime": "2025-07-21T13:20:28.17Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73355683&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73355683,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73343746_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73343746_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan's monsoon rains wash away livelihoods",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -6107,6 +6109,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -6143,47 +6186,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10671,45 +10673,6 @@
     "language": "en"
   },
   {
-    "titleText": "Torrential rains kill dozens in DR Congo",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 85,
-    "updateTime": "2025-04-06T20:19:53.273Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72156869&list=GLOBAL_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 72156869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72156854_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72156854_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Space debris is threatening satellites",
     "category": "Technology",
     "subCategory": null,
@@ -11042,7 +11005,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-07-30T11:29:39.562Z",
+    "updateTime": "2025-07-30T12:45:00.793Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12144,6 +12107,47 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Trump: \"Ukrainer können in den USA bleiben\"",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "Vereinigte Staaten von Amerika",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Vereinigte Staaten von Amerika",
+      "Ukraine"
+    ],
+    "runningTime": 21,
+    "updateTime": "2025-07-30T12:40:57.334Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73465921&list=NEWS_VIDEO:2",
+      "type": "video",
+      "id": 73465921,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73465239_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73465239_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Ukraine: Mit Uralt-Waffen gegen Drohnen",
