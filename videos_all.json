@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Germany warns Israel not to annex Palestinian territory",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 108,
+    "updateTime": "2025-08-01T19:37:41.475Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73504062&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73504062,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73504025_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73504025_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7609,7 +7650,7 @@
     "updateTime": "2025-07-04T08:49:50.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73151585&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73151585&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73151585,
       "launchParam": null
@@ -7981,47 +8022,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73123392_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gaza family mourns 19-year-old killed at Israeli aid site",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 215,
-    "updateTime": "2025-07-02T14:03:58.184Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73116569&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73116569,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72693544_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72693544_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
