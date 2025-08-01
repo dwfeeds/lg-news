@@ -1,13 +1,46 @@
 [
   {
-    "titleText": "They said they were criminals, not victims",
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 85,
+    "updateTime": "2025-08-01T12:40:08.034Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73455100_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73455100_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Roma, Sinti persecuted in WWII still fight for recognition",
     "category": "Society",
     "subCategory": null,
     "runningTime": 186,
     "updateTime": "2025-08-01T07:21:11.485Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73492058&list=REGION_VIDEO:7",
+      "contentId": "v=73492058&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73492058,
       "launchParam": null
@@ -73,7 +106,7 @@
     "updateTime": "2025-07-31T15:31:31.523Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73488733&list=REGION_VIDEO:7",
+      "contentId": "v=73488733&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73488733,
       "launchParam": null
@@ -429,7 +462,7 @@
     "language": "en"
   },
   {
-    "titleText": "Denmark's bike chef serves unique gourmet tour of Copenhagen",
+    "titleText": "Denmark's bike chef serves Copenhagen gourmet tour",
     "category": "Travel",
     "subCategory": "Lifestyle",
     "runningTime": 144,
@@ -1214,6 +1247,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69613741_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukrainians' novel ways to stay safe from Russian attacks",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 174,
+    "updateTime": "2025-07-23T04:46:40.499Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73346428&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73346428,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73346680_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73346680_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
