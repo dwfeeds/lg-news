@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Rome: Over 1 million gather at Pope Leo's youth mass",
+    "category": "Religion",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:VA": "Vatican"
+    },
+    "regions": [
+      "Vatican"
+    ],
+    "runningTime": 102,
+    "updateTime": "2025-08-03T15:01:19.634Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73514523&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73514523,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73513133_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73513133_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7658,7 +7697,7 @@
     "updateTime": "2025-07-05T19:41:17.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170697&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73170697&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73170697,
       "launchParam": null
@@ -7872,45 +7911,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73065103_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gazans demand peace after hospital director killed in strike",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-07-03T08:14:26.392Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73136239&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73136239,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73139557_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73139557_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
