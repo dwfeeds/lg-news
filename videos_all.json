@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Netanyahu faces opposition over possible Gaza takeover plan ",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 115,
+    "updateTime": "2025-08-06T22:00:36.246Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73553902&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73553902,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73543600_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73543600_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Starvation looms in besieged Sudanese city",
     "category": "Conflicts",
     "subCategory": null,
@@ -7728,7 +7769,7 @@
     "updateTime": "2025-07-08T19:51:48.118Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204985&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73204985&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73204985,
       "launchParam": null
@@ -8069,45 +8110,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73174197_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli strikes kill dozens over weekend, Gaza officials say",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-07-05T19:41:17.671Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73170697&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73170697,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73164980_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73164980_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10610,45 +10612,6 @@
     "language": "es"
   },
   {
-    "titleText": "La lucha contra la mafia de la cocaína en Bélgica",
-    "category": "Sociedad",
-    "subCategory": "Política",
-    "region_ids": {
-      "region:europe:BE": "Bélgica"
-    },
-    "regions": [
-      "Bélgica"
-    ],
-    "runningTime": 509,
-    "updateTime": "2025-07-31T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73479035&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73479035,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399868_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399868_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "Verano, ovnis y comunismo en Bulgaria",
     "category": "Sociedad",
     "subCategory": "Política",
@@ -10681,6 +10644,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "La lucha contra la mafia de la cocaína en Bélgica",
+    "category": "Sociedad",
+    "subCategory": "Política",
+    "region_ids": {
+      "region:europe:BE": "Bélgica"
+    },
+    "regions": [
+      "Bélgica"
+    ],
+    "runningTime": 509,
+    "updateTime": "2025-07-31T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73479035&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73479035,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
