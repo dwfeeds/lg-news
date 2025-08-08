@@ -157,8 +157,8 @@
   },
   {
     "titleText": "These Prague YouTubers are exposing scammers to help tourists",
-    "category": "Society",
-    "subCategory": null,
+    "category": "Travel",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:CZ": "Czech Republic"
     },
@@ -169,7 +169,7 @@
     "updateTime": "2025-08-08T13:07:47.005Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73572706&list=REGION_VIDEO:7",
+      "contentId": "v=73572706&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73572706,
       "launchParam": null
@@ -3994,6 +3994,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ukraine faces agricultural crisis as locusts destroy crops",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-07-30T14:46:49.67Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73472136&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73472136,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65525044_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65525044_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Russia's 8.8 quake sparks tsunami warnings across Pacific ",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -7046,45 +7085,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73038295_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How is real Czech Pilsner brewed?",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:CZ": "Czech Republic"
-    },
-    "regions": [
-      "Czech Republic"
-    ],
-    "runningTime": 303,
-    "updateTime": "2025-07-15T09:18:21.992Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73245335&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73245335,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73244404_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73244404_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
