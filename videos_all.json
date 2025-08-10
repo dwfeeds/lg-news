@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-08-10T12:51:28.344Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73585172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73585172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "London police arrest protesters supporting Palestine Action ",
     "category": "Human Rights",
     "subCategory": null,
@@ -13,7 +48,7 @@
     "updateTime": "2025-08-10T09:21:30.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73588084&list=REGION_VIDEO:7",
+      "contentId": "v=73588084&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73588084,
       "launchParam": null
@@ -114,41 +149,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73477482_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 101,
-    "updateTime": "2025-08-09T20:17:18.483Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73585172_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73585172_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3571,6 +3571,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ukraine restores independence of anti-graft agencies",
+    "category": "Corruption",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 148,
+    "updateTime": "2025-07-31T18:30:59.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73490415&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73490415,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73487476_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73487476_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "DRC: Islamist rebels attack Catholic church in eastern Congo",
     "category": "Conflicts",
     "subCategory": null,
@@ -6684,7 +6723,7 @@
     "updateTime": "2025-07-17T16:19:14.175Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73315398&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73315398&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73315398,
       "launchParam": null
@@ -10322,41 +10361,6 @@
     "language": "en"
   },
   {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 183,
-    "updateTime": "2025-08-09T19:48:07.197Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73565059_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73565059_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
     "titleText": "La OTAN escucha bajo el agua para protegerse del sabotaje ruso ",
     "category": "Noticias en video",
     "subCategory": "Política",
@@ -10624,22 +10628,22 @@
     "language": "es"
   },
   {
-    "titleText": "Verano, ovnis y comunismo en Bulgaria",
+    "titleText": "La lucha contra la mafia de la cocaína en Bélgica",
     "category": "Sociedad",
     "subCategory": "Política",
     "region_ids": {
-      "region:europe:BG": "Bulgaria"
+      "region:europe:BE": "Bélgica"
     },
     "regions": [
-      "Bulgaria"
+      "Bélgica"
     ],
-    "runningTime": 291,
+    "runningTime": 509,
     "updateTime": "2025-07-31T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73479364&list=REPORTS_VIDEO:1",
+      "contentId": "v=73479035&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 73479364,
+      "id": 73479035,
       "launchParam": null
     },
     "providerLogo": {
@@ -10649,13 +10653,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""

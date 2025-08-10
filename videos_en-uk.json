@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 97,
+    "updateTime": "2025-08-10T12:51:28.344Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73585172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73585172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "London police arrest protesters supporting Palestine Action ",
     "category": "Human Rights",
     "subCategory": null,
@@ -7,7 +40,7 @@
     "updateTime": "2025-08-10T09:21:30.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73588084&list=REGION_VIDEO:7",
+      "contentId": "v=73588084&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73588084,
       "launchParam": null
@@ -59,39 +92,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73477482_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 101,
-    "updateTime": "2025-08-09T20:17:18.483Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73585172_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73585172_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1016,6 +1016,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73492126_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine restores independence of anti-graft agencies",
+    "category": "Corruption",
+    "subCategory": "Politics",
+    "runningTime": 148,
+    "updateTime": "2025-07-31T18:30:59.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73490415&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73490415,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73487476_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73487476_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
