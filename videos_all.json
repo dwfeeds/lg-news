@@ -6,7 +6,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 97,
-    "updateTime": "2025-08-11T09:31:51.154Z",
+    "updateTime": "2025-08-11T11:54:13.943Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:9",
@@ -21,13 +21,52 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73593621_6.jpg",
+      "url": "https://static.dw.com/image/73595131_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73593621_7.jpg",
+      "url": "https://static.dw.com/image/73595131_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Lisbon: As stunning in reality as on Instagram",
+    "category": "Travel",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 288,
+    "updateTime": "2025-08-11T11:53:01.308Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73575623&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73575623,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73560097_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73560097_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -243,7 +282,7 @@
     "updateTime": "2025-08-10T20:03:44.414Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73498914&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73498914&list=REGION_VIDEO:7",
       "type": "video",
       "id": 73498914,
       "launchParam": null
@@ -871,45 +910,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73572096_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How to stay healthy in hot weather — In Good Shape",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 257,
-    "updateTime": "2025-08-08T12:29:43.654Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73572104&list=FULL_SHOWS_VIDEO:10",
-      "type": "video",
-      "id": 73572104,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/57488401_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/57488401_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2794,45 +2794,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukraine faces setbacks at front as Russian attacks escalate",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-08-04T08:55:30.837Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73519562&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73519562,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73260668_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73260668_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How to protect Delhi's informal workers from extreme heat",
     "category": "Climate",
     "subCategory": "Human Rights",
@@ -3347,49 +3308,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73504025_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "German SMEs fear tariffs impact",
-    "category": "Trade",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "Germany",
-      "United States of America"
-    ],
-    "runningTime": 176,
-    "updateTime": "2025-08-01T14:39:05.754Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73500713&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73500713,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73503191_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73503191_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7436,47 +7354,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -7513,6 +7390,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7593,6 +7511,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72870812_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UN: 'Entire aid system has been hit by a wave of cuts'",
+    "category": "Politics",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:global": "Global",
+      "region:africa:KE": "Kenya",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Global",
+      "Kenya",
+      "United States of America"
+    ],
+    "runningTime": 481,
+    "updateTime": "2025-07-11T16:36:37.611Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73247445&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73247445,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73239765_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73239765_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11426,6 +11387,45 @@
     "language": "es"
   },
   {
+    "titleText": "Reiseziel Lissabon - wirklich so schön?",
+    "category": "Reise",
+    "subCategory": "Kultur",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 288,
+    "updateTime": "2025-08-11T11:52:02.93Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73575945&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73575945,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73560097_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73560097_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Indien: Wie Bürger ins Visier der Migrationsabwehr geraten",
     "category": "Migration",
     "subCategory": "Video-Nachrichten",
@@ -11882,7 +11882,7 @@
     "updateTime": "2025-08-06T07:52:43.738Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73532745&list=REPORTS_VIDEO:1",
+      "contentId": "v=73532745&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 73532745,
       "launchParam": null
@@ -13169,45 +13169,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72895004_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kriegsgefangene zurück: Ukraine zwischen Freude und Bangen",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-06-10T15:49:48.562Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72860703&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 72860703,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72853636_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72853636_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
