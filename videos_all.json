@@ -35,6 +35,84 @@
     "language": "en"
   },
   {
+    "titleText": "Firefighters battle blazes in Spain's north",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-08-11T09:31:11.366Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73596039&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73596039,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73594305_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73594305_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India: Hindu nationalists force religious conversions",
+    "category": "Religion",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 244,
+    "updateTime": "2025-08-11T09:08:09.78Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73595938&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73595938,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73595923_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73595923_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Report: Child labor used to build Russian drones",
     "category": "Conflicts",
     "subCategory": null,
@@ -206,7 +284,7 @@
     "updateTime": "2025-08-10T18:44:41.536Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73549929&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73549929&list=REGION_VIDEO:4",
       "type": "video",
       "id": 73549929,
       "launchParam": null
@@ -4049,45 +4127,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -4120,6 +4159,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4964,45 +5042,6 @@
     "language": "en"
   },
   {
-    "titleText": "Maharashtra women farmers navigating drought and inequality",
-    "category": "Nature and Environment",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 394,
-    "updateTime": "2025-07-28T11:17:11.251Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73400391&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73400391,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73415316_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73415316_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Wittenberg, Germany: Birthplace of the Reformation",
     "category": "History",
     "subCategory": "Religion",
@@ -5078,45 +5117,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73433674_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Thrithala's sustainable water revolution ",
-    "category": "Food Security",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 383,
-    "updateTime": "2025-07-28T08:39:20.955Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73315859&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73315859,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73314275_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73314275_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7513,6 +7513,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Victims of Srebrenica massacre laid to rest after 30 years",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:BA": "Bosnia and Herzegovina"
+    },
+    "regions": [
+      "Bosnia and Herzegovina"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-07-11T17:46:55.359Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73248273&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73248273,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73243174_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73243174_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10587,22 +10626,22 @@
     "language": "es"
   },
   {
-    "titleText": "Verano, ovnis y comunismo en Bulgaria",
+    "titleText": "La lucha contra la mafia de la cocaína en Bélgica",
     "category": "Sociedad",
     "subCategory": "Política",
     "region_ids": {
-      "region:europe:BG": "Bulgaria"
+      "region:europe:BE": "Bélgica"
     },
     "regions": [
-      "Bulgaria"
+      "Bélgica"
     ],
-    "runningTime": 291,
+    "runningTime": 509,
     "updateTime": "2025-07-31T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73479364&list=REPORTS_VIDEO:1",
+      "contentId": "v=73479035&list=REPORTS_VIDEO:1",
       "type": "video",
-      "id": 73479364,
+      "id": 73479035,
       "launchParam": null
     },
     "providerLogo": {
@@ -10612,13 +10651,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
