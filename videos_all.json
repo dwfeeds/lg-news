@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Warming climate forces Bosnia to rethink tourism",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:BA": "Bosnia and Herzegovina"
+    },
+    "regions": [
+      "Bosnia and Herzegovina"
+    ],
+    "runningTime": 124,
+    "updateTime": "2025-08-13T09:09:08.427Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73617402&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73617402,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73621136_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73621136_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-08-13T08:51:28.509Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70121916_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70121916_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "100 days of Chancellor Merz: What do Germans think?",
     "category": "Politics",
     "subCategory": null,
@@ -156,18 +230,24 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
+    "titleText": "Inside an overwhelmed Gaza hospital",
+    "category": "Conflicts",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2025-08-13T07:11:17.875Z",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Spain"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-08-12T23:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=73611945&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 49496622,
+      "id": 73611945,
       "launchParam": null
     },
     "providerLogo": {
@@ -177,13 +257,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73539073_6.jpg",
+      "url": "https://static.dw.com/image/73308509_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73539073_7.jpg",
+      "url": "https://static.dw.com/image/73308509_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -424,47 +504,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73560053_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Inside an overwhelmed Gaza hospital",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Spain"
-    ],
-    "runningTime": 223,
-    "updateTime": "2025-08-12T11:54:19.252Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73611945&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73611945,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73308509_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73308509_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4718,45 +4757,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -4789,6 +4789,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7055,49 +7094,6 @@
     "language": "en"
   },
   {
-    "titleText": "Scientists seek climate clues in Antarctica's ancient ice",
-    "category": "Climate",
-    "subCategory": "Science",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:GB": "United Kingdom",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Europe",
-      "United Kingdom",
-      "Global"
-    ],
-    "runningTime": 107,
-    "updateTime": "2025-07-18T20:43:24.022Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73332130&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73332130,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73332127_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73332127_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Hong Kong: The deaf female scaffolder beating the odds",
     "category": "Architecture",
     "subCategory": "Society",
@@ -8021,6 +8017,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8057,47 +8094,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10181,6 +10177,41 @@
     "language": "en"
   },
   {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 181,
+    "updateTime": "2025-08-13T08:51:09.071Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73539073_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73539073_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Graves incendios en España ",
     "category": "Noticias en video",
     "subCategory": null,
@@ -11267,6 +11298,47 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Hongkongs letzte Straßenhändler",
+    "category": "Politik",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:asia:HK": "Hongkong"
+    },
+    "regions": [
+      "China",
+      "Hongkong"
+    ],
+    "runningTime": 189,
+    "updateTime": "2025-08-13T09:23:29.823Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73615131&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73615131,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71381198_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71381198_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Balkan: Waldbrände wüten in Montenegro und Albanien",
@@ -13049,45 +13121,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73035981_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Was ist die NATO und was sind ihre Aufgaben?",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-06-23T10:46:38.802Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72987397&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 72987397,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68736514_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68736514_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
