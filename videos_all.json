@@ -89,7 +89,7 @@
     "updateTime": "2025-08-15T06:41:06.991Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -1320,7 +1320,7 @@
     "updateTime": "2025-08-12T20:47:07.786Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73617533&list=REGION_VIDEO:8",
+      "contentId": "v=73617533&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73617533,
       "launchParam": null
@@ -1724,7 +1724,7 @@
     "updateTime": "2025-08-11T21:51:11.572Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73606620&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73606620&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73606620,
       "launchParam": null
@@ -2547,47 +2547,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73561069_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why is Kemi Badenoch controversial in Nigeria?  ",
-    "category": "Politics",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Africa",
-      "Nigeria"
-    ],
-    "runningTime": 298,
-    "updateTime": "2025-08-08T15:46:15.776Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73576093&list=FULL_SHOWS_VIDEO:10",
-      "type": "video",
-      "id": 73576093,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70668267_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70668267_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5561,45 +5520,6 @@
     "language": "en"
   },
   {
-    "titleText": "Belgium struggles in fight against cocaine traffickers",
-    "category": "Crime",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:BE": "Belgium"
-    },
-    "regions": [
-      "Belgium"
-    ],
-    "runningTime": 508,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399868_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399868_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What do UFOs, communism and Bulgaria have in common?",
     "category": "Society",
     "subCategory": "Politics",
@@ -5632,6 +5552,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Belgium struggles in fight against cocaine traffickers",
+    "category": "Crime",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Belgium"
+    ],
+    "runningTime": 508,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8054,6 +8013,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8090,47 +8090,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8272,7 +8231,7 @@
     "updateTime": "2025-07-08T17:51:58.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73204475,
       "launchParam": null
@@ -8313,7 +8272,7 @@
     "updateTime": "2025-07-07T19:53:09.062Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72369046&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72369046,
       "launchParam": null
@@ -8393,7 +8352,7 @@
     "updateTime": "2025-07-07T07:05:33.942Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73070085&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73070085,
       "launchParam": null
@@ -8707,7 +8666,7 @@
     "updateTime": "2025-06-30T11:15:05.405Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73092091&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73092091&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73092091,
       "launchParam": null
@@ -9072,7 +9031,7 @@
     "updateTime": "2025-06-17T18:08:57.223Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72954929&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72954929,
       "launchParam": null
@@ -9111,7 +9070,7 @@
     "updateTime": "2025-06-17T16:35:06.395Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72954902&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72954902,
       "launchParam": null
@@ -9234,7 +9193,7 @@
     "updateTime": "2025-06-13T15:02:43.755Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900163&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72900163&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72900163,
       "launchParam": null
@@ -9427,7 +9386,7 @@
     "updateTime": "2025-06-08T19:06:21.353Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72838169&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72838169&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72838169,
       "launchParam": null
@@ -9466,7 +9425,7 @@
     "updateTime": "2025-06-05T09:09:29.932Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72798393&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72798393&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72798393,
       "launchParam": null
@@ -9944,7 +9903,7 @@
     "updateTime": "2025-05-24T13:24:13.299Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72658689&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72658689&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72658689,
       "launchParam": null
@@ -9983,7 +9942,7 @@
     "updateTime": "2025-05-23T20:55:34.398Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72654710&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72654710&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72654710,
       "launchParam": null
@@ -10223,7 +10182,7 @@
     "updateTime": "2025-05-13T10:25:55.119Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72523290&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72523290&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72523290,
       "launchParam": null
@@ -10461,7 +10420,7 @@
     "updateTime": "2025-05-03T15:21:42.27Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72425912&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72425912&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72425912,
       "launchParam": null
@@ -10500,7 +10459,7 @@
     "updateTime": "2025-05-02T15:49:38.456Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72410681&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72410681&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72410681,
       "launchParam": null
@@ -10539,7 +10498,7 @@
     "updateTime": "2025-05-02T09:10:15.152Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72409019&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72409019&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72409019,
       "launchParam": null
@@ -10578,7 +10537,7 @@
     "updateTime": "2025-04-29T08:26:43.675Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72384413&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72384413&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72384413,
       "launchParam": null
@@ -10647,6 +10606,45 @@
     "language": "en"
   },
   {
+    "titleText": "Raid on refugee camp triggers wave of displacement in Sudan",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 152,
+    "updateTime": "2025-04-20T11:33:49.016Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72292622&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72292622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72230164_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72230164_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trial opens for nearly 200 detained during Istanbul protests",
     "category": "Politics",
     "subCategory": null,
@@ -10660,7 +10658,7 @@
     "updateTime": "2025-04-18T19:08:43.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72285199&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72285199&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72285199,
       "launchParam": null
@@ -10679,6 +10677,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72285074_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudan video shows rebel RSF attack on Darfur camp",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-04-17T08:06:27.966Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72271817&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72271817,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71763447_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71763447_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10779,7 +10816,7 @@
     "updateTime": "2025-04-15T20:45:20.073Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72255603&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72255603&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72255603,
       "launchParam": null
@@ -10798,6 +10835,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72256075_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudan's civil war, humanitarian crisis enter third year",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 154,
+    "updateTime": "2025-04-15T08:59:29.475Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72247875&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72247875,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71909940_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71909940_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10859,7 +10935,7 @@
     "updateTime": "2025-04-04T17:12:40.654Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146184&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72146184&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72146184,
       "launchParam": null
@@ -10898,7 +10974,7 @@
     "updateTime": "2025-04-01T15:17:05.802Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72108663&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72108663&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72108663,
       "launchParam": null
@@ -10939,7 +11015,7 @@
     "updateTime": "2025-03-31T13:17:56.036Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71999481&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71999481&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71999481,
       "launchParam": null
@@ -11017,7 +11093,7 @@
     "updateTime": "2025-03-20T16:06:52.463Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71988026&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=71988026&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 71988026,
       "launchParam": null
@@ -11043,13 +11119,370 @@
     "language": "en"
   },
   {
+    "titleText": "Child rape, sexual assault common in Sudan war, UNICEF finds",
+    "category": "Crime",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 123,
+    "updateTime": "2025-03-04T16:31:01.618Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71826916&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71826916,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65867538_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65867538_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Health facilities targeted by both sides in Sudan war",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 439,
+    "updateTime": "2025-01-30T18:16:57.217Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71462915&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71462915,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70813040_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70813040_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudanese army takes strategic town from RSF militia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Africa",
+      "Sudan"
+    ],
+    "runningTime": 168,
+    "updateTime": "2025-01-16T18:43:24.705Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71319270&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71319270,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71274658_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71274658_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudan war: Refugees fleeing to Chad face bleak conditions",
+    "category": "Conflicts",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:africa:TD": "Chad"
+    },
+    "regions": [
+      "Chad"
+    ],
+    "runningTime": 77,
+    "updateTime": "2024-08-27T09:26:05.263Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70020496&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 70020496,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70047425_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70047425_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Famine looms in Sudan after 16 months of civil war",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 183,
+    "updateTime": "2024-08-20T13:51:18.625Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=69994329&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 69994329,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66634790_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66634790_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudanese flee conflict to rebel-controlled Nuba mountains",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 224,
+    "updateTime": "2023-12-14T23:46:23.59Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=67726652&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 67726652,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67724361_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67724361_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why is Tanzania taking in medical students from Sudan?",
+    "category": "Health",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:SD": "Sudan",
+      "region:africa:TZ": "Tanzania"
+    },
+    "regions": [
+      "Sudan",
+      "Tanzania"
+    ],
+    "runningTime": 95,
+    "updateTime": "2023-08-21T15:41:36.431Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=66592891&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 66592891,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66458001_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66458001_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Refugees from Sudan in Chad face desperation",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:TD": "Chad",
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Chad",
+      "Sudan"
+    ],
+    "runningTime": 214,
+    "updateTime": "2023-05-26T07:04:38.186Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=65739785&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 65739785,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65597867_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65597867_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sudan crisis: Hospitals damaged and overwhelmed",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 187,
+    "updateTime": "2023-05-12T22:11:54.941Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=65610616&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 65610616,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65610438_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65610438_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-08-15T10:20:54.498Z",
+    "updateTime": "2025-08-15T11:23:22.103Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
