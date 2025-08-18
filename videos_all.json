@@ -2,7 +2,7 @@
   {
     "titleText": "Low birth rates makes South Korea’s military shrink",
     "category": "Politics",
-    "subCategory": null,
+    "subCategory": "History",
     "region_ids": {
       "region:asia:KR": "South Korea"
     },
@@ -43,10 +43,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:europe:UA": "Ukraine"
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Ukraine"
+      "Ukraine",
+      "United States of America"
     ],
     "runningTime": 115,
     "updateTime": "2025-08-18T10:49:35.035Z",
@@ -6002,45 +6004,6 @@
     "language": "en"
   },
   {
-    "titleText": "Belgium struggles in fight against cocaine traffickers",
-    "category": "Crime",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:BE": "Belgium"
-    },
-    "regions": [
-      "Belgium"
-    ],
-    "runningTime": 508,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399868_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399868_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What do UFOs, communism and Bulgaria have in common?",
     "category": "Society",
     "subCategory": "Politics",
@@ -6073,6 +6036,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Belgium struggles in fight against cocaine traffickers",
+    "category": "Crime",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Belgium"
+    ],
+    "runningTime": 508,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8111,47 +8113,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8188,6 +8149,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13086,6 +13088,88 @@
     "language": "es"
   },
   {
+    "titleText": "Schweiz: Der verborgene CO2-Fußabdruck",
+    "category": "Handel",
+    "subCategory": "Globalisierung",
+    "region_ids": {
+      "region:europe:CH": "Schweiz",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Schweiz",
+      "Europa"
+    ],
+    "runningTime": 392,
+    "updateTime": "2025-08-18T11:33:18.445Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73678907&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73678907,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73247539_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73247539_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Kolumbien: Das Aus für USAID bringt Hilfsprojekte in Not",
+    "category": "Politik",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:cala:CO": "Kolumbien",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Kolumbien",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 363,
+    "updateTime": "2025-08-18T11:29:46.295Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73678848&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73678848,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73269753_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73269753_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Traum oder Alptraum: Leben im Touristen-Hotspot Venedig",
     "category": "Lifestyle",
     "subCategory": "Reise",
@@ -13507,7 +13591,7 @@
     "updateTime": "2025-08-13T10:49:46.123Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73615131&list=REPORTS_VIDEO:1",
+      "contentId": "v=73615131&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73615131,
       "launchParam": null
@@ -13526,45 +13610,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71381198_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Adidas unter Beschuss",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:MX": "Mexiko"
-    },
-    "regions": [
-      "Mexiko"
-    ],
-    "runningTime": 135,
-    "updateTime": "2025-08-12T21:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73614792&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73614792,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73590080_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73590080_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14320,45 +14365,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73350180_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Gourmet-Tour mit dem Fahrrad durch Dänemark",
-    "category": "Gesellschaft",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:DK": "Dänemark"
-    },
-    "regions": [
-      "Dänemark"
-    ],
-    "runningTime": 158,
-    "updateTime": "2025-07-30T07:35:31.769Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73388573&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73388573,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73322620_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73322620_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
