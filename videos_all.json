@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Amid peace efforts, fighting in Ukraine rages on",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 116,
+    "updateTime": "2025-08-19T20:41:12.794Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73696658&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73696658,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68104743_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68104743_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tensions between China and India begin to ease",
     "category": "Politics",
     "subCategory": null,
@@ -3673,7 +3712,7 @@
     "updateTime": "2025-08-09T20:32:33.703Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73586517&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73586517&list=REGION_VIDEO:7",
       "type": "video",
       "id": 73586517,
       "launchParam": null
@@ -4974,51 +5013,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73553426_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany's refugee program freeze strands asylum-seekers",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:africa:KE": "Kenya",
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa:SS": "South Sudan"
-    },
-    "regions": [
-      "Germany",
-      "Kenya",
-      "Democratic Republic of Congo",
-      "South Sudan"
-    ],
-    "runningTime": 263,
-    "updateTime": "2025-08-06T08:52:49.067Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73545050&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73545050,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73545337_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73545337_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
