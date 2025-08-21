@@ -6874,45 +6874,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -6945,6 +6906,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9681,24 +9681,26 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
+    "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:global": "Global"
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
     },
     "regions": [
       "United States of America",
-      "Global"
+      "Germany",
+      "Europe"
     ],
-    "runningTime": 133,
+    "runningTime": 79,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "contentId": "v=73239209&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 73239336,
+      "id": 73239209,
       "launchParam": null
     },
     "providerLogo": {
@@ -9708,13 +9710,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13007,6 +13009,47 @@
     "language": "en"
   },
   {
+    "titleText": "Drones de fibra óptica redefinen la invasión rusa",
+    "category": "Conflictos",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ucrania",
+      "region:europe:RU": "Federación Rusa"
+    },
+    "regions": [
+      "Ucrania",
+      "Federación Rusa"
+    ],
+    "runningTime": 280,
+    "updateTime": "2025-08-21T18:46:03.188Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73724721&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73724721,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73713608_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73713608_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Noticias - Última hora",
     "category": "Noticias en video",
     "subCategory": null,
@@ -13242,41 +13285,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73626348_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Graves incendios en España ",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 79,
-    "updateTime": "2025-08-11T20:11:30.681Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73606563&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73606563,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73612707_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73612707_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14080,6 +14088,45 @@
     "language": "es"
   },
   {
+    "titleText": "Konditorei statt Rente: Maria erfüllt sich ihren Lebenstraum",
+    "category": "Gesellschaft",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RO": "Rumänien"
+    },
+    "regions": [
+      "Rumänien"
+    ],
+    "runningTime": 219,
+    "updateTime": "2025-08-21T18:15:30.236Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73724669&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73724669,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73724586_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73724586_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Fluten in Pakistan fordern Hunderte Menschenleben",
     "category": "Katastrophe",
     "subCategory": "Klima",
@@ -14497,7 +14544,7 @@
     "updateTime": "2025-08-18T09:28:30.694Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73659716&list=REPORTS_VIDEO:1",
+      "contentId": "v=73659716&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73659716,
       "launchParam": null
@@ -15154,45 +15201,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73519994_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Spanien: Luxustouristen entdecken Mallorca ",
-    "category": "Gesellschaft",
-    "subCategory": "Reise",
-    "region_ids": {
-      "region:europe:ES": "Spanien"
-    },
-    "regions": [
-      "Spanien"
-    ],
-    "runningTime": 419,
-    "updateTime": "2025-08-05T08:47:18.414Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73467886&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73467886,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399826_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399826_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
