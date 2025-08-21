@@ -1,5 +1,87 @@
 [
   {
+    "titleText": "Nigeria the most dangerous place on Earth to give birth",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 220,
+    "updateTime": "2025-08-21T17:11:51.901Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73724408&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73724408,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73724275_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73724275_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza students fear losing scholarships, study places abroad",
+    "category": "Conflicts",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel",
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel",
+      "United Kingdom"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-08-21T17:01:52.117Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73722462&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 73722462,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73722526_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73722526_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5221,45 +5303,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nigerian artist with autism breaking world records",
-    "category": "Arts",
-    "subCategory": "Education",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 170,
-    "updateTime": "2025-08-07T09:09:59.148Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73438479&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73438479,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73415673_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73415673_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump indicates he could meet with Putin 'very soon'",
     "category": "Conflicts",
     "subCategory": null,
@@ -7859,45 +7902,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gaza: Israel announces tactical pauses in fighting",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 263,
-    "updateTime": "2025-07-27T10:00:03.096Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73428365&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73428365,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73428049_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73428049_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexican town welcomes US emigres",
     "category": "Migration",
     "subCategory": null,
@@ -9677,26 +9681,24 @@
     "language": "en"
   },
   {
-    "titleText": "Why filmmakers protested against AI",
+    "titleText": "Why AI is almost always the bad guy in movies",
     "category": "Film",
     "subCategory": "Society",
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:global": "Global"
     },
     "regions": [
       "United States of America",
-      "Germany",
-      "Europe"
+      "Global"
     ],
-    "runningTime": 79,
+    "runningTime": 133,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=REGION_VIDEO:5",
+      "contentId": "v=73239336&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 73239209,
+      "id": 73239336,
       "launchParam": null
     },
     "providerLogo": {
@@ -9706,13 +9708,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230173_6.jpeg",
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13011,7 +13013,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-08-21T16:24:06.752Z",
+    "updateTime": "2025-08-21T17:10:15.25Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -13026,13 +13028,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73711479_6.jpg",
+      "url": "https://static.dw.com/image/63482058_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73711479_7.jpg",
+      "url": "https://static.dw.com/image/63482058_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
