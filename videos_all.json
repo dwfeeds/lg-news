@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "UN-backed hunger monitor declares famine in Gaza",
+    "category": "Conflicts",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 177,
+    "updateTime": "2025-08-22T17:48:12.916Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73737457&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73737457,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73729331_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73729331_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tensions Rise as Serbia Faces Unrest",
     "category": "Politics",
     "subCategory": null,
@@ -6313,7 +6354,7 @@
     "updateTime": "2025-08-02T10:24:52.783Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73506937&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73506937&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73506937,
       "launchParam": null
@@ -9003,47 +9044,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73319660_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Syrian forces intervene as Druze and Bedouin militias clash",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Middle East",
-      "Syria"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-07-16T17:34:41.505Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73304250&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73304250,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73295247_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73295247_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12666,7 +12666,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 181,
-    "updateTime": "2025-08-22T16:43:27.041Z",
+    "updateTime": "2025-08-22T18:02:03.09Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
