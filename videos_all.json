@@ -9363,24 +9363,26 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
+    "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:global": "Global"
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
     },
     "regions": [
       "United States of America",
-      "Global"
+      "Germany",
+      "Europe"
     ],
-    "runningTime": 133,
+    "runningTime": 79,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "contentId": "v=73239209&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 73239336,
+      "id": 73239209,
       "launchParam": null
     },
     "providerLogo": {
@@ -9390,13 +9392,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13092,6 +13094,45 @@
     "language": "es"
   },
   {
+    "titleText": "Plastikmüll: Boyan Slats Kampf für saubere Meere",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 345,
+    "updateTime": "2025-08-26T19:42:17.88Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73763227&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73763227,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65606691_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65606691_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "US-Zölle erschweren Wachstum",
     "category": "Handel",
     "subCategory": "Globalisierung",
@@ -13497,45 +13538,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73724586_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Fluten in Pakistan fordern Hunderte Menschenleben",
-    "category": "Katastrophe",
-    "subCategory": "Klima",
-    "region_ids": {
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Pakistan"
-    ],
-    "runningTime": 162,
-    "updateTime": "2025-08-21T15:14:56.886Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73722223&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73722223,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73704984_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73704984_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
