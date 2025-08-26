@@ -35,14 +35,55 @@
     "language": "en"
   },
   {
+    "titleText": "Targeting journalists in Gaza 'is a war crime': CPJ",
+    "category": "Press Freedom",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-08-25T18:21:38.068Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73764275&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73764275,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73764342_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73764342_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Journalists among dead in Israeli strikes on Gaza hospital",
     "category": "Conflicts",
     "subCategory": "Press Freedom",
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:PS": "Palestinian Territories"
     },
     "regions": [
-      "Middle East"
+      "Palestinian Territories"
     ],
     "runningTime": 113,
     "updateTime": "2025-08-25T17:10:15.946Z",
@@ -5505,7 +5546,7 @@
     "updateTime": "2025-08-07T14:48:26.379Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73562835&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73562835&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73562835,
       "launchParam": null
@@ -8446,45 +8487,6 @@
     "language": "en"
   },
   {
-    "titleText": "Syrian interim leader declares immediate ceasefire in Sweida",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-07-19T12:34:55.614Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73335967&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73335967,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73334870_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73334870_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US, Venezuela swap prisoners from CECOT and Caracas",
     "category": "Politics",
     "subCategory": null,
@@ -8889,6 +8891,45 @@
     "language": "en"
   },
   {
+    "titleText": "How AI is used in anime productions",
+    "category": "Technology",
+    "subCategory": "Film",
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73238616,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72528397_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72528397_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8966,45 +9007,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230151_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How AI is used in anime productions",
-    "category": "Technology",
-    "subCategory": "Film",
-    "region_ids": {
-      "region:asia:JP": "Japan"
-    },
-    "regions": [
-      "Japan"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73238616,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72528397_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72528397_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
