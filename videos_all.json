@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Could green hydrogen offer a way to cleaner transportation?",
+    "category": "Nature and Environment",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 416,
+    "updateTime": "2025-08-26T07:53:42.826Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73724180&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73724180,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73724123_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73724123_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -167,7 +206,7 @@
     "updateTime": "2025-08-25T10:47:37.75Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73724179&list=REGION_VIDEO:4",
+      "contentId": "v=73724179&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73724179,
       "launchParam": null
@@ -392,7 +431,7 @@
     "language": "en"
   },
   {
-    "titleText": "Venezuelans enlist in civilian corps amid threat from US",
+    "titleText": "Venezuelans enlist in civilian corps amid US threat",
     "category": "Politics",
     "subCategory": "Migration",
     "region_ids": {
@@ -1890,7 +1929,7 @@
     "updateTime": "2025-08-20T17:18:11.071Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73709614&list=REGION_VIDEO:4",
+      "contentId": "v=73709614&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73709614,
       "launchParam": null
@@ -3634,7 +3673,7 @@
     "updateTime": "2025-08-14T17:56:31.954Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73645228&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73645228&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73645228,
       "launchParam": null
@@ -3932,47 +3971,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73620791_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The influencers behind South Africa's natural hair movement",
-    "category": "Culture",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:africa:ZA": "South Africa",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "South Africa",
-      "Africa"
-    ],
-    "runningTime": 329,
-    "updateTime": "2025-08-14T14:26:06.946Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73641561&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73641561,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73387854_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73387854_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5974,6 +5972,45 @@
     "language": "en"
   },
   {
+    "titleText": "Hong Kong reels from heaviest August rain since 1884",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:HK": "Hong Kong"
+    },
+    "regions": [
+      "Hong Kong"
+    ],
+    "runningTime": 77,
+    "updateTime": "2025-08-05T14:13:38.155Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73537209&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73537209,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73535366_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73535366_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Fact check: Trans athlete ban — fair or not?",
     "category": "Sports",
     "subCategory": "Diversity",
@@ -6006,6 +6043,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73532778_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The economic cost of climate change and how to adapt",
+    "category": "Climate",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 367,
+    "updateTime": "2025-08-05T07:45:19.369Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73490401&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73490401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73485055_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73485055_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6466,47 +6542,6 @@
     "language": "en"
   },
   {
-    "titleText": "Will AI replace your job?",
-    "category": "Digital World",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:global": "Global"
-    },
-    "regions": [
-      "India",
-      "Global"
-    ],
-    "runningTime": 216,
-    "updateTime": "2025-07-31T17:32:00.667Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73490275&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73490275,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72177238_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72177238_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Cyprus fishermen at war with a toxic invasive species",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -6624,45 +6659,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -6695,6 +6691,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7029,7 +7064,7 @@
     "updateTime": "2025-07-30T07:30:55.234Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73329466&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=73329466&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73329466,
       "launchParam": null
@@ -7771,22 +7806,22 @@
     "language": "en"
   },
   {
-    "titleText": "How remote monitoring is reshaping Karachi's health care",
-    "category": "Digital World",
-    "subCategory": "Society",
+    "titleText": "Testing the Fiat Grande Panda",
+    "category": "Cars and Transportation",
+    "subCategory": null,
     "region_ids": {
-      "region:asia:PK": "Pakistan"
+      "region:europe:IT": "Italy"
     },
     "regions": [
-      "Pakistan"
+      "Italy"
     ],
-    "runningTime": 173,
-    "updateTime": "2025-07-25T11:20:21.272Z",
+    "runningTime": 548,
+    "updateTime": "2025-07-25T10:14:07.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73407572&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73409932&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73407572,
+      "id": 73409932,
       "launchParam": null
     },
     "providerLogo": {
@@ -7796,13 +7831,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73400631_6.jpg",
+      "url": "https://static.dw.com/image/73410567_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73400631_7.jpg",
+      "url": "https://static.dw.com/image/73410567_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7888,22 +7923,22 @@
     "language": "en"
   },
   {
-    "titleText": "AI just read your mind — dreams and thoughts included ",
-    "category": "Digital World",
-    "subCategory": null,
+    "titleText": "Belgrade resists Kushner's Trump Tower plans",
+    "category": "Business",
+    "subCategory": "Architecture",
     "region_ids": {
-      "region:global": "Global"
+      "region:europe:RS": "Serbia"
     },
     "regions": [
-      "Global"
+      "Serbia"
     ],
-    "runningTime": 185,
-    "updateTime": "2025-07-24T16:53:46.117Z",
+    "runningTime": 303,
+    "updateTime": "2025-07-24T14:57:26.217Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73403053&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73346338&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
-      "id": 73403053,
+      "id": 73346338,
       "launchParam": null
     },
     "providerLogo": {
@@ -7913,13 +7948,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/68120100_6.jpg",
+      "url": "https://static.dw.com/image/73314227_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/68120100_7.jpg",
+      "url": "https://static.dw.com/image/73314227_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8210,24 +8245,22 @@
     "language": "en"
   },
   {
-    "titleText": "Rearming Europe means booming business for German startups",
-    "category": "Technology",
-    "subCategory": "Business",
+    "titleText": "Bangladeshi military plane crashes into school",
+    "category": "Catastrophe",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:asia:BD": "Bangladesh"
     },
     "regions": [
-      "Germany",
-      "Europe"
+      "Bangladesh"
     ],
-    "runningTime": 226,
-    "updateTime": "2025-07-21T13:47:08.829Z",
+    "runningTime": 64,
+    "updateTime": "2025-07-21T13:51:02.276Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73351084&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73356075&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73351084,
+      "id": 73356075,
       "launchParam": null
     },
     "providerLogo": {
@@ -8237,13 +8270,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/71459304_6.jpg",
+      "url": "https://static.dw.com/image/73351775_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/71459304_7.jpg",
+      "url": "https://static.dw.com/image/73351775_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8407,6 +8440,45 @@
     "language": "en"
   },
   {
+    "titleText": "Up to speed: Monitoring speed on the German Autobahn",
+    "category": "Cars and Transportation",
+    "subCategory": "Rule of Law",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 274,
+    "updateTime": "2025-07-19T10:08:41.037Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73325377&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73325377,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73320635_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73320635_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US, Venezuela swap prisoners from CECOT and Caracas",
     "category": "Politics",
     "subCategory": null,
@@ -8450,6 +8522,45 @@
     "language": "en"
   },
   {
+    "titleText": "Hong Kong: The deaf female scaffolder beating the odds",
+    "category": "Architecture",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:HK": "Hong Kong"
+    },
+    "regions": [
+      "Hong Kong"
+    ],
+    "runningTime": 169,
+    "updateTime": "2025-07-18T06:22:30.475Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73317234&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73317234,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73315395_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73315395_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why Meta deleted 10 Million Facebook accounts ",
     "category": "Digital World",
     "subCategory": null,
@@ -8465,7 +8576,7 @@
     "updateTime": "2025-07-17T14:22:44.746Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73314830&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73314830&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73314830,
       "launchParam": null
@@ -8562,45 +8673,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73236429_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Energy of Epstein conspiracy movement 'almost religious'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 342,
-    "updateTime": "2025-07-16T21:03:06.463Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73305152&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73305152,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73319660_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73319660_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8809,47 +8881,6 @@
     "language": "en"
   },
   {
-    "titleText": "'What's Next?' — a completely AI-generated film",
-    "category": "Film",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "China",
-      "Germany"
-    ],
-    "runningTime": 164,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238836&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73238836,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230226_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230226_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How AI is used in anime productions",
     "category": "Technology",
     "subCategory": "Film",
@@ -8863,7 +8894,7 @@
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73238616&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 73238616,
       "launchParam": null
@@ -8882,90 +8913,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72528397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why filmmakers protested against AI",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "United States of America",
-      "Germany",
-      "Europe"
-    ],
-    "runningTime": 79,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73239209,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230173_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9012,22 +8959,26 @@
     "language": "en"
   },
   {
-    "titleText": "DW's Global Media Forum focuses on challenges of AI",
-    "category": "Media",
-    "subCategory": null,
+    "titleText": "Freight companies miffed by German-Polish border checks",
+    "category": "Trade",
+    "subCategory": "Business",
     "region_ids": {
+      "region:europe:PL": "Poland",
+      "region:europe": "Europe",
       "region:europe:DE": "Germany"
     },
     "regions": [
+      "Poland",
+      "Europe",
       "Germany"
     ],
-    "runningTime": 252,
-    "updateTime": "2025-07-08T17:51:58.168Z",
+    "runningTime": 166,
+    "updateTime": "2025-07-10T16:13:01.424Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73204475&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73227847&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73204475,
+      "id": 73227847,
       "launchParam": null
     },
     "providerLogo": {
@@ -9037,13 +8988,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73204472_6.jpg",
+      "url": "https://static.dw.com/image/67669476_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73204472_7.jpg",
+      "url": "https://static.dw.com/image/67669476_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9051,24 +9002,26 @@
     "language": "en"
   },
   {
-    "titleText": "Is AI smarter than your doctor? ",
-    "category": "Technology",
-    "subCategory": "Digital World",
+    "titleText": "World's longest undersea tunnel gets even longer",
+    "category": "Business",
+    "subCategory": null,
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
+      "region:europe": "Europe",
+      "region:europe:DE": "Germany",
+      "region:europe:DK": "Denmark"
     },
     "regions": [
-      "United States of America",
-      "Global"
+      "Europe",
+      "Germany",
+      "Denmark"
     ],
-    "runningTime": 341,
-    "updateTime": "2025-07-08T09:16:34.197Z",
+    "runningTime": 188,
+    "updateTime": "2025-07-09T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73147097&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73204980&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73147097,
+      "id": 73204980,
       "launchParam": null
     },
     "providerLogo": {
@@ -9078,13 +9031,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72575862_6.jpg",
+      "url": "https://static.dw.com/image/69662207_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72575862_7.jpg",
+      "url": "https://static.dw.com/image/69662207_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9287,90 +9240,6 @@
     "language": "en"
   },
   {
-    "titleText": "Fooling millions: How AI fakes hijack real wars ",
-    "category": "Digital World",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Israel",
-      "Iran"
-    ],
-    "runningTime": 268,
-    "updateTime": "2025-06-26T10:19:43.639Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73047711,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72906525_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72906525_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fact check: How AI fakes are distorting the Israel-Iran war",
-    "category": "Conflicts",
-    "subCategory": "Digital World",
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Iran",
-      "Israel",
-      "United States of America"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-06-25T17:40:59.243Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73042647,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73048538_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73048538_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan's women fight to enter the labor force",
     "category": "Equality",
     "subCategory": "Business",
@@ -9403,6 +9272,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73024812_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India's truck art is world famous. Why is it dying out?",
+    "category": "Arts",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 170,
+    "updateTime": "2025-06-24T14:13:19.914Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73024674&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73024674,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73023466_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73023466_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9609,22 +9517,22 @@
     "language": "en"
   },
   {
-    "titleText": "AI in restaurants: When robots serve the food",
-    "category": "Science",
-    "subCategory": "Technology",
+    "titleText": "Electric vehicles in Pakistan — trends and developments",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:asia:PK": "Pakistan"
     },
     "regions": [
-      "Germany"
+      "Pakistan"
     ],
-    "runningTime": 248,
-    "updateTime": "2025-06-18T09:36:38.36Z",
+    "runningTime": 412,
+    "updateTime": "2025-06-19T08:18:24.182Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900338&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72953655&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 72900338,
+      "id": 72953655,
       "launchParam": null
     },
     "providerLogo": {
@@ -9634,13 +9542,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70139416_6.jpg",
+      "url": "https://static.dw.com/image/72898737_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70139416_7.jpg",
+      "url": "https://static.dw.com/image/72898737_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9667,7 +9575,7 @@
     "updateTime": "2025-06-16T18:03:36.295Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72934185&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72934185&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 72934185,
       "launchParam": null
@@ -9725,88 +9633,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886327_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How governments use AI-powered facial recognition",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:TR": "Turkey",
-      "region:asia:CN": "China",
-      "region:europe:HU": "Hungary"
-    },
-    "regions": [
-      "Turkey",
-      "China",
-      "Hungary"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-06-13T15:04:31.73Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900002&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 72900002,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72890057_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72890057_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How facial recognition cameras identify you with AI  ",
-    "category": "Technology",
-    "subCategory": "Digital World",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 84,
-    "updateTime": "2025-06-13T15:04:20.773Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900023&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 72900023,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72890153_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72890153_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9961,6 +9787,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72814655_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Tanzania's e-mobility revolution",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:TZ": "Tanzania",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Tanzania",
+      "Africa"
+    ],
+    "runningTime": 414,
+    "updateTime": "2025-06-05T10:22:36.944Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72741140&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72741140,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72732710_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72732710_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10327,6 +10194,45 @@
     "language": "en"
   },
   {
+    "titleText": "The ferry operator — an unsung hero",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 180,
+    "updateTime": "2025-05-26T13:04:07.611Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72600291&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72600291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72598861_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72598861_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Citizens transform urban green space in Zimbabwe",
     "category": "Nature and Environment",
     "subCategory": "Innovation",
@@ -10361,6 +10267,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72635309_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Protests in Panama after union leaders' arrest",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:PA": "Panama"
+    },
+    "regions": [
+      "Panama"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-05-24T14:58:43.884Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72659590&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 72659590,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72654969_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72654969_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10489,6 +10434,45 @@
     "language": "en"
   },
   {
+    "titleText": "How to travel around Malawi like a local",
+    "category": "Travel",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:MW": "Malawi"
+    },
+    "regions": [
+      "Malawi"
+    ],
+    "runningTime": 256,
+    "updateTime": "2025-05-20T18:08:15.406Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72616626&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72616626,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72466543_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72466543_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Taiwan wants its own satellite internet — here's why",
     "category": "Conflicts",
     "subCategory": "Technology",
@@ -10521,6 +10505,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72609990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dakar's award-winning all-electric bus system",
+    "category": "Nature and Environment",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:SN": "Senegal"
+    },
+    "regions": [
+      "Africa",
+      "Senegal"
+    ],
+    "runningTime": 273,
+    "updateTime": "2025-05-15T14:12:28.183Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72454369&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 72454369,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72454301_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72454301_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10725,26 +10750,22 @@
     "language": "en"
   },
   {
-    "titleText": "German manufacturers seek solutions to tariff threat",
-    "category": "Business",
+    "titleText": "Bolivia: Amazon plane crash survivors rescued after 2 days",
+    "category": "Catastrophe",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
+      "region:cala:BO": "Bolivia"
     },
     "regions": [
-      "Germany",
-      "Europe",
-      "United States of America"
+      "Bolivia"
     ],
-    "runningTime": 175,
-    "updateTime": "2025-04-24T19:23:43.004Z",
+    "runningTime": 138,
+    "updateTime": "2025-05-05T08:05:57.807Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72342398&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=72434345&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 72342398,
+      "id": 72434345,
       "launchParam": null
     },
     "providerLogo": {
@@ -10754,13 +10775,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72342423_6.jpeg",
+      "url": "https://static.dw.com/image/72439806_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72342423_7.jpeg",
+      "url": "https://static.dw.com/image/72439806_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10768,63 +10789,22 @@
     "language": "en"
   },
   {
-    "titleText": "Explainer: Why Meta's monopoly is dangerous for you",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 240,
-    "updateTime": "2025-04-17T02:19:37.78Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72269252&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 72269252,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71295119_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71295119_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Does Barcelona have a solution for its housing crisis?",
+    "titleText": "Street Debate: How failing infrastructure and public transport holds Accra back ",
     "category": "Society",
-    "subCategory": "Politics",
+    "subCategory": "Business",
     "region_ids": {
-      "region:europe:ES": "Spain"
+      "region:africa:GH": "Ghana"
     },
     "regions": [
-      "Spain"
+      "Ghana"
     ],
-    "runningTime": 363,
-    "updateTime": "2025-04-11T07:43:16.513Z",
+    "runningTime": 536,
+    "updateTime": "2025-04-15T14:18:14.06Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146352&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=72181736&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 72146352,
+      "id": 72181736,
       "launchParam": null
     },
     "providerLogo": {
@@ -10834,18 +10814,53 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70484089_6.jpg",
+      "url": "https://static.dw.com/image/72143516_6.png",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70484089_7.jpg",
+      "url": "https://static.dw.com/image/72143516_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Noticias - Última hora",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 181,
+    "updateTime": "2025-08-26T08:44:33.095Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
+      "type": "video",
+      "id": 18529525,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73764992_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73764992_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Reacciones a la cumbre de Alaska",
@@ -10927,41 +10942,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73590115_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Noticias - Última hora",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 181,
-    "updateTime": "2025-08-25T19:16:53.834Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
-      "type": "video",
-      "id": 18529525,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73758848_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73758848_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12104,7 +12084,7 @@
     "updateTime": "2025-08-25T09:31:30.595Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73752225&list=FEATURED_VIDEO:1",
+      "contentId": "v=73752225&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 73752225,
       "launchParam": null
@@ -12492,45 +12472,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73638747_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Mit Gebärdensprache ins Parlament  ",
-    "category": "Politik",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-08-21T06:29:47.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73703764&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73703764,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73694679_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73694679_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
