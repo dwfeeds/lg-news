@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Protesters in Tel Aviv hold 'day of disruption'",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-08-26T13:02:59.182Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73771017&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73771017,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73767433_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73767433_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Torn between East and West, Moldova celebrates independence",
     "category": "Politics",
     "subCategory": null,
@@ -5540,7 +5581,7 @@
     "updateTime": "2025-08-07T14:48:26.379Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73562835&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73562835&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73562835,
       "launchParam": null
@@ -8680,45 +8721,6 @@
     "language": "en"
   },
   {
-    "titleText": "Syrian interim leader declares immediate ceasefire in Sweida",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-07-19T12:34:55.614Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73335967&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73335967,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73334870_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73334870_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Up to speed: Monitoring speed on the German Autobahn",
     "category": "Cars and Transportation",
     "subCategory": "Rule of Law",
@@ -9322,24 +9324,26 @@
     "language": "en"
   },
   {
-    "titleText": "Why AI is almost always the bad guy in movies",
+    "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:global": "Global"
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
     },
     "regions": [
       "United States of America",
-      "Global"
+      "Germany",
+      "Europe"
     ],
-    "runningTime": 133,
+    "runningTime": 79,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=REGION_VIDEO:5",
+      "contentId": "v=73239209&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 73239336,
+      "id": 73239209,
       "launchParam": null
     },
     "providerLogo": {
@@ -9349,13 +9353,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13051,6 +13055,49 @@
     "language": "es"
   },
   {
+    "titleText": "US-Zölle erschweren Wachstum",
+    "category": "Handel",
+    "subCategory": "Globalisierung",
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:northamerica": "Nordamerika",
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Europa",
+      "Nordamerika",
+      "Deutschland"
+    ],
+    "runningTime": 183,
+    "updateTime": "2025-08-26T13:41:11.479Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73771007&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73771007,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72376630_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72376630_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Antisemitismus in Berlin: Jüdisches Leben unter Druck",
     "category": "Politik",
     "subCategory": null,
@@ -13476,7 +13523,7 @@
     "updateTime": "2025-08-21T13:27:37.385Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73713403&list=REPORTS_VIDEO:1",
+      "contentId": "v=73713403&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73713403,
       "launchParam": null
@@ -13971,45 +14018,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73560228_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Beten für ein Visum",
-    "category": "Glaube",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:asia:IN": "Indien"
-    },
-    "regions": [
-      "Indien"
-    ],
-    "runningTime": 216,
-    "updateTime": "2025-08-10T07:50:22.717Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73569501&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73569501,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73568754_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73568754_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
