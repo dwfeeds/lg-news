@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "US tariffs: How one German firm is coping",
+    "category": "Trade",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Germany",
+      "United States of America"
+    ],
+    "runningTime": 172,
+    "updateTime": "2025-08-27T12:52:05.902Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73772307&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73772307,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73782356_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73782356_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kashmir: Lotus bloom in Wular Lake brings relief and hope",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -13,7 +54,7 @@
     "updateTime": "2025-08-27T12:30:21.313Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73783067&list=REGION_VIDEO:4",
+      "contentId": "v=73783067&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73783067,
       "launchParam": null
@@ -6448,6 +6489,45 @@
     "language": "en"
   },
   {
+    "titleText": "The economic cost of climate change and how to adapt",
+    "category": "Climate",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 367,
+    "updateTime": "2025-08-05T07:45:19.369Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73490401&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73490401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73485055_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73485055_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Crush in Gaza as crowds rush for aid from air and land",
     "category": "Conflicts",
     "subCategory": null,
@@ -7098,45 +7178,6 @@
     "language": "en"
   },
   {
-    "titleText": "Belgium struggles in fight against cocaine traffickers",
-    "category": "Crime",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:BE": "Belgium"
-    },
-    "regions": [
-      "Belgium"
-    ],
-    "runningTime": 508,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399868_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399868_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What do UFOs, communism and Bulgaria have in common?",
     "category": "Society",
     "subCategory": "Politics",
@@ -7169,6 +7210,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Belgium struggles in fight against cocaine traffickers",
+    "category": "Crime",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Belgium"
+    ],
+    "runningTime": 508,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8876,45 +8956,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72295615_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hong Kong: The deaf female scaffolder beating the odds",
-    "category": "Architecture",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-07-18T06:22:30.475Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73317234&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73317234,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73315395_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73315395_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11408,47 +11449,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump trade deal offers tariff relief for some UK industries",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GB": "United Kingdom",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United Kingdom",
-      "United States of America"
-    ],
-    "runningTime": 157,
-    "updateTime": "2025-05-09T15:59:48.59Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72495538&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72495538,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/18911826_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/18911826_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Gaza soup kitchens run out of food",
     "category": "Conflicts",
     "subCategory": "Food Security",
@@ -12963,6 +12963,45 @@
     "language": "es"
   },
   {
+    "titleText": "Ukraine: Schwierige Suche nach vermissten Kindern",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 166,
+    "updateTime": "2025-08-27T13:32:29.991Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73774720&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73774720,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73766678_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73766678_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Die Plastikkrise – Warum unser Planet im Müll versinkt",
     "category": "Natur und Umwelt",
     "subCategory": null,
@@ -13388,7 +13427,7 @@
     "updateTime": "2025-08-21T19:12:22.078Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73722032&list=REPORTS_VIDEO:1",
+      "contentId": "v=73722032&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 73722032,
       "launchParam": null
