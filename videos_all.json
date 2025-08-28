@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Pakistan hit by devastating floods",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 157,
+    "updateTime": "2025-08-28T20:52:29.902Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73802200&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73802200,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73792125_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73792125_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "AI simulates Mount Fuji eruption disaster",
+    "category": "Science",
+    "subCategory": "Catastrophe",
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 85,
+    "updateTime": "2025-08-28T20:52:16.076Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73802199&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73802199,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69105246_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69105246_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Wadephul: Nuclear deal 'requires Iran's 'willingness' ",
     "category": "Politics",
     "subCategory": null,
@@ -5108,45 +5186,6 @@
     "language": "en"
   },
   {
-    "titleText": "Court orders capture of New Delhi stray dogs",
-    "category": "Law and Justice",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-08-12T07:14:13.139Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73608012&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73608012,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/62228679_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/62228679_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump extends China tariff deadline by 90 days",
     "category": "Trade",
     "subCategory": null,
@@ -8661,6 +8700,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8697,47 +8777,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9577,49 +9616,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72886327_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How governments use AI-powered facial recognition",
-    "category": "Digital World",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:TR": "Turkey",
-      "region:asia:CN": "China",
-      "region:europe:HU": "Hungary"
-    },
-    "regions": [
-      "Turkey",
-      "China",
-      "Hungary"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-06-13T15:04:31.73Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72900002&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72900002,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72890057_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72890057_7.png",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10993,6 +10989,45 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "¿Está usando Israel el hambre como arma de guerra?",
+    "category": "Conflictos",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Territorio Palestino Ocupado"
+    },
+    "regions": [
+      "Territorio Palestino Ocupado"
+    ],
+    "runningTime": 161,
+    "updateTime": "2025-08-28T20:42:53.937Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73802198&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73802198,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73729980_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73729980_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Noticias - Última hora",
