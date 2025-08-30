@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Fire at Indonesia government building kills three people",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 108,
+    "updateTime": "2025-08-30T13:29:11.288Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73820603&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73820603,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73813471_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73813471_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -4657,45 +4696,6 @@
     "language": "en"
   },
   {
-    "titleText": "Women and girls in Afghanistan see no hope for the future",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Afghanistan"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-08-15T08:47:52.103Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73650836&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73650836,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71271647_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71271647_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Special taxis in Nairobi help disabled Kenyans stay mobile",
     "category": "Society",
     "subCategory": "Cars and Transportation",
@@ -6866,45 +6866,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -6937,6 +6898,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8577,6 +8577,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -8613,47 +8654,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10796,7 +10796,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 173,
-    "updateTime": "2025-08-30T12:14:50.719Z",
+    "updateTime": "2025-08-30T13:30:06.146Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10811,13 +10811,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73810810_6.jpg",
+      "url": "https://static.dw.com/image/73819575_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73810810_7.jpg",
+      "url": "https://static.dw.com/image/73819575_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11941,6 +11941,45 @@
     "language": "es"
   },
   {
+    "titleText": "Die Plastikkrise – warum unser Planet im Müll versinkt",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 515,
+    "updateTime": "2025-08-30T13:17:12.183Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73763177&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73763177,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73716899_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73716899_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Aufgewachsen in Kopenhagen — eine 20-Jährige zeigt ihr Leben",
     "category": "Lifestyle",
     "subCategory": null,
@@ -12326,45 +12365,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73686919_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie die Bundeswehr wieder groß werden will",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 221,
-    "updateTime": "2025-08-27T14:14:37.121Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73785296&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73785296,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68054548_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68054548_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
