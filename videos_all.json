@@ -76,7 +76,7 @@
   {
     "titleText": "Campus Project brings together German and Nigerian musicians",
     "category": "Music",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:DE": "Germany",
       "region:africa:NG": "Nigeria"
@@ -6823,45 +6823,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -6894,6 +6855,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:BG": "Bulgaria"
+    },
+    "regions": [
+      "Bulgaria"
+    ],
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8534,22 +8534,26 @@
     "language": "en"
   },
   {
-    "titleText": "How AI is used in anime productions",
-    "category": "Technology",
-    "subCategory": "Film",
+    "titleText": "Why filmmakers protested against AI",
+    "category": "Film",
+    "subCategory": "Society",
     "region_ids": {
-      "region:asia:JP": "Japan"
+      "region:northamerica:US": "United States of America",
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Japan"
+      "United States of America",
+      "Germany",
+      "Europe"
     ],
-    "runningTime": 150,
+    "runningTime": 79,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 73238616,
+      "id": 73239209,
       "launchParam": null
     },
     "providerLogo": {
@@ -8559,13 +8563,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72528397_6.jpg",
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72528397_7.jpg",
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8614,26 +8618,22 @@
     "language": "en"
   },
   {
-    "titleText": "Why filmmakers protested against AI",
-    "category": "Film",
-    "subCategory": "Society",
+    "titleText": "How AI is used in anime productions",
+    "category": "Technology",
+    "subCategory": "Film",
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:asia:JP": "Japan"
     },
     "regions": [
-      "United States of America",
-      "Germany",
-      "Europe"
+      "Japan"
     ],
-    "runningTime": 79,
+    "runningTime": 150,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 73239209,
+      "id": 73238616,
       "launchParam": null
     },
     "providerLogo": {
@@ -8643,13 +8643,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230173_6.jpeg",
+      "url": "https://static.dw.com/image/72528397_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "url": "https://static.dw.com/image/72528397_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11937,6 +11937,45 @@
     "language": "es"
   },
   {
+    "titleText": "Hilfe und Hass: Ungarn zehn Jahre nach dem Flüchtlingsstrom",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:HU": "Ungarn"
+    },
+    "regions": [
+      "Ungarn"
+    ],
+    "runningTime": 353,
+    "updateTime": "2025-08-30T06:57:42.427Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73800947&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73800947,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63143554_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63143554_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Wirkt Gravitation auf der Erde unterschiedlich?",
     "category": "Wissenschaft",
     "subCategory": "Panorama",
@@ -12134,45 +12173,6 @@
     "language": "de"
   },
   {
-    "titleText": "Ungarn: 10 Jahre nach der Flüchtlingskrise",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:HU": "Ungarn"
-    },
-    "regions": [
-      "Ungarn"
-    ],
-    "runningTime": 353,
-    "updateTime": "2025-08-28T15:49:50.352Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73800947&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73800947,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/63143554_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/63143554_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Goethe Medaille 2025 für Osman Kavala",
     "category": "Kultur",
     "subCategory": "Gesellschaft",
@@ -12361,45 +12361,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73766678_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Die Plastikkrise – Warum unser Planet im Müll versinkt",
-    "category": "Natur und Umwelt",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 515,
-    "updateTime": "2025-08-26T21:55:59.54Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73763177&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73763177,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73716899_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73716899_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
