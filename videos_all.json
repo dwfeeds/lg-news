@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "SCO leaders counter US pressure with show of unity in China",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:europe:RU": "Russian Federation",
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "China",
+      "Russian Federation",
+      "India"
+    ],
+    "runningTime": 123,
+    "updateTime": "2025-09-01T12:46:49.37Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73835941&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 73835941,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73834718_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73834718_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 96,
+    "updateTime": "2025-09-01T12:23:32.667Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73835297_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73835297_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sun, culture & tasty food: The Perfect Day in Nice",
+    "category": "Lifestyle",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-09-01T12:02:50.514Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73814577&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73814577,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73800708_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73800708_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The tongue – what’s it doing in your mouth?",
     "category": "Health",
     "subCategory": "Science",
@@ -312,41 +429,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 96,
-    "updateTime": "2025-09-01T06:47:59.028Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73824701_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73824701_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan's Punjab province battered by historic flood",
     "category": "Catastrophe",
     "subCategory": null,
@@ -386,7 +468,7 @@
     "language": "en"
   },
   {
-    "titleText": "Refugees, migrants in Germany feel less welcome",
+    "titleText": "How migration to Germany changed after 2015 refugee arrivals",
     "category": "Migration",
     "subCategory": null,
     "region_ids": {
@@ -411,13 +493,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73394592_6.jpg",
+      "url": "https://static.dw.com/image/73700227_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73394592_7.jpg",
+      "url": "https://static.dw.com/image/73700227_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6003,47 +6085,6 @@
     "language": "en"
   },
   {
-    "titleText": "Afghan refugee athlete hopes to inspire women, girls at home",
-    "category": "Sports",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:AF": "Afghanistan",
-      "region:europe:MK": "North Macedonia"
-    },
-    "regions": [
-      "Afghanistan",
-      "North Macedonia"
-    ],
-    "runningTime": 166,
-    "updateTime": "2025-08-10T18:44:41.536Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73549929&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73549929,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73549955_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73549955_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Thousands of Israelis protest plans for Gaza City occupation",
     "category": "Conflicts",
     "subCategory": null,
@@ -6513,47 +6554,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73561990_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How the Japanese came to love German 'tree cake'",
-    "category": "Society",
-    "subCategory": "History",
-    "region_ids": {
-      "region:asia:JP": "Japan",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Japan",
-      "Germany"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-08-07T10:57:24.074Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73558114&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73558114,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73557766_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73557766_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9123,6 +9123,47 @@
     "language": "en"
   },
   {
+    "titleText": "Why AI is almost always the bad guy in movies",
+    "category": "Film",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Global"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73239336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73230151_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -9159,47 +9200,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230173_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why AI is almost always the bad guy in movies",
-    "category": "Film",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Global"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239336&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73239336,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230151_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230151_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10928,7 +10928,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 182,
-    "updateTime": "2025-09-01T11:13:19.524Z",
+    "updateTime": "2025-09-01T12:31:05.105Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -10943,13 +10943,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73824701_6.jpg",
+      "url": "https://static.dw.com/image/73834388_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73824701_7.jpg",
+      "url": "https://static.dw.com/image/73834388_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12073,6 +12073,45 @@
     "language": "es"
   },
   {
+    "titleText": "Strand, Kultur und Genuss — ein perfekter Tag in Nizza",
+    "category": "Lifestyle",
+    "subCategory": "Kultur",
+    "region_ids": {
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Frankreich"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-09-01T12:34:46.337Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73818129&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73818129,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73800708_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73800708_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Irland: Smartphone-Verbot für Kinder in Greystones",
     "category": "Gesellschaft",
     "subCategory": "Bildung",
@@ -12472,7 +12511,7 @@
     "updateTime": "2025-08-29T11:24:35.781Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73779740&list=REPORTS_VIDEO:1",
+      "contentId": "v=73779740&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73779740,
       "launchParam": null
@@ -13213,45 +13252,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73605651_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Österreich: Wildes Leben auf dem Friedhof",
-    "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
-    "region_ids": {
-      "region:europe:AT": "Österreich"
-    },
-    "regions": [
-      "Österreich"
-    ],
-    "runningTime": 142,
-    "updateTime": "2025-08-11T13:24:45.849Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73552647&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73552647,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73482245_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73482245_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
