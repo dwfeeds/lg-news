@@ -1,5 +1,159 @@
 [
   {
+    "titleText": "Model to Manager: Sara Nuru's Fair Trade journey",
+    "category": "Lifestyle",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Ethiopia"
+    ],
+    "runningTime": 291,
+    "updateTime": "2025-09-02T12:38:55.327Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73814578&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73814578,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73800637_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73800637_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The forgotten enclaves caught between Russia and Moldova",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova"
+    },
+    "regions": [
+      "Republic of Moldova"
+    ],
+    "runningTime": 370,
+    "updateTime": "2025-09-02T12:27:50.403Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73840329&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 73840329,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73840048_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73840048_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "China and Russia: A partnership of equals?",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Russian Federation",
+      "China"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-09-02T12:22:29.622Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73850841&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73850841,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73848154_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73848154_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 85,
+    "updateTime": "2025-09-02T11:54:58.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73849661_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73849661_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Plans for German lithium mining prompt local protests",
     "category": "Climate",
     "subCategory": "Business",
@@ -307,80 +461,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73811265_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 85,
-    "updateTime": "2025-09-02T07:02:31.749Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73836948_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73836948_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The forgotten enclaves caught between Russia and Moldova",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:MD": "Republic of Moldova"
-    },
-    "regions": [
-      "Republic of Moldova"
-    ],
-    "runningTime": 370,
-    "updateTime": "2025-09-01T17:25:09.055Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73840329&list=FEATURED_VIDEO:1",
-      "type": "video",
-      "id": 73840329,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73840048_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73840048_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2975,47 +3055,6 @@
     "language": "en"
   },
   {
-    "titleText": "How well have 2015 refugees integrated in German job market?",
-    "category": "Business",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Germany",
-      "Syria"
-    ],
-    "runningTime": 162,
-    "updateTime": "2025-08-26T14:11:33.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73759285&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73759285,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71056631_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71056631_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India's textile industry threatened by new US tariffs",
     "category": "Trade",
     "subCategory": null,
@@ -4088,47 +4127,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73571629_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ghana: Communities caught in conflict cry out for peace",
-    "category": "Conflicts",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Africa",
-      "Ghana"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-08-21T15:13:44.022Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73722400&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73722400,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73747385_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73747385_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9047,26 +9045,22 @@
     "language": "en"
   },
   {
-    "titleText": "Why filmmakers protested against AI",
-    "category": "Film",
-    "subCategory": "Society",
+    "titleText": "How AI is used in anime productions",
+    "category": "Technology",
+    "subCategory": "Film",
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:asia:JP": "Japan"
     },
     "regions": [
-      "United States of America",
-      "Germany",
-      "Europe"
+      "Japan"
     ],
-    "runningTime": 79,
+    "runningTime": 150,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73239209,
+      "id": 73238616,
       "launchParam": null
     },
     "providerLogo": {
@@ -9076,13 +9070,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73230173_6.jpeg",
+      "url": "https://static.dw.com/image/72528397_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73230173_7.jpeg",
+      "url": "https://static.dw.com/image/72528397_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9131,22 +9125,26 @@
     "language": "en"
   },
   {
-    "titleText": "How AI is used in anime productions",
-    "category": "Technology",
-    "subCategory": "Film",
+    "titleText": "Why filmmakers protested against AI",
+    "category": "Film",
+    "subCategory": "Society",
     "region_ids": {
-      "region:asia:JP": "Japan"
+      "region:northamerica:US": "United States of America",
+      "region:europe:DE": "Germany",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Japan"
+      "United States of America",
+      "Germany",
+      "Europe"
     ],
-    "runningTime": 150,
+    "runningTime": 79,
     "updateTime": "2025-07-12T02:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73239209&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73238616,
+      "id": 73239209,
       "launchParam": null
     },
     "providerLogo": {
@@ -9156,13 +9154,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/72528397_6.jpg",
+      "url": "https://static.dw.com/image/73230173_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/72528397_7.jpg",
+      "url": "https://static.dw.com/image/73230173_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12040,6 +12038,47 @@
     "language": "es"
   },
   {
+    "titleText": "Sara Nuru — vom Model zur Fairtrade-Unternehmerin",
+    "category": "Lifestyle",
+    "subCategory": "Gleichberechtigung",
+    "region_ids": {
+      "region:europe:DE": "Deutschland",
+      "region:africa:ET": "Äthiopien"
+    },
+    "regions": [
+      "Deutschland",
+      "Äthiopien"
+    ],
+    "runningTime": 291,
+    "updateTime": "2025-09-02T11:55:05.242Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73818160&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73818160,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73800637_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73800637_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Die Suche nach Nigerias Vermissten",
     "category": "Konflikte",
     "subCategory": "Gesellschaft",
@@ -12486,7 +12525,7 @@
     "updateTime": "2025-08-30T09:56:08.804Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73808280&list=REPORTS_VIDEO:1",
+      "contentId": "v=73808280&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73808280,
       "launchParam": null
@@ -13221,47 +13260,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73617365_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Hongkongs letzte Straßenhändler",
-    "category": "Wirtschaft",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:asia:HK": "Hongkong"
-    },
-    "regions": [
-      "China",
-      "Hongkong"
-    ],
-    "runningTime": 189,
-    "updateTime": "2025-08-13T10:49:46.123Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73615131&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73615131,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71381198_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71381198_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
