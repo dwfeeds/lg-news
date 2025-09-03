@@ -6,7 +6,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 87,
-    "updateTime": "2025-09-02T22:14:50.673Z",
+    "updateTime": "2025-09-03T06:45:42.444Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:11",
@@ -21,13 +21,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73849661_6.jpg",
+      "url": "https://static.dw.com/image/73859328_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73849661_7.jpg",
+      "url": "https://static.dw.com/image/73859328_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -433,14 +433,12 @@
   {
     "titleText": "Ukraine's fresh recruits using latest drone tech",
     "category": "Conflicts",
-    "subCategory": null,
+    "subCategory": "Innovation",
     "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Ukraine",
-      "Russian Federation"
+      "Ukraine"
     ],
     "runningTime": 248,
     "updateTime": "2025-09-02T09:35:56.45Z",
@@ -9041,45 +9039,6 @@
     "language": "en"
   },
   {
-    "titleText": "How AI is used in anime productions",
-    "category": "Technology",
-    "subCategory": "Film",
-    "region_ids": {
-      "region:asia:JP": "Japan"
-    },
-    "regions": [
-      "Japan"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73238616,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72528397_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72528397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why filmmakers protested against AI",
     "category": "Film",
     "subCategory": "Society",
@@ -9157,6 +9116,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73230151_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How AI is used in anime productions",
+    "category": "Technology",
+    "subCategory": "Film",
+    "region_ids": {
+      "region:asia:JP": "Japan"
+    },
+    "regions": [
+      "Japan"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-07-12T02:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73238616&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73238616,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72528397_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72528397_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
