@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 87,
+    "updateTime": "2025-09-04T06:43:01.369Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73874143_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73874143_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Survivors demand US gov't release all Epstein files",
     "category": "Law and Justice",
     "subCategory": "Politics",
@@ -26,39 +59,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73871758_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 87,
-    "updateTime": "2025-09-03T20:11:45.552Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73859328_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73859328_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -106,7 +106,7 @@
     "updateTime": "2025-09-01T16:27:08.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832590&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73832590&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73832590,
       "launchParam": null
@@ -139,7 +139,7 @@
     "updateTime": "2025-09-01T09:43:46.64Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832139&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73832139&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73832139,
       "launchParam": null
@@ -271,7 +271,7 @@
     "updateTime": "2025-08-21T21:25:51.776Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73725029,
       "launchParam": null
@@ -304,7 +304,7 @@
     "updateTime": "2025-08-21T20:51:41.72Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73725165&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73725165&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73725165,
       "launchParam": null
@@ -337,7 +337,7 @@
     "updateTime": "2025-08-21T07:55:11.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73712569&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73712569&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73712569,
       "launchParam": null
@@ -403,7 +403,7 @@
     "updateTime": "2025-08-14T14:43:17.089Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73642671&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73642671&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73642671,
       "launchParam": null
@@ -436,7 +436,7 @@
     "updateTime": "2025-08-14T08:53:10.664Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73634187&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73634187&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73634187,
       "launchParam": null
@@ -469,7 +469,7 @@
     "updateTime": "2025-08-12T07:43:50.446Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73607970&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73607970&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73607970,
       "launchParam": null
