@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Hostage video surfaces as Israel steps up Gaza City assault",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Palestinian Territories",
+      "Israel"
+    ],
+    "runningTime": 160,
+    "updateTime": "2025-09-05T21:41:37.122Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73901103&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73901103,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73810810_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73810810_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Scientists suspect freshwater ocean beneath Atlantic seabed",
     "category": "Science",
     "subCategory": "Nature and Environment",
@@ -6158,7 +6199,7 @@
     "updateTime": "2025-08-14T15:52:32.678Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73642670&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73642670&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73642670,
       "launchParam": null
@@ -8471,45 +8512,6 @@
     "language": "en"
   },
   {
-    "titleText": "Belgium struggles in fight against cocaine traffickers",
-    "category": "Crime",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:BE": "Belgium"
-    },
-    "regions": [
-      "Belgium"
-    ],
-    "runningTime": 508,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399868_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399868_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What do UFOs, communism and Bulgaria have in common?",
     "category": "Society",
     "subCategory": "Politics",
@@ -8542,6 +8544,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399760_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Belgium struggles in fight against cocaine traffickers",
+    "category": "Crime",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Belgium"
+    ],
+    "runningTime": 508,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435684&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399868_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399868_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9332,47 +9373,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73407234_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN warns Gaza hunger crisis coming to a head",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-07-25T21:32:26.26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73419532&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73419532,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73090706_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73090706_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
