@@ -87,7 +87,7 @@
     "updateTime": "2025-09-05T15:13:39.022Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73811906&list=REGION_VIDEO:7",
+      "contentId": "v=73811906&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73811906,
       "launchParam": null
@@ -3715,6 +3715,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73656915_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU leaders rally behind Moldova's membership bid",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova"
+    },
+    "regions": [
+      "Republic of Moldova"
+    ],
+    "runningTime": 126,
+    "updateTime": "2025-08-28T07:42:50.606Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73791365&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73791365,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73787256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73787256_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9598,7 +9637,7 @@
     "updateTime": "2025-07-22T20:04:49.172Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73374240&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73374240&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73374240,
       "launchParam": null
@@ -13048,7 +13087,7 @@
   {
     "titleText": "Gedenken neu denken - Erinnerungskultur auf TikTok ",
     "category": "Digitale Welt",
-    "subCategory": "Technik",
+    "subCategory": "Gesellschaft",
     "region_ids": {
       "region:global": "Global"
     },
@@ -13087,7 +13126,7 @@
   {
     "titleText": "Vergangenheit als immersive Erlebniswelt  ",
     "category": "Digitale Welt",
-    "subCategory": "Technik",
+    "subCategory": "Geschichte",
     "region_ids": {
       "region:global": "Global"
     },
@@ -13126,7 +13165,7 @@
   {
     "titleText": "Verbreiten digitale Spiele historische Desinformation? ",
     "category": "Digitale Welt",
-    "subCategory": "Technik",
+    "subCategory": "Gesellschaft",
     "region_ids": {
       "region:global": "Global"
     },
