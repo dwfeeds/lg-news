@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Thousands flee Gaza City to 'humanitarian safe zone'",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-09-07T23:51:00.021Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73912326&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73912326,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73905347_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73905347_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5729,7 +5768,7 @@
     "updateTime": "2025-08-20T08:11:48.482Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73697638&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73697638&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73697638,
       "launchParam": null
@@ -9457,45 +9496,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73428408_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hostage relative: Israeli and Palestinian suffering must end",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 330,
-    "updateTime": "2025-07-26T19:41:05.502Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73426256&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73426256,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73233055_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73233055_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
