@@ -4,10 +4,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel"
     },
     "regions": [
-      "Middle East"
+      "Palestinian Territories",
+      "Israel"
     ],
     "runningTime": 150,
     "updateTime": "2025-09-07T23:51:00.021Z",
@@ -67,6 +69,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73909053_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Jim Jarmusch film wins top prize at Venice Film Festival",
+    "category": "Film",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "United States of America",
+      "Italy"
+    ],
+    "runningTime": 135,
+    "updateTime": "2025-09-07T13:36:46.451Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73910788&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73910788,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73907194_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73907194_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8020,45 +8063,6 @@
     "language": "en"
   },
   {
-    "titleText": "See you in 2030! Paris' Pompidou to shut doors for makeover",
-    "category": "Arts",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 104,
-    "updateTime": "2025-08-06T09:22:17.303Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73545692&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73545692,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/60185820_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/60185820_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How Croatians holiday locally at Zagreb's Lake Jarun",
     "category": "Travel",
     "subCategory": "Lifestyle",
@@ -12970,6 +12974,45 @@
     "language": "es"
   },
   {
+    "titleText": "Vergangenheit als immersive Erlebniswelt  ",
+    "category": "Digitale Welt",
+    "subCategory": "Geschichte",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-09-08T00:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73892832&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73892832,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73882027_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73882027_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "USA: Wie ein Abschiebe-Gefängnis eine Gemeinde spaltet",
     "category": "Migration",
     "subCategory": "Politik",
@@ -13396,45 +13439,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73881969_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Vergangenheit als immersive Erlebniswelt  ",
-    "category": "Digitale Welt",
-    "subCategory": "Geschichte",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-09-05T13:23:08.813Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73892832&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73892832,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73882027_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73882027_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
