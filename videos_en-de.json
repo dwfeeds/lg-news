@@ -106,7 +106,7 @@
     "updateTime": "2025-09-07T12:30:09.633Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73910633&list=REGION_VIDEO:7",
+      "contentId": "v=73910633&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73910633,
       "launchParam": null
@@ -304,7 +304,7 @@
     "updateTime": "2025-09-05T15:13:39.022Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73811906&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73811906&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73811906,
       "launchParam": null
@@ -337,7 +337,7 @@
     "updateTime": "2025-09-05T11:37:19.181Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73893234&list=REGION_VIDEO:7",
+      "contentId": "v=73893234&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73893234,
       "launchParam": null
@@ -436,7 +436,7 @@
     "updateTime": "2025-09-04T17:34:55.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73886204&list=REGION_VIDEO:7",
+      "contentId": "v=73886204&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73886204,
       "launchParam": null
@@ -766,7 +766,7 @@
     "updateTime": "2025-09-02T09:35:56.45Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73846198&list=REGION_VIDEO:7",
+      "contentId": "v=73846198&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73846198,
       "launchParam": null
@@ -832,7 +832,7 @@
     "updateTime": "2025-09-01T12:46:49.37Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73835941&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73835941&list=REGION_VIDEO:4",
       "type": "video",
       "id": 73835941,
       "launchParam": null
@@ -1030,7 +1030,7 @@
     "updateTime": "2025-08-30T21:29:15.042Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73822594&list=REGION_VIDEO:7",
+      "contentId": "v=73822594&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73822594,
       "launchParam": null
@@ -1096,7 +1096,7 @@
     "updateTime": "2025-08-29T23:04:19.225Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73817123&list=REGION_VIDEO:7",
+      "contentId": "v=73817123&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73817123,
       "launchParam": null
@@ -1254,6 +1254,72 @@
     "language": "en"
   },
   {
+    "titleText": "Sweden: Kiruna's church on the move",
+    "category": "Society",
+    "subCategory": "Business",
+    "runningTime": 302,
+    "updateTime": "2025-08-29T11:27:27.288Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73760651&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73760651,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73686919_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73686919_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Berlin street renamed after years of controversy",
+    "category": "Politics",
+    "subCategory": null,
+    "runningTime": 216,
+    "updateTime": "2025-08-28T17:56:34.167Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73801730&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73801730,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73740201_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73740201_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Goethe Medal 2025 for David Van Reybrouck",
     "category": "Culture",
     "subCategory": "Society",
@@ -1287,6 +1353,39 @@
     "language": "en"
   },
   {
+    "titleText": "Russia launches massive attack on Kyiv, hitting EU offices",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 154,
+    "updateTime": "2025-08-28T15:06:35.615Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73799692&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73799692,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73798891_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73798891_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Goethe Medal 2025 for Li Yuan",
     "category": "Culture",
     "subCategory": "Society",
@@ -1294,7 +1393,7 @@
     "updateTime": "2025-08-28T14:56:38.254Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73800507&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73800507&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73800507,
       "launchParam": null
@@ -1353,6 +1452,39 @@
     "language": "en"
   },
   {
+    "titleText": "EU leaders rally behind Moldova's membership bid",
+    "category": "Politics",
+    "subCategory": null,
+    "runningTime": 126,
+    "updateTime": "2025-08-28T07:42:50.606Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73791365&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73791365,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73787256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73787256_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "21 films compete for Golden Lion at Venice Film Festival",
     "category": "Film",
     "subCategory": "Lifestyle",
@@ -1386,6 +1518,72 @@
     "language": "en"
   },
   {
+    "titleText": "Germany considers return to compulsory military service",
+    "category": "Politics",
+    "subCategory": null,
+    "runningTime": 135,
+    "updateTime": "2025-08-27T20:58:42.571Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73789087&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73789087,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73780884_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73780884_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU leaders join Moldovan independence celebrations ",
+    "category": "Politics",
+    "subCategory": null,
+    "runningTime": 129,
+    "updateTime": "2025-08-27T16:01:35.636Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73787124&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73787124,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785249_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785249_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Stars walk red carpet at 82nd Venice Film Festival",
     "category": "Film",
     "subCategory": null,
@@ -1412,6 +1610,303 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73785149_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US tariffs: How one German firm is coping",
+    "category": "Trade",
+    "subCategory": null,
+    "runningTime": 172,
+    "updateTime": "2025-08-27T12:52:05.902Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73772307&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73772307,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73782356_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73782356_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US ambiguity may complicate Ukraine's strategic planning",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 293,
+    "updateTime": "2025-08-27T12:39:30.948Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73783259&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73783259,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73539073_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73539073_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine wants US weapons to strike within Russia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 183,
+    "updateTime": "2025-08-27T12:00:16.67Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73781477&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73781477,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/64701008_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/64701008_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Russia using this church in Sweden as a spying hub?",
+    "category": "Politics",
+    "subCategory": null,
+    "runningTime": 250,
+    "updateTime": "2025-08-27T11:35:37.382Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73775986&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73775986,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73574240_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73574240_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany aims to boost Bundeswehr recruit numbers",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 76,
+    "updateTime": "2025-08-27T10:42:27.399Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73779426&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73779426,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73773458_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73773458_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "France returns colonial-era skulls to Madagascar",
+    "category": "History",
+    "subCategory": "Society",
+    "runningTime": 124,
+    "updateTime": "2025-08-26T22:03:46.768Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73775917&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73775917,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73775836_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73775836_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukrainian families face difficult search for missing kids",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 186,
+    "updateTime": "2025-08-26T08:58:54.778Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73766621&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73766621,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73766678_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73766678_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Returning home: Ukraine and Russia swap prisoners of war",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 163,
+    "updateTime": "2025-08-25T08:39:55.099Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73750723&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73750723,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73747581_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73747581_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Zelenskyy says Russia intent on preventing Putin peace talks",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 161,
+    "updateTime": "2025-08-23T09:34:12.926Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73740350&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73740350,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73736182_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73736182_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1518,6 +2013,72 @@
     "language": "en"
   },
   {
+    "titleText": "Nord Stream: Germany's thwarted dream of energy security",
+    "category": "Politics",
+    "subCategory": "Business",
+    "runningTime": 110,
+    "updateTime": "2025-08-21T15:39:27.119Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73723719&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73723719,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63255772_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63255772_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fiber-optic drones new twist to Russia's war in Ukraine",
+    "category": "Technology",
+    "subCategory": "Conflicts",
+    "runningTime": 287,
+    "updateTime": "2025-08-21T09:41:04.448Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73716036&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73716036,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73732069_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73732069_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Member of Irish band Kneecap faces terror-related charge",
     "category": "Law and Justice",
     "subCategory": "Conflicts",
@@ -1544,6 +2105,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73704393_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The enemy within: Ukrainian teenagers recruited by Russia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 227,
+    "updateTime": "2025-08-20T11:51:08.404Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73697771&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73697771,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73698029_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73698029_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1610,6 +2204,105 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67161329_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Amid peace efforts, fighting in Ukraine rages on",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 116,
+    "updateTime": "2025-08-19T20:41:12.794Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73696658&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73696658,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68104743_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68104743_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How did Putin supporters react to the White House talks?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 200,
+    "updateTime": "2025-08-19T18:48:36.182Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73696532&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73696532,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72557529_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72557529_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Former NATO head: 'Putin is not interested in peace' ",
+    "category": "Conflicts",
+    "subCategory": null,
+    "runningTime": 592,
+    "updateTime": "2025-08-19T13:49:53.592Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73694066&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73694066,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73694988_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73694988_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2277,39 +2970,6 @@
     "language": "en"
   },
   {
-    "titleText": "Eco-friendly homes from wooden building blocks",
-    "category": "Nature and Environment",
-    "subCategory": "Lifestyle",
-    "runningTime": 376,
-    "updateTime": "2025-08-08T11:10:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73463022&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73463022,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73462909_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73462909_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Massive wildfire in southern France under control",
     "category": "Catastrophe",
     "subCategory": "Nature and Environment",
@@ -2508,39 +3168,6 @@
     "language": "en"
   },
   {
-    "titleText": "What do UFOs, communism and Bulgaria have in common?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "runningTime": 292,
-    "updateTime": "2025-07-30T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73435685,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73399760_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73399760_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Belgium struggles in fight against cocaine traffickers",
     "category": "Crime",
     "subCategory": "Society",
@@ -2567,6 +3194,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73399868_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What do UFOs, communism and Bulgaria have in common?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "runningTime": 292,
+    "updateTime": "2025-07-30T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73435685&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73435685,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73399760_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73399760_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2706,39 +3366,6 @@
     "language": "en"
   },
   {
-    "titleText": "Labubu toys set out to take Germany by storm",
-    "category": "Business",
-    "subCategory": "Culture",
-    "runningTime": 119,
-    "updateTime": "2025-07-25T16:30:49.888Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73417043&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73417043,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73414822_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73414822_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Tower of London: Crown jewels and royal history ",
     "category": "Culture",
     "subCategory": "History",
@@ -2798,39 +3425,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73231056_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How hackers could take down Europe's power supply",
-    "category": "Technology",
-    "subCategory": "Crime",
-    "runningTime": 428,
-    "updateTime": "2025-07-17T06:52:59.355Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73268778&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73268778,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73236453_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73236453_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2930,72 +3524,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73244434_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "'What's Next?' — a completely AI-generated film",
-    "category": "Film",
-    "subCategory": "Technology",
-    "runningTime": 164,
-    "updateTime": "2025-07-12T02:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73238836&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73238836,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73230226_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73230226_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why China's rare earth supremacy damages the global economy",
-    "category": "Globalization",
-    "subCategory": null,
-    "runningTime": 155,
-    "updateTime": "2025-07-07T16:47:20.264Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73183161&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73183161,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73142834_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73142834_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3128,39 +3656,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73050231_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Who will win the space race?",
-    "category": "Business",
-    "subCategory": "Technology",
-    "runningTime": 319,
-    "updateTime": "2025-07-02T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73106811&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73106811,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73064785_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73064785_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
