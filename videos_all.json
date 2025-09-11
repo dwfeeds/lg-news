@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "US conservative activist Charlie Kirk shot and killed",
+    "category": "Crime",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-09-11T07:49:51.564Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73956980&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73956980,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73955539_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73955539_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -8452,47 +8491,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump thinks US will let Ukrainians stay until war ends",
-    "category": "Conflicts",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "United States of America",
-      "Ukraine"
-    ],
-    "runningTime": 131,
-    "updateTime": "2025-07-30T11:06:58.737Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73465329&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73465329,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73466503_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73466503_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Crete fears more migrant arrivals could hurt tourism",
     "category": "Migration",
     "subCategory": "Business",
@@ -12725,7 +12723,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-09-10T21:55:11.374Z",
+    "updateTime": "2025-09-11T08:18:41.883Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12740,13 +12738,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73946778_6.jpg",
+      "url": "https://static.dw.com/image/73955539_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73946778_7.jpg",
+      "url": "https://static.dw.com/image/73955539_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13866,6 +13864,53 @@
     "language": "es"
   },
   {
+    "titleText": "Wasserknappheit in Europa: Ursachen und Lösungen",
+    "category": "Natur und Umwelt",
+    "subCategory": "Ernährungssicherheit",
+    "region_ids": {
+      "region:europe:GB": "Vereinigtes Königreich",
+      "region:africa:ZA": "Südafrika",
+      "region:europe:ES": "Spanien",
+      "region:global": "Global",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Vereinigtes Königreich",
+      "Südafrika",
+      "Spanien",
+      "Global",
+      "Europa"
+    ],
+    "runningTime": 464,
+    "updateTime": "2025-09-11T08:29:26.743Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73839794&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73839794,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73836037_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73836037_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Die Jagd auf Seltene Erden im Kongo",
     "category": "Wirtschaft",
     "subCategory": "Konflikte",
@@ -14316,7 +14361,7 @@
     "updateTime": "2025-09-09T08:57:50.414Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73867235&list=REPORTS_VIDEO:1",
+      "contentId": "v=73867235&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 73867235,
       "launchParam": null
@@ -14335,45 +14380,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73798002_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "UN: Neuer Anlauf für palästinensischen Staat polarisiert",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palästinensische Gebiete"
-    },
-    "regions": [
-      "Palästinensische Gebiete"
-    ],
-    "runningTime": 257,
-    "updateTime": "2025-09-08T15:03:36.377Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73922862&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73922862,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73906189_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73906189_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -15002,45 +15008,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73716899_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Aufgewachsen in Kopenhagen - eine 20-Jährige zeigt ihr Leben",
-    "category": "Lifestyle",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Dänemark"
-    },
-    "regions": [
-      "Dänemark"
-    ],
-    "runningTime": 280,
-    "updateTime": "2025-08-30T10:34:49.798Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73818010&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73818010,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73800613_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73800613_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
