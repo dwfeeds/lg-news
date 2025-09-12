@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 86,
+    "updateTime": "2025-09-12T12:58:13.451Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73973485_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73973485_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": " Is the two-state solution being buried in the West Bank?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 129,
+    "updateTime": "2025-09-12T11:59:04.997Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73975881&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73975881,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73914487_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73914487_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why are so many Venezuelans fleeing to Europe?",
     "category": "Migration",
     "subCategory": null,
@@ -237,41 +311,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73968890_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 86,
-    "updateTime": "2025-09-12T07:01:23.289Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73968942_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73968942_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -685,10 +724,10 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:QA": "Qatar"
     },
     "regions": [
-      "Middle East"
+      "Qatar"
     ],
     "runningTime": 106,
     "updateTime": "2025-09-11T09:33:00.663Z",
@@ -8698,45 +8737,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israeli forces break up funeral of Palestinian activist",
-    "category": "Crime",
-    "subCategory": "Press Freedom",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-07-30T09:20:28.446Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73460629&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73460629,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73461046_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73461046_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How dancing keeps your brain sharp",
     "category": "Health",
     "subCategory": "Science",
@@ -12046,7 +12046,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-09-12T10:43:46.193Z",
+    "updateTime": "2025-09-12T12:56:35.755Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12386,45 +12386,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73796336_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Trump ordena una limpieza “ideológica” de los museos ",
-    "category": "Cultura",
-    "subCategory": "Historia",
-    "region_ids": {
-      "region:northamerica:US": "Estados Unidos"
-    },
-    "regions": [
-      "Estados Unidos"
-    ],
-    "runningTime": 231,
-    "updateTime": "2025-09-01T19:09:52.564Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73840839&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73840839,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73832088_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73832088_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
