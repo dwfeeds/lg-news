@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 86,
+    "updateTime": "2025-09-13T11:27:24.952Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73981227_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73981227_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Is karaoke keeping Finland top of World Happiness Index?",
     "category": "Society",
     "subCategory": "Music",
@@ -151,41 +186,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73971468_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 86,
-    "updateTime": "2025-09-13T06:49:53.409Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73981227_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73981227_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3293,6 +3293,45 @@
     "language": "en"
   },
   {
+    "titleText": "German coalition disputes welfare state funding",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 151,
+    "updateTime": "2025-09-05T09:22:55.809Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73891673&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 73891673,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68839679_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68839679_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Standoff deepens between US and Venezuela",
     "category": "Politics",
     "subCategory": null,
@@ -4490,7 +4529,7 @@
     "updateTime": "2025-09-02T07:27:29.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801592&list=FEATURED_VIDEO:1",
+      "contentId": "v=73801592&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73801592,
       "launchParam": null
@@ -7279,45 +7318,6 @@
     "language": "en"
   },
   {
-    "titleText": "In Europe, when does dating turn into a relationship?",
-    "category": "Lifestyle",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Europe"
-    ],
-    "runningTime": 300,
-    "updateTime": "2025-08-12T16:22:29.368Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73575613&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73575613,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73560053_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73560053_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump to deploy National Guard to Washington, DC",
     "category": "Politics",
     "subCategory": null,
@@ -8584,7 +8584,7 @@
     "updateTime": "2025-07-31T14:49:04.722Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73487671&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73487671&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73487671,
       "launchParam": null
@@ -10763,45 +10763,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72700440_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Indonesia's FGM ban: Is change on the horizon?",
-    "category": "Society",
-    "subCategory": "Religion",
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 321,
-    "updateTime": "2025-05-22T09:41:49.386Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571391&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72571391,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72558024_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72558024_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13253,6 +13214,47 @@
     "language": "es"
   },
   {
+    "titleText": "Neu in Finnland — wie fremd ist das Land für US-Amerikaner?",
+    "category": "Migration",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:FI": "Finnland",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Finnland",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 288,
+    "updateTime": "2025-09-13T11:31:13.491Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73975088&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 73975088,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73965505_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73965505_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Brasilien: Historisches Urteil gegen Bolsonaro",
     "category": "Recht und Justiz",
     "subCategory": null,
@@ -13654,45 +13656,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73945546_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Argentiniens Schattenwirtschaft wächst stetig",
-    "category": "Wirtschaft",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:cala:AR": "Argentinien"
-    },
-    "regions": [
-      "Argentinien"
-    ],
-    "runningTime": 146,
-    "updateTime": "2025-09-10T07:58:41.726Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73943223&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73943223,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72600865_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72600865_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
