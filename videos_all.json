@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Israel's Gaza war is 'the same cycle over and over again'",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 217,
+    "updateTime": "2025-09-14T15:18:55.639Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73990401&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73990401,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73984715_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73984715_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Jane Austen fans mark 250 years since writer's birth",
+    "category": "Literature",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 102,
+    "updateTime": "2025-09-14T11:58:18.464Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73989481&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73989481,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/56782169_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/56782169_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel intensifies strikes across Gaza City",
     "category": "Conflicts",
     "subCategory": null,
@@ -468,45 +546,6 @@
     "language": "en"
   },
   {
-    "titleText": "Circular architecture gives new life to old building parts",
-    "category": "Architecture",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 432,
-    "updateTime": "2025-09-13T05:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73979076,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73967753_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73967753_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
     "category": "Arts",
     "subCategory": "Lifestyle",
@@ -539,6 +578,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/58052799_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Circular architecture gives new life to old building parts",
+    "category": "Architecture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 432,
+    "updateTime": "2025-09-13T05:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73979076,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73967753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5959,7 +6037,7 @@
     "updateTime": "2025-08-25T18:21:38.068Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73764275&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73764275&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73764275,
       "launchParam": null
@@ -8386,45 +8464,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73051538_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gazans face starvation and perilous routes for food aid",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 122,
-    "updateTime": "2025-08-02T10:24:52.783Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73506937&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73506937,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73499407_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73499407_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
