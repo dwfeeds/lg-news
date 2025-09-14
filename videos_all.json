@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israel intensifies strikes across Gaza City",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-09-14T11:33:54.717Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73989229&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73989229,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73984715_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73984715_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Maduro urges Venezuelans to join militia amid US tensions",
     "category": "Politics",
     "subCategory": null,
@@ -5918,7 +5957,7 @@
     "updateTime": "2025-08-25T17:10:15.946Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73763454&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73763454&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73763454,
       "launchParam": null
@@ -8384,47 +8423,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73499407_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany warns Israel not to annex Palestinian territory",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 108,
-    "updateTime": "2025-08-01T19:37:41.475Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73504062&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73504062,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73504025_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73504025_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
