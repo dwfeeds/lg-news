@@ -13,7 +13,7 @@
     "updateTime": "2025-09-16T09:57:43.45Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73978636&list=REGION_VIDEO:7",
+      "contentId": "v=73978636&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 73978636,
       "launchParam": null
@@ -175,7 +175,7 @@
     "updateTime": "2025-09-16T09:02:43.641Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73965745&list=REGION_VIDEO:8",
+      "contentId": "v=73965745&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73965745,
       "launchParam": null
@@ -597,7 +597,7 @@
     "language": "en"
   },
   {
-    "titleText": "How Moldova helps and supports Ukrainian refugees",
+    "titleText": "How Moldova helps Ukrainian refugees fleeing war with Russia",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -4883,6 +4883,45 @@
     "language": "en"
   },
   {
+    "titleText": "A female programmer in Cameroon",
+    "category": "Digital World",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:CM": "Cameroon"
+    },
+    "regions": [
+      "Cameroon"
+    ],
+    "runningTime": 219,
+    "updateTime": "2025-09-03T08:46:32.959Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73758418&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73758418,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73735562_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73735562_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Wellness treatments in Belgrade promote bee awareness",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -6587,45 +6626,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73785249_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Stars walk red carpet at 82nd Venice Film Festival",
-    "category": "Film",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-08-27T15:00:57.368Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73786348&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73786348,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73785149_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73785149_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12428,7 +12428,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-09-16T11:23:16.901Z",
+    "updateTime": "2025-09-16T12:18:23.51Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
