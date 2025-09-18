@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "More deaths in Gaza as Israel pushes on with offensive",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 112,
+    "updateTime": "2025-09-17T23:57:08.761Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74036296&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74036296,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74026094_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74026094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -6334,7 +6373,7 @@
     "updateTime": "2025-08-29T22:51:01.827Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73816963&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73816963&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73816963,
       "launchParam": null
@@ -9364,47 +9403,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73554799_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Netanyahu faces opposition over possible Gaza takeover plan ",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-08-06T22:00:36.246Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73553902&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73553902,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73450041_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73450041_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
