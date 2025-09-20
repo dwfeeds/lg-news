@@ -1,12 +1,51 @@
 [
   {
+    "titleText": "Cyberattack causes chaos at European airports",
+    "category": "Crime",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-09-20T17:51:20.946Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74077423&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74077423,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74074018_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74074018_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 84,
-    "updateTime": "2025-09-20T11:22:02.12Z",
+    "updateTime": "2025-09-20T17:42:46.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:12",
@@ -173,7 +212,7 @@
     "updateTime": "2025-09-20T00:54:44.313Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74062429&list=FULL_SHOWS_VIDEO:10",
+      "contentId": "v=74062429&list=REGION_VIDEO:4",
       "type": "video",
       "id": 74062429,
       "launchParam": null
@@ -2989,6 +3028,45 @@
     "language": "en"
   },
   {
+    "titleText": "Illegal organ trade targets youth in Kenya ",
+    "category": "Society",
+    "subCategory": "Crime",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 236,
+    "updateTime": "2025-09-13T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73932858&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73932858,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73897868_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73897868_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenya: Nationwide debate on organ trafficking",
     "category": "Society",
     "subCategory": "Health",
@@ -3030,22 +3108,22 @@
     "language": "en"
   },
   {
-    "titleText": "Illegal organ trade targets youth in Kenya ",
-    "category": "Society",
-    "subCategory": "Crime",
+    "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
+    "category": "Arts",
+    "subCategory": "Lifestyle",
     "region_ids": {
-      "region:africa:KE": "Kenya"
+      "region:europe:NL": "Netherlands"
     },
     "regions": [
-      "Kenya"
+      "Netherlands"
     ],
-    "runningTime": 236,
-    "updateTime": "2025-09-13T05:30:00Z",
+    "runningTime": 217,
+    "updateTime": "2025-09-13T05:02:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932858&list=REGION_VIDEO:8",
+      "contentId": "v=73979115&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
-      "id": 73932858,
+      "id": 73979115,
       "launchParam": null
     },
     "providerLogo": {
@@ -3055,13 +3133,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73897868_6.jpg",
+      "url": "https://static.dw.com/image/73998657_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73897868_7.jpg",
+      "url": "https://static.dw.com/image/73998657_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3101,45 +3179,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73967753_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
-    "category": "Arts",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:NL": "Netherlands"
-    },
-    "regions": [
-      "Netherlands"
-    ],
-    "runningTime": 217,
-    "updateTime": "2025-09-13T05:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979115&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73979115,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73998657_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73998657_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4137,45 +4176,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73945546_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "France sees day of protest against Macron gov't",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 114,
-    "updateTime": "2025-09-10T15:53:05.047Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73953218&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73953218,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73952723_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73952723_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6663,45 +6663,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73804958_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Thai constitutional court removes prime minister from office",
-    "category": "Law and Justice",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:asia:TH": "Thailand"
-    },
-    "regions": [
-      "Thailand"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-08-29T14:03:39.412Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73812781&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73812781,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73802435_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73802435_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
