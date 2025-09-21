@@ -1,8 +1,43 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 90,
+    "updateTime": "2025-09-21T17:37:27.825Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74078151_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74078151_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Moscow hosts Eurovision rival music contest after ban",
     "category": "Music",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:RU": "Russian Federation"
     },
@@ -32,41 +67,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74082770_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 90,
-    "updateTime": "2025-09-21T12:35:07.666Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74079897_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74079897_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3346,45 +3346,6 @@
     "language": "en"
   },
   {
-    "titleText": "Illegal organ trade targets youth in Kenya ",
-    "category": "Society",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 236,
-    "updateTime": "2025-09-13T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932858&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73932858,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73897868_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73897868_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Kenya: Nationwide debate on organ trafficking",
     "category": "Society",
     "subCategory": "Health",
@@ -3426,22 +3387,22 @@
     "language": "en"
   },
   {
-    "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
-    "category": "Arts",
-    "subCategory": "Lifestyle",
+    "titleText": "Illegal organ trade targets youth in Kenya ",
+    "category": "Society",
+    "subCategory": "Crime",
     "region_ids": {
-      "region:europe:NL": "Netherlands"
+      "region:africa:KE": "Kenya"
     },
     "regions": [
-      "Netherlands"
+      "Kenya"
     ],
-    "runningTime": 217,
-    "updateTime": "2025-09-13T05:02:00Z",
+    "runningTime": 236,
+    "updateTime": "2025-09-13T05:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979115&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=73932858&list=REGION_VIDEO:8",
       "type": "video",
-      "id": 73979115,
+      "id": 73932858,
       "launchParam": null
     },
     "providerLogo": {
@@ -3451,13 +3412,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73998657_6.jpg",
+      "url": "https://static.dw.com/image/73897868_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73998657_7.jpg",
+      "url": "https://static.dw.com/image/73897868_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3497,6 +3458,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73967753_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
+    "category": "Arts",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:NL": "Netherlands"
+    },
+    "regions": [
+      "Netherlands"
+    ],
+    "runningTime": 217,
+    "updateTime": "2025-09-13T05:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73979115&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73979115,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73998657_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73998657_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
