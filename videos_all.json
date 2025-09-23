@@ -1,23 +1,107 @@
 [
   {
-    "titleText": "'No alternative to the UN': German Foreign Minister",
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-09-23T16:36:54.139Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74111780_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74111780_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Drones over Copenhagen airport disrupt air traffic",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DK": "Denmark",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Denmark",
+      "Russian Federation"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-09-23T16:15:19.165Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74113941&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74113941,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74101857_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74101857_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German foreign minister: General Assembly 'a vital forum'",
     "category": "Politics",
     "subCategory": "Conflicts",
     "region_ids": {
       "region:europe:DE": "Germany",
+      "region:global": "Global",
       "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
+      "region:me:IL": "Israel",
+      "region:europe:DK": "Denmark",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:EE": "Estonia"
     },
     "regions": [
       "Germany",
+      "Global",
       "Palestinian Territories",
-      "Israel"
+      "Israel",
+      "Denmark",
+      "Russian Federation",
+      "Estonia"
     ],
     "runningTime": 183,
     "updateTime": "2025-09-23T15:34:44.542Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74113053&list=REGION_VIDEO:7",
+      "contentId": "v=74113053&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74113053,
       "launchParam": null
@@ -235,41 +319,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68055957_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2025-09-23T13:45:25.457Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74108936_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74108936_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4464,45 +4513,6 @@
     "language": "en"
   },
   {
-    "titleText": "Street Debate: Organ donation ",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 552,
-    "updateTime": "2025-09-13T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932855&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73932855,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73897733_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73897733_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Illegal organ trade targets youth in Kenya ",
     "category": "Society",
     "subCategory": "Crime",
@@ -4583,22 +4593,22 @@
     "language": "en"
   },
   {
-    "titleText": "Circular architecture gives new life to old building parts",
-    "category": "Architecture",
-    "subCategory": null,
+    "titleText": "Street Debate: Organ donation ",
+    "category": "Society",
+    "subCategory": "Health",
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:africa": "Africa"
     },
     "regions": [
-      "Germany"
+      "Africa"
     ],
-    "runningTime": 432,
-    "updateTime": "2025-09-13T05:02:00Z",
+    "runningTime": 552,
+    "updateTime": "2025-09-13T05:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=73932855&list=REGION_VIDEO:8",
       "type": "video",
-      "id": 73979076,
+      "id": 73932855,
       "launchParam": null
     },
     "providerLogo": {
@@ -4608,13 +4618,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "url": "https://static.dw.com/image/73897733_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73967753_7.jpg",
+      "url": "https://static.dw.com/image/73897733_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4654,6 +4664,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73998657_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Circular architecture gives new life to old building parts",
+    "category": "Architecture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 432,
+    "updateTime": "2025-09-13T05:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73979076,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73967753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5712,7 +5761,7 @@
     "updateTime": "2025-09-08T14:03:46.059Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73922682&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73922682&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73922682,
       "launchParam": null
@@ -8866,45 +8915,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73687709_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Palestinians flee as Israel prepares assault on Gaza City",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 123,
-    "updateTime": "2025-08-19T06:04:11.178Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73686120&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73686120,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73366360_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73366360_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12194,7 +12204,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 180,
-    "updateTime": "2025-09-23T15:31:49.287Z",
+    "updateTime": "2025-09-23T16:22:55.953Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -13370,6 +13380,88 @@
     "language": "es"
   },
   {
+    "titleText": "Indonesien: Handelsabkommen mit EU belebt Export-Hoffnungen",
+    "category": "Handel",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:asia:ID": "Indonesien"
+    },
+    "regions": [
+      "Europa",
+      "Indonesien"
+    ],
+    "runningTime": 162,
+    "updateTime": "2025-09-23T16:37:47.088Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74113649&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74113649,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74102864_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74102864_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Philippinen: Generation Z fordert Kampf gegen Korruption",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PH": "Philippinen",
+      "region:asia": "Asien"
+    },
+    "regions": [
+      "Philippinen",
+      "Asien"
+    ],
+    "runningTime": 158,
+    "updateTime": "2025-09-23T16:27:46.56Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74113971&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74113971,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74092534_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74092534_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Bacalhau - ein portugiesisches Nationalgericht",
     "category": "Lifestyle",
     "subCategory": null,
@@ -13772,45 +13864,6 @@
     "language": "de"
   },
   {
-    "titleText": "Deutschland: Cyberattacken sorgen für Milliarden-Schaden",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-09-20T17:15:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74060889&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74060889,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/65238218_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/65238218_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Berlin: Mit innovativen Strategien gegen Wasserknappheit",
     "category": "Natur und Umwelt",
     "subCategory": "Innovation",
@@ -13824,7 +13877,7 @@
     "updateTime": "2025-09-20T17:11:43.296Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74019880&list=REPORTS_VIDEO:1",
+      "contentId": "v=74019880&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74019880,
       "launchParam": null
@@ -14594,45 +14647,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73881969_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Warum sterben die Austern vor Frankreichs Küste?",
-    "category": "Klima",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:FR": "Frankreich"
-    },
-    "regions": [
-      "Frankreich"
-    ],
-    "runningTime": 256,
-    "updateTime": "2025-09-11T07:12:43.951Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73867321&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73867321,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73798028_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73798028_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
