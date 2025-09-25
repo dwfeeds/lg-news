@@ -735,7 +735,7 @@
     "updateTime": "2025-09-23T15:06:09.625Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74112953&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74112953&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74112953,
       "launchParam": null
@@ -4790,6 +4790,45 @@
     "language": "en"
   },
   {
+    "titleText": "Illegal organ trade targets youth in Kenya ",
+    "category": "Society",
+    "subCategory": "Crime",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 236,
+    "updateTime": "2025-09-13T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73932858&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73932858,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73897868_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73897868_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenya: Nationwide debate on organ trafficking",
     "category": "Society",
     "subCategory": "Health",
@@ -4824,45 +4863,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74055099_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Illegal organ trade targets youth in Kenya ",
-    "category": "Society",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:africa:KE": "Kenya"
-    },
-    "regions": [
-      "Kenya"
-    ],
-    "runningTime": 236,
-    "updateTime": "2025-09-13T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932858&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73932858,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73897868_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73897868_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9439,22 +9439,26 @@
     "language": "en"
   },
   {
-    "titleText": "Somalia's camel milk revolution helps boost health, jobs",
-    "category": "Nature and Environment",
-    "subCategory": "Health",
+    "titleText": "Trump indicates he could meet with Putin 'very soon'",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:africa:SO": "Somalia"
+      "region:northamerica:US": "United States of America",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Somalia"
+      "United States of America",
+      "Russian Federation",
+      "Ukraine"
     ],
-    "runningTime": 127,
-    "updateTime": "2025-08-07T18:00:00.214Z",
+    "runningTime": 138,
+    "updateTime": "2025-08-07T07:14:30.445Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73564685&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73554958&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 73564685,
+      "id": 73554958,
       "launchParam": null
     },
     "providerLogo": {
@@ -9464,13 +9468,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70261310_6.jpeg",
+      "url": "https://static.dw.com/image/73554799_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70261310_7.jpeg",
+      "url": "https://static.dw.com/image/73554799_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11826,6 +11830,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/60537231_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza soup kitchens run out of food",
+    "category": "Conflicts",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 214,
+    "updateTime": "2025-05-09T09:13:10.573Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72487652&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72487652,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72486365_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72486365_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
