@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Fact check: Moldova — democracy on trial",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Republic of Moldova",
+      "Russian Federation"
+    ],
+    "runningTime": 366,
+    "updateTime": "2025-09-25T09:42:04.01Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74062123&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74062123,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74063674_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74063674_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tropical nights in Zurich — A city trying to beat the heat",
     "category": "Climate",
     "subCategory": "Society",
@@ -134,7 +175,7 @@
     "updateTime": "2025-09-25T07:28:58.075Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74128988&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74128988&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74128988,
       "launchParam": null
@@ -742,47 +783,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74116219_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump attacks the United Nations in fiery address",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Global",
-      "United States of America"
-    ],
-    "runningTime": 134,
-    "updateTime": "2025-09-23T20:32:41.847Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74114963&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74114963,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74112036_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74112036_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1723,45 +1723,6 @@
     "language": "en"
   },
   {
-    "titleText": "Beset by crises, UN marks 80th General Assembly",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-09-22T13:08:43.37Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74093869&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74093869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74087734_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74087734_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "German companies face rising cybercrime",
     "category": "Business",
     "subCategory": "Digital World",
@@ -2173,7 +2134,7 @@
     "updateTime": "2025-09-21T09:53:49.837Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74079643&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74079643&list=REGION_VIDEO:6",
       "type": "video",
       "id": 74079643,
       "launchParam": null
@@ -3217,7 +3178,7 @@
     "updateTime": "2025-09-18T20:40:27.816Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74052420&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74052420&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74052420,
       "launchParam": null
@@ -3654,7 +3615,7 @@
     "updateTime": "2025-09-17T19:38:20.413Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74034930&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74034930&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74034930,
       "launchParam": null
@@ -3998,47 +3959,6 @@
     "language": "en"
   },
   {
-    "titleText": "Donald Trump in UK: Royal charm offensive in full swing",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GB": "United Kingdom",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United Kingdom",
-      "United States of America"
-    ],
-    "runningTime": 169,
-    "updateTime": "2025-09-16T16:22:10.919Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74019911&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74019911,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74020208_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74020208_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pompeii — the world's most famous archaeological site",
     "category": "History",
     "subCategory": "Society",
@@ -4151,47 +4071,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73965558_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Libyan coast guard abuses spotlight EU anti-migration policy",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:africa:LY": "Libya"
-    },
-    "regions": [
-      "Europe",
-      "Libya"
-    ],
-    "runningTime": 170,
-    "updateTime": "2025-09-16T09:18:49.133Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74009242&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74009242,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66619678_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66619678_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4564,84 +4443,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Moldova helps Ukrainian refugees fleeing war with Russia",
-    "category": "Politics",
-    "subCategory": "Migration",
-    "region_ids": {
-      "region:europe:MD": "Republic of Moldova"
-    },
-    "regions": [
-      "Republic of Moldova"
-    ],
-    "runningTime": 415,
-    "updateTime": "2025-09-15T08:05:21.593Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73995305&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73995305,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73995376_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73995376_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Turkey: Opposition supporters rally in Ankara",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-09-14T22:34:38.784Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73992862&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73992862,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73991207_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73991207_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israel's Gaza war is 'the same cycle over and over again'",
     "category": "Conflicts",
     "subCategory": null,
@@ -4839,45 +4640,6 @@
     "language": "en"
   },
   {
-    "titleText": "Right-wing protesters clash with London police",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 430,
-    "updateTime": "2025-09-13T18:53:33.376Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73986277&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73986277,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73986382_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73986382_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Invasive water weed threatens El Salvador wetland",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -4930,7 +4692,7 @@
     "updateTime": "2025-09-13T17:47:23.351Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73986132&list=REGION_VIDEO:5",
+      "contentId": "v=73986132&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73986132,
       "launchParam": null
@@ -5034,6 +4796,45 @@
     "language": "en"
   },
   {
+    "titleText": "Street Debate: Organ donation ",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 552,
+    "updateTime": "2025-09-13T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73932855&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 73932855,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73897733_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73897733_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Illegal organ trade targets youth in Kenya ",
     "category": "Society",
     "subCategory": "Crime",
@@ -5107,45 +4908,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74055099_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Street Debate: Organ donation ",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 552,
-    "updateTime": "2025-09-13T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932855&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73932855,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73897733_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73897733_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6007,7 +5769,7 @@
     "updateTime": "2025-09-09T08:59:39.168Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73927805&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73927805&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73927805,
       "launchParam": null
@@ -6518,7 +6280,7 @@
     "updateTime": "2025-09-06T07:50:52.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73903736&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73903736&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73903736,
       "launchParam": null
@@ -6678,7 +6440,7 @@
     "updateTime": "2025-09-04T20:38:35.777Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73886574&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73886574&list=REGION_VIDEO:6",
       "type": "video",
       "id": 73886574,
       "launchParam": null
@@ -7176,45 +6938,6 @@
     "language": "en"
   },
   {
-    "titleText": "Chinese, Russian and North Korean leaders meet in Beijing",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "China"
-    ],
-    "runningTime": 131,
-    "updateTime": "2025-09-02T19:51:43.298Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73857871&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73857871,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73759168_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73759168_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How strong is Hamas in Gaza City?",
     "category": "Conflicts",
     "subCategory": null,
@@ -7468,7 +7191,7 @@
     "updateTime": "2025-09-01T16:27:08.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832590&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73832590&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73832590,
       "launchParam": null
@@ -7546,7 +7269,7 @@
     "updateTime": "2025-09-01T09:43:46.64Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832139&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73832139&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73832139,
       "launchParam": null
@@ -7814,49 +7537,6 @@
     "language": "en"
   },
   {
-    "titleText": "US ambiguity may complicate Ukraine's strategic planning",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Ukraine",
-      "Russian Federation",
-      "United States of America"
-    ],
-    "runningTime": 293,
-    "updateTime": "2025-08-27T12:39:30.948Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73783259&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73783259,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73539073_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73539073_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "In Kashmir, lotus bloom on Wular Lake brings relief and hope",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -7889,45 +7569,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73783257_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukraine wants US weapons to strike within Russia",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 183,
-    "updateTime": "2025-08-27T12:00:16.67Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73781477&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73781477,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64701008_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64701008_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8374,45 +8015,6 @@
     "language": "en"
   },
   {
-    "titleText": "Preventable diseases spread in Somalia amid USAID cuts",
-    "category": "Health",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:africa:SO": "Somalia"
-    },
-    "regions": [
-      "Somalia"
-    ],
-    "runningTime": 155,
-    "updateTime": "2025-08-22T08:58:44.645Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73729068&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73729068,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73729241_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73729241_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump's public media cuts hit rural outlets hard",
     "category": "Press Freedom",
     "subCategory": "Politics",
@@ -8426,7 +8028,7 @@
     "updateTime": "2025-08-21T21:25:51.776Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73725029&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73725029,
       "launchParam": null
@@ -8588,7 +8190,7 @@
     "updateTime": "2025-08-21T07:55:11.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73712569&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73712569&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73712569,
       "launchParam": null
@@ -8648,47 +8250,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73705202_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ceasefire proposal raises hopes of a turning point in Gaza ",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-08-20T08:11:48.482Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73697638&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73697638,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73690390_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73690390_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9286,45 +8847,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73632342_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Report: Child labor used to build Russian drones",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Russian Federation"
-    ],
-    "runningTime": 211,
-    "updateTime": "2025-08-11T08:25:55.135Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73595228&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73595228,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73524797_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73524797_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10144,45 +9666,6 @@
     "language": "en"
   },
   {
-    "titleText": "US-EU trade talks: Trump hails 'biggest deal ever made'",
-    "category": "Trade",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 67,
-    "updateTime": "2025-07-27T19:31:36.293Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73431447&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73431447,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73430205_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73430205_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexican town welcomes US emigres",
     "category": "Migration",
     "subCategory": null,
@@ -10215,86 +9698,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73428408_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Pro wrestler and Trump supporter Hulk Hogan dies at 71",
-    "category": "Sports",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 110,
-    "updateTime": "2025-07-25T13:01:05.912Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73414882&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73414882,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73403985_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73403985_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US expats move to Spain, leaving Trump's America behind",
-    "category": "Migration",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "United States of America",
-      "Spain"
-    ],
-    "runningTime": 323,
-    "updateTime": "2025-07-23T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73326435&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73326435,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73308127_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73308127_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10862,45 +10265,6 @@
     "language": "en"
   },
   {
-    "titleText": "Rio gears up to host BRICS leaders",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 119,
-    "updateTime": "2025-07-06T16:23:54.173Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73177681&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 73177681,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73177383_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73177383_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "More gardens, fewer parking lots: Swiss cities go green",
     "category": "Climate",
     "subCategory": "Society",
@@ -10933,45 +10297,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73065103_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Mexico: Female delivery drivers demand more protection",
-    "category": "Digital World",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Mexico"
-    ],
-    "runningTime": 229,
-    "updateTime": "2025-07-01T10:11:15.896Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73060405&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 73060405,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73046124_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73046124_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
