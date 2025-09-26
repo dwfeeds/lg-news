@@ -6,10 +6,10 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 105,
-    "updateTime": "2025-09-26T06:12:24.639Z",
+    "updateTime": "2025-09-26T07:14:59.769Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -442,7 +442,7 @@
     "updateTime": "2025-09-25T15:05:51.202Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138538&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74138538&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74138538,
       "launchParam": null
@@ -1320,7 +1320,7 @@
     "updateTime": "2025-09-24T07:47:39.065Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74048819&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74048819&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74048819,
       "launchParam": null
@@ -2374,7 +2374,7 @@
     "updateTime": "2025-09-22T11:13:23.859Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74046701&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74046701&list=REGION_VIDEO:4",
       "type": "video",
       "id": 74046701,
       "launchParam": null
@@ -3410,7 +3410,7 @@
     "updateTime": "2025-09-19T10:17:19.564Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74023329&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74023329&list=REGION_VIDEO:8",
       "type": "video",
       "id": 74023329,
       "launchParam": null
@@ -3792,45 +3792,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74048676_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ukraine no longer requires travel permits for young men",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 218,
-    "updateTime": "2025-09-18T20:19:01.809Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74052406&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74052406,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74052388_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74052388_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4506,47 +4467,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73965558_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Kenya: Building bridges to help vulnerable colobus monkeys",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenya",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Kenya",
-      "Africa"
-    ],
-    "runningTime": 286,
-    "updateTime": "2025-09-16T09:02:43.641Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73965745&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73965745,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73959984_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73959984_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6239,7 +6159,7 @@
     "updateTime": "2025-09-08T07:54:51.68Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73891281&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73891281&list=REGION_VIDEO:4",
       "type": "video",
       "id": 73891281,
       "launchParam": null
@@ -6457,6 +6377,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73891753_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Czech election brings anxiety for country's LGBTQ+ community",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CZ": "Czech Republic"
+    },
+    "regions": [
+      "Czech Republic"
+    ],
+    "runningTime": 241,
+    "updateTime": "2025-09-06T08:16:11.367Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73885813&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73885813,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73510299_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73510299_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6936,88 +6895,6 @@
     "language": "en"
   },
   {
-    "titleText": "How a small, disputed island wards off China's power claims",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia": "Asia",
-      "region:asia:CN": "China",
-      "region:asia:PH": "Philippines"
-    },
-    "regions": [
-      "Asia",
-      "China",
-      "Philippines"
-    ],
-    "runningTime": 312,
-    "updateTime": "2025-09-03T13:49:59.878Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73868966&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73868966,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73841329_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73841329_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Afghanistan rocked by aftershock as death toll hits 1,400",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Afghanistan"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-09-03T11:56:40.011Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73863474&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 73863474,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73861814_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73861814_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trial against Brazil's ex-President Bolsonaro nears verdict",
     "category": "Law and Justice",
     "subCategory": "Politics",
@@ -7310,7 +7187,7 @@
     "updateTime": "2025-09-02T07:27:29.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801592&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73801592&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73801592,
       "launchParam": null
@@ -7368,45 +7245,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73832363_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Green tourism: How Berlin is leading the way",
-    "category": "Travel",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 413,
-    "updateTime": "2025-09-01T09:59:11.082Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801557&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73801557,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73870143_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73870143_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8415,45 +8253,6 @@
     "language": "en"
   },
   {
-    "titleText": "How to build the world's biggest sustainable clothing brand",
-    "category": "Business",
-    "subCategory": "Equality",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 353,
-    "updateTime": "2025-08-20T00:10:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73700976&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73700976,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73623758_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73623758_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Moldova's government offers returning expats business grants",
     "category": "Migration",
     "subCategory": "Lifestyle",
@@ -8772,45 +8571,6 @@
     "language": "en"
   },
   {
-    "titleText": "Swiss pilot breaks record for highest solar-powered flight",
-    "category": "Technology",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-08-14T09:02:54.554Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73634776&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73634776,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73632619_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73632619_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why Trump and Putin chose Alaska for their meeting",
     "category": "Politics",
     "subCategory": null,
@@ -8973,6 +8733,45 @@
     "language": "en"
   },
   {
+    "titleText": "Pakistan's transgender community lives in fear",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 165,
+    "updateTime": "2025-08-10T05:38:19.308Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73570898&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73570898,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73571091_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73571091_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US imposes 50% tariffs on India over ties with Russia",
     "category": "Politics",
     "subCategory": "Business",
@@ -9009,45 +8808,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73484319_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The green mirage: Is any energy in Tamil Nadu sustainable?",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 449,
-    "updateTime": "2025-08-07T23:13:40.842Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71463080&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 71463080,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71459272_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71459272_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9098,24 +8858,22 @@
     "language": "en"
   },
   {
-    "titleText": "Ugandan DJ gets into green groove with solar power",
-    "category": "Climate",
-    "subCategory": "Music",
+    "titleText": "Fact check: Trans athlete ban — fair or not?",
+    "category": "Sports",
+    "subCategory": "Diversity",
     "region_ids": {
-      "region:africa:UG": "Uganda",
-      "region:africa": "Africa"
+      "region:global": "Global"
     },
     "regions": [
-      "Uganda",
-      "Africa"
+      "Global"
     ],
-    "runningTime": 162,
-    "updateTime": "2025-08-05T09:51:36.979Z",
+    "runningTime": 526,
+    "updateTime": "2025-08-05T08:42:09.634Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73463021&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73530553&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 73463021,
+      "id": 73530553,
       "launchParam": null
     },
     "providerLogo": {
@@ -9125,13 +8883,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73462900_6.jpeg",
+      "url": "https://static.dw.com/image/73532778_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73462900_7.jpeg",
+      "url": "https://static.dw.com/image/73532778_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9666,125 +9424,6 @@
     "language": "en"
   },
   {
-    "titleText": "Turning art into activism in Ghana",
-    "category": "Nature and Environment",
-    "subCategory": "Arts",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-07-29T08:32:42.411Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73365844&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73365844,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73357239_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73357239_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "In Uganda a low-cost alternative to dirt floors gains ground",
-    "category": "Climate",
-    "subCategory": "Architecture",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Africa",
-      "Uganda"
-    ],
-    "runningTime": 164,
-    "updateTime": "2025-07-28T08:59:02.162Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73314764&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73314764,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73316147_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73316147_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Heavy rain: Thrithala's sustainable water revolution ",
-    "category": "Food Security",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 383,
-    "updateTime": "2025-07-28T08:39:20.955Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73315859&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73315859,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73314275_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73314275_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexican town welcomes US emigres",
     "category": "Migration",
     "subCategory": null,
@@ -9817,6 +9456,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73428408_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Berlin Pride marchers warn of growing homophobia",
+    "category": "Equality",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 134,
+    "updateTime": "2025-07-26T21:43:35.176Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73426746&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73426746,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73426744_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73426744_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rainbow flag sparks controversy in German parliament",
+    "category": "Equality",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 166,
+    "updateTime": "2025-07-25T20:02:13.471Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73419491&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73419491,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/61910366_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/61910366_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9858,47 +9575,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72213568_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Making honey, making money: Empowering women with beekeeping",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Africa",
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 307,
-    "updateTime": "2025-07-23T09:02:23.911Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73314745&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73314745,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73316184_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73316184_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10001,7 +9677,7 @@
     "updateTime": "2025-07-17T10:44:03.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73243288&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73243288&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73243288,
       "launchParam": null
@@ -10020,6 +9696,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73231056_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Belgium secures magical win in 'quidditch' world cup",
+    "category": "Sports",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:europe:BE": "Belgium"
+    },
+    "regions": [
+      "Belgium"
+    ],
+    "runningTime": 108,
+    "updateTime": "2025-07-14T14:20:32.173Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73274347&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73274347,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73274315_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73274315_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10139,45 +9854,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73267196_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Switzerland’s hidden carbon footprint",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 392,
-    "updateTime": "2025-07-14T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73248341&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 73248341,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73247539_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73247539_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10384,6 +10060,45 @@
     "language": "en"
   },
   {
+    "titleText": "Far-right sparks fear at Pride events in Germany",
+    "category": "Society",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 302,
+    "updateTime": "2025-07-04T09:15:54.326Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73069336&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73069336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69969327_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69969327_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "More gardens, fewer parking lots: Swiss cities go green",
     "category": "Climate",
     "subCategory": "Society",
@@ -10397,7 +10112,7 @@
     "updateTime": "2025-07-03T12:16:34.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73069416&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=73069416&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73069416,
       "launchParam": null
@@ -10416,6 +10131,162 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73065103_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How Trump's culture war puts LGBTQ+ community under pressure",
+    "category": "Diversity",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 392,
+    "updateTime": "2025-06-30T08:40:03.08Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73074155&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73074155,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73145514_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73145514_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trans women banned from English women's football",
+    "category": "Equality",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 165,
+    "updateTime": "2025-06-29T21:46:13.693Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73086429&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73086429,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72827589_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72827589_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Georgia's nightclubs fight for freedom to party",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:GE": "Georgia"
+    },
+    "regions": [
+      "Georgia"
+    ],
+    "runningTime": 300,
+    "updateTime": "2025-06-29T09:39:27.827Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73067947&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73067947,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73038209_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73038209_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Budapest Pride parade defies Orban ban in Hungary",
+    "category": "Society",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-06-28T23:01:27.555Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73081306&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73081306,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73079951_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73079951_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10462,45 +10333,6 @@
     "language": "en"
   },
   {
-    "titleText": "Even bananas can be made into plastic alternatives!",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 154,
-    "updateTime": "2025-06-25T08:22:11.079Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72977657&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72977657,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72976638_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72976638_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India's truck art is world famous. Why is it dying out?",
     "category": "Arts",
     "subCategory": "Lifestyle",
@@ -10533,47 +10365,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73023466_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Three creative Biennale ideas for coping with climate change",
-    "category": "Architecture",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:cala:BR": "Brazil",
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Brazil",
-      "Mexico"
-    ],
-    "runningTime": 280,
-    "updateTime": "2025-06-24T12:11:59.697Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72988495&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 72988495,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72974872_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72974872_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10700,6 +10491,45 @@
     "language": "en"
   },
   {
+    "titleText": "Budapest Pride Parade set to draw record numbers despite ban",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 245,
+    "updateTime": "2025-06-18T12:38:38.399Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72961614&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72961614,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72687202_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72687202_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can Europe keep up with the US, China in the high-tech race?",
     "category": "Business",
     "subCategory": null,
@@ -10738,6 +10568,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66768929_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kyiv sees first LGBTQ Pride march since Russian invasion",
+    "category": "Diversity",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 94,
+    "updateTime": "2025-06-14T20:11:20.549Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72913007&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72913007,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72911111_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72911111_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Facial recognition at protests in Hungary? ",
+    "category": "Human Rights",
+    "subCategory": "Digital World",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 68,
+    "updateTime": "2025-06-13T15:02:43.755Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72900163&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72900163,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72687150_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72687150_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10892,6 +10800,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72814655_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Washington DC World Pride parade draws tens of thousands",
+    "category": "Equality",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-06-08T09:22:13.169Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72834833&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72834833,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72833301_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72833301_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Thousands gather for WorldPride in Washington",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 207,
+    "updateTime": "2025-06-06T18:09:49.126Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72827393&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72827393,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72827589_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72827589_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11346,88 +11332,6 @@
     "language": "en"
   },
   {
-    "titleText": "The US is giving up on climate — others are cashing in",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global",
-      "region:northamerica": "North America",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Global",
-      "North America",
-      "United States of America"
-    ],
-    "runningTime": 593,
-    "updateTime": "2025-05-23T13:00:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72731397&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72731397,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72700440_6.png",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72700440_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Indonesia's FGM ban: Is change on the horizon?",
-    "category": "Society",
-    "subCategory": "Religion",
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 321,
-    "updateTime": "2025-05-22T09:41:49.386Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72571391&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 72571391,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72558024_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72558024_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "AI pioneer Geoffrey Hinton urges tougher government rules",
     "category": "Technology",
     "subCategory": null,
@@ -11499,6 +11403,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72609990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Inside Africa's LGBTQ+ struggle under new laws",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-05-16T09:39:41.75Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72554282&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72554282,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69427468_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69427468_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11588,6 +11531,45 @@
     "language": "en"
   },
   {
+    "titleText": "A safe space for queer seniors",
+    "category": "Society",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 159,
+    "updateTime": "2025-05-14T21:55:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=68785289&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 68785289,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68751565_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68751565_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump trade deal offers tariff relief for some UK industries",
     "category": "Business",
     "subCategory": null,
@@ -11622,6 +11604,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/18911826_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Filipino LGBTQ+ community backs local papal hopeful Tagle",
+    "category": "Religion",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PH": "Philippines",
+      "region:europe:VA": "Vatican"
+    },
+    "regions": [
+      "Philippines",
+      "Vatican"
+    ],
+    "runningTime": 194,
+    "updateTime": "2025-05-06T12:53:00.853Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72449569&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72449569,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72449756_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72449756_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11665,6 +11688,123 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71750290_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trans people in the US fear massive setbacks under Trump",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 203,
+    "updateTime": "2025-04-30T09:22:17.052Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72395585&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72395585,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72102418_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72102418_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hungary amends constitution to curb LGBTQ+ rights",
+    "category": "Rule of Law",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-04-15T12:23:47.573Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72251560&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72251560,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72252203_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72252203_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Anger in Hungary at Pride ban and restriction of freedoms",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:HU": "Hungary"
+    },
+    "regions": [
+      "Hungary"
+    ],
+    "runningTime": 274,
+    "updateTime": "2025-04-04T07:34:25.927Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72134774&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 72134774,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70937942_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70937942_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
