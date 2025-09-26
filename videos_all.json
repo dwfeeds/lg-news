@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Israeli strikes flatten Gaza town in designated safe zone",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-09-26T08:05:29.041Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74142289&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74142289,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74133733_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74133733_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Denmark increases military spending as Russia grows bolder",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "Denmark"
+    ],
+    "runningTime": 119,
+    "updateTime": "2025-09-26T07:18:38.635Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74142413&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74142413,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74129964_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74129964_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -9,7 +87,7 @@
     "updateTime": "2025-09-26T07:14:59.769Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -364,7 +442,7 @@
     "updateTime": "2025-09-25T15:45:12.031Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74139039&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74139039&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74139039,
       "launchParam": null
@@ -712,9 +790,9 @@
     "language": "en"
   },
   {
-    "titleText": "Ukrainians are increasingly in the grip of 'war fatigue'",
+    "titleText": "Ukrainians turn to Telegram, social media for news",
     "category": "Conflicts",
-    "subCategory": null,
+    "subCategory": "Media",
     "region_ids": {
       "region:europe:UA": "Ukraine"
     },
@@ -766,7 +844,7 @@
     "updateTime": "2025-09-25T07:28:58.075Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74128988&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74128988&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74128988,
       "launchParam": null
@@ -785,6 +863,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70712862_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why US punitive tariffs put Switzerland under pressure",
+    "category": "Business",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 275,
+    "updateTime": "2025-09-24T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74067274&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74067274,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66116404_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66116404_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -924,7 +1041,7 @@
     "updateTime": "2025-09-24T18:03:39.135Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74126846&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74126846&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74126846,
       "launchParam": null
@@ -965,7 +1082,7 @@
     "updateTime": "2025-09-24T17:58:01.992Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74126834&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74126834&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74126834,
       "launchParam": null
@@ -1004,7 +1121,7 @@
     "updateTime": "2025-09-24T16:09:13.664Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74125381&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74125381&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74125381,
       "launchParam": null
@@ -1125,7 +1242,7 @@
     "updateTime": "2025-09-24T13:35:30.428Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74119074&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74119074&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74119074,
       "launchParam": null
@@ -1164,7 +1281,7 @@
     "updateTime": "2025-09-24T12:49:16.036Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74121665&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74121665&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74121665,
       "launchParam": null
@@ -1359,7 +1476,7 @@
     "updateTime": "2025-09-24T07:16:13.098Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74116514&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74116514&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74116514,
       "launchParam": null
@@ -1378,6 +1495,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74116219_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump attacks the United Nations in fiery address",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Global",
+      "United States of America"
+    ],
+    "runningTime": 134,
+    "updateTime": "2025-09-23T20:32:41.847Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74114963&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74114963,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74112036_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74112036_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1494,7 +1652,7 @@
     "updateTime": "2025-09-23T15:34:44.542Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74113053&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74113053&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74113053,
       "launchParam": null
@@ -1572,7 +1730,7 @@
     "updateTime": "2025-09-23T14:51:18.179Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74112149&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74112149&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74112149,
       "launchParam": null
@@ -1736,7 +1894,7 @@
     "updateTime": "2025-09-23T09:54:11.488Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74105148&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74105148&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74105148,
       "launchParam": null
@@ -2054,7 +2212,7 @@
     "updateTime": "2025-09-22T20:15:22.859Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74100041&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74100041&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74100041,
       "launchParam": null
@@ -2212,7 +2370,7 @@
     "updateTime": "2025-09-22T15:40:58.007Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74098997&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74098997&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74098997,
       "launchParam": null
@@ -2311,6 +2469,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74095247_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Beset by crises, UN marks 80th General Assembly",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 147,
+    "updateTime": "2025-09-22T13:08:43.37Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74093869&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74093869,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74087734_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74087734_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2491,7 +2688,7 @@
     "updateTime": "2025-09-22T07:36:13.92Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74087432&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74087432&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74087432,
       "launchParam": null
@@ -2729,7 +2926,7 @@
     "updateTime": "2025-09-21T09:53:49.837Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74079643&list=REGION_VIDEO:6",
+      "contentId": "v=74079643&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74079643,
       "launchParam": null
@@ -2770,7 +2967,7 @@
     "updateTime": "2025-09-21T09:06:57.966Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74078644&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74078644&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74078644,
       "launchParam": null
@@ -2811,7 +3008,7 @@
     "updateTime": "2025-09-20T21:11:04.405Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74077547&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74077547&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74077547,
       "launchParam": null
@@ -2928,7 +3125,7 @@
     "updateTime": "2025-09-20T19:15:26.814Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74077532&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74077532&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74077532,
       "launchParam": null
@@ -3047,7 +3244,7 @@
     "updateTime": "2025-09-20T08:15:03.071Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74073078&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74073078&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74073078,
       "launchParam": null
@@ -3291,7 +3488,7 @@
     "updateTime": "2025-09-19T16:48:19.487Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74046718&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74046718&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74046718,
       "launchParam": null
@@ -3652,7 +3849,7 @@
     "updateTime": "2025-09-19T09:15:13.139Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74054646&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74054646&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74054646,
       "launchParam": null
@@ -3773,7 +3970,7 @@
     "updateTime": "2025-09-18T20:40:27.816Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74052420&list=REGION_VIDEO:7",
+      "contentId": "v=74052420&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74052420,
       "launchParam": null
@@ -3792,6 +3989,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74048676_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine no longer requires travel permits for young men",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 218,
+    "updateTime": "2025-09-18T20:19:01.809Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74052406&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74052406,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74052388_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74052388_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3929,7 +4165,7 @@
     "updateTime": "2025-09-18T09:45:34.596Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74040732&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74040732&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74040732,
       "launchParam": null
@@ -3972,7 +4208,7 @@
     "updateTime": "2025-09-18T09:23:40.443Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74035843&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74035843&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74035843,
       "launchParam": null
@@ -4050,7 +4286,7 @@
     "updateTime": "2025-09-17T23:57:08.761Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74036296&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74036296&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74036296,
       "launchParam": null
@@ -4069,6 +4305,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74026094_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UK rolls out red carpet for Donald Trump",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "runningTime": 148,
+    "updateTime": "2025-09-17T19:38:20.413Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74034930&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74034930,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74029185_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74029185_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4290,7 +4567,7 @@
     "updateTime": "2025-09-17T06:52:27.155Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74021173&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74021173&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74021173,
       "launchParam": null
@@ -4348,6 +4625,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74020593_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Donald Trump in UK: Royal charm offensive in full swing",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "runningTime": 169,
+    "updateTime": "2025-09-16T16:22:10.919Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74019911&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74019911,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74020208_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74020208_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4573,7 +4891,7 @@
     "updateTime": "2025-09-15T20:47:37.532Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74005510&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74005510&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74005510,
       "launchParam": null
@@ -4614,7 +4932,7 @@
     "updateTime": "2025-09-15T15:52:12.363Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74001150&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74001150&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74001150,
       "launchParam": null
@@ -4692,7 +5010,7 @@
     "updateTime": "2025-09-15T09:33:55.502Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73995176&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73995176&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73995176,
       "launchParam": null
@@ -4809,7 +5127,7 @@
     "updateTime": "2025-09-14T15:18:55.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73990401&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73990401&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73990401,
       "launchParam": null
@@ -4887,7 +5205,7 @@
     "updateTime": "2025-09-14T11:33:54.717Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73989229&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73989229&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73989229,
       "launchParam": null
@@ -4993,6 +5311,45 @@
     "language": "en"
   },
   {
+    "titleText": "Right-wing protesters clash with London police",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 430,
+    "updateTime": "2025-09-13T18:53:33.376Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73986277&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73986277,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73986382_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73986382_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Invasive water weed threatens El Salvador wetland",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -5045,7 +5402,7 @@
     "updateTime": "2025-09-13T17:47:23.351Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73986132&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73986132&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73986132,
       "launchParam": null
@@ -5084,7 +5441,7 @@
     "updateTime": "2025-09-13T12:28:23.124Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73984421&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73984421&list=REGION_VIDEO:5",
       "type": "video",
       "id": 73984421,
       "launchParam": null
@@ -5149,45 +5506,6 @@
     "language": "en"
   },
   {
-    "titleText": "Circular architecture gives new life to old building parts",
-    "category": "Architecture",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 432,
-    "updateTime": "2025-09-13T05:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73979076,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73967753_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73967753_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Rembrandt masterpiece undergoes 'live' restoration",
     "category": "Arts",
     "subCategory": "Lifestyle",
@@ -5220,6 +5538,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73998657_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Circular architecture gives new life to old building parts",
+    "category": "Architecture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 432,
+    "updateTime": "2025-09-13T05:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73979076,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73967753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5283,7 +5640,7 @@
     "updateTime": "2025-09-12T14:26:33.739Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979356&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73979356&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73979356,
       "launchParam": null
@@ -5322,7 +5679,7 @@
     "updateTime": "2025-09-12T11:59:04.997Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73975881&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73975881&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73975881,
       "launchParam": null
@@ -5486,7 +5843,7 @@
     "updateTime": "2025-09-11T11:31:45.317Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73956957&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73956957&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73956957,
       "launchParam": null
@@ -5525,7 +5882,7 @@
     "updateTime": "2025-09-11T09:33:00.663Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73958777&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73958777&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73958777,
       "launchParam": null
@@ -5603,7 +5960,7 @@
     "updateTime": "2025-09-10T22:25:09.46Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73955101&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73955101&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73955101,
       "launchParam": null
@@ -5765,7 +6122,7 @@
     "updateTime": "2025-09-09T14:07:09.084Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73934126&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73934126&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73934126,
       "launchParam": null
@@ -5806,7 +6163,7 @@
     "updateTime": "2025-09-09T13:20:41.169Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73930446&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73930446&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73930446,
       "launchParam": null
@@ -6081,7 +6438,7 @@
     "updateTime": "2025-09-08T13:40:56.417Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73915969&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73915969&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73915969,
       "launchParam": null
@@ -6436,7 +6793,7 @@
     "updateTime": "2025-09-06T07:50:52.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73903736&list=REGION_VIDEO:5",
+      "contentId": "v=73903736&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73903736,
       "launchParam": null
@@ -6596,7 +6953,7 @@
     "updateTime": "2025-09-04T20:38:35.777Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73886574&list=REGION_VIDEO:6",
+      "contentId": "v=73886574&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73886574,
       "launchParam": null
@@ -6674,7 +7031,7 @@
     "updateTime": "2025-09-04T15:47:49.844Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73878542&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73878542&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73878542,
       "launchParam": null
@@ -6973,6 +7330,45 @@
     "language": "en"
   },
   {
+    "titleText": "Chinese, Russian and North Korean leaders meet in Beijing",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "China"
+    ],
+    "runningTime": 131,
+    "updateTime": "2025-09-02T19:51:43.298Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73857871&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73857871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73759168_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73759168_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How strong is Hamas in Gaza City?",
     "category": "Conflicts",
     "subCategory": null,
@@ -7070,7 +7466,7 @@
     "updateTime": "2025-09-02T12:22:29.622Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73850841&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73850841&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73850841,
       "launchParam": null
@@ -7109,7 +7505,7 @@
     "updateTime": "2025-09-02T11:06:24.565Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73847302&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73847302&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73847302,
       "launchParam": null
@@ -7226,7 +7622,7 @@
     "updateTime": "2025-09-01T16:27:08.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832590&list=REGION_VIDEO:5",
+      "contentId": "v=73832590&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73832590,
       "launchParam": null
@@ -7265,7 +7661,7 @@
     "updateTime": "2025-09-01T09:43:46.64Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73832139&list=REGION_VIDEO:5",
+      "contentId": "v=73832139&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73832139,
       "launchParam": null
@@ -7533,6 +7929,49 @@
     "language": "en"
   },
   {
+    "titleText": "US ambiguity may complicate Ukraine's strategic planning",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation",
+      "United States of America"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-08-27T12:39:30.948Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73783259&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73783259,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73539073_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73539073_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "In Kashmir, lotus bloom on Wular Lake brings relief and hope",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -7565,6 +8004,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73783257_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine wants US weapons to strike within Russia",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 183,
+    "updateTime": "2025-08-27T12:00:16.67Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73781477&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73781477,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/64701008_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/64701008_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8011,6 +8489,45 @@
     "language": "en"
   },
   {
+    "titleText": "Preventable diseases spread in Somalia amid USAID cuts",
+    "category": "Health",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:SO": "Somalia"
+    },
+    "regions": [
+      "Somalia"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-08-22T08:58:44.645Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73729068&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 73729068,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73729241_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73729241_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trump's public media cuts hit rural outlets hard",
     "category": "Press Freedom",
     "subCategory": "Politics",
@@ -8024,7 +8541,7 @@
     "updateTime": "2025-08-21T21:25:51.776Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73725029&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73725029,
       "launchParam": null
@@ -8186,7 +8703,7 @@
     "updateTime": "2025-08-21T07:55:11.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73712569&list=REGION_VIDEO:5",
+      "contentId": "v=73712569&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73712569,
       "launchParam": null
@@ -8212,24 +8729,22 @@
     "language": "en"
   },
   {
-    "titleText": "Israel prepares to intensify its operations in Gaza City",
+    "titleText": "How did Putin supporters react to the White House talks?",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Israel",
-      "Palestinian Territories"
+      "Russian Federation"
     ],
-    "runningTime": 111,
-    "updateTime": "2025-08-20T19:34:48.88Z",
+    "runningTime": 200,
+    "updateTime": "2025-08-19T18:48:36.182Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73710407&list=REGION_VIDEO:9",
+      "contentId": "v=73696532&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 73710407,
+      "id": 73696532,
       "launchParam": null
     },
     "providerLogo": {
@@ -8239,13 +8754,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73705202_6.jpg",
+      "url": "https://static.dw.com/image/72557529_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73705202_7.jpg",
+      "url": "https://static.dw.com/image/72557529_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8426,7 +8941,7 @@
     "updateTime": "2025-08-15T14:13:49.544Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73640315&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73640315&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73640315,
       "launchParam": null
@@ -8627,7 +9142,7 @@
     "updateTime": "2025-08-14T07:10:20.377Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73631740&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=73631740&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 73631740,
       "launchParam": null
@@ -9033,7 +9548,7 @@
     "updateTime": "2025-08-01T09:46:05.728Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73494964&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73494964&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73494964,
       "launchParam": null
@@ -9424,6 +9939,45 @@
     "language": "en"
   },
   {
+    "titleText": "US-EU trade talks: Trump hails 'biggest deal ever made'",
+    "category": "Trade",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 67,
+    "updateTime": "2025-07-27T19:31:36.293Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73431447&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73431447,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73430205_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73430205_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mexican town welcomes US emigres",
     "category": "Migration",
     "subCategory": null,
@@ -9541,6 +10095,45 @@
     "language": "en"
   },
   {
+    "titleText": "Pro wrestler and Trump supporter Hulk Hogan dies at 71",
+    "category": "Sports",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 110,
+    "updateTime": "2025-07-25T13:01:05.912Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73414882&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73414882,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73403985_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73403985_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "EU-China relations hit new low ahead of summit",
     "category": "Globalization",
     "subCategory": "Trade",
@@ -9556,7 +10149,7 @@
     "updateTime": "2025-07-23T11:20:19.054Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73381588&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73381588&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73381588,
       "launchParam": null
@@ -10034,7 +10627,7 @@
     "updateTime": "2025-07-09T09:54:27.602Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73210750&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73210750&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 73210750,
       "launchParam": null
@@ -10053,6 +10646,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73210891_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rio gears up to host BRICS leaders",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "Brazil"
+    ],
+    "runningTime": 119,
+    "updateTime": "2025-07-06T16:23:54.173Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73177681&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 73177681,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73177383_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73177383_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10346,7 +10978,7 @@
     "updateTime": "2025-06-24T14:13:19.914Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73024674&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73024674&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73024674,
       "launchParam": null
@@ -10465,7 +11097,7 @@
     "updateTime": "2025-06-19T08:18:24.182Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72953655&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72953655&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72953655,
       "launchParam": null
@@ -10900,7 +11532,7 @@
     "updateTime": "2025-06-05T10:22:36.944Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72741140&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72741140&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72741140,
       "launchParam": null
@@ -10943,7 +11575,7 @@
     "updateTime": "2025-06-03T18:23:53.503Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72675933&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72675933&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72675933,
       "launchParam": null
@@ -11066,7 +11698,7 @@
     "updateTime": "2025-05-30T14:40:49.3Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72739289&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72739289&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72739289,
       "launchParam": null
@@ -11332,6 +11964,49 @@
     "language": "en"
   },
   {
+    "titleText": "The US is giving up on climate — others are cashing in",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global",
+      "region:northamerica": "North America",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Global",
+      "North America",
+      "United States of America"
+    ],
+    "runningTime": 593,
+    "updateTime": "2025-05-23T13:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72731397&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72731397,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72700440_6.png",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72700440_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "AI pioneer Geoffrey Hinton urges tougher government rules",
     "category": "Technology",
     "subCategory": null,
@@ -11464,7 +12139,7 @@
     "updateTime": "2025-05-15T14:12:28.183Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72454369&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72454369&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72454369,
       "launchParam": null
@@ -11505,7 +12180,7 @@
     "updateTime": "2025-05-15T07:27:00.447Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72548994&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72548994&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 72548994,
       "launchParam": null
@@ -11585,7 +12260,7 @@
     "updateTime": "2025-05-09T15:59:48.59Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72495538&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72495538&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72495538,
       "launchParam": null
@@ -11669,7 +12344,7 @@
     "updateTime": "2025-05-05T12:45:54.084Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72437816&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72437816&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72437816,
       "launchParam": null
@@ -11825,7 +12500,7 @@
     "updateTime": "2025-03-21T09:17:16.116Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71993544&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71993544&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 71993544,
       "launchParam": null
@@ -11866,7 +12541,7 @@
     "updateTime": "2025-02-27T08:53:27.276Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71765094&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71765094&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 71765094,
       "launchParam": null
@@ -11905,7 +12580,7 @@
     "updateTime": "2025-02-17T15:14:42.312Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71348285&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71348285&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 71348285,
       "launchParam": null
@@ -11946,7 +12621,7 @@
     "updateTime": "2025-02-10T12:24:50.782Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71559594&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=71559594&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 71559594,
       "launchParam": null
@@ -11985,7 +12660,7 @@
     "updateTime": "2024-11-28T17:34:05.318Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70892906&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70892906&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70892906,
       "launchParam": null
@@ -12030,7 +12705,7 @@
     "updateTime": "2024-11-11T09:17:19.765Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70751180&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70751180&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70751180,
       "launchParam": null
@@ -12069,7 +12744,7 @@
     "updateTime": "2024-11-01T13:00:06.591Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70662352&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70662352&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70662352,
       "launchParam": null
@@ -12110,7 +12785,7 @@
     "updateTime": "2024-10-14T18:23:25.843Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70493755&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70493755&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70493755,
       "launchParam": null
@@ -12149,7 +12824,7 @@
     "updateTime": "2024-10-10T15:06:10.528Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70460322&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70460322&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70460322,
       "launchParam": null
@@ -12190,7 +12865,7 @@
     "updateTime": "2024-10-04T16:50:27.856Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70405019&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70405019&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70405019,
       "launchParam": null
@@ -12229,7 +12904,7 @@
     "updateTime": "2024-10-03T11:45:48.35Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70395629&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70395629&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70395629,
       "launchParam": null
@@ -12268,7 +12943,7 @@
     "updateTime": "2024-09-06T13:21:10.929Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70155616&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70155616&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70155616,
       "launchParam": null
@@ -12307,7 +12982,7 @@
     "updateTime": "2024-08-21T18:50:53.976Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70010873&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=70010873&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 70010873,
       "launchParam": null
@@ -12339,7 +13014,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 179,
-    "updateTime": "2025-09-25T22:20:43.61Z",
+    "updateTime": "2025-09-26T08:26:03.577Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
@@ -12354,13 +13029,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74139468_6.jpg",
+      "url": "https://static.dw.com/image/72572821_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74139468_7.jpg",
+      "url": "https://static.dw.com/image/72572821_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13476,6 +14151,84 @@
     "language": "es"
   },
   {
+    "titleText": "US-Strafzölle setzen die Schweiz unter Druck",
+    "category": "Gesellschaft",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:CH": "Schweiz"
+    },
+    "regions": [
+      "Schweiz"
+    ],
+    "runningTime": 276,
+    "updateTime": "2025-09-26T07:40:49.865Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74123386&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74123386,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66116404_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66116404_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Ukraine: Alltag zwischen Sirenen und Schlagzeilen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 252,
+    "updateTime": "2025-09-26T07:39:27.965Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74136998&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74136998,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74129022_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74129022_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Klimawandel: Zürich auf der Suche nach Abkühlung",
     "category": "Klima",
     "subCategory": "Innovation",
@@ -13878,47 +14631,6 @@
     "language": "de"
   },
   {
-    "titleText": "Philippinen: Generation Z fordert Kampf gegen Korruption",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PH": "Philippinen",
-      "region:asia": "Asien"
-    },
-    "regions": [
-      "Philippinen",
-      "Asien"
-    ],
-    "runningTime": 158,
-    "updateTime": "2025-09-23T16:27:46.56Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74113971&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74113971,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74092534_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74092534_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Bacalhau - ein portugiesisches Nationalgericht",
     "category": "Lifestyle",
     "subCategory": null,
@@ -13932,7 +14644,7 @@
     "updateTime": "2025-09-23T09:24:42.097Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74062708&list=REPORTS_VIDEO:1",
+      "contentId": "v=74062708&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74062708,
       "launchParam": null
@@ -14700,45 +15412,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73840048_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Pompeji – die weltweit berühmteste Ausgrabungsstätte",
-    "category": "Reise",
-    "subCategory": "Geschichte",
-    "region_ids": {
-      "region:europe:IT": "Italien"
-    },
-    "regions": [
-      "Italien"
-    ],
-    "runningTime": 279,
-    "updateTime": "2025-09-14T09:33:42.79Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73975192&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 73975192,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73965483_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73965483_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
