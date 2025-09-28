@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Russia strikes targets in Kyiv and other Ukrainian cities",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 109,
+    "updateTime": "2025-09-28T12:58:27.943Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74166737&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74166737,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74165449_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74165449_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Star cellist Kian Soltani and his unmistakable sound",
     "category": "Music",
     "subCategory": "Society",
@@ -4437,45 +4476,6 @@
     "language": "en"
   },
   {
-    "titleText": "Berlin adapts — tackling water shortages with innovation",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 368,
-    "updateTime": "2025-09-19T09:34:14.775Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73951918&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 73951918,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73951881_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73951881_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "'It's very good': Israelis observe Gaza from Sderot hilltop",
     "category": "Conflicts",
     "subCategory": null,
@@ -6150,45 +6150,6 @@
     "language": "en"
   },
   {
-    "titleText": "Street Debate: Organ donation ",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 552,
-    "updateTime": "2025-09-13T05:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73932855&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 73932855,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73897733_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73897733_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Illegal organ trade targets youth in Kenya ",
     "category": "Society",
     "subCategory": "Crime",
@@ -6269,22 +6230,22 @@
     "language": "en"
   },
   {
-    "titleText": "Circular architecture gives new life to old building parts",
-    "category": "Architecture",
-    "subCategory": null,
+    "titleText": "Street Debate: Organ donation ",
+    "category": "Society",
+    "subCategory": "Health",
     "region_ids": {
-      "region:europe:DE": "Germany"
+      "region:africa": "Africa"
     },
     "regions": [
-      "Germany"
+      "Africa"
     ],
-    "runningTime": 432,
-    "updateTime": "2025-09-13T05:02:00Z",
+    "runningTime": 552,
+    "updateTime": "2025-09-13T05:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=73932855&list=REGION_VIDEO:8",
       "type": "video",
-      "id": 73979076,
+      "id": 73932855,
       "launchParam": null
     },
     "providerLogo": {
@@ -6294,13 +6255,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "url": "https://static.dw.com/image/73897733_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73967753_7.jpg",
+      "url": "https://static.dw.com/image/73897733_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6340,6 +6301,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73998657_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Circular architecture gives new life to old building parts",
+    "category": "Architecture",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 432,
+    "updateTime": "2025-09-13T05:02:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73979076,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73967753_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73967753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12997,7 +12997,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 183,
-    "updateTime": "2025-09-28T12:29:19.106Z",
+    "updateTime": "2025-09-28T13:25:29.741Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=18529525&list=FULL_SHOWS_VIDEO:2",
