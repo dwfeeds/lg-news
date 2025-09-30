@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 87,
+    "updateTime": "2025-09-30T13:05:24.886Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74179756_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74179756_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gaza: Palestinians 'exhausted' by Israel-Hamas peace talks",
     "category": "Conflicts",
     "subCategory": null,
@@ -39,16 +74,14 @@
     "language": "en"
   },
   {
-    "titleText": "Namibia contains Etosha National Park fire",
+    "titleText": "Namibia contains Etosha National Park wildfire",
     "category": "Nature and Environment",
     "subCategory": null,
     "region_ids": {
-      "region:africa:NA": "Namibia",
-      "region:africa": "Africa"
+      "region:africa:NA": "Namibia"
     },
     "regions": [
-      "Namibia",
-      "Africa"
+      "Namibia"
     ],
     "runningTime": 79,
     "updateTime": "2025-09-30T10:07:11.049Z",
@@ -224,13 +257,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74109862_6.jpg",
+      "url": "https://static.dw.com/image/74109886_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74109862_7.jpg",
+      "url": "https://static.dw.com/image/74109886_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -274,41 +307,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74181946_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 87,
-    "updateTime": "2025-09-30T06:56:38.43Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74179756_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74179756_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -472,7 +470,7 @@
     "language": "en"
   },
   {
-    "titleText": "Singapore longevity industry pushes the boundaries of aging",
+    "titleText": "How the longevity industry pushes the boundaries of aging",
     "category": "Health",
     "subCategory": "Business",
     "region_ids": {
@@ -497,13 +495,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/70350625_6.jpg",
+      "url": "https://static.dw.com/image/57216172_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/70350625_7.jpg",
+      "url": "https://static.dw.com/image/57216172_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14432,7 +14430,7 @@
     "updateTime": "2025-09-28T14:05:55.816Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74125421&list=FEATURED_VIDEO:1",
+      "contentId": "v=74125421&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74125421,
       "launchParam": null
@@ -14516,7 +14514,7 @@
     "updateTime": "2025-09-28T00:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74123387&list=REPORTS_VIDEO:1",
+      "contentId": "v=74123387&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74123387,
       "launchParam": null
