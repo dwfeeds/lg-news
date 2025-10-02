@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Mayor uninvites German-Jewish author from event",
+    "category": "Freedom of Speech",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 180,
+    "updateTime": "2025-10-02T16:20:19.255Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74223020&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74223020,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74185200_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74185200_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenya turns to drones in elephant conservation",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -3924,84 +3963,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74066862_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany's recycling system: sorting trash and saving cash",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 342,
-    "updateTime": "2025-09-24T09:09:42.77Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74048892&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74048892,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74049606_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74049606_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Austria: New waves in hydropower solutions",
-    "category": "Nature and Environment",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:AT": "Austria"
-    },
-    "regions": [
-      "Austria"
-    ],
-    "runningTime": 370,
-    "updateTime": "2025-09-24T07:47:39.065Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74048819&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74048819,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74049582_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74049582_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12815,49 +12776,6 @@
     "language": "en"
   },
   {
-    "titleText": "What you need to know about the US-Ukraine minerals deal ",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:northamerica:US": "United States of America",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Ukraine",
-      "United States of America",
-      "Russian Federation"
-    ],
-    "runningTime": 134,
-    "updateTime": "2025-05-05T12:45:54.084Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72437816&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72437816,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71750290_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71750290_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "¿Es posible que Israel logre destruir a Hamás?",
     "category": "Conflictos",
     "subCategory": null,
@@ -13970,6 +13888,47 @@
     "language": "es"
   },
   {
+    "titleText": "Tomahawk-Raketen: Ukraine fordert US-Waffenhilfe",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Ukraine",
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 218,
+    "updateTime": "2025-10-02T16:31:31.36Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74222055&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74222055,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74167720_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74167720_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ungarn 1989 - wo der erste Stein aus der Berliner Mauer fiel ",
     "category": "Politik",
     "subCategory": null,
@@ -14402,88 +14361,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74146997_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Trump droht mit Pharma-Zöllen",
-    "category": "Wirtschaft",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "Vereinigte Staaten von Amerika",
-      "region:europe:DE": "Deutschland",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Vereinigte Staaten von Amerika",
-      "Deutschland",
-      "Europa"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-09-30T09:34:13.692Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74184723&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74184723,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69138175_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69138175_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Griechenland: Mit der Steuerfahndung durch Athen",
-    "category": "Kriminalität",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:europe:GR": "Griechenland"
-    },
-    "regions": [
-      "Griechenland"
-    ],
-    "runningTime": 313,
-    "updateTime": "2025-09-30T07:48:59.866Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74123272&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74123272,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74044725_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74044725_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
