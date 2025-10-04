@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Trump says he believes Hamas 'ready for a lasting peace'",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 100,
+    "updateTime": "2025-10-04T10:40:37.26Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74235511&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74235511,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74231553_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74231553_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan-administered Kashmir sees days of deadly unrest",
     "category": "Conflicts",
     "subCategory": null,
@@ -5696,7 +5735,7 @@
     "updateTime": "2025-09-20T21:11:04.405Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74077547&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74077547&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74077547,
       "launchParam": null
@@ -9147,47 +9186,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73759168_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How strong is Hamas in Gaza City?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Middle East",
-      "Israel"
-    ],
-    "runningTime": 311,
-    "updateTime": "2025-09-02T19:04:33.999Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73857795&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73857795,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73810784_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73810784_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
