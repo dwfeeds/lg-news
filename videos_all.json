@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Zaho de Sagazan: Rising star blending drama and music",
+    "category": "Music",
+    "subCategory": "Film",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 354,
+    "updateTime": "2025-10-04T05:39:49.411Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71547884&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71547884,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65002619_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65002619_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Breathe deep: Exhibition explores the power of air",
+    "category": "Arts",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 319,
+    "updateTime": "2025-10-04T05:39:40.133Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71547882&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 71547882,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65002619_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65002619_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany marks 35 years since reunification",
     "category": "Politics",
     "subCategory": null,
@@ -7029,7 +7107,7 @@
     "updateTime": "2025-09-15T09:33:55.502Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73995176&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=73995176&list=REGION_VIDEO:9",
       "type": "video",
       "id": 73995176,
       "launchParam": null
@@ -7447,45 +7525,6 @@
     "language": "en"
   },
   {
-    "titleText": "Is karaoke keeping Finland among world's happiest countries?",
-    "category": "Music",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:FI": "Finland"
-    },
-    "regions": [
-      "Finland"
-    ],
-    "runningTime": 273,
-    "updateTime": "2025-09-13T09:56:28.599Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73811925&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73811925,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73797924_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73797924_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "NATO to bolster eastern front after Russian drone incident",
     "category": "Conflicts",
     "subCategory": null,
@@ -7520,45 +7559,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73973875_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Circular architecture gives new life to old building parts",
-    "category": "Architecture",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 432,
-    "updateTime": "2025-09-13T05:02:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979076&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73979076,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73967753_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73967753_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9902,47 +9902,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73765825_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Targeting journalists in Gaza 'is a war crime': CPJ",
-    "category": "Press Freedom",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 305,
-    "updateTime": "2025-08-25T18:21:38.068Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73764275&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73764275,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73764342_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73764342_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13874,7 +13833,7 @@
     "language": "de"
   },
   {
-    "titleText": "Tomahawk-Raketen: Ukraine fordert US-Waffenhilfe",
+    "titleText": "Tomahawk-Marschflugkörper: Ukraine fordert US-Waffenhilfe",
     "category": "Konflikte",
     "subCategory": null,
     "region_ids": {
