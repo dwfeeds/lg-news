@@ -522,8 +522,8 @@
   },
   {
     "titleText": "Warsaw's new underground cultural hub: The metro library",
-    "category": "Society",
-    "subCategory": null,
+    "category": "Culture",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:PL": "Poland"
     },
@@ -11837,6 +11837,84 @@
     "language": "es"
   },
   {
+    "titleText": "Gaza: Stimme einer Überlebenden",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Nahost"
+    ],
+    "runningTime": 229,
+    "updateTime": "2025-10-07T15:37:42.244Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74265548&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74265548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74163130_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74163130_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Israel: Kampf gegen das Vergessen",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-10-07T15:30:59.069Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74265469&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74265469,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74259152_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74259152_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Französische Winzer unter Druck",
     "category": "Handel",
     "subCategory": "Wirtschaft",
@@ -12271,45 +12349,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74222237_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Empathie-VR im Naturschutz ",
-    "category": "Technik",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:africa:ZA": "Südafrika"
-    },
-    "regions": [
-      "Südafrika"
-    ],
-    "runningTime": 120,
-    "updateTime": "2025-10-05T12:34:23.792Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74229151&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74229151,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74222275_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74222275_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
