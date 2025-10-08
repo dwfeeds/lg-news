@@ -1,6 +1,86 @@
 [
   {
-    "titleText": "New Delhi's monkey whisperer",
+    "titleText": "What you need to know about Madagascar’s Gen Z protests",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:MG": "Madagascar",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Madagascar",
+      "Africa"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-10-08T15:12:44.832Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74282281&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74282281,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74261634_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74261634_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany to allow police to shoot down drones",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 163,
+    "updateTime": "2025-10-08T14:58:38.412Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74282017&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74282017,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70819829_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70819829_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "New Delhi's monkey whisperers",
     "category": "Society",
     "subCategory": "Nature and Environment",
     "region_ids": {
@@ -4913,45 +4993,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74096049_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Building furniture to stand the test of time",
-    "category": "Lifestyle",
-    "subCategory": "Design",
-    "region_ids": {
-      "region:africa:MW": "Malawi"
-    },
-    "regions": [
-      "Malawi"
-    ],
-    "runningTime": 293,
-    "updateTime": "2025-09-25T16:55:52.909Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74139824&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74139824,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73952922_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73952922_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12422,6 +12463,45 @@
     "language": "es"
   },
   {
+    "titleText": "Frankreich: Haushaltsdeal statt Neuwahlen?",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Frankreich"
+    },
+    "regions": [
+      "Frankreich"
+    ],
+    "runningTime": 196,
+    "updateTime": "2025-10-08T15:04:25.721Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74281260&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74281260,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74272097_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74272097_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Warum sind männliche Tiere oft attraktiver als weibliche?",
     "category": "Wissenschaft",
     "subCategory": null,
@@ -12909,7 +12989,7 @@
     "updateTime": "2025-10-06T08:07:03.339Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74247279&list=REPORTS_VIDEO:1",
+      "contentId": "v=74247279&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74247279,
       "launchParam": null
@@ -13691,45 +13771,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74044701_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Tourismuskrise in Thailand — wo bleiben die Chinesen?",
-    "category": "Reise",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:asia:TH": "Thailand"
-    },
-    "regions": [
-      "Thailand"
-    ],
-    "runningTime": 355,
-    "updateTime": "2025-09-24T15:09:41.659Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74096230&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 74096230,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74055988_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74055988_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
