@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "News of peace plan sparks celebrations in Israel and Gaza",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 188,
+    "updateTime": "2025-10-09T11:25:55.238Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74290105&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74290105,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74289466_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74289466_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Voodoo helps protect endangered mangroves in Benin",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -858,13 +897,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74262797_6.jpg",
+      "url": "https://static.dw.com/image/74288354_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74262797_7.jpg",
+      "url": "https://static.dw.com/image/74288354_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5021,7 +5060,7 @@
     "updateTime": "2025-09-26T08:05:29.041Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74142289&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74142289&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74142289,
       "launchParam": null
@@ -8492,47 +8531,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73890582_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israel orders evacuation of Gaza City ahead of new strikes",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-09-09T08:59:39.168Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73927805&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73927805,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73927758_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73927758_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12617,6 +12615,45 @@
     "language": "es"
   },
   {
+    "titleText": "Uganda: Ehemalige Wilderer schützen die letzten Berggorillas",
+    "category": "Natur und Umwelt",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 367,
+    "updateTime": "2025-10-09T10:56:42.653Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74253481&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74253481,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72762986_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72762986_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Schweden: Der hybride Krieg",
     "category": "Glaube",
     "subCategory": "Konflikte",
@@ -13086,45 +13123,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74165728_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Rechtsruck in Prag: Wohin steuert Tschechien?",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:CZ": "Tschechische Republik"
-    },
-    "regions": [
-      "Tschechische Republik"
-    ],
-    "runningTime": 380,
-    "updateTime": "2025-10-06T15:12:39.921Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74254288&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74254288,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74237527_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74237527_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
