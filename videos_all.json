@@ -1,21 +1,21 @@
 [
   {
-    "titleText": "Israel, Hamas agree to Gaza ceasefire and hostage release",
+    "titleText": "Gazans cautiously optimistic about ceasefire deal",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:me:PS": "Palestinian Territories"
     },
     "regions": [
-      "Middle East"
+      "Palestinian Territories"
     ],
-    "runningTime": 149,
-    "updateTime": "2025-10-09T20:40:28.871Z",
+    "runningTime": 150,
+    "updateTime": "2025-10-10T08:13:32.984Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74298785&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74301455&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
-      "id": 74298785,
+      "id": 74301455,
       "launchParam": null
     },
     "providerLogo": {
@@ -25,13 +25,128 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74298671_6.jpg",
+      "url": "https://static.dw.com/image/74286460_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74298671_7.jpg",
+      "url": "https://static.dw.com/image/74286460_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza ceasefire deal: What are the sticking points?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 178,
+    "updateTime": "2025-10-10T08:13:21.127Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74302291&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74302291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74301172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74301172_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How activists in Chicago are working against ICE raids",
+    "category": "Human Rights",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 174,
+    "updateTime": "2025-10-10T07:54:42.403Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74302399&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 74302399,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74282829_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74282829_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 76,
+    "updateTime": "2025-10-10T07:44:21.537Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74292180_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74292180_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -151,41 +266,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74218157_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 76,
-    "updateTime": "2025-10-09T16:44:15.366Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74292180_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74292180_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4578,7 +4658,7 @@
     "updateTime": "2025-09-27T08:39:53.788Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74155645&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74155645&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74155645,
       "launchParam": null
@@ -7472,45 +7552,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why tiny Qatar became the go-to mediator in global conflicts",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:QA": "Qatar"
-    },
-    "regions": [
-      "Qatar"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-09-11T09:33:00.663Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73958777&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73958777,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72448949_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72448949_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexicans criticize pollution caused by SpaceX launches",
     "category": "Nature and Environment",
     "subCategory": "Science",
@@ -8842,45 +8883,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73638575_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Parasitic screwworm outbreak raises concerns in Texas",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 145,
-    "updateTime": "2025-08-15T19:52:24.682Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73661878&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73661878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64995943_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64995943_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
