@@ -1,5 +1,52 @@
 [
   {
+    "titleText": "African governments slow to end modern-day slavery",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:GH": "Ghana",
+      "region:africa:SS": "South Sudan",
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa:MR": "Mauritania",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Ghana",
+      "South Sudan",
+      "Democratic Republic of Congo",
+      "Mauritania",
+      "Africa"
+    ],
+    "runningTime": 200,
+    "updateTime": "2025-10-13T09:08:40.729Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74330779&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74330779,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69339210_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69339210_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Portugal's endangered pavement artists",
     "category": "Society",
     "subCategory": "Arts",
@@ -4398,45 +4445,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74146824_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Kids in Uganda adopt trees as pets",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Uganda"
-    ],
-    "runningTime": 168,
-    "updateTime": "2025-10-01T06:34:22.883Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74110568&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74110568,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74109911_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74109911_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11055,7 +11063,7 @@
     "updateTime": "2025-10-13T07:39:28.954Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74280516&list=REPORTS_VIDEO:1",
+      "contentId": "v=74280516&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74280516,
       "launchParam": null
@@ -11250,7 +11258,7 @@
     "updateTime": "2025-10-11T15:37:13.692Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74312923&list=FEATURED_VIDEO:1",
+      "contentId": "v=74312923&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74312923,
       "launchParam": null
