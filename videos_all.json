@@ -95,7 +95,7 @@
     "updateTime": "2025-10-13T06:42:49.081Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -682,7 +682,7 @@
     "updateTime": "2025-10-11T07:29:18.127Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74311882&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74311882&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74311882,
       "launchParam": null
@@ -1765,7 +1765,7 @@
     "updateTime": "2025-10-08T14:22:14.425Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74186736&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74186736&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74186736,
       "launchParam": null
@@ -3911,7 +3911,7 @@
     "updateTime": "2025-10-03T10:54:02.248Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74228443&list=REGION_VIDEO:8",
+      "contentId": "v=74228443&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74228443,
       "launchParam": null
@@ -4257,6 +4257,45 @@
     "language": "en"
   },
   {
+    "titleText": "Romania: Timisoara's budding tree-watering movement",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RO": "Romania"
+    },
+    "regions": [
+      "Romania"
+    ],
+    "runningTime": 288,
+    "updateTime": "2025-10-01T15:04:46.881Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74206099&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74206099,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74206316_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74206316_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Philippines earthquake kills dozens ",
     "category": "Catastrophe",
     "subCategory": null,
@@ -4452,6 +4491,45 @@
     "language": "en"
   },
   {
+    "titleText": "Kids in Uganda adopt trees as pets",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 168,
+    "updateTime": "2025-10-01T06:34:22.883Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74110568&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74110568,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74109911_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74109911_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan floods: Pregnant, afraid and yearning for home",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -4484,6 +4562,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74189322_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "AGOA has expired — what's next for African trade and jobs?",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Africa",
+      "United States of America"
+    ],
+    "runningTime": 90,
+    "updateTime": "2025-09-30T15:29:01.171Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74191007&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74191007,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72137407_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72137407_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4569,6 +4688,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ancient paintings unveil the Sahara's forgotten green past",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:TD": "Chad"
+    },
+    "regions": [
+      "Chad"
+    ],
+    "runningTime": 446,
+    "updateTime": "2025-09-30T07:47:04.314Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74110565&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74110565,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74109862_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74109862_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pune residents fight to save urban hills from construction",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -4582,7 +4740,7 @@
     "updateTime": "2025-09-30T06:11:55.169Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138373&list=REGION_VIDEO:4",
+      "contentId": "v=74138373&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74138373,
       "launchParam": null
@@ -4742,7 +4900,7 @@
     "updateTime": "2025-09-29T12:26:49.038Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74175752&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74175752&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74175752,
       "launchParam": null
@@ -4859,7 +5017,7 @@
     "updateTime": "2025-09-29T07:56:17.401Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138106&list=REGION_VIDEO:4",
+      "contentId": "v=74138106&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74138106,
       "launchParam": null
@@ -5136,7 +5294,7 @@
     "updateTime": "2025-09-28T09:10:37.661Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74164956&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74164956&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74164956,
       "launchParam": null
@@ -5365,6 +5523,45 @@
     "language": "en"
   },
   {
+    "titleText": "China vs. USA: Who will lead the global economy?",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "China"
+    ],
+    "runningTime": 434,
+    "updateTime": "2025-09-26T11:31:01.421Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74145180&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74145180,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74145327_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74145327_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Lebanon's Catch-22 predicament over Israel and Hezbollah",
     "category": "Conflicts",
     "subCategory": null,
@@ -5440,6 +5637,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74142857_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Violent unrest over autonomy in Indian-controlled Ladakh",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 123,
+    "updateTime": "2025-09-26T09:00:52.213Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74144276&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74144276,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74124061_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74124061_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5598,6 +5834,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74036658_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Too hot for males — Kenya faces a sea turtle crisis",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 304,
+    "updateTime": "2025-09-24T14:57:08.416Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74066557&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74066557,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74055970_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74055970_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's recycling system: sorting trash and saving cash",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 342,
+    "updateTime": "2025-09-24T09:09:42.77Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74048892&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74048892,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74049606_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74049606_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5769,6 +6083,86 @@
     "language": "en"
   },
   {
+    "titleText": "Communities at Lake Turkana face water and food crisis",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 310,
+    "updateTime": "2025-09-23T08:31:45.137Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74048799&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74048799,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74049632_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74049632_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Dalit women in India fight caste discrimination with farming",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 201,
+    "updateTime": "2025-09-23T07:22:55.359Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74046702&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74046702,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74046600_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74046600_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Are AI image generators harming our self-esteem?",
     "category": "Society",
     "subCategory": "Technology",
@@ -5883,6 +6277,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74097703_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German peatlands expert works to restore bogs and fens",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 365,
+    "updateTime": "2025-09-22T14:57:55.228Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74046764&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74046764,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74045809_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74045809_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6303,7 +6736,7 @@
     "updateTime": "2025-09-20T20:28:55.728Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74077548&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74077548&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74077548,
       "launchParam": null
@@ -6344,7 +6777,7 @@
     "updateTime": "2025-09-20T09:27:12.289Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74067987&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=74067987&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74067987,
       "launchParam": null
@@ -6569,6 +7002,166 @@
     "language": "en"
   },
   {
+    "titleText": "Skin care so pure you could eat it",
+    "category": "Health",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Ghana"
+    ],
+    "runningTime": 305,
+    "updateTime": "2025-09-19T10:17:19.564Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023329&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74023329,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785699_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785699_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cassie Kinoshi explores Nigerian roots in new work",
+    "category": "Music",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:europe:DE": "Germany",
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "Nigeria",
+      "Germany",
+      "United Kingdom"
+    ],
+    "runningTime": 312,
+    "updateTime": "2025-09-19T10:13:20.425Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023319&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74023319,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785752_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785752_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kutlwano Monyai: Art, ancestry and plastic truths ",
+    "category": "Culture",
+    "subCategory": "Arts",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 340,
+    "updateTime": "2025-09-19T10:09:32.281Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023146&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74023146,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785725_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785725_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Team Lioness: Meet Kenya's first all-female ranger unit",
+    "category": "Nature and Environment",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 380,
+    "updateTime": "2025-09-19T10:05:33.901Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023104&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74023104,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785780_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785780_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Berlin adapts — tackling water shortages with innovation",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -6582,7 +7175,7 @@
     "updateTime": "2025-09-19T09:34:14.775Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73951918&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73951918&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73951918,
       "launchParam": null
@@ -6681,6 +7274,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73867852_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Community work in Burundi helps society and the environment",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:BI": "Burundi"
+    },
+    "regions": [
+      "Burundi"
+    ],
+    "runningTime": 332,
+    "updateTime": "2025-09-18T13:22:36.587Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73965923&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73965923,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73960034_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73960034_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6807,6 +7439,47 @@
     "language": "en"
   },
   {
+    "titleText": "Kenya: Building bridges to help vulnerable colobus monkeys",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Kenya",
+      "Africa"
+    ],
+    "runningTime": 286,
+    "updateTime": "2025-09-16T09:02:43.641Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73965745&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73965745,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73959984_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73959984_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Berlin welcomes Israeli conductor after Belgian festival ban",
     "category": "Music",
     "subCategory": "Politics",
@@ -6824,7 +7497,7 @@
     "updateTime": "2025-09-16T07:49:27.627Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74007269&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74007269&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74007269,
       "launchParam": null
@@ -7179,7 +7852,7 @@
     "updateTime": "2025-09-13T18:35:39.138Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73982923&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=73982923&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73982923,
       "launchParam": null
@@ -7618,7 +8291,7 @@
     "updateTime": "2025-09-08T15:01:51.336Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73923857&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=73923857&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73923857,
       "launchParam": null
@@ -7919,6 +8592,45 @@
     "language": "en"
   },
   {
+    "titleText": "How Uganda's Sabiny women are ending FGM",
+    "category": "Culture",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-09-03T08:49:40.592Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73644307&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73644307,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68609511_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68609511_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "France's severe heat imperils Mediterranean marine life",
     "category": "Climate",
     "subCategory": "Society",
@@ -8049,7 +8761,7 @@
     "updateTime": "2025-09-01T09:59:11.082Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801557&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73801557&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73801557,
       "launchParam": null
@@ -8127,7 +8839,7 @@
     "updateTime": "2025-08-28T17:56:34.167Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801730&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73801730&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73801730,
       "launchParam": null
@@ -8322,7 +9034,7 @@
     "updateTime": "2025-08-22T16:08:25.34Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73735942&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73735942&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73735942,
       "launchParam": null
@@ -8560,7 +9272,7 @@
     "updateTime": "2025-08-12T21:19:32.044Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73617569&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73617569&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73617569,
       "launchParam": null
@@ -8677,7 +9389,7 @@
     "updateTime": "2025-07-30T16:11:53.718Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73447074&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73447074&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73447074,
       "launchParam": null
@@ -8796,7 +9508,7 @@
     "updateTime": "2025-07-26T21:43:35.176Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73426746&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73426746&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73426746,
       "launchParam": null
@@ -8837,7 +9549,7 @@
     "updateTime": "2025-07-25T13:33:03.476Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73346430&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73346430&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73346430,
       "launchParam": null
@@ -8956,7 +9668,7 @@
     "updateTime": "2025-07-16T07:20:32.599Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73291705&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73291705&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73291705,
       "launchParam": null
@@ -8995,7 +9707,7 @@
     "updateTime": "2025-07-15T08:27:09.248Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73229391&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73229391&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73229391,
       "launchParam": null
@@ -9311,7 +10023,7 @@
     "updateTime": "2025-07-02T17:02:45.498Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73126010&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73126010&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73126010,
       "launchParam": null
@@ -9350,7 +10062,7 @@
     "updateTime": "2025-07-02T09:47:28.207Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73050565&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73050565&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73050565,
       "launchParam": null
@@ -9393,7 +10105,7 @@
     "updateTime": "2025-06-26T14:27:49.102Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042614&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73042614&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73042614,
       "launchParam": null
@@ -9583,6 +10295,41 @@
     "language": "en"
   },
   {
+    "titleText": "Upcycling as a way of living and saving money",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 398,
+    "updateTime": "2025-06-13T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72871000&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72871000,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72870634_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72870634_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "AI, drones, cyber weapons: How tech is changing warfare ",
     "category": "Digital World",
     "subCategory": null,
@@ -9663,6 +10410,45 @@
     "language": "en"
   },
   {
+    "titleText": "India's Konyak tribe rethinks tradition to save wildlife",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 468,
+    "updateTime": "2025-06-10T13:01:58.461Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72806583&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72806583,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72814655_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72814655_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Berlin celebrates Carnival of Cultures festival",
     "category": "Society",
     "subCategory": "Lifestyle",
@@ -9676,7 +10462,7 @@
     "updateTime": "2025-06-09T09:48:28.918Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72841986&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=72841986&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 72841986,
       "launchParam": null
@@ -9695,6 +10481,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72839704_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "New technology helps to track elephants in Zimbabwe",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:ZW": "Zimbabwe"
+    },
+    "regions": [
+      "Zimbabwe"
+    ],
+    "runningTime": 146,
+    "updateTime": "2025-05-30T19:58:44.986Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72741496&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72741496,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72741482_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72741482_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11050,6 +11875,45 @@
     "language": "es"
   },
   {
+    "titleText": "50:50? So teilen Paare in Europa",
+    "category": "Gesellschaft",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Europa"
+    ],
+    "runningTime": 263,
+    "updateTime": "2025-10-13T10:07:56.718Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74310462&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74310462,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74291639_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74291639_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Portugals Pflasterkünstler versus moderne Stadtplaner",
     "category": "Gesellschaft",
     "subCategory": "Kunst",
@@ -11537,7 +12401,7 @@
     "updateTime": "2025-10-09T13:57:45.225Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74292120&list=REPORTS_VIDEO:1",
+      "contentId": "v=74292120&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 74292120,
       "launchParam": null
@@ -12797,45 +13661,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73976596_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Nach Schüssen im Mittelmeer: Seenotretter erstatten Anzeige",
-    "category": "Migration",
-    "subCategory": "Menschenrechte",
-    "region_ids": {
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Europa"
-    ],
-    "runningTime": 171,
-    "updateTime": "2025-09-11T16:24:39.974Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73966774&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 73966774,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73966722_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73966722_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
