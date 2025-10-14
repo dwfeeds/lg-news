@@ -1,5 +1,120 @@
 [
   {
+    "titleText": "Extreme weather in Turkey causes hazelnut crisis",
+    "category": "Society",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe:TR": "Turkey"
+    },
+    "regions": [
+      "Turkey"
+    ],
+    "runningTime": 231,
+    "updateTime": "2025-10-14T08:44:36.001Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74224385&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74224385,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73773235_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73773235_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 116,
+    "updateTime": "2025-10-14T08:10:40.776Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74343961_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74343961_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Palestinians freed by Israel return to their families",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Israel",
+      "Palestinian Territories"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-10-13T21:06:24.029Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74341060&list=GLOBAL_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74341060,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74335527_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74335527_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Scenes of jubilation as Israeli hostages are freed",
     "category": "Conflicts",
     "subCategory": null,
@@ -403,8 +518,8 @@
   },
   {
     "titleText": "Turkey's Izmir peninsula is a coastal vacation paradise",
-    "category": "Lifestyle",
-    "subCategory": "Travel",
+    "category": "Travel",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:TR": "Turkey"
     },
@@ -4863,7 +4978,7 @@
     "updateTime": "2025-09-29T12:59:58.681Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74175524&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74175524&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74175524,
       "launchParam": null
@@ -4999,51 +5114,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74147017_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Laser weapons show promise against rising drone threats",
-    "category": "Conflicts",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:RU": "Russian Federation",
-      "region:europe:UA": "Ukraine",
-      "region:me:IL": "Israel",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Russian Federation",
-      "Ukraine",
-      "Israel",
-      "China"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-09-29T08:59:08.679Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74171387&list=GLOBAL_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 74171387,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68559992_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68559992_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7763,47 +7833,6 @@
     "language": "en"
   },
   {
-    "titleText": "Palestinians struggle to survive Israeli Gaza offensive",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 193,
-    "updateTime": "2025-09-12T14:26:33.739Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73979356&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 73979356,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73973290_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73973290_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why are so many Venezuelans fleeing to Europe?",
     "category": "Migration",
     "subCategory": null,
@@ -8663,6 +8692,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73765825_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump's public media cuts hit rural outlets hard",
+    "category": "Press Freedom",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-08-21T21:25:51.776Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73725029&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 73725029,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73725028_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73725028_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9981,7 +10049,7 @@
     "language": "en"
   },
   {
-    "titleText": "Un ingenioso método para atajar a un invasor",
+    "titleText": "Un escudo contra el picudo rojo",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
@@ -10059,7 +10127,7 @@
     "language": "es"
   },
   {
-    "titleText": "El aleteo de la Mariposa: un proyecto en el umbral de Bogotá",
+    "titleText": "El efecto de la Fundación Mariposa",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
     "region_ids": {
@@ -11126,6 +11194,45 @@
     "language": "es"
   },
   {
+    "titleText": "Extremwetter in der Türkei sorgt für Haselnusskrise",
+    "category": "Gesellschaft",
+    "subCategory": "Klima",
+    "region_ids": {
+      "region:europe:TR": "Türkei"
+    },
+    "regions": [
+      "Türkei"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-10-14T08:25:20.535Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74280503&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74280503,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73773235_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73773235_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Europas Sicherheit: Wie die Türkei an Bedeutung gewinnt",
     "category": "Video-Nachrichten",
     "subCategory": "Politik",
@@ -11160,6 +11267,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72966413_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Wurmfortsatz: Ein nutzloses Anhängsel am Blinddarm?",
+    "category": "Gesundheit",
+    "subCategory": "Wissenschaft",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-10-13T21:55:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74147580&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74147580,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74146437_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74146437_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11320,45 +11466,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74218146_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wurmfortsatz: Ein nutzloses Anhängsel am Blinddarm?",
-    "category": "Gesundheit",
-    "subCategory": "Wissenschaft",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 155,
-    "updateTime": "2025-10-13T07:15:46.546Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74147580&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74147580,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74146437_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74146437_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11617,7 +11724,7 @@
     "updateTime": "2025-10-10T15:41:11.285Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74313778&list=REPORTS_VIDEO:1",
+      "contentId": "v=74313778&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 74313778,
       "launchParam": null
@@ -12996,47 +13103,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73847761_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ukraine: Neue Taktik bringt Russland Territorialgewinne ",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russische Föderation"
-    },
-    "regions": [
-      "Ukraine",
-      "Russische Föderation"
-    ],
-    "runningTime": 201,
-    "updateTime": "2025-09-06T09:10:56.829Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73896632&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 73896632,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73898363_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73898363_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
