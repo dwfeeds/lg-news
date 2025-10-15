@@ -1,5 +1,79 @@
 [
   {
+    "titleText": " A look at the life of Kenya's Raila Odinga",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 134,
+    "updateTime": "2025-10-15T13:03:54.617Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74371204&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74371204,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74364424_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74364424_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 116,
+    "updateTime": "2025-10-15T12:10:36.444Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74364879_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74364879_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Russian troops seen on Estonian border raise NATO concerns",
     "category": "Conflicts",
     "subCategory": null,
@@ -54,7 +128,7 @@
     "updateTime": "2025-10-15T07:58:33.513Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74224387&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74224387&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74224387,
       "launchParam": null
@@ -73,41 +147,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74218170_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 116,
-    "updateTime": "2025-10-15T07:40:50.489Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74359632_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74359632_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -421,7 +460,7 @@
     "updateTime": "2025-10-14T10:35:40.12Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74295144&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74295144&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74295144,
       "launchParam": null
@@ -540,7 +579,7 @@
     "updateTime": "2025-10-14T09:12:52.703Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74346246&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74346246&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74346246,
       "launchParam": null
@@ -981,7 +1020,7 @@
     "updateTime": "2025-10-13T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74314759&list=REGION_VIDEO:6",
+      "contentId": "v=74314759&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74314759,
       "launchParam": null
@@ -1000,6 +1039,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74301633_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "China's AI dating blurs love and technology",
+    "category": "Digital World",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "China"
+    ],
+    "runningTime": 431,
+    "updateTime": "2025-10-13T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74314888&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74314888,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74301739_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74301739_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2651,7 +2729,7 @@
     "updateTime": "2025-10-08T14:22:14.425Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74186736&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74186736&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74186736,
       "launchParam": null
@@ -4507,6 +4585,45 @@
     "language": "en"
   },
   {
+    "titleText": "Can virtual reality change attitudes toward homelessness?",
+    "category": "Lifestyle",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 121,
+    "updateTime": "2025-10-03T10:54:14.154Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74228335&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74228335,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74222237_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74222237_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Saving nature through virtual reality\n",
     "category": "Nature and Environment",
     "subCategory": "Technology",
@@ -4520,7 +4637,7 @@
     "updateTime": "2025-10-03T10:54:02.248Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74228443&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74228443&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74228443,
       "launchParam": null
@@ -4801,7 +4918,7 @@
     "updateTime": "2025-10-02T06:21:15.922Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138461&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=74138461&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74138461,
       "launchParam": null
@@ -4879,7 +4996,7 @@
     "updateTime": "2025-10-01T15:04:46.881Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74206099&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74206099&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74206099,
       "launchParam": null
@@ -4944,84 +5061,6 @@
     "language": "en"
   },
   {
-    "titleText": "Young Nigerian getting a kick out of Taekwondo",
-    "category": "Sports",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-10-01T08:43:44.395Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74010701&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74010701,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74008727_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74008727_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sundarbans: Terracotta rings offer hope against rising seas ",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 357,
-    "updateTime": "2025-10-01T08:14:47.958Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138349&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74138349,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74145224_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74145224_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Cancun and eastern Mexico fight a Caribbean algae invasion",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -5074,7 +5113,7 @@
     "updateTime": "2025-10-01T06:34:22.883Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74110568&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74110568&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74110568,
       "launchParam": null
@@ -5230,7 +5269,7 @@
     "updateTime": "2025-09-30T07:47:04.314Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74110565&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74110565&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74110565,
       "launchParam": null
@@ -5269,7 +5308,7 @@
     "updateTime": "2025-09-30T06:11:55.169Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138373&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74138373&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74138373,
       "launchParam": null
@@ -5390,7 +5429,7 @@
     "updateTime": "2025-09-29T12:26:49.038Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74175752&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74175752&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74175752,
       "launchParam": null
@@ -5507,7 +5546,7 @@
     "updateTime": "2025-09-29T07:56:17.401Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138106&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74138106&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74138106,
       "launchParam": null
@@ -6149,7 +6188,7 @@
     "updateTime": "2025-09-24T14:57:08.416Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74066557&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74066557&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74066557,
       "launchParam": null
@@ -6188,7 +6227,7 @@
     "updateTime": "2025-09-24T09:09:42.77Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74048892&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74048892&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74048892,
       "launchParam": null
@@ -6393,7 +6432,7 @@
     "updateTime": "2025-09-23T08:31:45.137Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74048799&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74048799&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74048799,
       "launchParam": null
@@ -6432,7 +6471,7 @@
     "updateTime": "2025-09-23T07:22:55.359Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74046702&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74046702&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74046702,
       "launchParam": null
@@ -6592,7 +6631,7 @@
     "updateTime": "2025-09-22T14:57:55.228Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74046764&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74046764&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74046764,
       "launchParam": null
@@ -6817,6 +6856,47 @@
     "language": "en"
   },
   {
+    "titleText": "Red Longo — from adopted child to celebrated artist",
+    "category": "Arts",
+    "subCategory": "Diversity",
+    "region_ids": {
+      "region:europe:IT": "Italy",
+      "region:africa:ET": "Ethiopia"
+    },
+    "regions": [
+      "Italy",
+      "Ethiopia"
+    ],
+    "runningTime": 355,
+    "updateTime": "2025-09-21T10:10:15.695Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74067990&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74067990,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74046920_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74046920_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Venezuelans train with firearms amid rising US tensions",
     "category": "Conflicts",
     "subCategory": null,
@@ -6992,7 +7072,7 @@
     "updateTime": "2025-09-20T09:27:12.289Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74067987&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74067987&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74067987,
       "launchParam": null
@@ -7191,7 +7271,7 @@
     "updateTime": "2025-09-19T10:17:19.564Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74023329&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74023329&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74023329,
       "launchParam": null
@@ -7230,7 +7310,7 @@
     "updateTime": "2025-09-19T10:09:32.281Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74023146&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74023146&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74023146,
       "launchParam": null
@@ -7269,7 +7349,7 @@
     "updateTime": "2025-09-19T10:05:33.901Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74023104&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74023104&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74023104,
       "launchParam": null
@@ -7388,7 +7468,7 @@
     "updateTime": "2025-09-18T13:22:36.587Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73965923&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73965923&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73965923,
       "launchParam": null
@@ -7548,7 +7628,7 @@
     "updateTime": "2025-09-16T09:02:43.641Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73965745&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73965745&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73965745,
       "launchParam": null
@@ -7825,7 +7905,7 @@
     "updateTime": "2025-09-13T18:35:39.138Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73982923&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=73982923&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 73982923,
       "launchParam": null
@@ -8086,6 +8166,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73964031_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Netherlands: Housing shortage hits university students",
+    "category": "Politics",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:NL": "Netherlands"
+    },
+    "regions": [
+      "Netherlands"
+    ],
+    "runningTime": 279,
+    "updateTime": "2025-09-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73897015&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73897015,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73899159_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73899159_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8480,6 +8599,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73736674_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fighting the climate crisis in Rio's favelas",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "Brazil"
+    ],
+    "runningTime": 433,
+    "updateTime": "2025-09-04T08:24:24.238Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73815410&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 73815410,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73836080_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73836080_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Slovakia's Roma women forcibly sterilized after giving birth",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:SK": "Slovakia"
+    },
+    "regions": [
+      "Slovakia"
+    ],
+    "runningTime": 381,
+    "updateTime": "2025-09-03T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73811634&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 73811634,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73886774_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73886774_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9156,6 +9353,86 @@
     "language": "en"
   },
   {
+    "titleText": "Straw – the climate-friendly building material of the future",
+    "category": "Science",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 392,
+    "updateTime": "2025-07-28T10:40:55.903Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73399196&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73399196,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73309861_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73309861_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is Nigeria pricing out the youth from affordable housing? ",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Africa",
+      "Nigeria"
+    ],
+    "runningTime": 186,
+    "updateTime": "2025-07-21T15:22:50.118Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73357753&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73357753,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73389156_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73389156_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan's monsoon rains wash away livelihoods",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -9790,6 +10067,45 @@
     "language": "en"
   },
   {
+    "titleText": "Death toll in Nigeria flooding rises to at least 200",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 156,
+    "updateTime": "2025-06-02T08:42:11.857Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72755995&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72755995,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72756271_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72756271_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Trade war still hurts US ports despite tariff relief",
     "category": "Business",
     "subCategory": "Trade",
@@ -10064,6 +10380,435 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72609990_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Italy's infamous Scampia housing estate gets a make-over",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 317,
+    "updateTime": "2025-05-14T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72491869&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72491869,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72478709_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72478709_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump, economy on ballot as Australia prepares for election",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:oceania:AU": "Australia"
+    },
+    "regions": [
+      "Australia"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-05-01T17:23:36.515Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72410034&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72410034,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72065100_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72065100_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Spain: Tourism boom worsens housing crisis ",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 392,
+    "updateTime": "2025-04-30T14:43:06.534Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72377720&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72377720,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71878286_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71878286_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany: Augsburg's practically rent-free housing",
+    "category": "Travel",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 256,
+    "updateTime": "2025-04-15T12:13:50.722Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72221988&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72221988,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72212753_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72212753_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The effects of Luxembourg's begging ban ",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:LU": "Luxembourg"
+    },
+    "regions": [
+      "Luxembourg"
+    ],
+    "runningTime": 283,
+    "updateTime": "2025-04-15T08:26:21.794Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72146389&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72146389,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72130548_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72130548_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Does Barcelona have a solution for its housing crisis?",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 363,
+    "updateTime": "2025-04-11T07:43:16.513Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72146352&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72146352,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70484089_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70484089_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Spaniards rally against housing crisis",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 143,
+    "updateTime": "2025-04-05T21:15:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72151493&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 72151493,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72151420_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72151420_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Spain's Guadix cave homes withstand climate change",
+    "category": "Society",
+    "subCategory": "History",
+    "region_ids": {
+      "region:europe:ES": "Spain"
+    },
+    "regions": [
+      "Spain"
+    ],
+    "runningTime": 275,
+    "updateTime": "2025-03-13T12:45:27.78Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71860994&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71860994,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71940864_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71940864_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "High-tech boom and expensive housing",
+    "category": "Business",
+    "subCategory": "Architecture",
+    "region_ids": {
+      "region:asia:TW": "Taiwan"
+    },
+    "regions": [
+      "Taiwan"
+    ],
+    "runningTime": 335,
+    "updateTime": "2025-02-17T15:14:42.312Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71348285&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71348285,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71333266_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71333266_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Moving house in Germany: An experience like no other!",
+    "category": "Society",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 278,
+    "updateTime": "2025-02-09T12:48:17.666Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71542291&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71542291,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71528483_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71528483_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Affordable living: My dumpster home",
+    "category": "Lifestyle",
+    "subCategory": "Architecture",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-01-25T11:06:48.899Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71399817&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 71399817,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71390068_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71390068_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11216,6 +11961,45 @@
     "language": "es"
   },
   {
+    "titleText": "China: Verliebt in einen KI-Chatbot",
+    "category": "Gesellschaft",
+    "subCategory": "Digitale Welt",
+    "region_ids": {
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "China"
+    ],
+    "runningTime": 432,
+    "updateTime": "2025-10-15T12:24:15.72Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74331092&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74331092,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74301739_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74301739_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Kloster statt Pflegeheim: Nonnen ziehen zurück",
     "category": "Gesellschaft",
     "subCategory": "Panorama",
@@ -11709,7 +12493,7 @@
     "updateTime": "2025-10-13T10:07:56.718Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74310462&list=REPORTS_VIDEO:1",
+      "contentId": "v=74310462&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74310462,
       "launchParam": null
@@ -12360,45 +13144,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74175326_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Niederlande: Stocksprünge über Kanäle",
-    "category": "Sport",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:NL": "Niederlande"
-    },
-    "regions": [
-      "Niederlande"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-10-04T12:10:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74123044&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 74123044,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74042274_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74042274_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
