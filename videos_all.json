@@ -448,8 +448,8 @@
   },
   {
     "titleText": "Can the illegal killing of songbirds in Cyprus be stopped?",
-    "category": "Society",
-    "subCategory": "Nature and Environment",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:CY": "Cyprus"
     },
@@ -8405,6 +8405,47 @@
     "language": "en"
   },
   {
+    "titleText": "Standoff deepens between US and Venezuela",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Venezuela",
+      "United States of America"
+    ],
+    "runningTime": 167,
+    "updateTime": "2025-09-04T20:38:35.777Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73886574&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 73886574,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73736674_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73736674_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Slovakia's Roma women forcibly sterilized after giving birth",
     "category": "Society",
     "subCategory": null,
@@ -11380,10 +11421,10 @@
     "category": "Politik",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Nahost"
+      "region:me:PS": "Palästinensische Gebiete"
     },
     "regions": [
-      "Nahost"
+      "Palästinensische Gebiete"
     ],
     "runningTime": 125,
     "updateTime": "2025-10-14T12:21:42.275Z",
