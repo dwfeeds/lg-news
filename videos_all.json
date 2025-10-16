@@ -7794,45 +7794,6 @@
     "language": "en"
   },
   {
-    "titleText": "Community work in Burundi helps society and the environment",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:BI": "Burundi"
-    },
-    "regions": [
-      "Burundi"
-    ],
-    "runningTime": 332,
-    "updateTime": "2025-09-18T13:22:36.587Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73965923&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73965923,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73960034_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73960034_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Lebanese injured in Israeli attacks face long recovery",
     "category": "Health",
     "subCategory": "Conflicts",
@@ -8856,6 +8817,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73736674_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fighting the climate crisis in Rio's favelas",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "Brazil"
+    ],
+    "runningTime": 433,
+    "updateTime": "2025-09-04T08:24:24.238Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73815410&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 73815410,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73836080_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73836080_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12848,14 +12848,16 @@
     "language": "de"
   },
   {
-    "titleText": "Schule per Boot: Bildung in Kambodschas Flussdörfern",
+    "titleText": "Kambodschas Flussdörfer: Schule per Boot",
     "category": "Klima",
     "subCategory": "Bildung",
     "region_ids": {
-      "region:asia:KH": "Kambodscha"
+      "region:asia:KH": "Kambodscha",
+      "region:asia": "Asien"
     },
     "regions": [
-      "Kambodscha"
+      "Kambodscha",
+      "Asien"
     ],
     "runningTime": 307,
     "updateTime": "2025-10-16T09:37:29.359Z",
@@ -12900,7 +12902,7 @@
     "updateTime": "2025-10-16T07:28:00.689Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74369263&list=REPORTS_VIDEO:1",
+      "contentId": "v=74369263&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74369263,
       "launchParam": null
@@ -12980,7 +12982,7 @@
     "updateTime": "2025-10-15T17:51:46.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74375292&list=FEATURED_VIDEO:1",
+      "contentId": "v=74375292&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74375292,
       "launchParam": null
