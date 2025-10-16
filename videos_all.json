@@ -12823,11 +12823,56 @@
     "language": "es"
   },
   {
+    "titleText": "Gaza: Milliarden für den Wiederaufbau nötig",
+    "category": "Konflikte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palästinensische Gebiete",
+      "region:me": "Nahost"
+    },
+    "regions": [
+      "Palästinensische Gebiete",
+      "Nahost"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-10-16T04:17:41.7Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74374341&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74374341,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74360735_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74360735_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "NATO-Verteidigungsminister beraten über Schutz des Luftraums",
     "category": "Konflikte",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Europa"
+    ],
     "runningTime": 126,
     "updateTime": "2025-10-15T17:51:46.064Z",
     "onClick": {
@@ -13308,7 +13353,7 @@
     "updateTime": "2025-10-13T21:55:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74147580&list=REPORTS_VIDEO:1",
+      "contentId": "v=74147580&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74147580,
       "launchParam": null
@@ -13959,45 +14004,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73614972_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Tschechien: Europas erster Zug ohne Lokführer",
-    "category": "Innovation",
-    "subCategory": "Reise",
-    "region_ids": {
-      "region:europe:CZ": "Tschechische Republik"
-    },
-    "regions": [
-      "Tschechische Republik"
-    ],
-    "runningTime": 255,
-    "updateTime": "2025-10-05T12:09:57.234Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74217698&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 74217698,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74175326_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74175326_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
