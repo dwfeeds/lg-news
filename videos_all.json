@@ -1,5 +1,81 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 116,
+    "updateTime": "2025-10-16T06:37:43.599Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74359632_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74359632_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The \"edible city” concept: urban farming in India & Germany",
+    "category": "Food Security",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:asia:IN": "India",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "India",
+      "Germany"
+    ],
+    "runningTime": 430,
+    "updateTime": "2025-10-16T06:14:29.217Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74264636&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74264636,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74293600_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74293600_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What's behind the conflict between Afghanistan and Pakistan?",
     "category": "Conflicts",
     "subCategory": null,
@@ -77,41 +153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74370616_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 116,
-    "updateTime": "2025-10-15T20:12:25.972Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74359632_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74359632_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3742,20 +3783,18 @@
     "language": "en"
   },
   {
-    "titleText": "How AI boom is impacting Latin America and the US",
+    "titleText": "How AI boom is impacting Latin America, US",
     "category": "Digital World",
     "subCategory": "Climate",
     "region_ids": {
-      "region:asia:IN": "India",
-      "region:northamerica:US": "United States of America",
+      "region:cala:UY": "Uruguay",
       "region:europe:SE": "Sweden",
-      "region:cala:UY": "Uruguay"
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "India",
-      "United States of America",
+      "Uruguay",
       "Sweden",
-      "Uruguay"
+      "United States of America"
     ],
     "runningTime": 451,
     "updateTime": "2025-10-07T11:12:39.235Z",
@@ -5364,45 +5403,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74193947_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sundarbans: Terracotta rings offer hope against rising seas ",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 357,
-    "updateTime": "2025-10-01T08:14:47.958Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138349&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74138349,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74145224_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74145224_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12877,7 +12877,7 @@
     "updateTime": "2025-10-15T17:51:46.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74375292&list=REPORTS_VIDEO:1",
+      "contentId": "v=74375292&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74375292,
       "launchParam": null
@@ -13033,7 +13033,7 @@
     "updateTime": "2025-10-15T04:40:30.193Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74356095&list=FEATURED_VIDEO:1",
+      "contentId": "v=74356095&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74356095,
       "launchParam": null
