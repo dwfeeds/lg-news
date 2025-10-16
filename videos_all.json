@@ -35,7 +35,7 @@
     "language": "en"
   },
   {
-    "titleText": "Saving the Noble Pen Shell: Croatia's marine rescue effort",
+    "titleText": "Croatia: Saving the Mediterranean's largest mollusk",
     "category": "Science",
     "subCategory": null,
     "region_ids": {
@@ -339,13 +339,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74293600_6.jpeg",
+      "url": "https://static.dw.com/image/74389233_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74293600_7.jpeg",
+      "url": "https://static.dw.com/image/74389233_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12809,6 +12809,45 @@
     "language": "es"
   },
   {
+    "titleText": "Kommt die Wehrpflicht zurück?",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-10-16T14:18:02.718Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74389402&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74389402,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71981705_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71981705_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Mondkuchen aus Hong Kong",
     "category": "Handel",
     "subCategory": "Wirtschaft",
@@ -12893,10 +12932,12 @@
     "category": "Geschichte",
     "subCategory": "Gesellschaft",
     "region_ids": {
-      "region:europe:NL": "Niederlande"
+      "region:europe:NL": "Niederlande",
+      "region:europe": "Europa"
     },
     "regions": [
-      "Niederlande"
+      "Niederlande",
+      "Europa"
     ],
     "runningTime": 437,
     "updateTime": "2025-10-16T07:28:00.689Z",
@@ -13282,45 +13323,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74291483_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wie geht es weiter in Gaza?",
-    "category": "Politik",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palästinensische Gebiete"
-    },
-    "regions": [
-      "Palästinensische Gebiete"
-    ],
-    "runningTime": 125,
-    "updateTime": "2025-10-14T12:21:42.275Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74351606&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74351606,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74350754_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74350754_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
