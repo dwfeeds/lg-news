@@ -136,7 +136,7 @@
     "updateTime": "2025-10-17T08:35:09.799Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74313001&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74313001&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74313001,
       "launchParam": null
@@ -290,7 +290,7 @@
     "updateTime": "2025-10-16T22:40:52.541Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392899&list=REGION_VIDEO:7",
+      "contentId": "v=74392899&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74392899,
       "launchParam": null
@@ -372,7 +372,7 @@
     "updateTime": "2025-10-16T21:27:06.34Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392898&list=REGION_VIDEO:7",
+      "contentId": "v=74392898&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74392898,
       "launchParam": null
@@ -452,7 +452,7 @@
     "updateTime": "2025-10-16T19:20:37.861Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392682&list=REGION_VIDEO:7",
+      "contentId": "v=74392682&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74392682,
       "launchParam": null
@@ -491,7 +491,7 @@
     "updateTime": "2025-10-16T18:55:05.61Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392074&list=REGION_VIDEO:7",
+      "contentId": "v=74392074&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74392074,
       "launchParam": null
@@ -1010,7 +1010,7 @@
     "updateTime": "2025-10-15T20:27:53.32Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74375783&list=REGION_VIDEO:7",
+      "contentId": "v=74375783&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74375783,
       "launchParam": null
@@ -1049,7 +1049,7 @@
     "updateTime": "2025-10-15T15:56:56.044Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74365736&list=REGION_VIDEO:7",
+      "contentId": "v=74365736&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74365736,
       "launchParam": null
@@ -1482,7 +1482,7 @@
     "updateTime": "2025-10-14T19:47:18.616Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74357098&list=REGION_VIDEO:7",
+      "contentId": "v=74357098&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74357098,
       "launchParam": null
@@ -2331,7 +2331,7 @@
     "updateTime": "2025-10-13T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74314759&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74314759&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74314759,
       "launchParam": null
@@ -3113,7 +3113,7 @@
     "updateTime": "2025-10-10T15:32:39.406Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74224384&list=REGION_VIDEO:7",
+      "contentId": "v=74224384&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74224384,
       "launchParam": null
@@ -4188,7 +4188,7 @@
     "updateTime": "2025-10-08T10:04:04.694Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74275684&list=REGION_VIDEO:7",
+      "contentId": "v=74275684&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74275684,
       "launchParam": null
@@ -4363,6 +4363,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74215493_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Auto summit: Why German carmakers need help from politics",
+    "category": "Globalization",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:CN": "China",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Germany",
+      "China",
+      "Europe"
+    ],
+    "runningTime": 132,
+    "updateTime": "2025-10-07T14:06:14.409Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74259128&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74259128,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/67087249_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/67087249_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4690,6 +4733,45 @@
     "language": "en"
   },
   {
+    "titleText": "Outgoing French premier gets chance to salvage government",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-10-06T20:34:16.324Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74256464&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74256464,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74249534_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74249534_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Warsaw's new underground cultural hub: The metro library",
     "category": "Culture",
     "subCategory": "Society",
@@ -4763,6 +4845,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74218346_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hybrid-car breakdown highlights repair challenges in Germany",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 214,
+    "updateTime": "2025-10-06T13:08:12.579Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74247278&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74247278,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74251512_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74251512_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4927,6 +5048,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74204386_7.png",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What French prime minister's resignation means for Macron",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 302,
+    "updateTime": "2025-10-06T11:09:44.607Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74249553&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74249553,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73947561_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73947561_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5326,6 +5486,125 @@
     "language": "en"
   },
   {
+    "titleText": "Germany marks 35 years since reunification",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 156,
+    "updateTime": "2025-10-03T20:54:32.043Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74232924&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74232924,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74229951_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74229951_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Sarah Mullally first woman to lead Church of England",
+    "category": "Religion",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 117,
+    "updateTime": "2025-10-03T20:44:53.825Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74233011&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74233011,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74227586_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74227586_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Could Israel try to strike Hamas targets in Turkey?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:TR": "Turkey",
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Turkey",
+      "Israel"
+    ],
+    "runningTime": 233,
+    "updateTime": "2025-10-03T16:02:59.337Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74230508&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74230508,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69799239_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69799239_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Protests after Israel's interception of Gaza aid flotilla",
     "category": "Conflicts",
     "subCategory": null,
@@ -5365,45 +5644,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can virtual reality change attitudes toward homelessness?",
-    "category": "Lifestyle",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 121,
-    "updateTime": "2025-10-03T10:54:14.154Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74228335&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 74228335,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74222237_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74222237_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Saving nature through virtual reality\n",
     "category": "Nature and Environment",
     "subCategory": "Technology",
@@ -5436,6 +5676,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74222275_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukraine aid at stake in elections for Czech parliament",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CZ": "Czech Republic"
+    },
+    "regions": [
+      "Czech Republic"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-10-03T08:38:47.614Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74226585&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74226585,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74180301_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74180301_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU leaders discuss Russia threat in Copenhagen",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 118,
+    "updateTime": "2025-10-02T17:52:11.503Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74223956&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74223956,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74216695_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74216695_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5538,7 +5856,7 @@
     "updateTime": "2025-10-02T06:21:15.922Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74138461&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74138461&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 74138461,
       "launchParam": null
@@ -5596,6 +5914,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74206316_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "EU leaders consider lending Russia's money to Ukraine",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Europe",
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 118,
+    "updateTime": "2025-10-01T13:32:40.623Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74204001&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74204001,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74200885_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74200885_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6114,6 +6475,51 @@
     "language": "en"
   },
   {
+    "titleText": "Laser weapons show promise against rising drone threats",
+    "category": "Conflicts",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine",
+      "region:me:IL": "Israel",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine",
+      "Israel",
+      "China"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-09-29T08:59:08.679Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74171387&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74171387,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68559992_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68559992_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mud homes beat the heat and pollution in Bengaluru",
     "category": "Architecture",
     "subCategory": "Nature and Environment",
@@ -6263,6 +6669,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74163098_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russia strikes targets in Kyiv and other Ukrainian cities",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 109,
+    "updateTime": "2025-09-28T12:58:27.943Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74166737&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74166737,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74165449_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74165449_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6516,6 +6961,49 @@
     "language": "en"
   },
   {
+    "titleText": "Finland's foreign minister: Diplomacy with Russia has failed",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FI": "Finland",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Finland",
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 283,
+    "updateTime": "2025-09-26T10:29:38.681Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74145530&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74145530,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74145425_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74145425_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Lebanon's Catch-22 predicament over Israel and Hezbollah",
     "category": "Conflicts",
     "subCategory": null,
@@ -6676,6 +7164,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ukrainians turn to Telegram, social media for news",
+    "category": "Conflicts",
+    "subCategory": "Media",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 252,
+    "updateTime": "2025-09-25T07:45:50.046Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74129132&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74129132,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74129022_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74129022_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "What to expect as Trump hosts Turkey's President Erdogan",
     "category": "Politics",
     "subCategory": null,
@@ -6710,6 +7237,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70712862_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Ukrainian President Zelenskyy addresses UN General Assembly",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 152,
+    "updateTime": "2025-09-24T20:45:26.067Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74127759&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74127759,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74124677_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74124677_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6873,6 +7439,100 @@
     "language": "en"
   },
   {
+    "titleText": "Swedish defense minister explains how Russia is testing NATO",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:SE": "Sweden",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Europe",
+      "Sweden",
+      "Russian Federation"
+    ],
+    "runningTime": 485,
+    "updateTime": "2025-09-23T20:04:16.199Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74114914&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74114914,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74114597_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74114597_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German foreign minister: UN General Assembly 'a vital forum'",
+    "category": "Politics",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:global": "Global",
+      "region:me:PS": "Palestinian Territories",
+      "region:me:IL": "Israel",
+      "region:europe:DK": "Denmark",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:EE": "Estonia"
+    },
+    "regions": [
+      "Germany",
+      "Global",
+      "Palestinian Territories",
+      "Israel",
+      "Denmark",
+      "Russian Federation",
+      "Estonia"
+    ],
+    "runningTime": 183,
+    "updateTime": "2025-09-23T15:34:44.542Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74113053&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74113053,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74112426_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74112426_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Indonesia and EU finally seal landmark trade deal",
     "category": "Business",
     "subCategory": null,
@@ -6991,45 +7651,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74046866_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "In Italy, centenarians thrive on island of Sardinia",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 356,
-    "updateTime": "2025-09-23T08:51:52.712Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73980912&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 73980912,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73964290_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73964290_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8512,45 +9133,6 @@
     "language": "en"
   },
   {
-    "titleText": "Netherlands: Housing shortage hits university students",
-    "category": "Politics",
-    "subCategory": "Education",
-    "region_ids": {
-      "region:europe:NL": "Netherlands"
-    },
-    "regions": [
-      "Netherlands"
-    ],
-    "runningTime": 279,
-    "updateTime": "2025-09-10T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73897015&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73897015,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73899159_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73899159_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexicans criticize pollution caused by SpaceX launches",
     "category": "Nature and Environment",
     "subCategory": "Science",
@@ -9692,86 +10274,6 @@
     "language": "en"
   },
   {
-    "titleText": "Straw: The climate-friendly building material of the future",
-    "category": "Science",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 392,
-    "updateTime": "2025-07-28T10:40:55.903Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73399196&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73399196,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73309861_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73309861_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Is Nigeria pricing out the youth from affordable housing? ",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Africa",
-      "Nigeria"
-    ],
-    "runningTime": 186,
-    "updateTime": "2025-07-21T15:22:50.118Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73357753&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73357753,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73389156_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73389156_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan's monsoon rains wash away livelihoods",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -10603,45 +11105,6 @@
     "language": "en"
   },
   {
-    "titleText": "Death toll in Nigeria flooding rises to at least 200",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 156,
-    "updateTime": "2025-06-02T08:42:11.857Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72755995&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72755995,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72756271_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72756271_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trade war still hurts US ports despite tariff relief",
     "category": "Business",
     "subCategory": "Trade",
@@ -10962,45 +11425,6 @@
     "language": "en"
   },
   {
-    "titleText": "Italy's infamous Scampia housing estate gets a make-over",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 317,
-    "updateTime": "2025-05-14T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72491869&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72491869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72478709_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72478709_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Steep energy costs harm German industry",
     "category": "Business",
     "subCategory": null,
@@ -11079,240 +11503,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump, economy on ballot as Australia prepares for election",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:oceania:AU": "Australia"
-    },
-    "regions": [
-      "Australia"
-    ],
-    "runningTime": 138,
-    "updateTime": "2025-05-01T17:23:36.515Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72410034&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72410034,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72065100_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72065100_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Spain: Tourism boom worsens housing crisis ",
-    "category": "Business",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 392,
-    "updateTime": "2025-04-30T14:43:06.534Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72377720&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72377720,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71878286_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71878286_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany: Augsburg's practically rent-free housing",
-    "category": "Travel",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 256,
-    "updateTime": "2025-04-15T12:13:50.722Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72221988&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72221988,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72212753_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72212753_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "The effects of Luxembourg's begging ban ",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:LU": "Luxembourg"
-    },
-    "regions": [
-      "Luxembourg"
-    ],
-    "runningTime": 283,
-    "updateTime": "2025-04-15T08:26:21.794Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146389&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72146389,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72130548_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72130548_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Does Barcelona have a solution for its housing crisis?",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 363,
-    "updateTime": "2025-04-11T07:43:16.513Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146352&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72146352,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70484089_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70484089_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Spaniards rally against housing crisis",
-    "category": "Society",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 143,
-    "updateTime": "2025-04-05T21:15:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72151493&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 72151493,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72151420_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72151420_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Chris Ngalu's vision for the future of fashion is slow",
     "category": "Design",
     "subCategory": "Human Rights",
@@ -11345,45 +11535,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71769289_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Spain's Guadix cave homes withstand climate change",
-    "category": "Society",
-    "subCategory": "History",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 275,
-    "updateTime": "2025-03-13T12:45:27.78Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71860994&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 71860994,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71940864_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71940864_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11501,123 +11652,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71688227_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "High-tech boom and expensive housing",
-    "category": "Business",
-    "subCategory": "Architecture",
-    "region_ids": {
-      "region:asia:TW": "Taiwan"
-    },
-    "regions": [
-      "Taiwan"
-    ],
-    "runningTime": 335,
-    "updateTime": "2025-02-17T15:14:42.312Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71348285&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 71348285,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71333266_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71333266_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Moving house in Germany: An experience like no other!",
-    "category": "Society",
-    "subCategory": "Offbeat",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 278,
-    "updateTime": "2025-02-09T12:48:17.666Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71542291&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 71542291,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71528483_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71528483_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Affordable living: My dumpster home",
-    "category": "Lifestyle",
-    "subCategory": "Architecture",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 293,
-    "updateTime": "2025-01-25T11:06:48.899Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71399817&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 71399817,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71390068_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71390068_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11936,47 +11970,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296474_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Líder opositora venezolana Corina Machado gana Nobel de la Paz",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:VE": "Venezuela",
-      "region:cala": "América Latina"
-    },
-    "regions": [
-      "Venezuela",
-      "América Latina"
-    ],
-    "runningTime": 107,
-    "updateTime": "2025-10-11T15:52:04.916Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74320402&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74320402,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74306203_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74306203_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
