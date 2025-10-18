@@ -1,5 +1,85 @@
 [
   {
+    "titleText": "Extreme weather in Turkey causes hazelnut crisis",
+    "category": "Society",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe:TR": "Turkey"
+    },
+    "regions": [
+      "Turkey"
+    ],
+    "runningTime": 231,
+    "updateTime": "2025-10-18T08:29:44.635Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74224385&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74224385,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73773235_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73773235_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump rejects Zelenskyy's Tomahawk request",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "United States of America",
+      "Ukraine"
+    ],
+    "runningTime": 151,
+    "updateTime": "2025-10-18T07:47:34.517Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74408808&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74408808,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74408154_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74408154_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -121,10 +201,12 @@
     "category": "Conflicts",
     "subCategory": "Society",
     "region_ids": {
+      "region:asia": "Asia",
       "region:asia:AF": "Afghanistan",
       "region:asia:PK": "Pakistan"
     },
     "regions": [
+      "Asia",
       "Afghanistan",
       "Pakistan"
     ],
@@ -2071,45 +2153,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74346218_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Extreme weather in Turkey causes hazelnut crisis",
-    "category": "Society",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 231,
-    "updateTime": "2025-10-14T08:44:36.001Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74224385&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 74224385,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73773235_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73773235_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7560,49 +7603,6 @@
     "language": "en"
   },
   {
-    "titleText": "Swedish defense minister explains how Russia is testing NATO",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:SE": "Sweden",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "Europe",
-      "Sweden",
-      "Russian Federation"
-    ],
-    "runningTime": 485,
-    "updateTime": "2025-09-23T20:04:16.199Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74114914&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 74114914,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74114597_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74114597_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Indonesia and EU finally seal landmark trade deal",
     "category": "Business",
     "subCategory": null,
@@ -7721,6 +7721,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74046866_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "In Italy, centenarians thrive on island of Sardinia",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 356,
+    "updateTime": "2025-09-23T08:51:52.712Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73980912&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 73980912,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73964290_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73964290_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9391,45 +9430,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/61676411_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Can Uganda protect citizens in the global labor market? ",
-    "category": "Globalization",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:africa:UG": "Uganda"
-    },
-    "regions": [
-      "Uganda"
-    ],
-    "runningTime": 330,
-    "updateTime": "2025-09-07T08:34:31.682Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73895174&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 73895174,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73810294_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73810294_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
