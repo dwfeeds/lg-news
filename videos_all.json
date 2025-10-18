@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Gazans seek urgent medical treatment after ceasefire",
+    "category": "Health",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 131,
+    "updateTime": "2025-10-18T13:16:26.918Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74410182&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74410182,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74410344_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74410344_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kenya: Hundreds injured at Raila Odinga memorial",
     "category": "Politics",
     "subCategory": null,
@@ -5431,7 +5470,7 @@
     "updateTime": "2025-10-04T20:54:06.088Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74237878&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74237878&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74237878,
       "launchParam": null
@@ -8560,45 +8599,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74041169_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "More deaths in Gaza as Israel pushes on with offensive",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 112,
-    "updateTime": "2025-09-17T23:57:08.761Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74036296&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74036296,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74026094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74026094_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
