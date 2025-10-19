@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israel, Hamas trade blame for ceasefire violations",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Middle East"
+    ],
+    "runningTime": 354,
+    "updateTime": "2025-10-19T17:48:47.732Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74417267&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74417267,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74416634_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74416634_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -5226,7 +5265,7 @@
     "updateTime": "2025-10-06T15:17:08.468Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74224203&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74224203&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74224203,
       "launchParam": null
@@ -5762,45 +5801,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65002619_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Germany marks 35 years since reunification",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 156,
-    "updateTime": "2025-10-03T20:54:32.043Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74232924&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74232924,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74229951_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74229951_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
