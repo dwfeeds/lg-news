@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Vice President Vance joins US envoys to firm up ceasefire",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-10-21T13:24:10.671Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74441668&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74441668,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74440991_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74440991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Diabetes: How to fight back",
     "category": "Health",
     "subCategory": "Society",
@@ -5325,7 +5366,7 @@
     "updateTime": "2025-10-07T23:27:56.469Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74270436&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74270436&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74270436,
       "launchParam": null
@@ -5988,45 +6029,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74204386_7.png",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What French prime minister's resignation means for Macron",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 302,
-    "updateTime": "2025-10-06T11:09:44.607Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74249553&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74249553,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73947561_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73947561_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
