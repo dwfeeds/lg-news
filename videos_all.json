@@ -1,5 +1,52 @@
 [
   {
+    "titleText": "A permanent seat for Africa on the UN Security Council?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:asia": "Asia",
+      "region:europe": "Europe",
+      "region:northamerica": "North America",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Middle East"
+    ],
+    "runningTime": 189,
+    "updateTime": "2025-10-21T14:35:44.219Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=66017760&list=FULL_SHOWS_VIDEO:10",
+      "type": "video",
+      "id": 66017760,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65203243_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65203243_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Vice President Vance joins US envoys to firm up ceasefire",
     "category": "Conflicts",
     "subCategory": null,
@@ -89,7 +136,7 @@
     "updateTime": "2025-10-21T11:57:21.572Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -11616,7 +11663,7 @@
       "América Latina"
     ],
     "runningTime": 145,
-    "updateTime": "2025-10-21T09:20:06.045Z",
+    "updateTime": "2025-10-21T15:39:58.372Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=74436144&list=REPORTS_VIDEO:1",
@@ -12640,6 +12687,41 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Die Gen Z hat genug - Was vereint die weltweiten Proteste?",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 124,
+    "updateTime": "2025-10-21T15:05:27.385Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74430225&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74430225,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74261634_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74261634_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Chios: Bewohner kämpfen nach Waldbränden um Existenz",
