@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "US VP Vance meets Israeli PM Netanyahu in Jerusalem",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me": "Middle East",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Middle East",
+      "United States of America"
+    ],
+    "runningTime": 121,
+    "updateTime": "2025-10-22T19:06:31.485Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74464446&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74464446,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74453583_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74453583_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hamas regains interim control in Gaza with Trump backing",
     "category": "Conflicts",
     "subCategory": null,
@@ -5294,7 +5335,7 @@
     "updateTime": "2025-10-10T08:13:32.984Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74301455&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74301455&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74301455,
       "launchParam": null
@@ -8382,49 +8423,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74102937_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Is Israel's aim of destroying Hamas achievable?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel",
-      "Middle East"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-09-23T09:54:11.488Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74105148&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74105148,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67756589_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67756589_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
