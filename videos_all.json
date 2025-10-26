@@ -1,5 +1,81 @@
 [
   {
+    "titleText": "Indian, Pakistani cities beset by seasonal air pollution ",
+    "category": "Nature and Environment",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:IN": "India",
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "India",
+      "Pakistan"
+    ],
+    "runningTime": 133,
+    "updateTime": "2025-10-26T12:33:33.631Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74502271&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74502271,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74419290_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74419290_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-10-26T12:26:51.471Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74421817_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74421817_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Knitted visions — Serbia at the Venice Biennale",
     "category": "Architecture",
     "subCategory": "Culture",
@@ -270,41 +346,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74278381_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2025-10-26T08:00:24.727Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74498678_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74498678_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5610,45 +5651,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74335782_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Delhi’s stray dog dilemma: rabies, reform, and coexistence",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 398,
-    "updateTime": "2025-10-13T10:04:35.225Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74264602&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74264602,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74293608_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74293608_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13591,14 +13593,14 @@
   {
     "titleText": "Maschenwerk - Serbiens Beitrag auf der Architekturbiennale ",
     "category": "Architektur",
-    "subCategory": null,
+    "subCategory": "Panorama",
     "region_ids": {
-      "region:europe:IT": "Italien",
-      "region:europe:RS": "Serbien"
+      "region:europe:RS": "Serbien",
+      "region:europe:IT": "Italien"
     },
     "regions": [
-      "Italien",
-      "Serbien"
+      "Serbien",
+      "Italien"
     ],
     "runningTime": 236,
     "updateTime": "2025-10-26T11:11:50.145Z",
