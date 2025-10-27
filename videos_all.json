@@ -1,21 +1,21 @@
 [
   {
     "titleText": "US-China trade deal in sight",
-    "category": "[Miscellaneous]",
-    "subCategory": "Business",
+    "category": "Trade",
+    "subCategory": "Politics",
     "region_ids": {
-      "region:asia:CN": "China",
-      "region:northamerica:US": "United States of America"
+      "region:northamerica:US": "United States of America",
+      "region:asia:CN": "China"
     },
     "regions": [
-      "China",
-      "United States of America"
+      "United States of America",
+      "China"
     ],
     "runningTime": 119,
     "updateTime": "2025-10-27T16:46:18.114Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74516080&list=REGION_VIDEO:4",
+      "contentId": "v=74516080&list=REGION_VIDEO:5",
       "type": "video",
       "id": 74516080,
       "launchParam": null
@@ -27,13 +27,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/69105246_6.jpg",
+      "url": "https://static.dw.com/image/74497932_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/69105246_7.jpg",
+      "url": "https://static.dw.com/image/74497932_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5896,6 +5896,45 @@
     "language": "en"
   },
   {
+    "titleText": "Delhi's stray dog dilemma: Rabies, reform and coexistence",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 398,
+    "updateTime": "2025-10-13T10:04:35.225Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74264602&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74264602,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74293608_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74293608_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "African governments slow to end modern-day slavery",
     "category": "Society",
     "subCategory": null,
@@ -10552,45 +10591,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/61676411_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US President Trump announces Defense Department rebrand",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 118,
-    "updateTime": "2025-09-06T07:50:52.045Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73903736&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 73903736,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73903433_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73903433_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
