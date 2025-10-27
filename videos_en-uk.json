@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 97,
+    "updateTime": "2025-10-27T16:46:02.127Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74515025_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74515025_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Italy's unusual prison island swaps cells for second chances",
     "category": "Society",
     "subCategory": "Crime",
@@ -26,39 +59,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296298_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 97,
-    "updateTime": "2025-10-27T11:44:36.42Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74509749_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74509749_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -233,7 +233,7 @@
   {
     "titleText": "Germany's potato surplus puts the pinch on farmers",
     "category": "Trade",
-    "subCategory": "Business",
+    "subCategory": null,
     "runningTime": 154,
     "updateTime": "2025-10-26T14:23:55.929Z",
     "onClick": {
@@ -2211,7 +2211,7 @@
     "language": "en"
   },
   {
-    "titleText": "Tropical nights in Zurich — A city trying to beat the heat",
+    "titleText": "Tropical nights in Zurich — a city trying to beat the heat",
     "category": "Climate",
     "subCategory": "Society",
     "runningTime": 242,
