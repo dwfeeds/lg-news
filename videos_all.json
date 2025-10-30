@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Frankfurt airport uses AI for on-time flights",
+    "category": "Business",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 263,
+    "updateTime": "2025-10-30T12:41:12.635Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74352143&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74352143,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74353161_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74353161_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "France in turmoil: Macron faces growing public anger",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 266,
+    "updateTime": "2025-10-30T11:55:43.396Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74487204&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74487204,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70162560_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70162560_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "No end in sight for US government shutdown ",
     "category": "Politics",
     "subCategory": null,
@@ -43,12 +121,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:TR": "Turkey",
-      "region:europe:DE": "Germany"
+      "region:europe:DE": "Germany",
+      "region:europe:TR": "Turkey"
     },
     "regions": [
-      "Turkey",
-      "Germany"
+      "Germany",
+      "Turkey"
     ],
     "runningTime": 144,
     "updateTime": "2025-10-30T09:03:13.965Z",
@@ -2665,45 +2743,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can Chennai’s Blue Flag beaches be truly sustainable?",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 224,
-    "updateTime": "2025-10-24T14:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74471548&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74471548,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74483582_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74483582_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Partnering with nature to safeguard the land we depend on",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -2736,6 +2775,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74483559_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Chennai’s Blue Flag beaches be truly sustainable?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-10-24T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74471548&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74471548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74483582_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74483582_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4964,45 +5042,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74356121_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Netherlands' Nazi collaboration files spark privacy debate",
-    "category": "History",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:NL": "Netherlands"
-    },
-    "regions": [
-      "Netherlands"
-    ],
-    "runningTime": 435,
-    "updateTime": "2025-10-19T19:36:21.19Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74313006&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74313006,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74296262_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74296262_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14035,7 +14074,7 @@
     "updateTime": "2025-10-30T09:04:35.066Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74523887&list=REPORTS_VIDEO:1",
+      "contentId": "v=74523887&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74523887,
       "launchParam": null
@@ -14113,7 +14152,7 @@
     "updateTime": "2025-10-29T15:28:20.789Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74543150&list=FEATURED_VIDEO:1",
+      "contentId": "v=74543150&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74543150,
       "launchParam": null
