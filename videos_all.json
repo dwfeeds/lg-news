@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "China’s role in the US fentanyl crisis",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "China",
+      "United States of America"
+    ],
+    "runningTime": 89,
+    "updateTime": "2025-10-31T10:10:01.355Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74542314&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74542314,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66662328_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66662328_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can FlixTrain derail Deutsche Bahn in Germany?",
     "category": "Business",
     "subCategory": "Cars and Transportation",
@@ -2074,47 +2115,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ghana teens get HPV cancer vaccine amid parent hesitancy",
-    "category": "Health",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Africa",
-      "Ghana"
-    ],
-    "runningTime": 327,
-    "updateTime": "2025-10-27T13:54:21.619Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74512457&list=FULL_SHOWS_VIDEO:10",
-      "type": "video",
-      "id": 74512457,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74516902_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74516902_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Italy's unusual prison island swaps cells for second chances",
     "category": "Society",
     "subCategory": "Crime",
@@ -3229,45 +3229,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can Chennai’s Blue Flag beaches be truly sustainable?",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 224,
-    "updateTime": "2025-10-24T14:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74471548&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74471548,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74483582_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74483582_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Partnering with nature to safeguard the land we depend on",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -3300,6 +3261,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74483559_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Chennai’s Blue Flag beaches be truly sustainable?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-10-24T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74471548&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74471548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74483582_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74483582_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6818,45 +6818,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68114742_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Familial forestry: Trees nurtured by the community",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 330,
-    "updateTime": "2025-10-14T11:36:05.824Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74264612&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74264612,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74293622_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74293622_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14104,6 +14065,45 @@
     "language": "es"
   },
   {
+    "titleText": "Spanien: Ein Jahr nach der Flut in Valencia ",
+    "category": "Gesellschaft",
+    "subCategory": "Natur und Umwelt",
+    "region_ids": {
+      "region:europe:ES": "Spanien"
+    },
+    "regions": [
+      "Spanien"
+    ],
+    "runningTime": 347,
+    "updateTime": "2025-10-31T10:20:35.935Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74540299&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74540299,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70663775_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70663775_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Shutdown in den USA: Kein Geld mehr für Lebensmittelhilfen",
     "category": "Politik",
     "subCategory": "Ernährungssicherheit",
@@ -14526,45 +14526,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74505420_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kamerun: Heftige Proteste gegen mutmaßlichen Wahlbetrug",
-    "category": "Video-Nachrichten",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:africa:CM": "Kamerun"
-    },
-    "regions": [
-      "Kamerun"
-    ],
-    "runningTime": 150,
-    "updateTime": "2025-10-27T16:11:08.779Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74514850&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74514850,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74513174_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74513174_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
