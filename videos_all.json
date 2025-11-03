@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Nigeria fends off US report on alleged Christian killings",
+    "category": "Politics",
+    "subCategory": "Terrorism",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 184,
+    "updateTime": "2025-11-03T21:04:28.425Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74604308&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74604308,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/15652686_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/15652686_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israel: Ex-prosecutor admits leaking soldiers' abuse video",
     "category": "Crime",
     "subCategory": "Conflicts",
@@ -4330,47 +4369,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73812054_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Nnamdi Kanu: Threat to Nigeria or prisoner of conscience?",
-    "category": "Law and Justice",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:NG": "Nigeria",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Nigeria",
-      "Africa"
-    ],
-    "runningTime": 293,
-    "updateTime": "2025-10-24T17:43:58.536Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74490918&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74490918,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/63475404_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/63475404_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13467,8 +13465,8 @@
   },
   {
     "titleText": "Gazastreifen: Ein Vater sucht seine Familie",
-    "category": "Menschenrechte",
-    "subCategory": "Konflikte",
+    "category": "Konflikte",
+    "subCategory": null,
     "region_ids": {
       "region:me:PS": "Palästinensische Gebiete"
     },
