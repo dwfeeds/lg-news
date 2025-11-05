@@ -83,19 +83,17 @@
     "subCategory": "Business",
     "region_ids": {
       "region:europe:LT": "Lithuania",
-      "region:europe:DE": "Germany",
-      "region:europe": "Europe"
+      "region:europe:DE": "Germany"
     },
     "regions": [
       "Lithuania",
-      "Germany",
-      "Europe"
+      "Germany"
     ],
     "runningTime": 189,
     "updateTime": "2025-11-04T18:10:39.498Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74618271&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74618271&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74618271,
       "launchParam": null
@@ -4043,49 +4041,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74401338_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Chip shortage puts German carmakers in a tight spot",
-    "category": "Cars and Transportation",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:NL": "Netherlands",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Germany",
-      "Netherlands",
-      "China"
-    ],
-    "runningTime": 131,
-    "updateTime": "2025-10-27T11:32:36.87Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74488483&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74488483,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74348862_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74348862_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8593,6 +8548,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/62562589_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Trump mulls supplying Ukraine with Tomahawk missiles",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 198,
+    "updateTime": "2025-10-08T10:04:04.694Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74275684&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74275684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69644501_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69644501_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
