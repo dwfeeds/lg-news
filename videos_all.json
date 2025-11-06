@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "US shutdown halts food aid, leaving millions in the lurch",
+    "category": "Politics",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 217,
+    "updateTime": "2025-11-06T11:07:31.416Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74639322&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 74639322,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71113223_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71113223_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Western Sahara: Caught between sovereignty and struggle",
     "category": "Politics",
     "subCategory": "Society",
@@ -281,7 +320,7 @@
     "language": "en"
   },
   {
-    "titleText": "North Europe military group partners with Ukraine",
+    "titleText": "NATO-aligned military group partners with Ukraine",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -10799,47 +10838,6 @@
     "language": "en"
   },
   {
-    "titleText": "US carmaker Ford cuts more jobs in Germany",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "United States of America",
-      "Germany"
-    ],
-    "runningTime": 94,
-    "updateTime": "2025-09-19T16:48:19.487Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74046718&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74046718,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/66009639_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/66009639_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How a Pakistan project helps female doctors get back to work",
     "category": "Society",
     "subCategory": "Health",
@@ -14185,7 +14183,7 @@
     "updateTime": "2025-11-06T08:15:08.908Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74630506&list=REPORTS_VIDEO:1",
+      "contentId": "v=74630506&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74630506,
       "launchParam": null
@@ -14263,7 +14261,7 @@
     "updateTime": "2025-11-05T09:58:41.865Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74545149&list=FEATURED_VIDEO:1",
+      "contentId": "v=74545149&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74545149,
       "launchParam": null
