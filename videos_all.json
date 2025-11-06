@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 96,
+    "updateTime": "2025-11-06T17:08:44.108Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74638526_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74638526_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can Germany's steel industry survive its deepening crisis?",
     "category": "Business",
     "subCategory": null,
@@ -192,41 +227,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74647007_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 96,
-    "updateTime": "2025-11-06T14:38:40.858Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74641781_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74641781_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13224,6 +13224,49 @@
     "language": "en"
   },
   {
+    "titleText": "Crisis diplomática en el Caribe",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:TT": "Trinidad y Tobago",
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "Estados Unidos"
+    },
+    "regions": [
+      "Trinidad y Tobago",
+      "Venezuela",
+      "Estados Unidos"
+    ],
+    "runningTime": 106,
+    "updateTime": "2025-11-06T17:08:46.395Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74548153&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74548153,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74542350_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74542350_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "El demócrata Mamdani gana la alcaldía de Nueva York ",
     "category": "Política",
     "subCategory": null,
@@ -13373,45 +13416,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74566434_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Los ataques con drones ucranianos perturban la vida en Rusia ",
-    "category": "Conflictos",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ucrania"
-    },
-    "regions": [
-      "Ucrania"
-    ],
-    "runningTime": 205,
-    "updateTime": "2025-11-04T13:44:39.648Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74612649&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74612649,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74607992_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74607992_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
