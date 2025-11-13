@@ -84,10 +84,12 @@
     "category": "Politics",
     "subCategory": "Law and Justice",
     "region_ids": {
-      "region:africa:TZ": "Tanzania"
+      "region:africa:TZ": "Tanzania",
+      "region:africa": "Africa"
     },
     "regions": [
-      "Tanzania"
+      "Tanzania",
+      "Africa"
     ],
     "runningTime": 191,
     "updateTime": "2025-11-13T18:07:43.439Z",
@@ -13827,6 +13829,125 @@
     "language": "en"
   },
   {
+    "titleText": "Elecciones en Chile",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:CL": "Chile"
+    },
+    "regions": [
+      "Chile"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-11-13T20:58:08.573Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74737419&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74737419,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74707441_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74707441_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Cronología de los peores atentados del ISIS en Europa",
+    "category": "Terrorismo",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FR": "Francia",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Francia",
+      "Europa"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-11-13T20:52:44.722Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74737396&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74737396,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74734816_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74734816_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Trump pone fin al cierre récord",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "Estados Unidos"
+    },
+    "regions": [
+      "Estados Unidos"
+    ],
+    "runningTime": 132,
+    "updateTime": "2025-11-13T20:50:06.61Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74737395&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74737395,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74721907_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74721907_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "Dimiten figuras directivas de BBC",
     "category": "Política",
     "subCategory": "Medios",
@@ -13941,45 +14062,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74682591_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Alemania: Merz aviva el debate sobre la migración ",
-    "category": "Migración",
-    "subCategory": "Política",
-    "region_ids": {
-      "region:europe:DE": "Alemania"
-    },
-    "regions": [
-      "Alemania"
-    ],
-    "runningTime": 199,
-    "updateTime": "2025-11-11T16:19:47.441Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74669484&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74669484,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71730995_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71730995_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
