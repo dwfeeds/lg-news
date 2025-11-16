@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Gazans face new hazards from flooding, broken infrastructure",
+    "category": "Health",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 161,
+    "updateTime": "2025-11-16T15:57:29.128Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74767317&list=GLOBAL_TOPIC_VIDEO:10",
+      "type": "video",
+      "id": 74767317,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74747803_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74747803_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10211,7 +10250,7 @@
     "updateTime": "2025-10-15T13:51:18.903Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74370301&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=74370301&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74370301,
       "launchParam": null
@@ -11703,45 +11742,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74236672_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump says he believes Hamas 'ready for a lasting peace'",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 100,
-    "updateTime": "2025-10-04T10:40:37.26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74235511&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74235511,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74231553_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74231553_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
