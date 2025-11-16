@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "What is life like for young people in Lisbon?",
+    "category": "Society",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 271,
+    "updateTime": "2025-11-16T10:18:35.201Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74751310&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74751310,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74732683_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74732683_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chile election: Crime fears and job crisis loom",
     "category": "Politics",
     "subCategory": "Society",
@@ -39,7 +78,7 @@
     "language": "en"
   },
   {
-    "titleText": "M23, DR Congo sign new peace roadmap",
+    "titleText": "In Doha, M23, DR Congo sign new roadmap for peace ",
     "category": "Conflicts",
     "subCategory": "Politics",
     "region_ids": {
@@ -84,12 +123,10 @@
     "category": "Politics",
     "subCategory": "Migration",
     "region_ids": {
-      "region:cala:CL": "Chile",
-      "region:cala:VE": "Venezuela"
+      "region:cala:CL": "Chile"
     },
     "regions": [
-      "Chile",
-      "Venezuela"
+      "Chile"
     ],
     "runningTime": 192,
     "updateTime": "2025-11-16T09:13:06.921Z",
@@ -10526,45 +10563,6 @@
     "language": "en"
   },
   {
-    "titleText": "Do Portugal's traditional pavement mosaics have a future?",
-    "category": "Society",
-    "subCategory": "Arts",
-    "region_ids": {
-      "region:europe:PT": "Portugal"
-    },
-    "regions": [
-      "Portugal"
-    ],
-    "runningTime": 292,
-    "updateTime": "2025-10-13T07:46:41.048Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74224386&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 74224386,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74218146_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74218146_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "The appendix: Useless organ or gut health hero?",
     "category": "Science",
     "subCategory": "Health",
@@ -15017,6 +15015,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Wie lebt es sich als junger Mensch in Lissabon?",
+    "category": "Lifestyle",
+    "subCategory": "Reise",
+    "region_ids": {
+      "region:europe:PT": "Portugal"
+    },
+    "regions": [
+      "Portugal"
+    ],
+    "runningTime": 271,
+    "updateTime": "2025-11-16T10:16:41.549Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74754899&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74754899,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74732683_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74732683_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Forschende entwickeln Fisch-Alternative",
