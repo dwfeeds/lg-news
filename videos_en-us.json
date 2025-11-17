@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 91,
+    "updateTime": "2025-11-17T09:00:07.235Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74772204_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74772204_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chile leftists advance to next month's presidential runoff",
     "category": "Politics",
     "subCategory": null,
@@ -10,39 +43,6 @@
       "contentId": "v=74771533&list=REGION_VIDEO:6",
       "type": "video",
       "id": 74771533,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74771311_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74771311_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 91,
-    "updateTime": "2025-11-17T06:53:36.539Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
       "launchParam": null
     },
     "providerLogo": {
@@ -502,7 +502,7 @@
     "updateTime": "2025-11-10T00:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74668422&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74668422&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74668422,
       "launchParam": null
@@ -898,7 +898,7 @@
     "updateTime": "2025-11-07T17:06:33.274Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74667518&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74667518&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74667518,
       "launchParam": null
@@ -1096,7 +1096,7 @@
     "updateTime": "2025-11-06T11:23:00.225Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71397452&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=71397452&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 71397452,
       "launchParam": null
@@ -1492,7 +1492,7 @@
     "updateTime": "2025-10-23T09:38:30.477Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74468471&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74468471&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74468471,
       "launchParam": null
@@ -1756,7 +1756,7 @@
     "updateTime": "2025-10-07T11:12:39.235Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74195985&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74195985&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74195985,
       "launchParam": null
