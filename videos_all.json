@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Nicolas Maduro denounces US exercises in Trinidad and Tobago",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "United States of America",
+      "region:cala:TT": "Trinidad and Tobago"
+    },
+    "regions": [
+      "Venezuela",
+      "United States of America",
+      "Trinidad and Tobago"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-11-17T05:50:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74763642&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 74763642,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74763783_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74763783_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Flood control scandal sparks mass protests in Philippines",
     "category": "Corruption",
     "subCategory": "Climate",
@@ -147,49 +190,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74747803_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Venezuela's Maduro denounces US' Trinidad Tobago exercises",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:cala:VE": "Venezuela",
-      "region:northamerica:US": "United States of America",
-      "region:cala:TT": "Trinidad and Tobago"
-    },
-    "regions": [
-      "Venezuela",
-      "United States of America",
-      "Trinidad and Tobago"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-11-16T11:23:15.528Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74763642&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74763642,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74763783_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74763783_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -778,13 +778,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74543616_6.jpg",
+      "url": "https://static.dw.com/image/74543636_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74543616_7.jpg",
+      "url": "https://static.dw.com/image/74543636_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -819,13 +819,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74543636_6.jpg",
+      "url": "https://static.dw.com/image/74543616_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74543636_7.jpg",
+      "url": "https://static.dw.com/image/74543616_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -15019,6 +15019,45 @@
     "language": "es"
   },
   {
+    "titleText": "Gaza-Stadt: Bewohner kehren in zerstörte Viertel zurück",
+    "category": "Gesellschaft",
+    "subCategory": "Konflikte",
+    "region_ids": {
+      "region:me:PS": "Palästinensische Gebiete"
+    },
+    "regions": [
+      "Palästinensische Gebiete"
+    ],
+    "runningTime": 202,
+    "updateTime": "2025-11-17T06:29:14.607Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74749587&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74749587,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74734359_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74734359_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Lettland: Naturschutz als Verteidigung gegen Russland",
     "category": "Konflikte",
     "subCategory": "Klima",
@@ -15426,7 +15465,7 @@
     "updateTime": "2025-11-12T12:14:42.732Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74630519&list=REPORTS_VIDEO:1",
+      "contentId": "v=74630519&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74630519,
       "launchParam": null
@@ -16233,45 +16272,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74535342_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Chile: Ski-Hotel mit Retro-Charme in den Anden",
-    "category": "Reise",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:cala:CL": "Chile"
-    },
-    "regions": [
-      "Chile"
-    ],
-    "runningTime": 291,
-    "updateTime": "2025-10-29T14:33:17.913Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74517910&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 74517910,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74513956_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74513956_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
