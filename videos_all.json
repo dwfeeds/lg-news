@@ -9,7 +9,7 @@
     "updateTime": "2025-11-19T06:44:22.751Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "contentId": "v=49496622&list=NEWS_VIDEO:14",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -48,7 +48,7 @@
     "updateTime": "2025-11-18T21:05:51.656Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74797726&list=REGION_VIDEO:8",
+      "contentId": "v=74797726&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74797726,
       "launchParam": null
@@ -167,7 +167,7 @@
     "updateTime": "2025-11-18T16:04:29.836Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74793874&list=REGION_VIDEO:8",
+      "contentId": "v=74793874&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74793874,
       "launchParam": null
@@ -1353,7 +1353,7 @@
     "updateTime": "2025-11-14T18:16:36.341Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74722555&list=REGION_VIDEO:8",
+      "contentId": "v=74722555&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74722555,
       "launchParam": null
@@ -1948,7 +1948,7 @@
     "updateTime": "2025-11-13T18:07:35.121Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74736685&list=REGION_VIDEO:8",
+      "contentId": "v=74736685&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74736685,
       "launchParam": null
@@ -2108,7 +2108,7 @@
     "updateTime": "2025-11-13T15:06:38.3Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74732533&list=REGION_VIDEO:8",
+      "contentId": "v=74732533&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74732533,
       "launchParam": null
@@ -3743,7 +3743,7 @@
     "updateTime": "2025-11-10T08:48:23.024Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74647843&list=REGION_VIDEO:8",
+      "contentId": "v=74647843&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74647843,
       "launchParam": null
@@ -4785,7 +4785,7 @@
     "updateTime": "2025-11-07T15:20:36.308Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74663993&list=REGION_VIDEO:8",
+      "contentId": "v=74663993&list=GLOBAL_TOPIC_VIDEO:12",
       "type": "video",
       "id": 74663993,
       "launchParam": null
@@ -5689,6 +5689,45 @@
     "language": "en"
   },
   {
+    "titleText": "Videos emerge of post-election violence in Tanzania",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:TZ": "Tanzania"
+    },
+    "regions": [
+      "Tanzania"
+    ],
+    "runningTime": 487,
+    "updateTime": "2025-11-05T19:02:17.249Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74634649&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74634649,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74596475_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74596475_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "DRC moves to overturn Catholic ban on pregnant schoolgirls",
     "category": "Society",
     "subCategory": null,
@@ -5723,6 +5762,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74614409_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Zohran Mamdani's election as New York mayor thrills Ugandans",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Uganda",
+      "North America"
+    ],
+    "runningTime": 181,
+    "updateTime": "2025-11-05T13:33:18.878Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74629754&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74629754,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74620881_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74620881_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5849,6 +5929,45 @@
     "language": "en"
   },
   {
+    "titleText": "Inside Sudan's brutal war: The warlords and their allies",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:SD": "Sudan"
+    },
+    "regions": [
+      "Sudan"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-11-04T22:11:03.707Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74619707&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74619707,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65389026_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65389026_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "German defense giant to build ammunition plant in Lithuania",
     "category": "Politics",
     "subCategory": "Business",
@@ -5931,6 +6050,45 @@
     "language": "en"
   },
   {
+    "titleText": "Scoring goals, planting trees: Gambia's green football win",
+    "category": "Nature and Environment",
+    "subCategory": "Sports",
+    "region_ids": {
+      "region:africa:GM": "The Gambia"
+    },
+    "regions": [
+      "The Gambia"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-11-04T11:53:46.998Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74561340&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74561340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74560202_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74560202_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israeli settler violence disrupts West Bank olive harvest",
     "category": "Human Rights",
     "subCategory": "Nature and Environment",
@@ -5972,6 +6130,45 @@
     "language": "en"
   },
   {
+    "titleText": "Mapping Kampala's cooler, cleaner future ",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 249,
+    "updateTime": "2025-11-04T11:30:46.001Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74561334&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74561334,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74560237_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74560237_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bosnia and Herzegovina: The horse whisperer",
     "category": "Society",
     "subCategory": "Health",
@@ -6004,6 +6201,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74472765_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nigeria fends off US report on alleged Christian killings",
+    "category": "Politics",
+    "subCategory": "Terrorism",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 184,
+    "updateTime": "2025-11-03T21:04:28.425Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74604308&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74604308,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/15652686_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/15652686_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6130,6 +6366,45 @@
     "language": "en"
   },
   {
+    "titleText": "The Fulani and the fight for land in northern Nigeria",
+    "category": "Society",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 550,
+    "updateTime": "2025-11-03T09:26:35.367Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74512091&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74512091,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74489661_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74489661_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "City in Mexico mourns assassinated anti-cartel mayor",
     "category": "Crime",
     "subCategory": "Politics",
@@ -6162,6 +6437,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74592475_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Grand Egyptian Museum is new symbol of national identity",
+    "category": "Culture",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:EG": "Egypt",
+      "region:africa": "Africa",
+      "region:me": "Middle East"
+    },
+    "regions": [
+      "Egypt",
+      "Africa",
+      "Middle East"
+    ],
+    "runningTime": 142,
+    "updateTime": "2025-11-03T05:50:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74585720&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74585720,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74562878_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74562878_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6210,6 +6528,45 @@
     "language": "en"
   },
   {
+    "titleText": "Donald Trump threatens military action in Nigeria",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 165,
+    "updateTime": "2025-11-02T17:01:41.918Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74591325&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74591325,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/62039197_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/62039197_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Young Russian musicians defy Kremlin through song",
     "category": "Society",
     "subCategory": "Politics",
@@ -6242,6 +6599,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74405469_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "UN backing of Morocco's claim to Western Sahara draws ire",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:MA": "Morocco",
+      "region:africa:DZ": "Algeria"
+    },
+    "regions": [
+      "Morocco",
+      "Algeria"
+    ],
+    "runningTime": 151,
+    "updateTime": "2025-11-02T13:29:15.767Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74590734&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74590734,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/69807670_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/69807670_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7510,6 +7908,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74487501_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nnamdi Kanu: Threat to Nigeria or prisoner of conscience?",
+    "category": "Law and Justice",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-10-24T17:43:58.536Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74490918&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74490918,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/63475404_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/63475404_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10258,6 +10697,47 @@
     "language": "en"
   },
   {
+    "titleText": "Lagos meets Germany at Beethovenfest's Campus Project 25",
+    "category": "Music",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Nigeria",
+      "Germany"
+    ],
+    "runningTime": 584,
+    "updateTime": "2025-10-07T08:27:51.121Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74178464&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74178464,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74150118_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74150118_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can India's water-stressed cities sustain AI data centers?",
     "category": "Technology",
     "subCategory": "Digital World",
@@ -10340,6 +10820,88 @@
     "language": "en"
   },
   {
+    "titleText": "How Beethoven's music inspires this Nigerian orchestra",
+    "category": "Music",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Germany",
+      "Nigeria"
+    ],
+    "runningTime": 109,
+    "updateTime": "2025-10-06T08:12:40.753Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74178460&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74178460,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74150132_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74150132_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why Mandarin Chinese courses are growing in African schools",
+    "category": "Education",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Africa",
+      "Nigeria"
+    ],
+    "runningTime": 225,
+    "updateTime": "2025-10-05T16:11:44.765Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74242937&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74242937,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74143533_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74143533_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why is Syria holding elections without public voting?",
     "category": "Politics",
     "subCategory": null,
@@ -10372,6 +10934,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74241988_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How a staple of Nigerian cuisine could feed space travelers",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Africa",
+      "Nigeria"
+    ],
+    "runningTime": 99,
+    "updateTime": "2025-10-02T17:34:02.905Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74223919&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74223919,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74223566_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74223566_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Young Nigerian getting a kick out of Taekwondo",
+    "category": "Sports",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 115,
+    "updateTime": "2025-10-01T08:43:44.395Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74010701&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74010701,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74008727_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74008727_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10535,6 +11177,45 @@
     "language": "en"
   },
   {
+    "titleText": "Coastal erosion threatens entire communities in Nigeria",
+    "category": "Climate",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 149,
+    "updateTime": "2025-09-25T18:09:12.179Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74140388&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74140388,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74129717_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74129717_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Denmark apologizes for abuse of Greenlandic indigenous women",
     "category": "Human Rights",
     "subCategory": "Health",
@@ -10649,6 +11330,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74102937_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Vox Pops: Would you donate your body? ",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Africa",
+      "Nigeria"
+    ],
+    "runningTime": 88,
+    "updateTime": "2025-09-23T08:47:25.254Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73932854&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 73932854,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/41621096_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/41621096_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nigerian women push for more female representation",
+    "category": "Equality",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 120,
+    "updateTime": "2025-09-23T08:44:33.284Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74105025&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74105025,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74104560_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74104560_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10896,6 +11657,88 @@
     "language": "en"
   },
   {
+    "titleText": "Cassie Kinoshi explores Nigerian roots in new work",
+    "category": "Music",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:europe:DE": "Germany",
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "Nigeria",
+      "Germany",
+      "United Kingdom"
+    ],
+    "runningTime": 312,
+    "updateTime": "2025-09-19T10:13:20.425Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023319&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74023319,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785752_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785752_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Nigerian chef cooks largest pot of jollof rice ever",
+    "category": "Culture",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 109,
+    "updateTime": "2025-09-18T17:05:57.694Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74051279&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 74051279,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74047831_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74047831_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Mali: Crafting bazin with cleaner dyeing practices",
     "category": "Nature and Environment",
     "subCategory": "Lifestyle",
@@ -10967,6 +11810,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73971468_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kenya: Nationwide debate on organ trafficking",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Kenya",
+      "Nigeria"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-09-13T05:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73932883&list=GLOBAL_TOPIC_VIDEO:12",
+      "type": "video",
+      "id": 73932883,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74055099_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74055099_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12354,6 +13238,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66768929_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "AI, drones, cyber weapons: How tech is changing warfare ",
+    "category": "Digital World",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 219,
+    "updateTime": "2025-06-12T07:45:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72890197&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 72890197,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65924312_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65924312_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
