@@ -1209,7 +1209,7 @@
     "updateTime": "2025-11-20T10:08:21.68Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752490&list=FEATURED_VIDEO:1",
+      "contentId": "v=74752490&list=REGION_VIDEO:6",
       "type": "video",
       "id": 74752490,
       "launchParam": null
@@ -6899,45 +6899,6 @@
     "language": "en"
   },
   {
-    "titleText": "City in Mexico mourns assassinated anti-cartel mayor",
-    "category": "Crime",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Mexico"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-11-03T07:28:41.896Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74593023&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74593023,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74592475_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74592475_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Hezbollah-Israel ceasefire under pressure",
     "category": "Conflicts",
     "subCategory": null,
@@ -9950,7 +9911,7 @@
     "updateTime": "2025-10-14T09:12:52.703Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74346246&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74346246&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74346246,
       "launchParam": null
@@ -11978,6 +11939,49 @@
     "language": "en"
   },
   {
+    "titleText": "Under Taliban shadow, Afghans in Pakistan look to Germany",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:AF": "Afghanistan",
+      "region:asia:PK": "Pakistan",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Afghanistan",
+      "Pakistan",
+      "Germany"
+    ],
+    "runningTime": 232,
+    "updateTime": "2025-08-29T12:12:19.978Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73810508&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73810508,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73642929_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73642929_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "In Kashmir, lotus bloom on Wular Lake brings relief and hope",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -12326,6 +12330,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73643106_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rohingya women in Bangladeshi camps lack toilets",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:BD": "Bangladesh",
+      "region:asia:MM": "Myanmar"
+    },
+    "regions": [
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "runningTime": 364,
+    "updateTime": "2025-08-14T07:10:20.377Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73631740&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73631740,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73631773_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73631773_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
