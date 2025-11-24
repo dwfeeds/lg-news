@@ -445,18 +445,20 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe": "Europe",
-      "region:africa": "Africa"
+      "region:europe:DE": "Germany",
+      "region:europe:RU": "Russian Federation",
+      "region:asia:CN": "China"
     },
     "regions": [
-      "Europe",
-      "Africa"
+      "Germany",
+      "Russian Federation",
+      "China"
     ],
     "runningTime": 352,
     "updateTime": "2025-11-23T18:54:17.827Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74855165&list=REGION_VIDEO:7",
+      "contentId": "v=74855165&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74855165,
       "launchParam": null
@@ -4774,6 +4776,45 @@
     "language": "en"
   },
   {
+    "titleText": "Cleaning up the Lahn river and educating the public",
+    "category": "Nature and Environment",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-11-12T13:26:45.434Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74646612&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74646612,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/45963206_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/45963206_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US-Venezuela tensions rise further amid military buildup",
     "category": "Conflicts",
     "subCategory": null,
@@ -6289,6 +6330,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74669444_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Typhoon Kalmaegi kills at least 5 in Vietnam",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:VN": "Vietnam"
+    },
+    "regions": [
+      "Vietnam"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-11-07T21:05:29.663Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74669452&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74669452,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74657958_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74657958_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10495,90 +10575,6 @@
     "language": "en"
   },
   {
-    "titleText": "Auto summit: Why German carmakers need help from politics",
-    "category": "Globalization",
-    "subCategory": "Trade",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:asia:CN": "China",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Germany",
-      "China",
-      "Europe"
-    ],
-    "runningTime": 132,
-    "updateTime": "2025-10-07T14:06:14.409Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74259128&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74259128,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/67087249_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/67087249_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Tibet: Rescued hiker recalls being stranded on Mount Everest",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:asia:NP": "Nepal"
-    },
-    "regions": [
-      "China",
-      "Nepal"
-    ],
-    "runningTime": 131,
-    "updateTime": "2025-10-07T13:50:50.647Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74266379&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74266379,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74247274_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74247274_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How AI boom is impacting Latin America, US",
     "category": "Digital World",
     "subCategory": "Climate",
@@ -10734,47 +10730,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74189322_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "German MP's ex-aide guilty of spying for China: What to know",
-    "category": "Crime",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Germany",
-      "China"
-    ],
-    "runningTime": 173,
-    "updateTime": "2025-09-30T07:53:29.704Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74183139&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74183139,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68898652_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68898652_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
