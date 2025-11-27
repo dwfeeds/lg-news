@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 87,
+    "updateTime": "2025-11-27T12:26:16.127Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74913655_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74913655_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Attack on National Guard soldiers 'act of terror'",
     "category": "Politics",
     "subCategory": null,
@@ -149,41 +184,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74910029_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 87,
-    "updateTime": "2025-11-26T19:19:23.425Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74913655_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74913655_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1881,13 +1881,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73232857_6.jpg",
+      "url": "https://static.dw.com/image/72179409_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73232857_7.jpg",
+      "url": "https://static.dw.com/image/72179409_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13930,7 +13930,7 @@
     "updateTime": "2025-11-27T09:54:15.069Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74912387&list=REPORTS_VIDEO:1",
+      "contentId": "v=74912387&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 74912387,
       "launchParam": null
@@ -14129,7 +14129,7 @@
     "updateTime": "2025-11-26T12:25:50.809Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74843439&list=FEATURED_VIDEO:1",
+      "contentId": "v=74843439&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 74843439,
       "launchParam": null
