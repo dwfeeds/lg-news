@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Kyiv apartment block hit in deadly Russian missile strike",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 251,
+    "updateTime": "2025-11-30T17:32:27.612Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74959753&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74959753,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74957614_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74957614_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Philippines flood corruption scandal sparks Manila protests",
+    "category": "Society",
+    "subCategory": "Corruption",
+    "region_ids": {
+      "region:asia:PH": "Philippines"
+    },
+    "regions": [
+      "Philippines"
+    ],
+    "runningTime": 105,
+    "updateTime": "2025-11-30T16:48:55.972Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74959591&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74959591,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74956234_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74956234_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gender selection in Northern Cyprus raises questions",
     "category": "Society",
     "subCategory": null,
@@ -7400,7 +7478,7 @@
     "updateTime": "2025-11-07T17:06:33.274Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74667518&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74667518&list=REGION_VIDEO:5",
       "type": "video",
       "id": 74667518,
       "launchParam": null
@@ -10163,45 +10241,6 @@
     "language": "en"
   },
   {
-    "titleText": "Millions across US join mass 'No Kings' anti-Trump protests",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-10-18T21:52:19.728Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74413378&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74413378,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74413104_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74413104_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Why this American left the US for Europe",
     "category": "Society",
     "subCategory": "Migration",
@@ -10431,45 +10470,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68405036_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Earth could face 114 more deadly hot days a year by 2100",
-    "category": "Climate",
-    "subCategory": "Catastrophe",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-10-16T10:28:25.041Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74384590&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74384590,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73674068_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73674068_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14341,6 +14341,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74822858_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Drohnen made in München",
+    "category": "Technik",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 195,
+    "updateTime": "2025-11-27T10:18:28.026Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74824451&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74824451,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73773515_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73773515_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
