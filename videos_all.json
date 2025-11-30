@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Venezuelan migrants in Bogota brace as US pressure grows",
+    "category": "Migration",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:cala:VE": "Venezuela"
+    },
+    "regions": [
+      "Venezuela"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-11-30T20:54:32.047Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74960414&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74960414,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74960396_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74960396_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -11757,45 +11796,6 @@
     "language": "en"
   },
   {
-    "titleText": "Africa faces new migration shifts under US deportation deals",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 278,
-    "updateTime": "2025-09-02T15:36:38.087Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73855705&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 73855705,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73224860_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73224860_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "France's severe heat imperils Mediterranean marine life",
     "category": "Climate",
     "subCategory": "Society",
@@ -12664,6 +12664,47 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Espacio Aereo Venezolano cerrado",
+    "category": "Noticias en video",
+    "subCategory": "Conflictos",
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "Estados Unidos"
+    },
+    "regions": [
+      "Venezuela",
+      "Estados Unidos"
+    ],
+    "runningTime": 174,
+    "updateTime": "2025-11-30T19:24:24.653Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74960311&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74960311,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74960396_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74960396_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Trump advierte a Maduro de tomar medidas terrestres",
