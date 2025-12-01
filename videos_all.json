@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Pope Leo arrives in Lebanon to push for peace",
+    "category": "Religion",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me:LB": "Lebanon"
+    },
+    "regions": [
+      "Lebanon"
+    ],
+    "runningTime": 162,
+    "updateTime": "2025-12-01T07:01:41.33Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74962082&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 74962082,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74958633_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74958633_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -48,7 +87,7 @@
     "updateTime": "2025-11-30T20:54:32.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74960414&list=REGION_VIDEO:6",
+      "contentId": "v=74960414&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74960414,
       "launchParam": null
@@ -286,7 +325,7 @@
     "updateTime": "2025-11-30T10:57:50.652Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74956771&list=REGION_VIDEO:6",
+      "contentId": "v=74956771&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74956771,
       "launchParam": null
@@ -842,7 +881,7 @@
     "updateTime": "2025-11-28T15:42:15.799Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74944701&list=REGION_VIDEO:5",
+      "contentId": "v=74944701&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74944701,
       "launchParam": null
@@ -2245,7 +2284,7 @@
     "updateTime": "2025-11-25T19:07:46.329Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74897504&list=REGION_VIDEO:4",
+      "contentId": "v=74897504&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74897504,
       "launchParam": null
@@ -3299,7 +3338,7 @@
     "updateTime": "2025-11-22T16:35:48.456Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74751615&list=REGION_VIDEO:7",
+      "contentId": "v=74751615&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74751615,
       "launchParam": null
@@ -3537,7 +3576,7 @@
     "updateTime": "2025-11-21T15:50:19.415Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74841669&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74841669&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74841669,
       "launchParam": null
@@ -3576,7 +3615,7 @@
     "updateTime": "2025-11-21T13:26:44.458Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74824507&list=REGION_VIDEO:7",
+      "contentId": "v=74824507&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74824507,
       "launchParam": null
@@ -4640,6 +4679,45 @@
     "language": "en"
   },
   {
+    "titleText": "Malaria research in Germany targets parasite’s life cycle",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 213,
+    "updateTime": "2025-11-19T11:24:48.775Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74740912&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74740912,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72670070_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72670070_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Can the power grid survive the US data center revolution?",
     "category": "Business",
     "subCategory": null,
@@ -4672,6 +4750,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74807162_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Seagulls flock to bird 'hotel' in Norway's far east ",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:NO": "Norway"
+    },
+    "regions": [
+      "Europe",
+      "Norway"
+    ],
+    "runningTime": 198,
+    "updateTime": "2025-11-19T09:37:22.797Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74736943&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74736943,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74733897_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74733897_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4733,7 +4852,7 @@
     "updateTime": "2025-11-18T15:14:53.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74783293&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74783293&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74783293,
       "launchParam": null
@@ -6464,6 +6583,45 @@
     "language": "en"
   },
   {
+    "titleText": "How communities are reviving forests in the Western Ghats",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 402,
+    "updateTime": "2025-11-10T13:19:53.949Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74646594&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74646594,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74646767_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74646767_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syria's al-Sharaa to meet Trump at the White House",
     "category": "Politics",
     "subCategory": null,
@@ -6678,7 +6836,7 @@
     "updateTime": "2025-11-09T10:15:06.694Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74565745&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74565745&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74565745,
       "launchParam": null
@@ -7545,6 +7703,45 @@
     "language": "en"
   },
   {
+    "titleText": "Migration: Germany's Merz criticized for 'cityscape' remarks",
+    "category": "Migration",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 201,
+    "updateTime": "2025-11-07T12:45:38.722Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74660814&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74660814,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71730995_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71730995_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Palantir's AI rise: How dangerous is the data giant?",
     "category": "Human Rights",
     "subCategory": null,
@@ -7826,6 +8023,47 @@
     "language": "en"
   },
   {
+    "titleText": "COP30 nears as pressure mounts over climate's social impacts",
+    "category": "Climate",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:BR": "Brazil",
+      "region:global": "Global"
+    },
+    "regions": [
+      "Brazil",
+      "Global"
+    ],
+    "runningTime": 165,
+    "updateTime": "2025-11-06T12:17:19.718Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74641973&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 74641973,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74623807_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74623807_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chilean activists block Google AI data center",
     "category": "Digital World",
     "subCategory": "Technology",
@@ -7977,6 +8215,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71113223_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why glaciers in Patagonia are melting dramatically",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala": "Latin America"
+    },
+    "regions": [
+      "Latin America"
+    ],
+    "runningTime": 189,
+    "updateTime": "2025-11-06T09:11:25.941Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74572466&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 74572466,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72713627_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72713627_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8494,47 +8771,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74593839_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hezbollah-Israel ceasefire under pressure",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 91,
-    "updateTime": "2025-11-02T23:07:49.212Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74591944&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74591944,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74082386_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74082386_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9330,6 +9566,47 @@
     "language": "en"
   },
   {
+    "titleText": "Afghans in Pakistan forced to leave as camp demolished",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "runningTime": 189,
+    "updateTime": "2025-10-26T10:15:29.542Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74488055&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74488055,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74485717_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74485717_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Rallies in Spain mark anniversary of catastrophic floods",
     "category": "Catastrophe",
     "subCategory": "Politics",
@@ -9499,7 +9776,7 @@
     "updateTime": "2025-10-23T14:44:22.558Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74474582&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=74474582&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74474582,
       "launchParam": null
@@ -9639,6 +9916,125 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74463183_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghanistan-Pakistan clashes open old wounds",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "runningTime": 242,
+    "updateTime": "2025-10-22T15:37:58.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74461764&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74461764,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73461931_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73461931_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Construction begins on new White House ballroom",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-10-22T08:50:58.758Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74452565&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 74452565,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74452078_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74452078_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Political freedom in Tanzania under growing threat",
+    "category": "Human Rights",
+    "subCategory": "Freedom of Speech",
+    "region_ids": {
+      "region:africa:TZ": "Tanzania"
+    },
+    "regions": [
+      "Tanzania"
+    ],
+    "runningTime": 221,
+    "updateTime": "2025-10-22T08:43:17.56Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74333625&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74333625,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74312914_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74312914_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9875,6 +10271,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74356121_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why this American left the US for Europe",
+    "category": "Society",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:PT": "Portugal",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Portugal",
+      "United States of America"
+    ],
+    "runningTime": 312,
+    "updateTime": "2025-10-18T11:45:54.643Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74404984&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74404984,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74388543_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74388543_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10510,6 +10947,47 @@
     "language": "en"
   },
   {
+    "titleText": "Sudan's first bicycle courier finds new life in Cairo",
+    "category": "Migration",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:SD": "Sudan",
+      "region:africa:EG": "Egypt"
+    },
+    "regions": [
+      "Sudan",
+      "Egypt"
+    ],
+    "runningTime": 399,
+    "updateTime": "2025-10-06T12:03:51.508Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74229359&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74229359,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74219437_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74219437_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why Indonesian students are getting food poisoning at school",
     "category": "Society",
     "subCategory": "Health",
@@ -10620,6 +11098,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74172546_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Taiwan: Migrant workers face bias in booming chip industry",
+    "category": "Globalization",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:asia:TW": "Taiwan",
+      "region:asia:PH": "Philippines",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Taiwan",
+      "Philippines",
+      "Europe"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-09-26T09:05:30.747Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74088016&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74088016,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74142857_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74142857_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10828,6 +11349,168 @@
     "language": "en"
   },
   {
+    "titleText": "Afghan refugees 'forced out' of Pakistan return with little",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "runningTime": 186,
+    "updateTime": "2025-09-17T16:15:26.375Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74033383&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74033383,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74030390_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74030390_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Libyan coast guard abuses spotlight EU anti-migration policy",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:africa:LY": "Libya"
+    },
+    "regions": [
+      "Europe",
+      "Libya"
+    ],
+    "runningTime": 170,
+    "updateTime": "2025-09-16T09:18:49.133Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74009242&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74009242,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/66619678_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/66619678_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Tuvalu is sinking — what's next for residents?",
+    "category": "Climate",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:oceania:TV": "Tuvalu",
+      "region:oceania": "Oceania"
+    },
+    "regions": [
+      "Tuvalu",
+      "Oceania"
+    ],
+    "runningTime": 388,
+    "updateTime": "2025-09-16T07:31:49.521Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73981533&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73981533,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73975114_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73975114_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How Moldova helps Ukrainian refugees fleeing war with Russia",
+    "category": "Politics",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova"
+    },
+    "regions": [
+      "Republic of Moldova"
+    ],
+    "runningTime": 415,
+    "updateTime": "2025-09-15T08:05:21.593Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73995305&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73995305,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73995376_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73995376_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Invasive water weed threatens El Salvador wetland",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -10908,6 +11591,90 @@
     "language": "en"
   },
   {
+    "titleText": "Why are so many Venezuelans fleeing to Europe?",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:cala": "Latin America",
+      "region:europe": "Europe",
+      "region:northamerica": "North America"
+    },
+    "regions": [
+      "Venezuela",
+      "Latin America",
+      "Europe",
+      "North America"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-09-12T11:31:18.99Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73975877&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73975877,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73975141_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73975141_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany recruits truck drivers from West Africa",
+    "category": "Society",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 291,
+    "updateTime": "2025-09-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73897896&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73897896,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73899139_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73899139_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Iran's nomadic women fight for proper toilets, clean water",
     "category": "Health",
     "subCategory": "Human Rights",
@@ -10942,6 +11709,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73943697_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Uganda protect citizens in the global labor market? ",
+    "category": "Globalization",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 330,
+    "updateTime": "2025-09-07T08:34:31.682Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73895174&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73895174,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73810294_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73810294_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11812,6 +12618,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73139701_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistan's women fight to enter the labor force",
+    "category": "Equality",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 334,
+    "updateTime": "2025-06-25T15:16:00.691Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73022739&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 73022739,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73024812_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73024812_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
