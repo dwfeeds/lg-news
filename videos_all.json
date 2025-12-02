@@ -1,5 +1,122 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 103,
+    "updateTime": "2025-12-02T12:13:18.814Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74977949_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74977949_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is the Global South leading the green transition?",
+    "category": "Climate",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:africa:KE": "Kenya",
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "China",
+      "Kenya",
+      "Brazil"
+    ],
+    "runningTime": 420,
+    "updateTime": "2025-12-02T12:05:35.906Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74946561&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74946561,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74982695_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74982695_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "E-cargo bikes drive health and sustainability in Uganda",
+    "category": "Climate",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 316,
+    "updateTime": "2025-12-02T11:52:58.42Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74887819&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74887819,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74882752_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74882752_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Inside Ukraine's frontline evacuations as Russia advances",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -25,48 +142,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74981496_6.jpg",
+      "url": "https://static.dw.com/image/69105246_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74981496_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 103,
-    "updateTime": "2025-12-02T06:51:51.267Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74970727_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74970727_7.jpg",
+      "url": "https://static.dw.com/image/69105246_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4958,88 +5040,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ghana rolls out HPV vaccines for millions of girls",
-    "category": "Health",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa:GH": "Ghana",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Ghana",
-      "Africa"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-11-19T13:34:39.9Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74695524&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74695524,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74513860_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74513860_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Food glut hits Ghana",
-    "category": "Food Security",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Africa",
-      "Ghana"
-    ],
-    "runningTime": 204,
-    "updateTime": "2025-11-19T11:53:13.035Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74806034&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74806034,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74802593_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74802593_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Malaria research in Germany targets parasite’s life cycle",
     "category": "Science",
     "subCategory": null,
@@ -6617,47 +6617,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74644747_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Indian students find pleasure and pain in Germany",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India",
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "India",
-      "Germany"
-    ],
-    "runningTime": 282,
-    "updateTime": "2025-11-11T16:13:27.784Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74702811&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74702811,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74001539_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74001539_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14071,7 +14030,89 @@
     "language": "es"
   },
   {
-    "titleText": "Die Ukraine ringt um Sicherheit",
+    "titleText": "Wie Städte ihre Bewohner vor Klimarisiken schützen können ",
+    "category": "Natur und Umwelt",
+    "subCategory": "Katastrophe",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 513,
+    "updateTime": "2025-12-02T12:43:16.064Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74973168&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74973168,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74982498_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74982498_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Führt der Globale Süden den grünen Wandel an?",
+    "category": "Klima",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:asia:CN": "China",
+      "region:africa:KE": "Kenia",
+      "region:cala:BR": "Brasilien"
+    },
+    "regions": [
+      "China",
+      "Kenia",
+      "Brasilien"
+    ],
+    "runningTime": 428,
+    "updateTime": "2025-12-02T12:21:52.542Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74973193&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74973193,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74982695_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74982695_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Selenskyj sucht Unterstützung bei Macron",
     "category": "Konflikte",
     "subCategory": null,
     "region_ids": {
@@ -14432,45 +14473,6 @@
     "language": "de"
   },
   {
-    "titleText": "Die Tricks, die uns abhängig von Chatbots machen",
-    "category": "Digitale Welt",
-    "subCategory": "Technik",
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 153,
-    "updateTime": "2025-11-28T16:25:27.213Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932314&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74932314,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74924704_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74924704_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
     "titleText": "Wunschgeschlecht bei Babys - um welchen Preis?",
     "category": "Gesellschaft",
     "subCategory": "Lifestyle",
@@ -14484,7 +14486,7 @@
     "updateTime": "2025-11-28T15:09:34.715Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74905997&list=REPORTS_VIDEO:1",
+      "contentId": "v=74905997&list=PANORAMA_VIDEO:1",
       "type": "video",
       "id": 74905997,
       "launchParam": null
@@ -15250,45 +15252,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/67901380_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Die Duisburger Demenzkneipe",
-    "category": "Gesundheit",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Deutschland"
-    ],
-    "runningTime": 222,
-    "updateTime": "2025-11-15T09:54:18.28Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74712650&list=PANORAMA_VIDEO:1",
-      "type": "video",
-      "id": 74712650,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74644613_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74644613_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
