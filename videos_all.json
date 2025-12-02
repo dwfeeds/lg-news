@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "Moldova faces increasing Russian drone incursions",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova"
+    },
+    "regions": [
+      "Republic of Moldova"
+    ],
+    "runningTime": 216,
+    "updateTime": "2025-12-02T15:39:52.672Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74974429&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74974429,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74909256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74909256_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Hong Kong fire outrage grows as police detain critics",
+    "category": "Human Rights",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:HK": "Hong Kong"
+    },
+    "regions": [
+      "Hong Kong"
+    ],
+    "runningTime": 137,
+    "updateTime": "2025-12-02T15:37:14.248Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74989480&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74989480,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74977261_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74977261_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The Hindu caretakers of India's abandoned mosques",
     "category": "Politics",
     "subCategory": "Society",
@@ -78,13 +156,13 @@
     "category": "Climate",
     "subCategory": "Politics",
     "region_ids": {
-      "region:asia:CN": "China",
       "region:africa:KE": "Kenya",
+      "region:asia:CN": "China",
       "region:cala:BR": "Brazil"
     },
     "regions": [
-      "China",
       "Kenya",
+      "China",
       "Brazil"
     ],
     "runningTime": 420,
@@ -103,13 +181,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74982695_6.jpg",
+      "url": "https://static.dw.com/image/74988438_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74982695_7.jpg",
+      "url": "https://static.dw.com/image/74988438_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -253,7 +331,7 @@
     "updateTime": "2025-12-01T14:39:13.159Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74929046&list=REGION_VIDEO:4",
+      "contentId": "v=74929046&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74929046,
       "launchParam": null
@@ -558,7 +636,7 @@
     "language": "en"
   },
   {
-    "titleText": "Venezuelans in Colombia brace as US pressure grows",
+    "titleText": "Venezuelan migrants in Colombia brace as US pressure grows",
     "category": "Migration",
     "subCategory": "Conflicts",
     "region_ids": {
@@ -5871,45 +5949,6 @@
     "language": "en"
   },
   {
-    "titleText": "Romani nurse breaks down social barriers in Bulgaria",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 221,
-    "updateTime": "2025-11-15T15:21:20.661Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74716773&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74716773,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74686280_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74686280_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India: Deadly blast rips through a Kashimir police station",
     "category": "Catastrophe",
     "subCategory": null,
@@ -10321,47 +10360,6 @@
     "language": "en"
   },
   {
-    "titleText": "Afghanistan-Pakistan clashes open old wounds",
-    "category": "Society",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:asia:PK": "Pakistan",
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Pakistan",
-      "Afghanistan"
-    ],
-    "runningTime": 242,
-    "updateTime": "2025-10-22T15:37:58.486Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74461764&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 74461764,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73461931_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73461931_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Construction begins on new White House ballroom",
     "category": "Politics",
     "subCategory": null,
@@ -14074,8 +14072,8 @@
   },
   {
     "titleText": "Wie Städte ihre Bewohner vor Klimarisiken schützen können ",
-    "category": "Natur und Umwelt",
-    "subCategory": "Katastrophe",
+    "category": "Klima",
+    "subCategory": "Natur und Umwelt",
     "region_ids": {
       "region:global": "Global"
     },
