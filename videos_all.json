@@ -119,7 +119,7 @@
     "language": "en"
   },
   {
-    "titleText": "Who makes Europe’s best stuffed peppers?",
+    "titleText": "Who makes Europe's best stuffed peppers?",
     "category": "Lifestyle",
     "subCategory": null,
     "region_ids": {
@@ -240,7 +240,7 @@
     "language": "en"
   },
   {
-    "titleText": "Venice lagoon: Dolphin Mimmo draws crowds",
+    "titleText": "Dolphin Mimmo draws crowds in Venice lagoon",
     "category": "Nature and Environment",
     "subCategory": "Travel",
     "region_ids": {
@@ -253,7 +253,7 @@
     "updateTime": "2025-12-01T11:32:01.427Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74839735&list=REGION_VIDEO:7",
+      "contentId": "v=74839735&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74839735,
       "launchParam": null
@@ -281,7 +281,7 @@
   {
     "titleText": "Can an AI chatbot really become my friend?",
     "category": "Digital World",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:global": "Global"
     },
@@ -372,7 +372,7 @@
     "updateTime": "2025-12-01T07:01:41.33Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74962082&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74962082&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74962082,
       "launchParam": null
@@ -881,7 +881,7 @@
     "updateTime": "2025-11-29T16:55:10.053Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74951205&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74951205&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74951205,
       "launchParam": null
@@ -1082,7 +1082,7 @@
     "updateTime": "2025-11-28T18:39:54.944Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74946312&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74946312&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74946312,
       "launchParam": null
@@ -1525,7 +1525,7 @@
     "updateTime": "2025-11-28T09:08:49.596Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74839730&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74839730&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74839730,
       "launchParam": null
@@ -1726,7 +1726,7 @@
     "updateTime": "2025-11-27T19:51:14.304Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932447&list=REGION_VIDEO:8",
+      "contentId": "v=74932447&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74932447,
       "launchParam": null
@@ -2331,7 +2331,7 @@
     "updateTime": "2025-11-26T17:58:03.061Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74912891&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74912891&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74912891,
       "launchParam": null
@@ -2409,7 +2409,7 @@
     "updateTime": "2025-11-26T10:21:52.867Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74901740&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74901740&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74901740,
       "launchParam": null
@@ -3128,11 +3128,15 @@
     "language": "en"
   },
   {
-    "titleText": "Citizen science lab in Villupuram unlocks fungi's power",
+    "titleText": "Citizen science harnesses fungi's potential for innovation",
     "category": "Nature and Environment",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
     "runningTime": 364,
     "updateTime": "2025-11-24T09:31:54.71Z",
     "onClick": {
@@ -3217,7 +3221,7 @@
     "updateTime": "2025-11-23T21:25:33.04Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74855712&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74855712&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74855712,
       "launchParam": null
@@ -3465,7 +3469,7 @@
     "updateTime": "2025-11-23T08:27:54.53Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74851472&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74851472&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74851472,
       "launchParam": null
@@ -4212,7 +4216,7 @@
     "updateTime": "2025-11-21T08:44:56.304Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74830481&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74830481&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74830481,
       "launchParam": null
@@ -4530,7 +4534,7 @@
     "updateTime": "2025-11-20T12:38:40.912Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74815396&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74815396&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74815396,
       "launchParam": null
@@ -4571,7 +4575,7 @@
     "updateTime": "2025-11-20T12:30:12.186Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74819309&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74819309&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74819309,
       "launchParam": null
@@ -4956,6 +4960,47 @@
     "language": "en"
   },
   {
+    "titleText": "Food glut hits Ghana",
+    "category": "Food Security",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 204,
+    "updateTime": "2025-11-19T11:53:13.035Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74806034&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74806034,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74802593_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74802593_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Malaria research in Germany targets parasite’s life cycle",
     "category": "Science",
     "subCategory": null,
@@ -5049,7 +5094,7 @@
     "updateTime": "2025-11-19T09:37:22.797Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74736943&list=REGION_VIDEO:7",
+      "contentId": "v=74736943&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74736943,
       "launchParam": null
@@ -5285,7 +5330,7 @@
     "updateTime": "2025-11-18T08:02:36.662Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74785674&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74785674&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74785674,
       "launchParam": null
@@ -5404,7 +5449,7 @@
     "updateTime": "2025-11-17T09:35:50.936Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74771800&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74771800&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74771800,
       "launchParam": null
@@ -5839,7 +5884,7 @@
     "updateTime": "2025-11-15T09:32:00.626Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74756972&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74756972&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74756972,
       "launchParam": null
@@ -5919,7 +5964,7 @@
     "updateTime": "2025-11-14T20:20:43.151Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74741015&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74741015&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74741015,
       "launchParam": null
@@ -6116,7 +6161,7 @@
     "updateTime": "2025-11-13T19:08:27.131Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74736067&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74736067&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74736067,
       "launchParam": null
@@ -6332,6 +6377,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74710374_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Poo Zoo: How animal dung could help save endangered species",
+    "category": "Nature and Environment",
+    "subCategory": "Science",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "runningTime": 273,
+    "updateTime": "2025-11-12T12:29:50.128Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74640583&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74640583,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74640259_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74640259_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6555,7 +6641,7 @@
     "updateTime": "2025-11-11T12:42:11.544Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74699823&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74699823&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74699823,
       "launchParam": null
@@ -6613,6 +6699,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74698204_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How the EU is fighting the illegal puppy trade",
+    "category": "Society",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Europe"
+    ],
+    "runningTime": 277,
+    "updateTime": "2025-11-11T08:53:08.776Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74576615&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74576615,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74555823_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74555823_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7199,7 +7324,7 @@
     "updateTime": "2025-11-08T17:00:46Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74664275&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74664275&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74664275,
       "launchParam": null
@@ -7714,7 +7839,7 @@
     "updateTime": "2025-11-07T17:06:33.274Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74667518&list=REGION_VIDEO:5",
+      "contentId": "v=74667518&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74667518,
       "launchParam": null
@@ -7956,7 +8081,7 @@
     "updateTime": "2025-11-07T10:50:14.483Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74656340&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74656340&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74656340,
       "launchParam": null
@@ -8114,7 +8239,7 @@
     "updateTime": "2025-11-06T15:15:30.452Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74640827&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74640827&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74640827,
       "launchParam": null
@@ -8752,7 +8877,7 @@
     "updateTime": "2025-11-04T11:38:29.07Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74607601&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74607601&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74607601,
       "launchParam": null
@@ -8791,7 +8916,7 @@
     "updateTime": "2025-11-04T09:58:43.338Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74487232&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=74487232&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74487232,
       "launchParam": null
@@ -8832,7 +8957,7 @@
     "updateTime": "2025-11-03T20:12:46.443Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74604049&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74604049&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74604049,
       "launchParam": null
@@ -8910,7 +9035,7 @@
     "updateTime": "2025-11-03T10:00:51.368Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74593634&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74593634&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74593634,
       "launchParam": null
@@ -8929,47 +9054,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74593839_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hezbollah-Israel ceasefire under pressure",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Lebanon",
-      "Israel"
-    ],
-    "runningTime": 91,
-    "updateTime": "2025-11-02T23:07:49.212Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74591944&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74591944,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74082386_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74082386_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9055,26 +9139,22 @@
     "language": "en"
   },
   {
-    "titleText": "Palestinian-German efforts to help the people of Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
+    "titleText": "Stranded animals rescued from abandoned zoo in Argentina",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
     "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me": "Middle East",
-      "region:europe:DE": "Germany"
+      "region:cala:AR": "Argentina"
     },
     "regions": [
-      "Palestinian Territories",
-      "Middle East",
-      "Germany"
+      "Argentina"
     ],
-    "runningTime": 144,
-    "updateTime": "2025-11-01T19:43:19.552Z",
+    "runningTime": 154,
+    "updateTime": "2025-11-02T09:20:07.708Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74559856&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74589363&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 74559856,
+      "id": 74589363,
       "launchParam": null
     },
     "providerLogo": {
@@ -9084,13 +9164,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74571142_6.jpeg",
+      "url": "https://static.dw.com/image/74581442_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74571142_7.jpeg",
+      "url": "https://static.dw.com/image/74581442_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9210,6 +9290,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/70663775_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can climate games boost environmental awareness?",
+    "category": "Digital World",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:global": "Global",
+      "region:europe": "Europe",
+      "region:northamerica:CA": "Canada"
+    },
+    "regions": [
+      "Global",
+      "Europe",
+      "Canada"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-10-30T19:53:42.1Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74562592&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 74562592,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74559818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74559818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9648,45 +9771,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gaza school children return to class after 2 years of war",
-    "category": "Education",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 114,
-    "updateTime": "2025-10-27T15:15:50.454Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74513674&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74513674,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74513896_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74513896_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Is digital imaging technology changing how we remember?",
     "category": "Science",
     "subCategory": "Digital World",
@@ -9962,45 +10046,6 @@
     "language": "en"
   },
   {
-    "titleText": "Demining Gaza will prove a decades-long challenge",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 155,
-    "updateTime": "2025-10-24T08:37:37.889Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74481545&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74481545,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74452470_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74452470_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India's 'solar mamas' empower women with sustainable energy",
     "category": "Technology",
     "subCategory": "Society",
@@ -10040,22 +10085,22 @@
     "language": "en"
   },
   {
-    "titleText": "Grieving Gaza father searches for family buried under rubble",
-    "category": "Conflicts",
+    "titleText": "Snake invasion threatens Mallorca’s wildlife",
+    "category": "Nature and Environment",
     "subCategory": null,
     "region_ids": {
-      "region:me:PS": "Palestinian Territories"
+      "region:europe:ES": "Spain"
     },
     "regions": [
-      "Palestinian Territories"
+      "Spain"
     ],
-    "runningTime": 214,
-    "updateTime": "2025-10-23T14:23:03.236Z",
+    "runningTime": 294,
+    "updateTime": "2025-10-23T10:04:43.631Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74471739&list=REGION_VIDEO:9",
+      "contentId": "v=74405699&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
-      "id": 74471739,
+      "id": 74405699,
       "launchParam": null
     },
     "providerLogo": {
@@ -10065,13 +10110,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74472411_6.jpg",
+      "url": "https://static.dw.com/image/74387444_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74472411_7.jpg",
+      "url": "https://static.dw.com/image/74387444_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10152,45 +10197,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/6607782_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hamas regains interim control in Gaza with Trump backing",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 151,
-    "updateTime": "2025-10-22T17:31:39.69Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74462898&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74462898,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74368999_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74368999_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10358,86 +10364,6 @@
     "language": "en"
   },
   {
-    "titleText": "Egypt's president, EU leaders meet in Brussels to talk Gaza",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Middle East",
-      "Europe"
-    ],
-    "runningTime": 155,
-    "updateTime": "2025-10-22T08:15:16.341Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74451239&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74451239,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74369071_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74369071_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Freed Palestinian prisoners return scarred by loss, abuse",
-    "category": "Conflicts",
-    "subCategory": "Human Rights",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-10-21T15:50:11.329Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74445539&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74445539,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74425089_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74425089_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How to build sustainable homes in India's 'cyclone capital'",
     "category": "Architecture",
     "subCategory": "Globalization",
@@ -10509,45 +10435,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296182_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gaza aid shortage continues amid fragile truce",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 112,
-    "updateTime": "2025-10-20T19:06:07.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74432559&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74432559,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74421007_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74421007_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10633,47 +10520,6 @@
     "language": "en"
   },
   {
-    "titleText": "Israel, Hamas blame each other for ceasefire breaches",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories",
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Palestinian Territories",
-      "Israel"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-10-20T07:58:42.406Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74419623&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74419623,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74415686_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74415686_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How Ukraine uses drones to get supplies to the front lines",
     "category": "Conflicts",
     "subCategory": "Technology",
@@ -10706,45 +10552,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74356121_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Israeli hostage protests continue amid fragile ceasefire",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 195,
-    "updateTime": "2025-10-19T08:57:16.062Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74414889&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74414889,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74412955_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74412955_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10871,65 +10678,24 @@
     "language": "en"
   },
   {
-    "titleText": "Afghanistan-Pakistan clashes: Civilians caught in crossfire",
-    "category": "Conflicts",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia": "Asia",
-      "region:asia:AF": "Afghanistan",
-      "region:asia:PK": "Pakistan"
-    },
-    "regions": [
-      "Asia",
-      "Afghanistan",
-      "Pakistan"
-    ],
-    "runningTime": 215,
-    "updateTime": "2025-10-17T19:38:21.306Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74406871&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 74406871,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74323176_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74323176_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "UN calls for surge in Gaza aid, Israeli restrictions remain",
-    "category": "Conflicts",
+    "titleText": "Trump rejects Zelenskyy's Tomahawk request",
+    "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:me": "Middle East"
+      "region:northamerica:US": "United States of America",
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Middle East"
+      "United States of America",
+      "Ukraine"
     ],
-    "runningTime": 116,
-    "updateTime": "2025-10-17T15:22:49.509Z",
+    "runningTime": 151,
+    "updateTime": "2025-10-18T07:47:34.517Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74405698&list=REGION_VIDEO:9",
+      "contentId": "v=74408808&list=REGION_VIDEO:5",
       "type": "video",
-      "id": 74405698,
+      "id": 74408808,
       "launchParam": null
     },
     "providerLogo": {
@@ -10939,13 +10705,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74394112_6.jpg",
+      "url": "https://static.dw.com/image/74408154_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74394112_7.jpg",
+      "url": "https://static.dw.com/image/74408154_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11070,252 +10836,6 @@
     "language": "en"
   },
   {
-    "titleText": "Relief amid anguish at funerals for slain Israeli hostages",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:me:IL": "Israel"
-    },
-    "regions": [
-      "Israel"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-10-16T09:20:02.419Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74377437&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74377437,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74378573_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74378573_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hamas releases more hostage bodies after Gaza aid cut",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 97,
-    "updateTime": "2025-10-15T15:20:38.122Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74373274&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74373274,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74359632_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74359632_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Rebuilding Gaza: What are the main challenges?",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-10-15T13:51:18.903Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74370301&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74370301,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74360735_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74360735_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gazans confront massive cleanup amid aid shortage",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Middle East"
-    ],
-    "runningTime": 108,
-    "updateTime": "2025-10-14T18:53:35.895Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74357010&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74357010,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74352984_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74352984_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Billions made from weight-loss injections",
-    "category": "Health",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:me": "Middle East",
-      "region:asia": "Asia",
-      "region:africa": "Africa",
-      "region:europe": "Europe",
-      "region:europe:DE": "Germany",
-      "region:northamerica": "North America",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Middle East",
-      "Asia",
-      "Africa",
-      "Europe",
-      "Germany",
-      "North America",
-      "Global"
-    ],
-    "runningTime": 160,
-    "updateTime": "2025-10-14T14:01:51.26Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74351556&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74351556,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68114742_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68114742_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Role of Hamas is a sticking point in Gaza peace plan",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-10-14T10:20:08.579Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74347207&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74347207,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74347395_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74347395_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Can the illegal killing of Cyprus' songbirds be stopped?",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -11355,88 +10875,6 @@
     "language": "en"
   },
   {
-    "titleText": "Palestinians freed by Israel return to their families",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-10-13T21:06:24.029Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74341060&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74341060,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74335527_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74335527_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Release of Israeli hostages sparks jubilation",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Israel",
-      "Palestinian Territories"
-    ],
-    "runningTime": 119,
-    "updateTime": "2025-10-13T17:11:08.623Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74339518&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74339518,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74330188_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74330188_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "The appendix: Useless organ or gut health hero?",
     "category": "Science",
     "subCategory": "Health",
@@ -11450,7 +10888,7 @@
     "updateTime": "2025-10-13T07:14:15.162Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74290761&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74290761&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74290761,
       "launchParam": null
@@ -11547,47 +10985,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74301643_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Tel Aviv braces for hostage release planned for Monday",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me": "Middle East"
-    },
-    "regions": [
-      "Israel",
-      "Middle East"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-10-12T08:19:24.127Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74323089&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74323089,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74288253_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74288253_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11712,6 +11109,41 @@
     "language": "en"
   },
   {
+    "titleText": "Why are male animals often more attractive than females?",
+    "category": "Science",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 136,
+    "updateTime": "2025-10-08T12:08:55.451Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74278645&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74278645,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/62562589_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/62562589_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Sudan's first bicycle courier finds new life in Cairo",
     "category": "Migration",
     "subCategory": "Equality",
@@ -11746,6 +11178,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74219437_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Namibia contains Etosha National Park wildfire",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NA": "Namibia"
+    },
+    "regions": [
+      "Namibia"
+    ],
+    "runningTime": 79,
+    "updateTime": "2025-10-01T15:55:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74185326&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74185326,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74174282_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74174282_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11874,6 +11345,45 @@
     "language": "en"
   },
   {
+    "titleText": "India struggles to tackle its stray dog problem",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 204,
+    "updateTime": "2025-09-25T15:41:08.016Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74138920&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74138920,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73615041_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73615041_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Denmark apologizes for abuse of Greenlandic indigenous women",
     "category": "Human Rights",
     "subCategory": "Health",
@@ -11906,6 +11416,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74127301_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Too hot for males — Kenya faces a sea turtle crisis",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 304,
+    "updateTime": "2025-09-24T14:57:08.416Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74066557&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74066557,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74055970_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74055970_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12036,6 +11585,45 @@
     "language": "en"
   },
   {
+    "titleText": "Team Lioness: Meet Kenya's first all-female ranger unit",
+    "category": "Nature and Environment",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 380,
+    "updateTime": "2025-09-19T10:05:33.901Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023104&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74023104,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785780_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785780_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Afghan refugees 'forced out' of Pakistan return with little",
     "category": "Migration",
     "subCategory": null,
@@ -12118,6 +11706,47 @@
     "language": "en"
   },
   {
+    "titleText": "Kenya: Building bridges to help vulnerable colobus monkeys",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Kenya",
+      "Africa"
+    ],
+    "runningTime": 286,
+    "updateTime": "2025-09-16T09:02:43.641Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73965745&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73965745,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73959984_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73959984_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Tuvalu is sinking — what's next for residents?",
     "category": "Climate",
     "subCategory": "Migration",
@@ -12152,6 +11781,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73975114_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Helping humans while saving snakes in Kerala",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 370,
+    "updateTime": "2025-09-15T09:26:27.79Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73951945&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73951945,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73951943_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73951943_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12401,6 +12069,45 @@
     "language": "en"
   },
   {
+    "titleText": "Algae bloom killing oysters along French coast",
+    "category": "Society",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 254,
+    "updateTime": "2025-09-03T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73811910&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73811910,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73798028_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73798028_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Africa faces new migration shifts under US deportation deals",
     "category": "Migration",
     "subCategory": null,
@@ -12518,6 +12225,45 @@
     "language": "en"
   },
   {
+    "titleText": "The tongue — what's it doing in your mouth?",
+    "category": "Health",
+    "subCategory": "Science",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 227,
+    "updateTime": "2025-09-01T11:15:19.244Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73778458&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73778458,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73679355_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73679355_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "In Kashmir, lotus bloom on Wular Lake brings relief and hope",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -12589,6 +12335,131 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73765825_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Engineers help revive North Sea oysters in Belgium",
+    "category": "Climate",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:europe:BE": "Belgium",
+      "region:europe:NL": "Netherlands"
+    },
+    "regions": [
+      "Europe",
+      "Belgium",
+      "Netherlands"
+    ],
+    "runningTime": 184,
+    "updateTime": "2025-08-22T10:53:57.256Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73562193&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73562193,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73571615_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73571615_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The battle to preserve Gambia's marine ecosystem ",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:GM": "The Gambia",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "The Gambia",
+      "Africa"
+    ],
+    "runningTime": 303,
+    "updateTime": "2025-08-21T15:33:01.197Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73562172&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73562172,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73571629_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73571629_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Kenyan anti-poaching hero safeguarding wildlife ",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Africa",
+      "Kenya"
+    ],
+    "runningTime": 164,
+    "updateTime": "2025-08-20T16:06:47.896Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73709137&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 73709137,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73709531_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73709531_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12708,6 +12579,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73643106_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rohingya women in Bangladeshi camps lack toilets",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:BD": "Bangladesh",
+      "region:asia:MM": "Myanmar"
+    },
+    "regions": [
+      "Bangladesh",
+      "Myanmar"
+    ],
+    "runningTime": 364,
+    "updateTime": "2025-08-14T07:10:20.377Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73631740&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73631740,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73631773_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73631773_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cyprus fishermen at war with a toxic invasive species",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CY": "Cyprus"
+    },
+    "regions": [
+      "Cyprus"
+    ],
+    "runningTime": 254,
+    "updateTime": "2025-07-31T15:31:31.523Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73488733&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 73488733,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73488498_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73488498_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
