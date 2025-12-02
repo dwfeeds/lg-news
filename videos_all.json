@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Inside Ukraine's frontline evacuations as Russia advances",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 349,
+    "updateTime": "2025-12-02T11:03:52.994Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74980783&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74980783,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74981496_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74981496_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -7839,7 +7878,7 @@
     "updateTime": "2025-11-07T17:06:33.274Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74667518&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74667518&list=REGION_VIDEO:5",
       "type": "video",
       "id": 74667518,
       "launchParam": null
@@ -10671,47 +10710,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73773235_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump rejects Zelenskyy's Tomahawk request",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "United States of America",
-      "Ukraine"
-    ],
-    "runningTime": 151,
-    "updateTime": "2025-10-18T07:47:34.517Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74408808&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74408808,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74408154_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74408154_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
