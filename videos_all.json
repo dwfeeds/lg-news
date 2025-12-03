@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 85,
+    "updateTime": "2025-12-03T16:31:10.965Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74993855_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74993855_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Rare diseases — Timmon has Dup15q ",
     "category": "Society",
     "subCategory": "Health",
@@ -227,41 +262,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74716691_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 85,
-    "updateTime": "2025-12-03T12:49:30.448Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74990637_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74990637_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12770,6 +12770,88 @@
     "language": "en"
   },
   {
+    "titleText": "Trump envía a Witkoff a Moscú",
+    "category": "Noticias en video",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ucrania",
+      "region:northamerica:US": "Estados Unidos",
+      "region:europe:RU": "Federación Rusa"
+    },
+    "regions": [
+      "Ucrania",
+      "Estados Unidos",
+      "Federación Rusa"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-12-03T16:40:34.873Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74913684&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74913684,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74888010_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74888010_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
+    "titleText": "Violencia de colonos israelíes en Cisjordania",
+    "category": "Conflictos",
+    "subCategory": "Política",
+    "region_ids": {
+      "region:me:PS": "Territorio Palestino Ocupado"
+    },
+    "regions": [
+      "Territorio Palestino Ocupado"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-12-03T16:26:58.888Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74913692&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 74913692,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74901516_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74901516_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
+  },
+  {
     "titleText": "ONG investigada por implicaciones en abuso a menores",
     "category": "Derecho y leyes",
     "subCategory": "Criminalidad",
@@ -13052,94 +13134,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74871413_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "León XIV visita Turquía y el Líbano",
-    "category": "Sociedad",
-    "subCategory": "Religión",
-    "region_ids": {
-      "region:europe:VA": "Vaticano",
-      "region:me": "Oriente Medio",
-      "region:europe:TR": "Turquía",
-      "region:me:LB": "Líbano"
-    },
-    "regions": [
-      "Vaticano",
-      "Oriente Medio",
-      "Turquía",
-      "Líbano"
-    ],
-    "runningTime": 248,
-    "updateTime": "2025-11-27T15:08:21.555Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74927428&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74927428,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74922432_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74922432_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "es"
-  },
-  {
-    "titleText": "Trump envía a Witkoff a Moscú",
-    "category": "Noticias en video",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ucrania",
-      "region:northamerica:US": "Estados Unidos",
-      "region:europe:RU": "Federación Rusa"
-    },
-    "regions": [
-      "Ucrania",
-      "Estados Unidos",
-      "Federación Rusa"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-11-27T14:41:06.832Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74913684&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 74913684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74888010_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74888010_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
