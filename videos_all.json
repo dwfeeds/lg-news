@@ -1,5 +1,50 @@
 [
   {
+    "titleText": "Who will win the race for Angola's resources?",
+    "category": "Trade",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:AO": "Angola",
+      "region:asia:CN": "China",
+      "region:northamerica:US": "United States of America",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "Angola",
+      "China",
+      "United States of America",
+      "Europe"
+    ],
+    "runningTime": 383,
+    "updateTime": "2025-12-04T10:21:22.224Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74946619&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74946619,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74982555_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74982555_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany: Thousands rally against far-right youth group",
     "category": "Politics",
     "subCategory": "Society",
@@ -4722,47 +4767,6 @@
     "language": "en"
   },
   {
-    "titleText": "Explainer: Africa's elections without opposition",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GW": "Guinea-Bissau"
-    },
-    "regions": [
-      "Africa",
-      "Guinea-Bissau"
-    ],
-    "runningTime": 146,
-    "updateTime": "2025-11-21T09:18:39.666Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74785370&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 74785370,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69213253_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69213253_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Warsaw's metro library gives Poles a chance to unwind",
     "category": "Society",
     "subCategory": "Literature",
@@ -4992,45 +4996,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74825447_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Conscription is back in Germany? What does that mean for young people?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 95,
-    "updateTime": "2025-11-20T13:56:14.397Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74746840&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74746840,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74721766_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74721766_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9888,45 +9853,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can Chennai's Blue Flag beaches be truly sustainable?",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 224,
-    "updateTime": "2025-10-24T14:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74471548&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74471548,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74483582_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74483582_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Partnering with nature to safeguard the land we depend on",
     "category": "Nature and Environment",
     "subCategory": "Food Security",
@@ -9959,6 +9885,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74483559_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Chennai's Blue Flag beaches be truly sustainable?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-10-24T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74471548&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74471548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74483582_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74483582_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13813,7 +13778,7 @@
     "updateTime": "2025-12-04T10:44:08.707Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75003946&list=REPORTS_VIDEO:1",
+      "contentId": "v=75003946&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75003946,
       "launchParam": null
@@ -13938,7 +13903,7 @@
     "updateTime": "2025-12-03T13:21:02.243Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75000011&list=FEATURED_VIDEO:1",
+      "contentId": "v=75000011&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 75000011,
       "launchParam": null
