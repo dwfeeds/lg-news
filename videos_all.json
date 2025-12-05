@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 83,
+    "updateTime": "2025-12-05T05:12:01.642Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75012975_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75012975_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "High bride price discourages Zambian youth from marriage ",
     "category": "Society",
     "subCategory": "Culture",
@@ -116,41 +151,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75016013_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 83,
-    "updateTime": "2025-12-04T19:46:47.335Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75012975_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75012975_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -594,7 +594,7 @@
   },
   {
     "titleText": "Pakistan: Volunteers step forward to help Afghan refugees",
-    "category": "Society",
+    "category": "Migration",
     "subCategory": "Conflicts",
     "region_ids": {
       "region:asia:PK": "Pakistan",
@@ -608,7 +608,7 @@
     "updateTime": "2025-12-04T12:55:55.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75018237&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=75018237&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75018237,
       "launchParam": null
@@ -9972,45 +9972,6 @@
     "language": "en"
   },
   {
-    "titleText": "Partnering with nature to safeguard the land we depend on",
-    "category": "Nature and Environment",
-    "subCategory": "Food Security",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 418,
-    "updateTime": "2025-10-24T14:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74471522&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74471522,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74483559_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74483559_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Can Chennai's Blue Flag beaches be truly sustainable?",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -10043,6 +10004,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74483582_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Partnering with nature to safeguard the land we depend on",
+    "category": "Nature and Environment",
+    "subCategory": "Food Security",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 418,
+    "updateTime": "2025-10-24T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74471522&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74471522,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74483559_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74483559_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10634,6 +10634,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73773235_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghanistan-Pakistan clashes: Civilians caught in crossfire",
+    "category": "Conflicts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia": "Asia",
+      "region:asia:AF": "Afghanistan",
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Asia",
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "runningTime": 215,
+    "updateTime": "2025-10-17T19:38:21.306Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74406871&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74406871,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74323176_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74323176_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11949,45 +11992,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73798028_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Africa faces new migration shifts under US deportation deals",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 278,
-    "updateTime": "2025-09-02T15:36:38.087Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73855705&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73855705,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73224860_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73224860_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
