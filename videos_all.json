@@ -114,7 +114,7 @@
   },
   {
     "titleText": "India's IndiGo flight chaos: What's behind the disruption?",
-    "category": "Travel",
+    "category": "Business",
     "subCategory": null,
     "region_ids": {
       "region:asia:IN": "India"
@@ -191,9 +191,9 @@
     "language": "en"
   },
   {
-    "titleText": "Gifts and Glühwein: A German Christmas story",
-    "category": "Society",
-    "subCategory": "Lifestyle",
+    "titleText": "Early presents and mulled wine make a German Christmas story",
+    "category": "Culture",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:DE": "Germany"
     },
@@ -204,7 +204,7 @@
     "updateTime": "2025-12-06T11:39:42.138Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75037618&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=75037618&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 75037618,
       "launchParam": null
@@ -269,7 +269,7 @@
     "language": "en"
   },
   {
-    "titleText": "Sculptures merge monstrous and human",
+    "titleText": "Markus Karstiess's ceramics merge the monstrous and human",
     "category": "Arts",
     "subCategory": "Culture",
     "region_ids": {
@@ -308,7 +308,7 @@
     "language": "en"
   },
   {
-    "titleText": "Jane Austen’s love lessons",
+    "titleText": "Why Jane Austen's lessons in love remain timeless classics",
     "category": "Culture",
     "subCategory": "Literature",
     "region_ids": {
@@ -584,8 +584,8 @@
   },
   {
     "titleText": "Turkey: Death from pesticides",
-    "category": "Travel",
-    "subCategory": "Society",
+    "category": "Society",
+    "subCategory": "Health",
     "region_ids": {
       "region:europe:TR": "Turkey"
     },
@@ -8456,45 +8456,6 @@
     "language": "en"
   },
   {
-    "titleText": "Inside Vienna: A teen's daily life",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:AT": "Austria"
-    },
-    "regions": [
-      "Austria"
-    ],
-    "runningTime": 286,
-    "updateTime": "2025-11-02T11:01:14.235Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576473&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 74576473,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74558016_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74558016_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How Karachi's sanitary workers risk their lives to survive",
     "category": "Society",
     "subCategory": null,
@@ -9237,6 +9198,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/6607782_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghanistan-Pakistan clashes open old wounds",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "runningTime": 242,
+    "updateTime": "2025-10-22T15:37:58.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74461764&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74461764,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73461931_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73461931_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
