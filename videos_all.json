@@ -1,13 +1,58 @@
 [
   {
+    "titleText": "Italy: saffron harvest in Abruzzo",
+    "category": "Business",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 134,
+    "updateTime": "2025-12-09T08:42:29.522Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74965053&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 74965053,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74941370_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74941370_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Zelenskyy urges US-European unity in Ukraine peace talks",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:europe:UA": "Ukraine"
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation",
+      "region:europe": "Europe",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "Ukraine"
+      "Ukraine",
+      "Russian Federation",
+      "Europe",
+      "United States of America"
     ],
     "runningTime": 114,
     "updateTime": "2025-12-09T07:39:07.816Z",
@@ -74,16 +119,18 @@
     "language": "en"
   },
   {
-    "titleText": "New US national security strategy rattles Europe",
+    "titleText": "Trump's new US national security strategy rattles Europe",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
       "region:northamerica:US": "United States of America",
-      "region:europe": "Europe"
+      "region:europe": "Europe",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
       "United States of America",
-      "Europe"
+      "Europe",
+      "Russian Federation"
     ],
     "runningTime": 205,
     "updateTime": "2025-12-08T20:09:42.357Z",
@@ -3098,45 +3145,6 @@
     "language": "en"
   },
   {
-    "titleText": "Hong Kong fire critics detained under National Security Law",
-    "category": "Human Rights",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 137,
-    "updateTime": "2025-12-02T15:37:14.248Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74989480&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74989480,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74975375_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74975375_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How the Global South is driving the green energy transition",
     "category": "Climate",
     "subCategory": "Politics",
@@ -3492,47 +3500,6 @@
     "language": "en"
   },
   {
-    "titleText": "Peru closes southern border with Chile",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:CL": "Chile",
-      "region:cala:PE": "Peru"
-    },
-    "regions": [
-      "Chile",
-      "Peru"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-11-30T10:57:50.652Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74956771&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 74956771,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74956656_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74956656_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Cigarettes: Addiction, power and propaganda",
     "category": "Society",
     "subCategory": "Politics",
@@ -3561,45 +3528,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/66398775_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Cyclone Ditwah pounds Sri Lanka with deadly force",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:LK": "Sri Lanka"
-    },
-    "regions": [
-      "Sri Lanka"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-11-29T20:29:34.397Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74954418&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74954418,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74952496_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74952496_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4091,45 +4019,6 @@
     "language": "en"
   },
   {
-    "titleText": "Hundreds still missing after Hong Kong high-rise inferno",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:HK": "Hong Kong"
-    },
-    "regions": [
-      "Hong Kong"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-11-27T21:31:20.436Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932684&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74932684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74933788_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74933788_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Attack on National Guard soldiers 'act of terror'",
     "category": "Politics",
     "subCategory": null,
@@ -4247,47 +4136,6 @@
     "language": "en"
   },
   {
-    "titleText": "Situation in flood-hit Thailand, Malaysia remains critical",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:TH": "Thailand",
-      "region:asia:MY": "Malaysia"
-    },
-    "regions": [
-      "Thailand",
-      "Malaysia"
-    ],
-    "runningTime": 120,
-    "updateTime": "2025-11-26T19:18:29.653Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74913061&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74913061,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74912544_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74912544_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "At least 55 dead in Hong Kong housing complex fire",
     "category": "Catastrophe",
     "subCategory": null,
@@ -4322,49 +4170,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74914228_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump downplays Witkoff leak as Ukraine peace talks progress",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russian Federation"
-    },
-    "regions": [
-      "United States of America",
-      "Ukraine",
-      "Russian Federation"
-    ],
-    "runningTime": 143,
-    "updateTime": "2025-11-26T18:02:23.867Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74912904&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74912904,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74148110_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74148110_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6288,6 +6093,47 @@
     "language": "en"
   },
   {
+    "titleText": "How Pakistan is gearing up for e-mobility",
+    "category": "Cars and Transportation",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Pakistan",
+      "Asia"
+    ],
+    "runningTime": 411,
+    "updateTime": "2025-11-16T18:53:32.175Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74616538&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74616538,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71119273_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71119273_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gazans face new hazards from flooding, broken infrastructure",
     "category": "Health",
     "subCategory": "Nature and Environment",
@@ -6398,6 +6244,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74760824_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "India: Deadly blast rips through a Kashimir police station",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 127,
+    "updateTime": "2025-11-15T12:57:06.381Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74758917&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 74758917,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74755118_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74755118_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8976,7 +8861,7 @@
     "updateTime": "2025-10-30T18:08:01.502Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74562118&list=REGION_VIDEO:5",
+      "contentId": "v=74562118&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74562118,
       "launchParam": null
@@ -8995,6 +8880,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74550415_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "No end in sight for US government shutdown ",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-10-30T10:15:25.068Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74544829&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 74544829,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74545172_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74545172_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9190,6 +9114,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74526581_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Democrats eye Zohran Mamdani's rise in New York mayoral race",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 157,
+    "updateTime": "2025-10-28T08:11:31.873Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74520022&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 74520022,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74517601_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74517601_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Jamaica braces for Category 5 Hurricane Melissa",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:JM": "Jamaica"
+    },
+    "regions": [
+      "Jamaica"
+    ],
+    "runningTime": 111,
+    "updateTime": "2025-10-27T18:45:10.626Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74517834&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74517834,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74492234_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74492234_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10938,6 +10940,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73810294_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Africa faces new migration shifts under US deportation deals",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 278,
+    "updateTime": "2025-09-02T15:36:38.087Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73855705&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73855705,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73224860_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73224860_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13850,6 +13891,45 @@
     "language": "es"
   },
   {
+    "titleText": "Rotes Gold: Safran-Ernte in den italienischen Abruzzen",
+    "category": "Gesellschaft",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:IT": "Italien"
+    },
+    "regions": [
+      "Italien"
+    ],
+    "runningTime": 135,
+    "updateTime": "2025-12-09T08:37:30.73Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74999953&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 74999953,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74941370_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74941370_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ein Jahr nach Assads Sturz: Syrien noch immer in Trümmern",
     "category": "Politik",
     "subCategory": "Konflikte",
@@ -14015,7 +14095,7 @@
     "updateTime": "2025-12-08T05:10:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75003789&list=FEATURED_VIDEO:1",
+      "contentId": "v=75003789&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 75003789,
       "launchParam": null
@@ -14194,47 +14274,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75032512_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Schöne Bescherung: Deutschland in der Weihnachtszeit",
-    "category": "Gesellschaft",
-    "subCategory": "Kultur",
-    "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "Deutschland",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 309,
-    "updateTime": "2025-12-06T11:53:30.152Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75039646&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75039646,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75018808_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75018808_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -15275,45 +15314,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74734471_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ukraine: Frauen übernehmen traditionelle Männerjobs",
-    "category": "Gleichberechtigung",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 154,
-    "updateTime": "2025-11-16T18:06:21.937Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752287&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 74752287,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74734629_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74734629_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
