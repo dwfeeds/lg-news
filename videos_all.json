@@ -14675,8 +14675,12 @@
     "titleText": "Weihnachtsmärkte: Sicherheit kostet",
     "category": "Wirtschaft",
     "subCategory": null,
-    "region_ids": {},
-    "regions": [],
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
     "runningTime": 204,
     "updateTime": "2025-12-09T10:00:00Z",
     "onClick": {
