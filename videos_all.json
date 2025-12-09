@@ -6,7 +6,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 88,
-    "updateTime": "2025-12-09T05:13:42.074Z",
+    "updateTime": "2025-12-09T06:38:47.393Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:12",
@@ -21,13 +21,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/75064195_6.jpg",
+      "url": "https://static.dw.com/image/75055810_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/75064195_7.jpg",
+      "url": "https://static.dw.com/image/75055810_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -249,7 +249,7 @@
     "updateTime": "2025-12-08T12:05:44.359Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74985271&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74985271&list=REGION_VIDEO:4",
       "type": "video",
       "id": 74985271,
       "launchParam": null
@@ -6288,47 +6288,6 @@
     "language": "en"
   },
   {
-    "titleText": "How Pakistan is gearing up for e-mobility",
-    "category": "Cars and Transportation",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:asia:PK": "Pakistan",
-      "region:asia": "Asia"
-    },
-    "regions": [
-      "Pakistan",
-      "Asia"
-    ],
-    "runningTime": 411,
-    "updateTime": "2025-11-16T18:53:32.175Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74616538&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 74616538,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71119273_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71119273_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Gazans face new hazards from flooding, broken infrastructure",
     "category": "Health",
     "subCategory": "Nature and Environment",
@@ -9467,6 +9426,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74473850_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghanistan-Pakistan clashes open old wounds",
+    "category": "Society",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:asia:PK": "Pakistan",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "runningTime": 242,
+    "updateTime": "2025-10-22T15:37:58.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74461764&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74461764,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73461931_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73461931_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
