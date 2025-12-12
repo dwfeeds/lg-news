@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 83,
+    "updateTime": "2025-12-12T16:36:26.625Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75131886_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75131886_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "EU ponders response to Venezuelan regime",
     "category": "Politics",
     "subCategory": null,
@@ -233,41 +268,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75084831_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 83,
-    "updateTime": "2025-12-12T11:50:00.19Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74572535_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74572535_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -524,7 +524,7 @@
     "updateTime": "2025-12-11T16:12:30.348Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75117407&list=REGION_VIDEO:8",
+      "contentId": "v=75117407&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 75117407,
       "launchParam": null
@@ -536,13 +536,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/75115553_6.jpg",
+      "url": "https://static.dw.com/image/75136773_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/75115553_7.jpg",
+      "url": "https://static.dw.com/image/75136773_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1197,7 +1197,7 @@
     "updateTime": "2025-12-10T12:17:49.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75091664&list=REGION_VIDEO:8",
+      "contentId": "v=75091664&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 75091664,
       "launchParam": null
@@ -2161,7 +2161,7 @@
     "updateTime": "2025-12-08T10:21:45.232Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74981376&list=REGION_VIDEO:8",
+      "contentId": "v=74981376&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74981376,
       "launchParam": null
@@ -3252,45 +3252,6 @@
     "language": "en"
   },
   {
-    "titleText": "Turkey: Death from pesticides",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 320,
-    "updateTime": "2025-12-05T09:58:51.896Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74965368&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74965368,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74971289_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74971289_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Idyllic or overcrowded? A trip to the Isle of Capri",
     "category": "Travel",
     "subCategory": "Lifestyle",
@@ -3695,6 +3656,86 @@
     "language": "en"
   },
   {
+    "titleText": "Raising awareness about femicide in Kenya",
+    "category": "Law and Justice",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Kenya",
+      "Africa"
+    ],
+    "runningTime": 180,
+    "updateTime": "2025-12-04T16:22:16.832Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75023216&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75023216,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75020216_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75020216_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How this young South African turned defeat into strength",
+    "category": "Design",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 339,
+    "updateTime": "2025-12-04T15:26:06.07Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75004219&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75004219,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74811949_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74811949_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Gruesome archive may help Syrians identify lost loved ones",
     "category": "Conflicts",
     "subCategory": null,
@@ -3766,6 +3807,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/69907393_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What does DR Congo gain with the peace deal?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Africa",
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 94,
+    "updateTime": "2025-12-04T13:33:14.008Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74987170&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 74987170,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73075467_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73075467_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4757,47 +4839,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74887886_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Turkish town hopes for Christian tourism boost",
-    "category": "Religion",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:VA": "Vatican",
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Vatican",
-      "Turkey"
-    ],
-    "runningTime": 198,
-    "updateTime": "2025-11-27T21:13:22.3Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932657&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74932657,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74932680_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74932680_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5847,6 +5888,45 @@
     "language": "en"
   },
   {
+    "titleText": "How debt has reached record levels in Africa",
+    "category": "Politics",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Africa"
+    ],
+    "runningTime": 232,
+    "updateTime": "2025-11-20T19:18:50.658Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74827136&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74827136,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74827036_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74827036_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How drones could help reforest the world's green lungs",
     "category": "Nature and Environment",
     "subCategory": "Technology",
@@ -5972,45 +6052,6 @@
     "language": "en"
   },
   {
-    "titleText": "In Istanbul, poisoning suspected after visiting family dies",
-    "category": "Crime",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 196,
-    "updateTime": "2025-11-20T11:53:21.15Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74819326&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74819326,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74758193_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74758193_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How Belize chocolate supports rainforest conservation",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -6084,6 +6125,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74224820_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Skating to school to cut costs in Nigeria",
+    "category": "Cars and Transportation",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 109,
+    "updateTime": "2025-11-19T13:58:50.195Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74808575&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74808575,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74699222_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74699222_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Women in Nigeria getting a second chance at an education",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 207,
+    "updateTime": "2025-11-19T11:11:00.502Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74805476&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74805476,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74803248_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74803248_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6223,7 +6342,7 @@
     "updateTime": "2025-11-18T11:11:15.719Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74751313&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74751313&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 74751313,
       "launchParam": null
@@ -6539,7 +6658,7 @@
     "updateTime": "2025-11-16T10:18:35.201Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74751310&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74751310&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 74751310,
       "launchParam": null
@@ -6803,6 +6922,86 @@
     "language": "en"
   },
   {
+    "titleText": "Ending learning poverty in Africa: Lessons from Ghana",
+    "category": "Education",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GH": "Ghana",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Ghana",
+      "Africa"
+    ],
+    "runningTime": 147,
+    "updateTime": "2025-11-13T12:38:25.781Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74728879&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74728879,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74724071_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74724071_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How a board game is helping to clean up Kenya's streets",
+    "category": "Nature and Environment",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 315,
+    "updateTime": "2025-11-13T09:32:50.872Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74640606&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74640606,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74640230_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74640230_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why Trump can't stop the US's green energy transition",
     "category": "Climate",
     "subCategory": "Politics",
@@ -6896,7 +7095,7 @@
     "updateTime": "2025-11-12T14:19:12.731Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74713338&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74713338&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74713338,
       "launchParam": null
@@ -6915,6 +7114,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75075282_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Cleaning up the Lahn river and educating the public",
+    "category": "Nature and Environment",
+    "subCategory": "Education",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 235,
+    "updateTime": "2025-11-12T13:26:45.434Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74646612&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74646612,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/45963206_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/45963206_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6963,22 +7201,24 @@
     "language": "en"
   },
   {
-    "titleText": "Lobster: the controversial delicacy",
-    "category": "Lifestyle",
-    "subCategory": "Offbeat",
+    "titleText": "Indian students find pleasure and pain in Germany",
+    "category": "Business",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:GB": "United Kingdom"
+      "region:asia:IN": "India",
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "United Kingdom"
+      "India",
+      "Germany"
     ],
-    "runningTime": 263,
-    "updateTime": "2025-11-11T17:54:25.069Z",
+    "runningTime": 282,
+    "updateTime": "2025-11-11T16:13:27.784Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74663921&list=PROFILE_TOPIC_VIDEO:3",
+      "contentId": "v=74702811&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74663921,
+      "id": 74702811,
       "launchParam": null
     },
     "providerLogo": {
@@ -6988,13 +7228,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74644747_6.jpg",
+      "url": "https://static.dw.com/image/74001539_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74644747_7.jpg",
+      "url": "https://static.dw.com/image/74001539_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7114,6 +7354,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74682591_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "AI in Africa: Unlocking the continent's full potential",
+    "category": "Technology",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 191,
+    "updateTime": "2025-11-10T22:53:08.309Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74693675&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74693675,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74699816_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74699816_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8399,6 +8680,47 @@
     "language": "en"
   },
   {
+    "titleText": "DRC moves to overturn Catholic ban on pregnant schoolgirls",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CD": "Democratic Republic of Congo",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Democratic Republic of Congo",
+      "Africa"
+    ],
+    "runningTime": 125,
+    "updateTime": "2025-11-05T15:54:28.958Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74626352&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74626352,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74614409_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74614409_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "NYC Mayor-elect Mamdani to confront Trump immigration agenda",
     "category": "Politics",
     "subCategory": null,
@@ -8602,45 +8924,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trending Tirana: A city of contrasts ",
-    "category": "Travel",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:AL": "Albania"
-    },
-    "regions": [
-      "Albania"
-    ],
-    "runningTime": 307,
-    "updateTime": "2025-11-03T11:13:46.535Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576372&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74576372,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74558101_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74558101_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Gaza: Israel's 'yellow line' sparks pleas for truce progress",
     "category": "Conflicts",
     "subCategory": null,
@@ -8673,6 +8956,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74593839_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "One woman's mission to save Tamil Nadu's palm trees",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 220,
+    "updateTime": "2025-11-03T09:42:12.931Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74558719&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74558719,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74558835_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74558835_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8842,6 +9164,84 @@
     "language": "en"
   },
   {
+    "titleText": "Can Pakistan turn brain drain into brain gain?",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 450,
+    "updateTime": "2025-10-31T13:00:10.144Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73537794&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 73537794,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73495588_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73495588_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Are video games like Call of Duty rewriting the past?",
+    "category": "Technology",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 167,
+    "updateTime": "2025-10-31T05:02:15.997Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74562518&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74562518,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74559678_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74559678_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany, Turkey reaffirm ties despite Gaza disagreement",
     "category": "Politics",
     "subCategory": null,
@@ -8876,6 +9276,49 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74558717_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can climate games boost environmental awareness?",
+    "category": "Digital World",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:global": "Global",
+      "region:europe": "Europe",
+      "region:northamerica:CA": "Canada"
+    },
+    "regions": [
+      "Global",
+      "Europe",
+      "Canada"
+    ],
+    "runningTime": 144,
+    "updateTime": "2025-10-30T19:53:42.1Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74562592&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74562592,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74559818_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74559818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9002,6 +9445,45 @@
     "language": "en"
   },
   {
+    "titleText": "Madagascar: The polio outbreak is over but the risk remains",
+    "category": "Business",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:MG": "Madagascar"
+    },
+    "regions": [
+      "Madagascar"
+    ],
+    "runningTime": 524,
+    "updateTime": "2025-10-29T14:14:07.183Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74488996&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74488996,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74514011_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74514011_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why Pakistan wants to become a regional crypto hub",
     "category": "Business",
     "subCategory": "Digital World",
@@ -9119,6 +9601,45 @@
     "language": "en"
   },
   {
+    "titleText": "Switzerland trials AI school tutor to assist in classrooms",
+    "category": "Technology",
+    "subCategory": "Science",
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 251,
+    "updateTime": "2025-10-28T10:21:04.975Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74486768&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74486768,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74401265_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74401265_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Democrats eye Zohran Mamdani's rise in New York mayoral race",
     "category": "Politics",
     "subCategory": null,
@@ -9171,7 +9692,7 @@
     "updateTime": "2025-10-27T15:15:50.454Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74513674&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74513674&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74513674,
       "launchParam": null
@@ -9190,45 +9711,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74513896_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why the French capital Paris is awash with knock-off berets",
-    "category": "Society",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 127,
-    "updateTime": "2025-10-27T10:11:57.683Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74405786&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74405786,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74387692_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74387692_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9385,49 +9867,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/63338397_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "How South Korea is cashing in on 'KPop Demon Hunters'",
-    "category": "Culture",
-    "subCategory": "Film",
-    "region_ids": {
-      "region:asia:KR": "South Korea",
-      "region:northamerica": "North America",
-      "region:asia": "Asia"
-    },
-    "regions": [
-      "South Korea",
-      "North America",
-      "Asia"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-10-24T18:52:13.688Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74445228&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74445228,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73812054_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73812054_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9647,7 +10086,7 @@
     "updateTime": "2025-10-22T17:31:39.69Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74462898&list=REGION_VIDEO:9",
+      "contentId": "v=74462898&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74462898,
       "launchParam": null
@@ -9785,6 +10224,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296182_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gaza aid shortage continues amid fragile truce",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 112,
+    "updateTime": "2025-10-20T19:06:07.124Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74432559&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 74432559,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74421007_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74421007_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10147,45 +10625,6 @@
     "language": "en"
   },
   {
-    "titleText": "Turkey's Izmir peninsula is a coastal vacation paradise",
-    "category": "Travel",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:europe:TR": "Turkey"
-    },
-    "regions": [
-      "Turkey"
-    ],
-    "runningTime": 267,
-    "updateTime": "2025-10-12T10:15:02.728Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74311884&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74311884,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74291559_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74291559_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Conflict over fishing turns violent off Gambia's coast",
     "category": "Society",
     "subCategory": "Trade",
@@ -10383,22 +10822,22 @@
     "language": "en"
   },
   {
-    "titleText": "Namibia contains Etosha National Park wildfire",
-    "category": "Nature and Environment",
+    "titleText": "Why an Indian actor made an art school for deprived children",
+    "category": "Culture",
     "subCategory": null,
     "region_ids": {
-      "region:africa:NA": "Namibia"
+      "region:asia:IN": "India"
     },
     "regions": [
-      "Namibia"
+      "India"
     ],
-    "runningTime": 79,
-    "updateTime": "2025-10-01T15:55:00Z",
+    "runningTime": 126,
+    "updateTime": "2025-10-02T10:18:34.031Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74185326&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74215845&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74185326,
+      "id": 74215845,
       "launchParam": null
     },
     "providerLogo": {
@@ -10408,52 +10847,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74174282_6.jpg",
+      "url": "https://static.dw.com/image/74207365_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74174282_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Cancun and eastern Mexico fight a Caribbean algae invasion",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Mexico"
-    ],
-    "runningTime": 378,
-    "updateTime": "2025-10-01T07:23:53.155Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74152903&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74152903,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74146824_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74146824_7.jpg",
+      "url": "https://static.dw.com/image/74207365_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10532,45 +10932,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74172546_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Ghana intensifies efforts to woo Africans in the diaspora",
-    "category": "Society",
-    "subCategory": "History",
-    "region_ids": {
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Ghana"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-09-29T10:02:49.861Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74097277&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74097277,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/64406695_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/64406695_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10660,47 +11021,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why have Chinese tourists stopped going to Thailand?",
-    "category": "Travel",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:TH": "Thailand",
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "Thailand",
-      "China"
-    ],
-    "runningTime": 351,
-    "updateTime": "2025-09-24T14:54:39.889Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74066542&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74066542,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74055988_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74055988_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Indonesia and EU finally seal landmark trade deal",
     "category": "Business",
     "subCategory": null,
@@ -10744,22 +11064,22 @@
     "language": "en"
   },
   {
-    "titleText": "What makes Bacalhau, or salted cod, so popular in Portugal?",
-    "category": "Lifestyle",
-    "subCategory": "Society",
+    "titleText": "Girls' education in Unnao, India, drives sustainable farming",
+    "category": "Nature and Environment",
+    "subCategory": "Equality",
     "region_ids": {
-      "region:europe:PT": "Portugal"
+      "region:asia:IN": "India"
     },
     "regions": [
-      "Portugal"
+      "India"
     ],
-    "runningTime": 267,
-    "updateTime": "2025-09-23T09:25:49.124Z",
+    "runningTime": 388,
+    "updateTime": "2025-09-22T11:13:23.859Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74068040&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74046701&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74068040,
+      "id": 74046701,
       "launchParam": null
     },
     "providerLogo": {
@@ -10769,52 +11089,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74046866_6.jpg",
+      "url": "https://static.dw.com/image/74046517_6.jpeg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74046866_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "In Italy, centenarians thrive on island of Sardinia",
-    "category": "Society",
-    "subCategory": "Health",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 356,
-    "updateTime": "2025-09-23T08:51:52.712Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73980912&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73980912,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73964290_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73964290_7.jpg",
+      "url": "https://static.dw.com/image/74046517_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10941,45 +11222,6 @@
     "language": "en"
   },
   {
-    "titleText": "Spain: How sex tourism impacts Mallorca",
-    "category": "Society",
-    "subCategory": "Crime",
-    "region_ids": {
-      "region:europe:ES": "Spain"
-    },
-    "regions": [
-      "Spain"
-    ],
-    "runningTime": 484,
-    "updateTime": "2025-09-19T08:15:27.942Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73980897&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73980897,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74064074_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74064074_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Afghan refugees 'forced out' of Pakistan return with little",
     "category": "Migration",
     "subCategory": null,
@@ -11021,61 +11263,22 @@
     "language": "en"
   },
   {
-    "titleText": "Pompeii — the world's most famous archaeological site",
-    "category": "History",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 278,
-    "updateTime": "2025-09-16T09:57:43.45Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73978636&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73978636,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73965483_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73965483_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Handmade clogs, an 800-year-old Dutch tradition",
+    "titleText": "Growing up in Ukraine: Kids' lives between war and normalcy",
     "category": "Society",
-    "subCategory": "Lifestyle",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:europe:NL": "Netherlands"
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Netherlands"
+      "Ukraine"
     ],
-    "runningTime": 311,
-    "updateTime": "2025-09-16T09:37:11.97Z",
+    "runningTime": 341,
+    "updateTime": "2025-09-16T20:12:55.042Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73978647&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73897705&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 73978647,
+      "id": 73897705,
       "launchParam": null
     },
     "providerLogo": {
@@ -11085,13 +11288,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/73965558_6.jpg",
+      "url": "https://static.dw.com/image/73899186_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/73965558_7.jpg",
+      "url": "https://static.dw.com/image/73899186_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11174,45 +11377,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73975114_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Austria's Buschenschank draw wine lovers all summer long",
-    "category": "Culture",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:AT": "Austria"
-    },
-    "regions": [
-      "Austria"
-    ],
-    "runningTime": 275,
-    "updateTime": "2025-09-15T11:09:04.659Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73978649&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73978649,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73965459_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73965459_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11384,47 +11548,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can Malawi's first amusement park boost tourism? ",
-    "category": "Arts",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:MW": "Malawi"
-    },
-    "regions": [
-      "Africa",
-      "Malawi"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-09-11T15:10:13.739Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73966272&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73966272,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73963675_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73963675_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany recruits truck drivers from West Africa",
     "category": "Society",
     "subCategory": "Migration",
@@ -11498,45 +11621,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73943697_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "History, culture, cuisine — a perfect day in Tbilisi",
-    "category": "Travel",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:GE": "Georgia"
-    },
-    "regions": [
-      "Georgia"
-    ],
-    "runningTime": 307,
-    "updateTime": "2025-09-09T11:24:58.138Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73898492&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73898492,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73891764_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73891764_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11676,7 +11760,7 @@
     "updateTime": "2025-09-02T07:27:29.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801592&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=73801592&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 73801592,
       "launchParam": null
@@ -11695,45 +11779,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73936623_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Green tourism: How Berlin is leading the way",
-    "category": "Travel",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 413,
-    "updateTime": "2025-09-01T09:59:11.082Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73801557&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73801557,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73870143_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73870143_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11933,47 +11978,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73239841_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Vatican welcomes young Catholic influencers",
-    "category": "Religion",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:IT": "Italy",
-      "region:europe:VA": "Vatican"
-    },
-    "regions": [
-      "Italy",
-      "Vatican"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-07-29T21:17:14.482Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73458627&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 73458627,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72994025_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72994025_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
