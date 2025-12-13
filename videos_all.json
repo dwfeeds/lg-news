@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Ukraine suffers blackouts after Russian attack",
+    "category": "[Miscellaneous]",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 95,
+    "updateTime": "2025-12-13T19:46:49.91Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75147972&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75147972,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75144301_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75144301_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How in Mali music can save lives ",
     "category": "Music",
     "subCategory": null,
@@ -357,12 +398,12 @@
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa:RW": "Rwanda"
+      "region:africa:RW": "Rwanda",
+      "region:africa:CD": "Democratic Republic of Congo"
     },
     "regions": [
-      "Democratic Republic of Congo",
-      "Rwanda"
+      "Rwanda",
+      "Democratic Republic of Congo"
     ],
     "runningTime": 162,
     "updateTime": "2025-12-13T08:39:03.353Z",
@@ -1225,45 +1266,6 @@
     "language": "en"
   },
   {
-    "titleText": "Italy plans world's longest suspension bridge",
-    "category": "Cars and Transportation",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 326,
-    "updateTime": "2025-12-10T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75037864&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75037864,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75019876_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75019876_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "In France, birds of prey are improving flight safety",
     "category": "Travel",
     "subCategory": "Cars and Transportation",
@@ -1296,6 +1298,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75020301_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Italy plans world's longest suspension bridge",
+    "category": "Cars and Transportation",
+    "subCategory": "Travel",
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 326,
+    "updateTime": "2025-12-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75037864&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75037864,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75019876_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75019876_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -2654,45 +2695,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74806158_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Baljvine, a united village amid war and climate strain",
-    "category": "Society",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:europe:BA": "Bosnia and Herzegovina"
-    },
-    "regions": [
-      "Bosnia and Herzegovina"
-    ],
-    "runningTime": 326,
-    "updateTime": "2025-12-08T08:24:48.011Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74964789&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 74964789,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74941406_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74941406_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13078,7 +13080,7 @@
       "Bosnien und Herzegowina"
     ],
     "runningTime": 300,
-    "updateTime": "2025-12-13T17:09:08.594Z",
+    "updateTime": "2025-12-13T18:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=75116798&list=REPORTS_VIDEO:1",
@@ -13093,13 +13095,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74806158_6.jpg",
+      "url": "https://static.dw.com/image/55896368_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74806158_7.jpg",
+      "url": "https://static.dw.com/image/55896368_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
