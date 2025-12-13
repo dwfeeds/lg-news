@@ -1,5 +1,44 @@
 [
   {
+    "titleText": "Israeli family waits for remains of last hostage",
+    "category": "Conflicts",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:me:IL": "Israel"
+    },
+    "regions": [
+      "Israel"
+    ],
+    "runningTime": 193,
+    "updateTime": "2025-12-13T10:30:06.946Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75140964&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 75140964,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75124368_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75124368_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Rwanda-backed forces continue offensive in DRC",
     "category": "Conflicts",
     "subCategory": null,
@@ -236,10 +275,12 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:cala:VE": "Venezuela"
+      "region:cala:VE": "Venezuela",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Venezuela"
+      "Venezuela",
+      "Europe"
     ],
     "runningTime": 159,
     "updateTime": "2025-12-12T15:05:09.919Z",
@@ -944,45 +985,6 @@
     "language": "en"
   },
   {
-    "titleText": "In France, birds of prey are improving flight safety",
-    "category": "Travel",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 299,
-    "updateTime": "2025-12-10T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75037941&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75037941,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75020301_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75020301_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Italy plans world's longest suspension bridge",
     "category": "Cars and Transportation",
     "subCategory": "Travel",
@@ -1015,6 +1017,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75019876_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "In France, birds of prey are improving flight safety",
+    "category": "Travel",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 299,
+    "updateTime": "2025-12-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75037941&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75037941,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75020301_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75020301_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10002,7 +10043,7 @@
     "updateTime": "2025-10-22T17:31:39.69Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74462898&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74462898&list=REGION_VIDEO:9",
       "type": "video",
       "id": 74462898,
       "launchParam": null
@@ -10140,45 +10181,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296182_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Gaza aid shortage continues amid fragile truce",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 112,
-    "updateTime": "2025-10-20T19:06:07.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74432559&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74432559,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74421007_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74421007_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
