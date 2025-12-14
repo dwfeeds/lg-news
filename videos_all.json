@@ -39,11 +39,9 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
       "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "Germany",
       "Russian Federation"
     ],
     "runningTime": 52,
@@ -2500,6 +2498,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75056263_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How a high-tech blowpipe is heating up nuclear fusion",
+    "category": "Science",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 275,
+    "updateTime": "2025-12-08T12:58:46.453Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75031263&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75031263,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/58899643_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/58899643_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5920,45 +5957,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74832538_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Warsaw's metro library gives Poles a chance to unwind",
-    "category": "Society",
-    "subCategory": "Literature",
-    "region_ids": {
-      "region:europe:PL": "Poland"
-    },
-    "regions": [
-      "Poland"
-    ],
-    "runningTime": 122,
-    "updateTime": "2025-11-21T08:54:45.964Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74751746&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 74751746,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74729113_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74729113_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
