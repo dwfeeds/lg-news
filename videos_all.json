@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 102,
+    "updateTime": "2025-12-14T11:48:32.88Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:10",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75148730_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75148730_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "The magic of Christmas in Paris",
     "category": "Travel",
     "subCategory": "Culture",
@@ -71,41 +106,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75147797_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 102,
-    "updateTime": "2025-12-14T07:34:04.818Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:10",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75148730_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75148730_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -13187,7 +13187,7 @@
     "language": "es"
   },
   {
-    "titleText": "Paris in der Adventszeit — eine Stadt voller Zauber ",
+    "titleText": "Paris in der Adventszeit - eine Stadt voller Zauber ",
     "category": "Reise",
     "subCategory": "Kultur",
     "region_ids": {
@@ -13633,7 +13633,7 @@
     "updateTime": "2025-12-10T22:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75097636&list=REPORTS_VIDEO:1",
+      "contentId": "v=75097636&list=DW_RECOMMENDS_VIDEO:1",
       "type": "video",
       "id": 75097636,
       "launchParam": null
