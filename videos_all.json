@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 98,
+    "updateTime": "2025-12-15T18:50:01.155Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75170403_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75170403_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Argentina scraps plan to build radio telescope with China",
     "category": "Business",
     "subCategory": null,
@@ -36,41 +71,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/64310335_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 98,
-    "updateTime": "2025-12-15T12:03:42.242Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75161422_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75161422_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -1504,45 +1504,6 @@
     "language": "en"
   },
   {
-    "titleText": "In France, birds of prey are improving flight safety",
-    "category": "Travel",
-    "subCategory": "Cars and Transportation",
-    "region_ids": {
-      "region:europe:FR": "France"
-    },
-    "regions": [
-      "France"
-    ],
-    "runningTime": 299,
-    "updateTime": "2025-12-10T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75037941&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75037941,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75020301_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75020301_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Italy plans world's longest suspension bridge",
     "category": "Cars and Transportation",
     "subCategory": "Travel",
@@ -1575,6 +1536,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75019876_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "In France, birds of prey are improving flight safety",
+    "category": "Travel",
+    "subCategory": "Cars and Transportation",
+    "region_ids": {
+      "region:europe:FR": "France"
+    },
+    "regions": [
+      "France"
+    ],
+    "runningTime": 299,
+    "updateTime": "2025-12-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75037941&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75037941,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75020301_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75020301_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12063,6 +12063,47 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Europa permanece atenta, pero no interviene, en tensión entre EE.UU. y Venezuela",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europa",
+      "region:cala:VE": "Venezuela"
+    },
+    "regions": [
+      "Europa",
+      "Venezuela"
+    ],
+    "runningTime": 154,
+    "updateTime": "2025-12-15T18:24:41.01Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75099008&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75099008,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74871331_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74871331_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "El árbol más completo",
