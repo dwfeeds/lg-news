@@ -1,5 +1,48 @@
 [
   {
+    "titleText": "Finland on alert as Russia arms up along the border",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FI": "Finland",
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Finland",
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 304,
+    "updateTime": "2025-12-18T14:11:00.871Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75136617&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75136617,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75160340_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75160340_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -87,7 +130,7 @@
     "updateTime": "2025-12-18T09:53:01.492Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75212900&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75212900&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75212900,
       "launchParam": null
@@ -128,7 +171,7 @@
     "updateTime": "2025-12-18T09:36:34.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75205898&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=75205898&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75205898,
       "launchParam": null
@@ -171,7 +214,7 @@
     "updateTime": "2025-12-18T07:54:40.812Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75210674&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75210674&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75210674,
       "launchParam": null
@@ -368,7 +411,7 @@
     "updateTime": "2025-12-17T18:28:27.845Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75209753&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75209753&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75209753,
       "launchParam": null
@@ -530,7 +573,7 @@
     "updateTime": "2025-12-17T11:03:24.132Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75138502&list=REGION_VIDEO:7",
+      "contentId": "v=75138502&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75138502,
       "launchParam": null
@@ -573,7 +616,7 @@
     "updateTime": "2025-12-17T10:04:05.91Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75192097&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75192097&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75192097,
       "launchParam": null
@@ -776,7 +819,7 @@
     "updateTime": "2025-12-16T15:09:05.293Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75172634&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75172634&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75172634,
       "launchParam": null
@@ -856,7 +899,7 @@
     "updateTime": "2025-12-16T12:32:52.107Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75172535&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75172535&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75172535,
       "launchParam": null
@@ -1453,7 +1496,7 @@
     "updateTime": "2025-12-13T19:46:49.91Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75147972&list=REGION_VIDEO:7",
+      "contentId": "v=75147972&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 75147972,
       "launchParam": null
@@ -1890,7 +1933,7 @@
     "updateTime": "2025-12-13T08:05:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75119331&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75119331&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75119331,
       "launchParam": null
@@ -2206,7 +2249,7 @@
     "updateTime": "2025-12-12T12:04:40.661Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75129902&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75129902&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75129902,
       "launchParam": null
@@ -2520,7 +2563,7 @@
     "updateTime": "2025-12-11T09:40:54.459Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75103576&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75103576&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75103576,
       "launchParam": null
@@ -2561,7 +2604,7 @@
     "updateTime": "2025-12-11T09:16:21.463Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75102724&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75102724&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75102724,
       "launchParam": null
@@ -2682,7 +2725,7 @@
     "updateTime": "2025-12-11T07:20:20.803Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75101161&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75101161&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75101161,
       "launchParam": null
@@ -2708,45 +2751,6 @@
     "language": "en"
   },
   {
-    "titleText": "Italy plans world's longest suspension bridge",
-    "category": "Cars and Transportation",
-    "subCategory": "Travel",
-    "region_ids": {
-      "region:europe:IT": "Italy"
-    },
-    "regions": [
-      "Italy"
-    ],
-    "runningTime": 326,
-    "updateTime": "2025-12-10T23:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75037864&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75037864,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75019876_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75019876_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Venezuela's Machado awarded Nobel Peace Prize in absentia",
     "category": "Human Rights",
     "subCategory": "Politics",
@@ -2760,7 +2764,7 @@
     "updateTime": "2025-12-10T20:58:49.131Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75098989&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75098989&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75098989,
       "launchParam": null
@@ -2879,7 +2883,7 @@
     "updateTime": "2025-12-10T13:05:18.324Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75092834&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75092834&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75092834,
       "launchParam": null
@@ -3441,7 +3445,7 @@
     "updateTime": "2025-12-09T08:49:25.342Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75072445&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75072445&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75072445,
       "launchParam": null
@@ -3486,7 +3490,7 @@
     "updateTime": "2025-12-09T07:39:07.816Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75072259&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75072259&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75072259,
       "launchParam": null
@@ -3529,7 +3533,7 @@
     "updateTime": "2025-12-08T20:09:42.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75069730&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75069730&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75069730,
       "launchParam": null
@@ -3789,6 +3793,45 @@
     "language": "en"
   },
   {
+    "titleText": "Ukrainian defense gets boost from interceptor drones",
+    "category": "Technology",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 243,
+    "updateTime": "2025-12-08T07:54:55.432Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75055625&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 75055625,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75047293_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75047293_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syria still scarred after 14-year civil war",
     "category": "Politics",
     "subCategory": null,
@@ -3882,7 +3925,7 @@
     "updateTime": "2025-12-07T20:58:53.252Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75053403&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75053403&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75053403,
       "launchParam": null
@@ -4873,7 +4916,7 @@
     "updateTime": "2025-12-03T21:14:41.649Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75007311&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75007311&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75007311,
       "launchParam": null
@@ -4990,7 +5033,7 @@
     "updateTime": "2025-12-02T17:11:38.051Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74989965&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74989965&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74989965,
       "launchParam": null
@@ -5009,6 +5052,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74989959_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Moldova faces increasing Russian drone incursions",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:MD": "Republic of Moldova"
+    },
+    "regions": [
+      "Republic of Moldova"
+    ],
+    "runningTime": 216,
+    "updateTime": "2025-12-02T15:39:52.672Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74974429&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74974429,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74909256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74909256_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5059,6 +5141,45 @@
     "language": "en"
   },
   {
+    "titleText": "Inside Ukraine's front-line evacuations as Russia advances",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 349,
+    "updateTime": "2025-12-02T11:03:52.994Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74980783&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74980783,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74985249_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74985249_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "EU defense chiefs promise Ukraine backing",
     "category": "Politics",
     "subCategory": null,
@@ -5078,7 +5199,7 @@
     "updateTime": "2025-12-01T19:01:36.492Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74974591&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74974591&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74974591,
       "launchParam": null
@@ -5273,7 +5394,7 @@
     "updateTime": "2025-11-30T20:54:32.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74960414&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74960414&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74960414,
       "launchParam": null
@@ -5351,7 +5472,7 @@
     "updateTime": "2025-11-30T15:51:51.856Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74839726&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74839726&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74839726,
       "launchParam": null
@@ -5427,7 +5548,7 @@
     "updateTime": "2025-11-29T19:08:11.503Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74953572&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74953572&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74953572,
       "launchParam": null
@@ -5524,45 +5645,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74944081_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What if men played soccer under women's conditions? ",
-    "category": "Science",
-    "subCategory": "Soccer",
-    "region_ids": {
-      "region:europe:CH": "Switzerland"
-    },
-    "regions": [
-      "Switzerland"
-    ],
-    "runningTime": 316,
-    "updateTime": "2025-11-29T01:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74934892&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74934892,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74724514_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74724514_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5691,47 +5773,6 @@
     "language": "en"
   },
   {
-    "titleText": "The Shakhtar Academy Berlin",
-    "category": "Soccer",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Germany",
-      "Ukraine"
-    ],
-    "runningTime": 87,
-    "updateTime": "2025-11-28T12:57:14.257Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74939170&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74939170,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74939393_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74939393_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "From Brussels with love: Workshop builds drones for Ukraine",
     "category": "Conflicts",
     "subCategory": null,
@@ -5782,7 +5823,7 @@
     "updateTime": "2025-11-28T09:17:41.977Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74935090&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74935090&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74935090,
       "launchParam": null
@@ -5868,7 +5909,7 @@
     "updateTime": "2025-11-27T19:12:30.747Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932306&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74932306&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74932306,
       "launchParam": null
@@ -5887,6 +5928,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/71192180_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Drones made in Bavaria to boost German army's air defenses",
+    "category": "Technology",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 246,
+    "updateTime": "2025-11-27T13:17:59.271Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74641518&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74641518,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/64533511_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/64533511_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6089,6 +6169,49 @@
     "language": "en"
   },
   {
+    "titleText": "Revised Ukraine peace plan 'workable' according to Kyiv, US",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation",
+      "United States of America"
+    ],
+    "runningTime": 141,
+    "updateTime": "2025-11-25T19:17:10.746Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74897508&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74897508,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74880364_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74880364_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bangladesh: Inside Dhaka's garment factory fire ",
     "category": "Society",
     "subCategory": null,
@@ -6259,6 +6382,47 @@
     "language": "en"
   },
   {
+    "titleText": "Ukraine upholds red lines as Geneva peace talks continue",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Ukraine",
+      "United States of America"
+    ],
+    "runningTime": 123,
+    "updateTime": "2025-11-24T13:44:13.91Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74868060&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74868060,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74859142_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74859142_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US military buildup off Venezuela heightens tensions",
     "category": "Conflicts",
     "subCategory": null,
@@ -6274,7 +6438,7 @@
     "updateTime": "2025-11-24T12:41:58.687Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74866362&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74866362&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74866362,
       "launchParam": null
@@ -6590,7 +6754,7 @@
     "updateTime": "2025-11-21T08:44:56.304Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74830481&list=REGION_VIDEO:9",
+      "contentId": "v=74830481&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74830481,
       "launchParam": null
@@ -6670,7 +6834,7 @@
     "updateTime": "2025-11-20T16:58:39.095Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74826012&list=REGION_VIDEO:6",
+      "contentId": "v=74826012&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74826012,
       "launchParam": null
@@ -6834,7 +6998,7 @@
     "updateTime": "2025-11-19T17:00:32.764Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74800797&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74800797&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74800797,
       "launchParam": null
@@ -7152,7 +7316,7 @@
     "updateTime": "2025-11-17T05:50:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74763642&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74763642&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74763642,
       "launchParam": null
@@ -7171,6 +7335,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74763783_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gazans face new hazards from flooding, broken infrastructure",
+    "category": "Health",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 161,
+    "updateTime": "2025-11-16T15:57:29.128Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74767317&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 74767317,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74747803_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74747803_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7217,6 +7420,45 @@
     "language": "en"
   },
   {
+    "titleText": "Russia launches 'massive' overnight attack on Kyiv",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 197,
+    "updateTime": "2025-11-14T14:08:36.462Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74751195&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74751195,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74741588_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74741588_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Serbian mother on hunger strike over Novi Sad deaths",
     "category": "Politics",
     "subCategory": "Society",
@@ -7249,6 +7491,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74724379_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Agritechnica trade show highligths farming's digital future",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 192,
+    "updateTime": "2025-11-13T12:34:23.539Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74713249&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74713249,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70579153_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70579153_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8290,6 +8571,47 @@
     "language": "en"
   },
   {
+    "titleText": "Women in Ukraine's army fight Russia and sexism",
+    "category": "Conflicts",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
+    },
+    "regions": [
+      "Ukraine",
+      "Russian Federation"
+    ],
+    "runningTime": 193,
+    "updateTime": "2025-11-07T08:53:05.446Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74654223&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74654223,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74652709_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74652709_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hurricane Melissa's severity linked to global warming: Study",
     "category": "Climate",
     "subCategory": "Catastrophe",
@@ -8526,45 +8848,6 @@
     "language": "en"
   },
   {
-    "titleText": "Scoring goals, planting trees: Gambia's green football win",
-    "category": "Nature and Environment",
-    "subCategory": "Sports",
-    "region_ids": {
-      "region:africa:GM": "The Gambia"
-    },
-    "regions": [
-      "The Gambia"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-11-04T11:53:46.998Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74561340&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74561340,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74560202_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74560202_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israeli settler violence disrupts West Bank olive harvest",
     "category": "Human Rights",
     "subCategory": "Nature and Environment",
@@ -8606,24 +8889,24 @@
     "language": "en"
   },
   {
-    "titleText": "Highland Games: Germany's strongest woman takes the title",
-    "category": "Sports",
-    "subCategory": "Lifestyle",
+    "titleText": "Ukrainian drones take Putin's war into Russia's heartland",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:europe:GB": "United Kingdom",
-      "region:europe:DE": "Germany"
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "United Kingdom",
-      "Germany"
+      "Ukraine",
+      "Russian Federation"
     ],
-    "runningTime": 335,
-    "updateTime": "2025-11-01T09:15:38.537Z",
+    "runningTime": 205,
+    "updateTime": "2025-11-03T09:37:53.311Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576333&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74594967&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74576333,
+      "id": 74594967,
       "launchParam": null
     },
     "providerLogo": {
@@ -8633,13 +8916,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74558181_6.jpg",
+      "url": "https://static.dw.com/image/74535457_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74558181_7.jpg",
+      "url": "https://static.dw.com/image/74535457_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8720,45 +9003,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74545172_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Rural India's rugby girls battle to keep playing",
-    "category": "Sports",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:asia:IN": "India"
-    },
-    "regions": [
-      "India"
-    ],
-    "runningTime": 308,
-    "updateTime": "2025-10-29T16:10:48.314Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74545901&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74545901,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74544432_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74544432_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9013,7 +9257,7 @@
     "updateTime": "2025-10-25T12:34:21.254Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74495927&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74495927&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74495927,
       "launchParam": null
@@ -9054,7 +9298,7 @@
     "updateTime": "2025-10-24T15:54:11.351Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74489461&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74489461&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74489461,
       "launchParam": null
@@ -9093,7 +9337,7 @@
     "updateTime": "2025-10-24T10:11:55.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74470414&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74470414&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74470414,
       "launchParam": null
@@ -9197,84 +9441,6 @@
     "language": "en"
   },
   {
-    "titleText": "How AI coaching helps tennis players master their game",
-    "category": "Sports",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 87,
-    "updateTime": "2025-10-20T18:03:28.299Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392455&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74392455,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74388521_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74388521_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Using AI to improve tactics in handball",
-    "category": "Sports",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 167,
-    "updateTime": "2025-10-20T18:03:14.364Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392436&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74392436,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74388616_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74388616_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How Ukraine uses drones to get supplies to the front lines",
     "category": "Conflicts",
     "subCategory": "Technology",
@@ -9288,7 +9454,7 @@
     "updateTime": "2025-10-20T07:39:21.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74420136&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=74420136&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74420136,
       "launchParam": null
@@ -9366,7 +9532,7 @@
     "updateTime": "2025-10-17T08:35:09.799Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74313001&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74313001&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 74313001,
       "launchParam": null
@@ -9392,22 +9558,24 @@
     "language": "en"
   },
   {
-    "titleText": "London hosts first full sumo tournament in over 30 years",
-    "category": "Sports",
-    "subCategory": "Offbeat",
+    "titleText": "Ukraine, Russia escalate attacks on energy infrastructure",
+    "category": "Conflicts",
+    "subCategory": "Business",
     "region_ids": {
-      "region:europe:GB": "United Kingdom"
+      "region:europe:UA": "Ukraine",
+      "region:europe:RU": "Russian Federation"
     },
     "regions": [
-      "United Kingdom"
+      "Ukraine",
+      "Russian Federation"
     ],
-    "runningTime": 114,
-    "updateTime": "2025-10-16T22:09:24.888Z",
+    "runningTime": 133,
+    "updateTime": "2025-10-16T22:40:52.541Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392902&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74392899&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74392902,
+      "id": 74392899,
       "launchParam": null
     },
     "providerLogo": {
@@ -9417,13 +9585,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74393788_6.jpg",
+      "url": "https://static.dw.com/image/68518799_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74393788_7.jpg",
+      "url": "https://static.dw.com/image/68518799_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9446,7 +9614,7 @@
     "updateTime": "2025-10-16T20:36:17.767Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392897&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74392897&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74392897,
       "launchParam": null
@@ -9472,22 +9640,26 @@
     "language": "en"
   },
   {
-    "titleText": "Is AI the better referee?",
-    "category": "Sports",
-    "subCategory": "Digital World",
+    "titleText": "NATO looks to boost drone defenses to counter Russia",
+    "category": "Conflicts",
+    "subCategory": null,
     "region_ids": {
-      "region:global": "Global"
+      "region:europe": "Europe",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
     },
     "regions": [
-      "Global"
+      "Europe",
+      "Russian Federation",
+      "Ukraine"
     ],
-    "runningTime": 108,
-    "updateTime": "2025-10-16T18:30:37.314Z",
+    "runningTime": 126,
+    "updateTime": "2025-10-15T20:27:53.32Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392497&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74375783&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74392497,
+      "id": 74375783,
       "launchParam": null
     },
     "providerLogo": {
@@ -9497,52 +9669,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74388643_6.jpg",
+      "url": "https://static.dw.com/image/74370616_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74388643_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "From ballet to biomechanics",
-    "category": "Sports",
-    "subCategory": "Technology",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 173,
-    "updateTime": "2025-10-16T18:29:46.637Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74392495&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74392495,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74388602_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74388602_7.jpg",
+      "url": "https://static.dw.com/image/74370616_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9758,7 +9891,7 @@
     "updateTime": "2025-10-10T16:04:09.918Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74313596&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74313596&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74313596,
       "launchParam": null
@@ -9777,6 +9910,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74305858_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany to allow police to shoot down drones",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 163,
+    "updateTime": "2025-10-08T14:58:38.412Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74282017&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74282017,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70819829_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70819829_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9875,7 +10047,7 @@
     "updateTime": "2025-10-08T13:44:22.733Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74268855&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74268855&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74268855,
       "launchParam": null
@@ -9901,61 +10073,24 @@
     "language": "en"
   },
   {
-    "titleText": "Young Nigerian getting a kick out of Taekwondo",
-    "category": "Sports",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-10-01T08:43:44.395Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74010701&list=GLOBAL_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 74010701,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74008727_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74008727_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Netherlands: Pole vaulting over canals",
-    "category": "Sports",
+    "titleText": "Kenya turns to drones in elephant conservation",
+    "category": "Nature and Environment",
     "subCategory": "Society",
     "region_ids": {
-      "region:europe:NL": "Netherlands"
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
     },
     "regions": [
-      "Netherlands"
+      "Kenya",
+      "Africa"
     ],
-    "runningTime": 186,
-    "updateTime": "2025-10-01T07:33:26.271Z",
+    "runningTime": 264,
+    "updateTime": "2025-10-02T15:27:52.284Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74067087&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=74222151&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
-      "id": 74067087,
+      "id": 74222151,
       "launchParam": null
     },
     "providerLogo": {
@@ -9965,13 +10100,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74042274_6.jpg",
+      "url": "https://static.dw.com/image/73209193_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74042274_7.jpg",
+      "url": "https://static.dw.com/image/73209193_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10057,6 +10192,94 @@
     "language": "en"
   },
   {
+    "titleText": "Laser weapons show promise against rising drone threats",
+    "category": "Conflicts",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine",
+      "region:me:IL": "Israel",
+      "region:asia:CN": "China"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine",
+      "Israel",
+      "China"
+    ],
+    "runningTime": 138,
+    "updateTime": "2025-09-29T08:59:08.679Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74171387&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74171387,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68559992_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68559992_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Finland's foreign minister: Diplomacy with Russia has failed",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:FI": "Finland",
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Finland",
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 283,
+    "updateTime": "2025-09-26T10:29:38.681Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74145530&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 74145530,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74145425_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74145425_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Fact check: How fake news threatens Moldova's election",
     "category": "Politics",
     "subCategory": null,
@@ -10070,7 +10293,7 @@
     "updateTime": "2025-09-25T09:42:04.01Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74062123&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74062123&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74062123,
       "launchParam": null
@@ -10191,7 +10414,7 @@
     "updateTime": "2025-09-21T09:53:49.837Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74079643&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74079643&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 74079643,
       "launchParam": null
@@ -10312,7 +10535,7 @@
     "updateTime": "2025-09-14T09:36:15.363Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73988980&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73988980&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73988980,
       "launchParam": null
@@ -10396,7 +10619,7 @@
     "updateTime": "2025-09-12T11:31:18.99Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73975877&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73975877&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73975877,
       "launchParam": null
@@ -10478,7 +10701,7 @@
     "updateTime": "2025-09-04T20:38:35.777Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73886574&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73886574&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73886574,
       "launchParam": null
@@ -10636,7 +10859,7 @@
     "updateTime": "2025-08-24T14:26:36.671Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73745697&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73745697&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73745697,
       "launchParam": null
@@ -10716,7 +10939,7 @@
     "updateTime": "2025-08-05T08:42:09.634Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73530553&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73530553&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73530553,
       "launchParam": null
@@ -10781,6 +11004,45 @@
     "language": "en"
   },
   {
+    "titleText": "Crete fears more migrant arrivals could hurt tourism",
+    "category": "Migration",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 264,
+    "updateTime": "2025-07-30T09:34:16.874Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73365845&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 73365845,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73239841_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73239841_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "US, Venezuela swap prisoners from CECOT and Caracas",
     "category": "Politics",
     "subCategory": null,
@@ -10798,7 +11060,7 @@
     "updateTime": "2025-07-19T08:16:35.723Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73334138&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=73334138&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 73334138,
       "launchParam": null
@@ -10841,7 +11103,7 @@
     "updateTime": "2025-06-25T17:40:59.243Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 73042647,
       "launchParam": null
@@ -10880,7 +11142,7 @@
     "updateTime": "2025-03-22T11:13:02.928Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72005421&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=72005421&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 72005421,
       "launchParam": null
@@ -10921,7 +11183,7 @@
     "updateTime": "2025-02-21T08:17:20.918Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71694802&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71694802&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71694802,
       "launchParam": null
@@ -10960,7 +11222,7 @@
     "updateTime": "2025-02-05T13:50:00.656Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71514325&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71514325&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71514325,
       "launchParam": null
@@ -11001,7 +11263,7 @@
     "updateTime": "2025-01-17T02:35:52.693Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71320527&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71320527&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71320527,
       "launchParam": null
@@ -11040,7 +11302,7 @@
     "updateTime": "2025-01-14T17:31:24.552Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71293960&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71293960&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71293960,
       "launchParam": null
@@ -11079,7 +11341,7 @@
     "updateTime": "2025-01-08T08:04:21.076Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71244011&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=71244011&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 71244011,
       "launchParam": null
@@ -11118,7 +11380,7 @@
     "updateTime": "2024-11-09T12:15:13.896Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70742672&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=70742672&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 70742672,
       "launchParam": null
@@ -11153,7 +11415,7 @@
     "updateTime": "2024-06-10T13:58:07.822Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69324693&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=69324693&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 69324693,
       "launchParam": null
@@ -11192,7 +11454,7 @@
     "updateTime": "2024-03-10T14:57:33.61Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68467563&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=68467563&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 68467563,
       "launchParam": null
@@ -11231,7 +11493,7 @@
     "updateTime": "2024-02-04T11:03:40.44Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=68075145&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=68075145&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 68075145,
       "launchParam": null
@@ -11270,7 +11532,7 @@
     "updateTime": "2024-01-13T17:45:01.344Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=67973399&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=67973399&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 67973399,
       "launchParam": null
@@ -11309,7 +11571,7 @@
     "updateTime": "2023-12-07T13:44:56.29Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=67605850&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=67605850&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 67605850,
       "launchParam": null
@@ -11348,7 +11610,7 @@
     "updateTime": "2023-12-04T09:41:13.544Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=67587929&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=67587929&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 67587929,
       "launchParam": null
@@ -11387,7 +11649,7 @@
     "updateTime": "2023-12-04T09:00:59.967Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=67605659&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=67605659&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 67605659,
       "launchParam": null
