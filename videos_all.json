@@ -40,15 +40,15 @@
   },
   {
     "titleText": "UK's Starmer faces uphill battle with Brexit 'reset'",
-    "category": "Business",
-    "subCategory": "Trade",
+    "category": "Trade",
+    "subCategory": "Globalization",
     "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:GB": "United Kingdom"
+      "region:europe:GB": "United Kingdom",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Europe",
-      "United Kingdom"
+      "United Kingdom",
+      "Europe"
     ],
     "runningTime": 187,
     "updateTime": "2025-12-23T15:40:42.347Z",
@@ -252,9 +252,9 @@
     "language": "en"
   },
   {
-    "titleText": "Breaking racist stereotypes and barriers for women ",
-    "category": "Society",
-    "subCategory": null,
+    "titleText": "Romani opera singer changing the tune for women in Romania",
+    "category": "Music",
+    "subCategory": "Society",
     "region_ids": {
       "region:europe:RO": "Romania"
     },
@@ -265,7 +265,7 @@
     "updateTime": "2025-12-23T13:19:07.043Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75286341&list=REGION_VIDEO:7",
+      "contentId": "v=75286341&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 75286341,
       "launchParam": null
@@ -415,7 +415,7 @@
     "subCategory": null,
     "region_ids": {},
     "regions": [],
-    "runningTime": 81,
+    "runningTime": 102,
     "updateTime": "2025-12-23T11:46:11.284Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
@@ -5404,45 +5404,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75018808_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Markus Karstiess ceramics merge the monstrous and human",
-    "category": "Arts",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 248,
-    "updateTime": "2025-12-06T10:09:46.092Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75039144&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 75039144,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75024449_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75024449_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
