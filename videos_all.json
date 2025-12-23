@@ -5,13 +5,11 @@
     "subCategory": null,
     "region_ids": {
       "region:cala:VE": "Venezuela",
-      "region:asia:CN": "China",
-      "region:europe:RU": "Russian Federation"
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
       "Venezuela",
-      "China",
-      "Russian Federation"
+      "United States of America"
     ],
     "runningTime": 106,
     "updateTime": "2025-12-23T07:00:38.728Z",
@@ -285,18 +283,16 @@
     "category": "Health",
     "subCategory": "Education",
     "region_ids": {
-      "region:africa:SO": "Somalia",
-      "region:africa": "Africa"
+      "region:africa:SO": "Somalia"
     },
     "regions": [
-      "Somalia",
-      "Africa"
+      "Somalia"
     ],
     "runningTime": 138,
     "updateTime": "2025-12-22T14:21:29.685Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75270400&list=REGION_VIDEO:8",
+      "contentId": "v=75270400&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 75270400,
       "launchParam": null
@@ -4316,6 +4312,47 @@
     "language": "en"
   },
   {
+    "titleText": "How insecurity is disrupting education in Nigeria",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 230,
+    "updateTime": "2025-12-10T12:17:49.645Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75091664&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75091664,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75087594_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75087594_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Are digital payments crisis-proof in Sweden?",
     "category": "Digital World",
     "subCategory": "Business",
@@ -4836,45 +4873,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75053707_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Syria marks one year since fall of Assad regime",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:SY": "Syria"
-    },
-    "regions": [
-      "Syria"
-    ],
-    "runningTime": 151,
-    "updateTime": "2025-12-07T21:53:53.805Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75053430&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 75053430,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71062391_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71062391_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5433,45 +5431,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75034208_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Footage released of Jeffrey Epstein's island",
-    "category": "Crime",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 108,
-    "updateTime": "2025-12-04T19:21:31.567Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75024648&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 75024648,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75007309_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75007309_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7366,6 +7325,45 @@
     "language": "en"
   },
   {
+    "titleText": "Why Trump's stabilization force for Gaza faces hurdles",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:PS": "Palestinian Territories"
+    },
+    "regions": [
+      "Palestinian Territories"
+    ],
+    "runningTime": 152,
+    "updateTime": "2025-11-17T09:35:50.936Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74771800&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 74771800,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73629535_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73629535_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Chile leftists advance to December's presidential runoff",
     "category": "Politics",
     "subCategory": null,
@@ -8081,45 +8079,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74649361_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Romania: Romani IT specialist mentors young Roma",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:RO": "Romania"
-    },
-    "regions": [
-      "Romania"
-    ],
-    "runningTime": 376,
-    "updateTime": "2025-11-08T16:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74633885&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 74633885,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74626895_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74626895_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
