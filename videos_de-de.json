@@ -40,7 +40,7 @@
     "updateTime": "2025-12-21T11:49:54.381Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75247468&list=FEATURED_VIDEO:1",
+      "contentId": "v=75247468&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 75247468,
       "launchParam": null
@@ -337,7 +337,7 @@
     "updateTime": "2025-12-16T08:34:34.58Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75132971&list=PANORAMA_VIDEO:1",
+      "contentId": "v=75132971&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75132971,
       "launchParam": null
@@ -917,6 +917,39 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75017427_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Idyllisch oder überfüllt? Ein Besuch auf Capri",
+    "category": "Reise",
+    "subCategory": null,
+    "runningTime": 288,
+    "updateTime": "2025-12-05T06:00:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74945345&list=PANORAMA_VIDEO:1",
+      "type": "video",
+      "id": 74945345,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74945267_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74945267_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
