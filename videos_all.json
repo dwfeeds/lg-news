@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Central African Republic gears up for Dec 28 quadruple vote",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:CF": "Central African Republic"
+    },
+    "regions": [
+      "Central African Republic"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-12-27T18:05:45.595Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75317449&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75317449,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73449264_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73449264_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2025-12-27T17:40:34.125Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75314300_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75314300_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Kyiv residents forced to shelters by Russian holiday strikes",
     "category": "Conflicts",
     "subCategory": null,
@@ -124,11 +198,13 @@
     "subCategory": null,
     "region_ids": {
       "region:me:IL": "Israel",
-      "region:africa:SO": "Somalia"
+      "region:africa:SO": "Somalia",
+      "region:africa": "Africa"
     },
     "regions": [
       "Israel",
-      "Somalia"
+      "Somalia",
+      "Africa"
     ],
     "runningTime": 128,
     "updateTime": "2025-12-27T10:56:19.065Z",
@@ -4432,47 +4508,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72870812_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Rwanda-backed forces continue offensive in DRC",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:RW": "Rwanda",
-      "region:africa:CD": "Democratic Republic of Congo"
-    },
-    "regions": [
-      "Rwanda",
-      "Democratic Republic of Congo"
-    ],
-    "runningTime": 162,
-    "updateTime": "2025-12-13T08:39:03.353Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75140580&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 75140580,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75121828_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75121828_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
