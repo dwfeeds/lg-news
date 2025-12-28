@@ -5,8 +5,8 @@
     "subCategory": null,
     "region_ids": {},
     "regions": [],
-    "runningTime": 101,
-    "updateTime": "2025-12-28T10:37:53.659Z",
+    "runningTime": 102,
+    "updateTime": "2025-12-28T13:34:17.062Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:12",
@@ -28,6 +28,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75320476_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Myanmar votes in controversial general election",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:MM": "Myanmar"
+    },
+    "regions": [
+      "Myanmar"
+    ],
+    "runningTime": 157,
+    "updateTime": "2025-12-28T13:32:47.458Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75322067&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 75322067,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75320398_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75320398_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5872,45 +5911,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75034604_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Survivor of deadly Indonesia floods faces uncertain future",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-12-05T17:43:02.473Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75039957&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 75039957,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75040052_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75040052_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
