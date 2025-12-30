@@ -87,7 +87,7 @@
     "updateTime": "2025-12-30T12:41:21.811Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
       "type": "video",
       "id": 49496622,
       "launchParam": null
@@ -374,7 +374,7 @@
     "updateTime": "2025-12-29T13:44:36.462Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75331633&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75331633&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75331633,
       "launchParam": null
@@ -456,7 +456,7 @@
     "updateTime": "2025-12-29T11:19:28.686Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75329107&list=REGION_VIDEO:4",
+      "contentId": "v=75329107&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75329107,
       "launchParam": null
@@ -858,7 +858,7 @@
     "updateTime": "2025-12-27T14:19:53.577Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74980782&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74980782&list=REGION_VIDEO:7",
       "type": "video",
       "id": 74980782,
       "launchParam": null
@@ -2735,7 +2735,7 @@
     "updateTime": "2025-12-21T14:35:33.396Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75258475&list=REGION_VIDEO:8",
+      "contentId": "v=75258475&list=GLOBAL_TOPIC_VIDEO:7",
       "type": "video",
       "id": 75258475,
       "launchParam": null
@@ -3088,7 +3088,7 @@
     "updateTime": "2025-12-19T12:38:59.157Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75201255&list=REGION_VIDEO:8",
+      "contentId": "v=75201255&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75201255,
       "launchParam": null
@@ -3168,7 +3168,7 @@
     "updateTime": "2025-12-19T10:47:20.599Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75201155&list=REGION_VIDEO:8",
+      "contentId": "v=75201155&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75201155,
       "launchParam": null
@@ -3857,7 +3857,7 @@
     "updateTime": "2025-12-18T07:45:51.056Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75091042&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=75091042&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75091042,
       "launchParam": null
@@ -4177,7 +4177,7 @@
     "updateTime": "2025-12-17T11:03:24.132Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75138502&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=75138502&list=REGION_VIDEO:7",
       "type": "video",
       "id": 75138502,
       "launchParam": null
@@ -4259,7 +4259,7 @@
     "updateTime": "2025-12-17T09:37:24.041Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75091036&list=REGION_VIDEO:8",
+      "contentId": "v=75091036&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75091036,
       "launchParam": null
@@ -4687,6 +4687,45 @@
     "language": "en"
   },
   {
+    "titleText": "Egypt: Reviving the palm products industry",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:EG": "Egypt"
+    },
+    "regions": [
+      "Egypt"
+    ],
+    "runningTime": 298,
+    "updateTime": "2025-12-16T07:42:28.562Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75091045&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75091045,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75087419_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75087419_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Guilty verdict for Hong Kong activist Jimmy Lai",
     "category": "Law and Justice",
     "subCategory": "Human Rights",
@@ -5046,6 +5085,88 @@
     "language": "en"
   },
   {
+    "titleText": "How music can save lives in Mali",
+    "category": "Music",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ML": "Mali",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Mali",
+      "Africa"
+    ],
+    "runningTime": 251,
+    "updateTime": "2025-12-13T16:24:41.264Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75118246&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75118246,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74944139_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74944139_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How dried fruits can help Ghanaian farmers ",
+    "category": "Food Security",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa:GH": "Ghana",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Ghana",
+      "Africa"
+    ],
+    "runningTime": 322,
+    "updateTime": "2025-12-13T16:24:35.741Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75118227&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75118227,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74944160_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74944160_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Sumatra residents struggle as aid falls short after cyclone",
     "category": "Catastrophe",
     "subCategory": null,
@@ -5165,45 +5286,6 @@
     "language": "en"
   },
   {
-    "titleText": "Cycle of strikes, then repairs, leaves Ukrainians powerless",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 222,
-    "updateTime": "2025-12-13T13:08:14.786Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75143055&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75143055,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75124733_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75124733_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Orthodox Jewish woman gives online insights into her life",
     "category": "Society",
     "subCategory": "Religion",
@@ -5314,6 +5396,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72870812_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rwanda-backed forces continue offensive in DRC",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:RW": "Rwanda",
+      "region:africa:CD": "Democratic Republic of Congo"
+    },
+    "regions": [
+      "Rwanda",
+      "Democratic Republic of Congo"
+    ],
+    "runningTime": 162,
+    "updateTime": "2025-12-13T08:39:03.353Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75140580&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75140580,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75121828_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75121828_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5440,6 +5563,86 @@
     "language": "en"
   },
   {
+    "titleText": "How Queen Achalla designs living rooms from car tires ",
+    "category": "Innovation",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 272,
+    "updateTime": "2025-12-11T17:27:21.172Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75118025&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75118025,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74944121_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74944121_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Paying for peace in Nigeria as gangs operate with impunity",
+    "category": "Conflicts",
+    "subCategory": "Crime",
+    "region_ids": {
+      "region:africa:NG": "Nigeria"
+    },
+    "regions": [
+      "Nigeria"
+    ],
+    "runningTime": 209,
+    "updateTime": "2025-12-11T16:37:30.486Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75117417&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75117417,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75117535_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75117535_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pakistan: Flood-hit village struggles to rebuild",
     "category": "Society",
     "subCategory": "Nature and Environment",
@@ -5453,7 +5656,7 @@
     "updateTime": "2025-12-11T15:48:44.422Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75115526&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=75115526&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 75115526,
       "launchParam": null
@@ -5838,6 +6041,47 @@
     "language": "en"
   },
   {
+    "titleText": "Renewed Thai-Cambodian clashes displace tens of thousands",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:TH": "Thailand",
+      "region:asia:KH": "Cambodia"
+    },
+    "regions": [
+      "Thailand",
+      "Cambodia"
+    ],
+    "runningTime": 175,
+    "updateTime": "2025-12-09T17:02:53.207Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75080822&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 75080822,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75074881_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75074881_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "German foreign medical worker program mired in bureaucracy",
     "category": "Business",
     "subCategory": "Health",
@@ -6038,45 +6282,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75049811_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sumatra landslide survivors criticize deforestation",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-12-07T10:26:16.075Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75050629&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 75050629,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74995389_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74995389_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6285,45 +6490,6 @@
     "language": "en"
   },
   {
-    "titleText": "'Robo-dog' new weapon in fight to save forests",
-    "category": "Technology",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:europe:GB": "United Kingdom"
-    },
-    "regions": [
-      "United Kingdom"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-12-03T22:20:01.997Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75007700&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 75007700,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75007732_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75007732_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Venezuelans on edge as Trump escalates rhetoric in Caribbean",
     "category": "Conflicts",
     "subCategory": null,
@@ -6365,22 +6531,22 @@
     "language": "en"
   },
   {
-    "titleText": "Indonesia flood crisis: Delayed disaster status draws anger",
-    "category": "Catastrophe",
-    "subCategory": "Nature and Environment",
+    "titleText": "How Senegal's Nzinga Mboup is building the future",
+    "category": "Architecture",
+    "subCategory": null,
     "region_ids": {
-      "region:asia:ID": "Indonesia"
+      "region:africa:SN": "Senegal"
     },
     "regions": [
-      "Indonesia"
+      "Senegal"
     ],
-    "runningTime": 120,
-    "updateTime": "2025-12-03T14:58:27.409Z",
+    "runningTime": 353,
+    "updateTime": "2025-12-03T14:33:58.134Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75002357&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74932442&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
-      "id": 75002357,
+      "id": 74932442,
       "launchParam": null
     },
     "providerLogo": {
@@ -6390,13 +6556,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74995157_6.jpg",
+      "url": "https://static.dw.com/image/74716599_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74995157_7.jpg",
+      "url": "https://static.dw.com/image/74716599_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6486,6 +6652,45 @@
     "language": "en"
   },
   {
+    "titleText": "E-cargo bikes drive health, sustainability in Uganda",
+    "category": "Cars and Transportation",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 316,
+    "updateTime": "2025-12-02T11:52:58.42Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74887819&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74887819,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74882752_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74882752_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How these Indian women are driving a new food security model",
     "category": "Food Security",
     "subCategory": "Society",
@@ -6518,45 +6723,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74927610_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Southeast Asia battles flood recovery as death toll rises",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-12-01T13:41:18.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74969878&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74969878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74966591_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74966591_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6796,6 +6962,45 @@
     "language": "en"
   },
   {
+    "titleText": "What if men played soccer under women's conditions? ",
+    "category": "Science",
+    "subCategory": "Soccer",
+    "region_ids": {
+      "region:europe:CH": "Switzerland"
+    },
+    "regions": [
+      "Switzerland"
+    ],
+    "runningTime": 316,
+    "updateTime": "2025-11-29T01:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74934892&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74934892,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74724514_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74724514_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Pope Leo XIV visits Lebanon",
     "category": "Religion",
     "subCategory": "Conflicts",
@@ -6832,6 +7037,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74901201_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kenyan fashion designers upcycle waste textiles",
+    "category": "Design",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Kenya",
+      "Africa"
+    ],
+    "runningTime": 189,
+    "updateTime": "2025-11-28T14:32:46.391Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74930332&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74930332,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74929345_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74929345_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6910,6 +7156,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74939133_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "The Shakhtar Academy Berlin",
+    "category": "Soccer",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Germany",
+      "Ukraine"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-11-28T12:57:14.257Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74939170&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74939170,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74939393_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74939393_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7070,41 +7357,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74901516_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Australian researchers turn to AI to save coral reefs",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 96,
-    "updateTime": "2025-11-26T08:29:00.507Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74900878&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74900878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/68833456_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/68833456_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7323,6 +7575,45 @@
     "language": "en"
   },
   {
+    "titleText": "Citizen science harnesses fungi's potential for innovation",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 364,
+    "updateTime": "2025-11-24T09:31:54.71Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74825341&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74825341,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74903527_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74903527_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Hezbollah's top military official killed in Israeli strike",
     "category": "Politics",
     "subCategory": "Conflicts",
@@ -7494,7 +7785,7 @@
     "updateTime": "2025-11-21T12:23:42.741Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74836105&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74836105&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74836105,
       "launchParam": null
@@ -7520,22 +7811,22 @@
     "language": "en"
   },
   {
-    "titleText": "Protecting the rainforest: Manila's green heroines",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
+    "titleText": "Why trash is the latest trend in Malawi",
+    "category": "Design",
+    "subCategory": "Nature and Environment",
     "region_ids": {
-      "region:asia:PH": "Philippines"
+      "region:africa:MW": "Malawi"
     },
     "regions": [
-      "Philippines"
+      "Malawi"
     ],
-    "runningTime": 382,
-    "updateTime": "2025-11-21T09:59:21.473Z",
+    "runningTime": 316,
+    "updateTime": "2025-11-21T10:19:58.135Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752472&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74833346&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
-      "id": 74752472,
+      "id": 74833346,
       "launchParam": null
     },
     "providerLogo": {
@@ -7545,13 +7836,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74780894_6.jpg",
+      "url": "https://static.dw.com/image/74632073_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74780894_7.jpg",
+      "url": "https://static.dw.com/image/74632073_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7572,7 +7863,7 @@
     "updateTime": "2025-11-21T08:06:43.179Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74829695&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74829695&list=REGION_VIDEO:6",
       "type": "video",
       "id": 74829695,
       "launchParam": null
@@ -7613,7 +7904,7 @@
     "updateTime": "2025-11-20T16:58:39.095Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74826012&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74826012&list=REGION_VIDEO:6",
       "type": "video",
       "id": 74826012,
       "launchParam": null
@@ -7652,7 +7943,7 @@
     "updateTime": "2025-11-20T10:08:21.68Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752490&list=REGION_VIDEO:6",
+      "contentId": "v=74752490&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74752490,
       "launchParam": null
@@ -7671,84 +7962,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74780938_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Could China take over as the world's climate leader?",
-    "category": "Technology",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:CN": "China"
-    },
-    "regions": [
-      "China"
-    ],
-    "runningTime": 156,
-    "updateTime": "2025-11-20T09:20:49.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74815658&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74815658,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74780492_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74780492_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Indigenous groups call for climate justice at COP30",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 171,
-    "updateTime": "2025-11-19T17:55:41.612Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74808795&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74808795,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74784133_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74784133_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7836,47 +8049,6 @@
     "language": "en"
   },
   {
-    "titleText": "Seagulls flock to bird 'hotel' in Norway's far east ",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:europe:NO": "Norway"
-    },
-    "regions": [
-      "Europe",
-      "Norway"
-    ],
-    "runningTime": 198,
-    "updateTime": "2025-11-19T09:37:22.797Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74736943&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74736943,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74733897_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74733897_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Ethiopia's green mission: Billions of trees for the future",
     "category": "Nature and Environment",
     "subCategory": "Climate",
@@ -7890,7 +8062,7 @@
     "updateTime": "2025-11-19T09:09:27.55Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752468&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74752468&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74752468,
       "launchParam": null
@@ -8048,7 +8220,7 @@
     "updateTime": "2025-11-17T08:17:45.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74729701&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=74729701&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74729701,
       "launchParam": null
@@ -8113,88 +8285,6 @@
     "language": "en"
   },
   {
-    "titleText": "Nicolas Maduro denounces US exercises in Trinidad and Tobago",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:cala:VE": "Venezuela",
-      "region:northamerica:US": "United States of America",
-      "region:cala:TT": "Trinidad and Tobago"
-    },
-    "regions": [
-      "Venezuela",
-      "United States of America",
-      "Trinidad and Tobago"
-    ],
-    "runningTime": 149,
-    "updateTime": "2025-11-17T05:50:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74763642&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74763642,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74763783_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74763783_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "'Stop deceiving us,' say protesters at COP30",
-    "category": "Climate",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-11-15T17:50:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74761230&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74761230,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74760824_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74760824_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Serbian mother on hunger strike over Novi Sad deaths",
     "category": "Politics",
     "subCategory": "Society",
@@ -8227,86 +8317,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74724379_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "COP30 in Brazil: Young Africans say it's time to act ",
-    "category": "Climate",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-11-13T14:52:25.764Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74729408&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74729408,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74694049_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74694049_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Carbon schemes in Congo: Who's really paying the price?",
-    "category": "Nature and Environment",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:africa:CD": "Democratic Republic of Congo",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Democratic Republic of Congo",
-      "Africa"
-    ],
-    "runningTime": 129,
-    "updateTime": "2025-11-13T09:15:27.947Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74715149&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74715149,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74064322_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74064322_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8353,88 +8363,6 @@
     "language": "en"
   },
   {
-    "titleText": "Climate activists try bold new strategies to make an impact",
-    "category": "Climate",
-    "subCategory": "Society",
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:global": "Global"
-    },
-    "regions": [
-      "Germany",
-      "Global"
-    ],
-    "runningTime": 567,
-    "updateTime": "2025-11-12T15:02:37.972Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74668821&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74668821,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74392771_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74392771_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "California's Newsom takes center stage at COP30",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brazil",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Brazil",
-      "United States of America"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-11-12T14:40:26.762Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74716358&list=GLOBAL_TOPIC_VIDEO:7",
-      "type": "video",
-      "id": 74716358,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74710374_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74710374_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Miscarriage: Common. Not your fault. Let's talk.",
     "category": "Health",
     "subCategory": null,
@@ -8467,6 +8395,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75075282_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Benin's eco-fashion star turns trash into runway art",
+    "category": "Arts",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:africa:BJ": "Benin"
+    },
+    "regions": [
+      "Benin"
+    ],
+    "runningTime": 122,
+    "updateTime": "2025-11-12T12:27:43.021Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74640474&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74640474,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74640246_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74640246_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Could a miracle grass solve Lake Victoria's problems?",
+    "category": "Nature and Environment",
+    "subCategory": "Science",
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 342,
+    "updateTime": "2025-11-11T12:26:14.747Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74640438&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74640438,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74640238_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74640238_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8552,6 +8558,45 @@
     "language": "en"
   },
   {
+    "titleText": "Report COP30 Brazil: Protect forests while drilling for oil?",
+    "category": "Business",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:cala:BR": "Brazil"
+    },
+    "regions": [
+      "Brazil"
+    ],
+    "runningTime": 498,
+    "updateTime": "2025-11-10T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74668422&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74668422,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74699369_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74699369_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Donald Trump continues push for Greenland to join the US",
     "category": "Society",
     "subCategory": "Politics",
@@ -8608,7 +8653,7 @@
     "updateTime": "2025-11-09T10:15:06.694Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74565745&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74565745&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 74565745,
       "launchParam": null
@@ -8911,45 +8956,6 @@
     "language": "en"
   },
   {
-    "titleText": "Tesla approves $1 trillion pay deal for CEO Elon Musk",
-    "category": "Business",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 130,
-    "updateTime": "2025-11-07T14:22:38.492Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74662869&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74662869,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69888628_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69888628_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India: as New Delhi chokes, air quality data under scrutiny",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -9108,6 +9114,45 @@
     "language": "en"
   },
   {
+    "titleText": "Scoring goals, planting trees: Gambia's green football win",
+    "category": "Nature and Environment",
+    "subCategory": "Sports",
+    "region_ids": {
+      "region:africa:GM": "The Gambia"
+    },
+    "regions": [
+      "The Gambia"
+    ],
+    "runningTime": 136,
+    "updateTime": "2025-11-04T11:53:46.998Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74561340&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74561340,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74560202_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74560202_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israeli settler violence disrupts West Bank olive harvest",
     "category": "Human Rights",
     "subCategory": "Nature and Environment",
@@ -9142,6 +9187,127 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74608991_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Highland Games: Germany's strongest woman takes the title",
+    "category": "Sports",
+    "subCategory": "Lifestyle",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "United Kingdom",
+      "Germany"
+    ],
+    "runningTime": 335,
+    "updateTime": "2025-11-01T09:15:38.537Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74576333&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74576333,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74558181_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74558181_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "From Gambia to Berlin: Sewing a sustainable future",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:africa:GM": "The Gambia"
+    },
+    "regions": [
+      "Germany",
+      "The Gambia"
+    ],
+    "runningTime": 339,
+    "updateTime": "2025-10-31T15:14:33.443Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74202019&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74202019,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74576247_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74576247_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Rural India's rugby girls battle to keep playing",
+    "category": "Sports",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 308,
+    "updateTime": "2025-10-29T16:10:48.314Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74545901&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74545901,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74544432_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74544432_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9266,6 +9432,47 @@
     "language": "en"
   },
   {
+    "titleText": "Knitted canopy from Serbia turns heads at Venice Biennale",
+    "category": "Architecture",
+    "subCategory": "Culture",
+    "region_ids": {
+      "region:europe:IT": "Italy",
+      "region:europe:RS": "Serbia"
+    },
+    "regions": [
+      "Italy",
+      "Serbia"
+    ],
+    "runningTime": 237,
+    "updateTime": "2025-10-26T11:15:48.653Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74489081&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74489081,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74488149_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74488149_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "How do kids cope when cancer hits home?",
     "category": "Society",
     "subCategory": "Health",
@@ -9344,6 +9551,45 @@
     "language": "en"
   },
   {
+    "titleText": "Can Chennai's Blue Flag beaches be truly sustainable?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 224,
+    "updateTime": "2025-10-24T14:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74471548&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74471548,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74483582_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74483582_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "India's 'solar mamas' empower women with sustainable energy",
     "category": "Technology",
     "subCategory": "Society",
@@ -9357,7 +9603,7 @@
     "updateTime": "2025-10-23T14:44:22.558Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74474582&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=74474582&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74474582,
       "launchParam": null
@@ -9376,6 +9622,86 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74473850_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Saving forests, sustaining lives: A new path in Mali",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:ML": "Mali",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Mali",
+      "Africa"
+    ],
+    "runningTime": 173,
+    "updateTime": "2025-10-22T08:36:10.177Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74390150&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74390150,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74387985_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74387985_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How to build sustainable homes in India's 'cyclone capital'",
+    "category": "Architecture",
+    "subCategory": "Globalization",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 293,
+    "updateTime": "2025-10-21T07:55:41.467Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74391416&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74391416,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74389689_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74389689_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9415,6 +9741,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296182_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How AI coaching helps tennis players master their game",
+    "category": "Sports",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 87,
+    "updateTime": "2025-10-20T18:03:28.299Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74392455&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74392455,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74388521_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74388521_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Using AI to improve tactics in handball",
+    "category": "Sports",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 167,
+    "updateTime": "2025-10-20T18:03:14.364Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74392436&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74392436,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74388616_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74388616_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9532,6 +9936,84 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74296222_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "London hosts first full sumo tournament in over 30 years",
+    "category": "Sports",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 114,
+    "updateTime": "2025-10-16T22:09:24.888Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74392902&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74392902,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74393788_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74393788_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Is AI the better referee?",
+    "category": "Sports",
+    "subCategory": "Digital World",
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 108,
+    "updateTime": "2025-10-16T18:30:37.314Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74392497&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 74392497,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74388643_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74388643_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -9907,7 +10389,7 @@
     "updateTime": "2025-09-28T09:53:54.182Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74152771&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=74152771&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74152771,
       "launchParam": null
@@ -10149,7 +10631,7 @@
     "updateTime": "2025-09-10T07:59:26.722Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73943471&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73943471&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73943471,
       "launchParam": null
@@ -10348,7 +10830,7 @@
     "updateTime": "2025-08-02T19:19:27.578Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73508932&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73508932&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73508932,
       "launchParam": null
@@ -10374,45 +10856,6 @@
     "language": "en"
   },
   {
-    "titleText": "Rolls-Royce to expand jet-engine plant near Berlin",
-    "category": "Cars and Transportation",
-    "subCategory": "Innovation",
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 155,
-    "updateTime": "2025-07-30T16:11:53.718Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73447074&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 73447074,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/61151362_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/61151362_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How independent Chinese oil refiners defy US Iran sanctions",
     "category": "Conflicts",
     "subCategory": "Business",
@@ -10430,7 +10873,7 @@
     "updateTime": "2025-07-23T11:39:08.325Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73381003&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73381003&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73381003,
       "launchParam": null
@@ -10469,7 +10912,7 @@
     "updateTime": "2025-07-03T07:59:15.705Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73137225&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73137225&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73137225,
       "launchParam": null
@@ -10508,7 +10951,7 @@
     "updateTime": "2025-07-02T14:18:43.183Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73114382&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73114382&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73114382,
       "launchParam": null
@@ -10551,7 +10994,7 @@
     "updateTime": "2025-06-30T11:28:21.517Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73087306&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73087306&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73087306,
       "launchParam": null
@@ -10592,7 +11035,7 @@
     "updateTime": "2025-06-26T19:01:30.209Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73055250&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73055250,
       "launchParam": null
@@ -10633,7 +11076,7 @@
     "updateTime": "2025-06-26T10:19:43.639Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73047711,
       "launchParam": null
@@ -10676,7 +11119,7 @@
     "updateTime": "2025-06-25T17:40:59.243Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73042647,
       "launchParam": null
@@ -10719,7 +11162,7 @@
     "updateTime": "2025-06-25T09:27:02.635Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73032206&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73032206&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73032206,
       "launchParam": null
@@ -10762,7 +11205,7 @@
     "updateTime": "2025-06-25T07:55:51.732Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73029845&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73029845&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73029845,
       "launchParam": null
@@ -10801,7 +11244,7 @@
     "updateTime": "2025-06-24T09:42:46.681Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73019203&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73019203&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73019203,
       "launchParam": null
@@ -10844,7 +11287,7 @@
     "updateTime": "2025-06-24T07:48:03.087Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73015356&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73015356&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73015356,
       "launchParam": null
@@ -10885,7 +11328,7 @@
     "updateTime": "2025-06-23T18:51:30.645Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73012184&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73012184,
       "launchParam": null
@@ -10928,7 +11371,7 @@
     "updateTime": "2025-06-23T13:32:08.067Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73007268&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73007268&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73007268,
       "launchParam": null
@@ -10971,7 +11414,7 @@
     "updateTime": "2025-06-23T12:55:38.766Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73005342&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73005342,
       "launchParam": null
@@ -11012,7 +11455,7 @@
     "updateTime": "2025-06-22T19:29:01.045Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73001120&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73001120&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73001120,
       "launchParam": null
@@ -11053,7 +11496,7 @@
     "updateTime": "2025-06-22T13:18:06.125Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72999991&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72999991,
       "launchParam": null
@@ -11094,7 +11537,7 @@
     "updateTime": "2025-06-22T12:20:39.357Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72999826&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72999826,
       "launchParam": null
@@ -11135,7 +11578,7 @@
     "updateTime": "2025-06-22T10:13:50.146Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72998666&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72998666&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72998666,
       "launchParam": null
@@ -11176,7 +11619,7 @@
     "updateTime": "2025-06-21T18:00:53.291Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72995940&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72995940&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72995940,
       "launchParam": null
@@ -12238,7 +12681,7 @@
   {
     "titleText": "Macht der Klimawandel die rumänischen Karpaten grüner?",
     "category": "Natur und Umwelt",
-    "subCategory": null,
+    "subCategory": "Panorama",
     "region_ids": {
       "region:europe:RO": "Rumänien"
     },
