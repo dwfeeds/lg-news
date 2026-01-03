@@ -1,12 +1,51 @@
 [
   {
+    "titleText": "Zelenskyy taps military intelligence chief as top aide",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 78,
+    "updateTime": "2026-01-03T08:08:35.506Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75373925&list=GLOBAL_TOPIC_VIDEO:7",
+      "type": "video",
+      "id": 75373925,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75147967_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75147967_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 89,
-    "updateTime": "2026-01-03T03:02:14.723Z",
+    "updateTime": "2026-01-03T07:52:52.241Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:12",
@@ -5010,7 +5049,7 @@
     "updateTime": "2025-12-16T16:28:21.198Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75190826&list=GLOBAL_TOPIC_VIDEO:7",
+      "contentId": "v=75190826&list=REGION_VIDEO:7",
       "type": "video",
       "id": 75190826,
       "launchParam": null
