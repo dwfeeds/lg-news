@@ -6,7 +6,7 @@
     "region_ids": {},
     "regions": [],
     "runningTime": 89,
-    "updateTime": "2026-01-03T12:35:36.478Z",
+    "updateTime": "2026-01-03T13:40:21.25Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:12",
@@ -28,6 +28,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75375561_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Venezuela slams US strikes amid reports of Maduro's ouster",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Venezuela",
+      "United States of America"
+    ],
+    "runningTime": 169,
+    "updateTime": "2026-01-03T13:38:01.352Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75376486&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 75376486,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75375593_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75375593_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8902,45 +8943,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74747803_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "'Stop deceiving us,' say protesters at COP30",
-    "category": "Climate",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 148,
-    "updateTime": "2025-11-15T17:50:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74761230&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74761230,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74760824_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74760824_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
