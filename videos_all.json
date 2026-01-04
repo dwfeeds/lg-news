@@ -868,16 +868,18 @@
     "category": "Nature and Environment",
     "subCategory": null,
     "region_ids": {
+      "region:asia": "Asia",
       "region:asia:PH": "Philippines"
     },
     "regions": [
+      "Asia",
       "Philippines"
     ],
     "runningTime": 148,
     "updateTime": "2025-12-31T14:25:14.779Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75350329&list=REGION_VIDEO:4",
+      "contentId": "v=75350329&list=PROFILE_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75350329,
       "launchParam": null
@@ -6419,6 +6421,45 @@
     "language": "en"
   },
   {
+    "titleText": "Border dispute between Thailand and Cambodia flares up again",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia": "Asia"
+    },
+    "regions": [
+      "Asia"
+    ],
+    "runningTime": 195,
+    "updateTime": "2025-12-10T14:01:34.419Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75093441&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 75093441,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75055810_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75055810_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Will Machado's Nobel affect Trump's actions in Venezuela?",
     "category": "Politics",
     "subCategory": "Human Rights",
@@ -11077,45 +11118,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74062105_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Invasive water weed threatens El Salvador wetland",
-    "category": "Nature and Environment",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:SV": "El Salvador"
-    },
-    "regions": [
-      "El Salvador"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-09-13T18:35:39.138Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73982923&list=PROFILE_TOPIC_VIDEO:4",
-      "type": "video",
-      "id": 73982923,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73971468_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73971468_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
