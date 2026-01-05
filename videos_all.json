@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 98,
+    "updateTime": "2026-01-05T13:02:44.535Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75382773_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75382773_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany responds cautiously to US capture of Nicolas Maduro",
     "category": "Politics",
     "subCategory": null,
@@ -194,41 +229,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75387539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 99,
-    "updateTime": "2026-01-05T07:58:36.422Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75382773_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75382773_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4976,47 +4976,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75225168_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Scant humanitarian assistance for Malians fleeing violence",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:MR": "Mauritania"
-    },
-    "regions": [
-      "Africa",
-      "Mauritania"
-    ],
-    "runningTime": 227,
-    "updateTime": "2025-12-18T19:39:57.668Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75230684&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 75230684,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75213917_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75213917_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12952,7 +12911,7 @@
   {
     "titleText": "Plastikmüll: Boyan Slats Kampf für saubere Meere",
     "category": "Natur und Umwelt",
-    "subCategory": "Panorama",
+    "subCategory": "Innovation",
     "region_ids": {
       "region:global": "Global"
     },
@@ -13400,7 +13359,7 @@
     "updateTime": "2025-12-26T22:35:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75294990&list=REPORTS_VIDEO:1",
+      "contentId": "v=75294990&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 75294990,
       "launchParam": null
@@ -14679,51 +14638,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74938596_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Selenskyj sucht Unterstützung bei Macron",
-    "category": "Konflikte",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine",
-      "region:europe:RU": "Russische Föderation",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Ukraine",
-      "Russische Föderation",
-      "Vereinigte Staaten von Amerika",
-      "Europa"
-    ],
-    "runningTime": 160,
-    "updateTime": "2025-12-01T16:28:55.621Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74973688&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 74973688,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74965260_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74965260_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
