@@ -1,12 +1,53 @@
 [
   {
+    "titleText": "Trump's team renews push for US takeover of Greenland",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "United States of America",
+      "Denmark"
+    ],
+    "runningTime": 197,
+    "updateTime": "2026-01-07T20:35:23.452Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75426734&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 75426734,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75418831_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75418831_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
     "region_ids": {},
     "regions": [],
     "runningTime": 99,
-    "updateTime": "2026-01-07T16:41:33.202Z",
+    "updateTime": "2026-01-07T20:07:18.518Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
       "contentId": "v=49496622&list=NEWS_VIDEO:11",
@@ -10505,45 +10546,6 @@
     "language": "en"
   },
   {
-    "titleText": "'America' — Maurizio Cattelan's gold toilet goes on sale ",
-    "category": "Arts",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 124,
-    "updateTime": "2025-11-08T09:11:17.623Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74671532&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74671532,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74671679_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74671679_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India: as New Delhi chokes, air quality data under scrutiny",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -12641,6 +12643,86 @@
     "language": "es"
   },
   {
+    "titleText": "Iran-Protest: Ruf nach Wiederkehr der Monarchie",
+    "category": "Politik",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Iran"
+    ],
+    "runningTime": 217,
+    "updateTime": "2026-01-07T20:26:58.772Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75424350&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75424350,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75420583_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75420583_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Innenminister Dobrindt: Magnetwirkung Deutschlands sinkt",
+    "category": "Migration",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:europe:DE": "Deutschland",
+      "region:europe": "Europa"
+    },
+    "regions": [
+      "Deutschland",
+      "Europa"
+    ],
+    "runningTime": 349,
+    "updateTime": "2026-01-07T20:26:02.92Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75426274&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75426274,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75426422_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75426422_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Grönland-Krise: EU spricht von gefährlicher Eskalation",
     "category": "Politik",
     "subCategory": null,
@@ -13040,45 +13122,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73716899_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Plastikmüll: Boyan Slats Kampf für saubere Meere",
-    "category": "Natur und Umwelt",
-    "subCategory": null,
-    "region_ids": {
-      "region:global": "Global"
-    },
-    "regions": [
-      "Global"
-    ],
-    "runningTime": 345,
-    "updateTime": "2026-01-05T11:40:00.717Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73763227&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 73763227,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73716853_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73716853_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14187,45 +14230,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75047293_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Krebsrisiko durch Samenspender: Europas Samenbank in Kritik",
-    "category": "Gesundheit",
-    "subCategory": "Gesellschaft",
-    "region_ids": {
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Europa"
-    ],
-    "runningTime": 275,
-    "updateTime": "2025-12-10T07:57:34.736Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75082905&list=DW_RECOMMENDS_VIDEO:1",
-      "type": "video",
-      "id": 75082905,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75082804_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75082804_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
