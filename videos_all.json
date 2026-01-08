@@ -1,15 +1,60 @@
 [
   {
-    "titleText": "Venezuela's military found wanting after US raid",
+    "titleText": "Is Venezuelan oil United States' main interest? ",
+    "category": "Business",
+    "subCategory": null,
+    "region_ids": {
+      "region:cala:VE": "Venezuela",
+      "region:asia:CN": "China",
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Venezuela",
+      "China",
+      "Russian Federation",
+      "United States of America"
+    ],
+    "runningTime": 159,
+    "updateTime": "2026-01-08T09:26:15.593Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75403041&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 75403041,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75419882_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75419882_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What US attack says about Venezuela's military strength",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:cala:VE": "Venezuela"
+      "region:cala:VE": "Venezuela",
+      "region:northamerica:US": "United States of America"
     },
     "regions": [
-      "United States of America",
-      "Venezuela"
+      "Venezuela",
+      "United States of America"
     ],
     "runningTime": 102,
     "updateTime": "2026-01-08T08:42:24.345Z",
@@ -398,18 +443,18 @@
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:asia:AF": "Afghanistan"
+      "region:asia:AF": "Afghanistan",
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Germany",
-      "Afghanistan"
+      "Afghanistan",
+      "Germany"
     ],
     "runningTime": 154,
     "updateTime": "2026-01-07T11:12:50.848Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75420139&list=REGION_VIDEO:7",
+      "contentId": "v=75420139&list=REGION_VIDEO:4",
       "type": "video",
       "id": 75420139,
       "launchParam": null
@@ -4214,7 +4259,7 @@
     "updateTime": "2025-12-23T14:06:41.318Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75287204&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=75287204&list=REGION_VIDEO:6",
       "type": "video",
       "id": 75287204,
       "launchParam": null
@@ -7147,47 +7192,6 @@
     "language": "en"
   },
   {
-    "titleText": "Thailand-Cambodia border clashes escalate",
-    "category": "Conflicts",
-    "subCategory": "Politics",
-    "region_ids": {
-      "region:asia:TH": "Thailand",
-      "region:asia:KH": "Cambodia"
-    },
-    "regions": [
-      "Thailand",
-      "Cambodia"
-    ],
-    "runningTime": 110,
-    "updateTime": "2025-12-11T07:27:15.129Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75101354&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 75101354,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75092455_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75092455_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US seizes oil tanker near Venezuela",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -7300,45 +7304,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75093053_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Border dispute between Thailand and Cambodia flares up again",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia": "Asia"
-    },
-    "regions": [
-      "Asia"
-    ],
-    "runningTime": 195,
-    "updateTime": "2025-12-10T14:01:34.419Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75093441&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 75093441,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75055810_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75055810_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10141,47 +10106,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72532268_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "California's Newsom takes center stage at COP30",
-    "category": "Climate",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala:BR": "Brazil",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Brazil",
-      "United States of America"
-    ],
-    "runningTime": 106,
-    "updateTime": "2025-11-12T14:40:26.762Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74716358&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74716358,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74710374_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74710374_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
