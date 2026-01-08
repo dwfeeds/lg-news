@@ -1,6 +1,47 @@
 [
   {
-    "titleText": "Fatal ICE shooting in Minnesota provokes protests",
+    "titleText": "Venezuela's military found wanting after US raid",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:cala:VE": "Venezuela"
+    },
+    "regions": [
+      "United States of America",
+      "Venezuela"
+    ],
+    "runningTime": 102,
+    "updateTime": "2026-01-08T08:42:24.345Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75429143&list=GLOBAL_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 75429143,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75426577_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75426577_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Fatal ICE shooting in Minnesota sparks protests",
     "category": "Law and Justice",
     "subCategory": null,
     "region_ids": {
@@ -39,8 +80,8 @@
     "language": "en"
   },
   {
-    "titleText": "US forces seize tankers tied to Venezuela",
-    "category": "Crime",
+    "titleText": "US forces seize oil tankers tied to Venezuela",
+    "category": "Conflicts",
     "subCategory": "Politics",
     "region_ids": {
       "region:northamerica:US": "United States of America",
@@ -261,13 +302,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/75401973_6.jpg",
+      "url": "https://static.dw.com/image/75390958_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/75401973_7.jpg",
+      "url": "https://static.dw.com/image/75390958_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4491,7 +4532,7 @@
     "updateTime": "2025-12-23T07:00:38.728Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75278515&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=75278515&list=REGION_VIDEO:6",
       "type": "video",
       "id": 75278515,
       "launchParam": null
@@ -10228,45 +10269,6 @@
     "language": "en"
   },
   {
-    "titleText": "Brazil slows deforestation, boosts oil production",
-    "category": "Nature and Environment",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 147,
-    "updateTime": "2025-11-11T10:53:25.666Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74696524&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 74696524,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74698204_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74698204_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Senate deal to end US shutdown faces tense vote in the House",
     "category": "Politics",
     "subCategory": null,
@@ -12682,6 +12684,45 @@
       "bgColor": ""
     },
     "language": "es"
+  },
+  {
+    "titleText": "Ukraine: KI im Krieg gegen Russland",
+    "category": "Konflikte",
+    "subCategory": "Digitale Welt",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 298,
+    "updateTime": "2026-01-08T08:20:22.18Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75425883&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75425883,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75219544_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75219544_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
   },
   {
     "titleText": "Wird Südafrika zu einem Mafia-Staat?",
