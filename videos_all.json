@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Russia fires hypersonic Oreshnik missile at Ukraine",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RU": "Russian Federation",
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Russian Federation",
+      "Ukraine"
+    ],
+    "runningTime": 184,
+    "updateTime": "2026-01-09T21:06:23.77Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75457447&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75457447,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75451574_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75451574_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Winter storms Goretti and Elli batter Germany, France, UK",
     "category": "Climate",
     "subCategory": null,
@@ -3189,45 +3230,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75363774_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Bulgaria becomes eurozone's 21st member",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:BG": "Bulgaria"
-    },
-    "regions": [
-      "Bulgaria"
-    ],
-    "runningTime": 142,
-    "updateTime": "2026-01-01T12:14:34.572Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75360498&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75360498,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75359552_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75359552_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
