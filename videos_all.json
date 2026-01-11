@@ -39,16 +39,18 @@
     "category": "Trade",
     "subCategory": "Politics",
     "region_ids": {
-      "region:asia:IN": "India"
+      "region:asia:IN": "India",
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "India"
+      "India",
+      "Germany"
     ],
     "runningTime": 214,
     "updateTime": "2026-01-11T17:54:03.536Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75466868&list=REGION_VIDEO:4",
+      "contentId": "v=75466868&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 75466868,
       "launchParam": null
@@ -230,7 +232,7 @@
     "language": "en"
   },
   {
-    "titleText": "Thousands protest in Minneapolis, demand ICE exit",
+    "titleText": "Tens of thousands protest in Minnesota after ICE killing",
     "category": "Politics",
     "subCategory": null,
     "region_ids": {
@@ -6636,6 +6638,45 @@
     "language": "en"
   },
   {
+    "titleText": "Sumatra residents struggle as aid falls short after cyclone",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 175,
+    "updateTime": "2025-12-13T16:05:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75130795&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 75130795,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74966256_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74966256_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Israeli family waits for remains of last hostage",
     "category": "Conflicts",
     "subCategory": "Human Rights",
@@ -9895,45 +9936,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/51997358_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Mexico City's 'Trump refugees' cause housing crisis",
-    "category": "Society",
-    "subCategory": "Business",
-    "region_ids": {
-      "region:cala:MX": "Mexico"
-    },
-    "regions": [
-      "Mexico"
-    ],
-    "runningTime": 345,
-    "updateTime": "2025-10-13T00:30:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74314759&list=PROFILE_TOPIC_VIDEO:2",
-      "type": "video",
-      "id": 74314759,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74301643_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74301643_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
