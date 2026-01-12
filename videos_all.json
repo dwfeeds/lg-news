@@ -1,5 +1,81 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 88,
+    "updateTime": "2026-01-12T18:43:40.495Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75464013_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75464013_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Protests surge in Iran amid talk of negotiations with US",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Iran",
+      "United States of America"
+    ],
+    "runningTime": 129,
+    "updateTime": "2026-01-12T18:14:48.987Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75480609&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 75480609,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75475141_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75475141_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Carcassonne: France’s medieval fortress city",
     "category": "Travel",
     "subCategory": "History",
@@ -71,41 +147,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75433468_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 88,
-    "updateTime": "2026-01-12T13:11:50.154Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75460546_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75460546_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11759,49 +11800,6 @@
     "language": "en"
   },
   {
-    "titleText": "Fact check: How AI fakes are distorting the Israel-Iran war",
-    "category": "Conflicts",
-    "subCategory": "Digital World",
-    "region_ids": {
-      "region:me:IR": "Iran",
-      "region:me:IL": "Israel",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Iran",
-      "Israel",
-      "United States of America"
-    ],
-    "runningTime": 174,
-    "updateTime": "2025-06-25T17:40:59.243Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73042647&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 73042647,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73048538_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73048538_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pulmón verde en resguardo",
     "category": "Naturaleza y medio ambiente",
     "subCategory": null,
@@ -12795,6 +12793,123 @@
     "language": "es"
   },
   {
+    "titleText": "Estland: KI im Klassenzimmer ",
+    "category": "Digitale Welt",
+    "subCategory": "Technik",
+    "region_ids": {
+      "region:europe:EE": "Estland"
+    },
+    "regions": [
+      "Estland"
+    ],
+    "runningTime": 233,
+    "updateTime": "2026-01-12T17:51:06.691Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75441534&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75441534,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75435467_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75435467_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "KI-gestütztes Lernen erobert Indiens Klassenzimmer",
+    "category": "Digitale Welt",
+    "subCategory": "Technik",
+    "region_ids": {
+      "region:asia:IN": "Indien"
+    },
+    "regions": [
+      "Indien"
+    ],
+    "runningTime": 165,
+    "updateTime": "2026-01-12T17:50:45.568Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75441611&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75441611,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75435537_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75435537_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Studierende lieben KI – aber ist das nicht unfair?",
+    "category": "Technik",
+    "subCategory": "Gesellschaft",
+    "region_ids": {
+      "region:northamerica:US": "Vereinigte Staaten von Amerika"
+    },
+    "regions": [
+      "Vereinigte Staaten von Amerika"
+    ],
+    "runningTime": 96,
+    "updateTime": "2026-01-12T17:50:20.623Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75441614&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75441614,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75435564_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75435564_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Mittelalterlich: Die französische Festungsstadt Carcassonne",
     "category": "Lifestyle",
     "subCategory": "Reise",
@@ -13163,7 +13278,7 @@
     "updateTime": "2026-01-08T09:59:07.015Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75425883&list=REPORTS_VIDEO:1",
+      "contentId": "v=75425883&list=TOPIC_CLUSTER_VIDEO:2",
       "type": "video",
       "id": 75425883,
       "launchParam": null
@@ -13182,86 +13297,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75219544_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Wird Südafrika zu einem Mafia-Staat?",
-    "category": "Korruption",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:africa:ZA": "Südafrika"
-    },
-    "regions": [
-      "Südafrika"
-    ],
-    "runningTime": 243,
-    "updateTime": "2026-01-07T21:01:19.727Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75391253&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75391253,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75425761_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75425761_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Dobrindt zu Asylzahl: Magnetwirkung Deutschlands lässt nach",
-    "category": "Migration",
-    "subCategory": "Politik",
-    "region_ids": {
-      "region:europe:DE": "Deutschland",
-      "region:europe": "Europa"
-    },
-    "regions": [
-      "Deutschland",
-      "Europa"
-    ],
-    "runningTime": 349,
-    "updateTime": "2026-01-07T20:26:02.92Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75426274&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75426274,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75426422_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75426422_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14487,45 +14522,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75017427_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Ukraine-Krieg: Überlebende berichten von Folter in Cherson",
-    "category": "Konflikte",
-    "subCategory": "Menschenrechte",
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 348,
-    "updateTime": "2025-12-04T13:49:59.305Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75000010&list=TOPIC_CLUSTER_VIDEO:2",
-      "type": "video",
-      "id": 75000010,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74941316_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74941316_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
