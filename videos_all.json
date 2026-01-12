@@ -1,5 +1,165 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 88,
+    "updateTime": "2026-01-12T13:11:50.154Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75460546_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75460546_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Pakistan: Inside an AI-powered driverless car",
+    "category": "Cars and Transportation",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 110,
+    "updateTime": "2026-01-12T12:46:56.007Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75475114&list=REGION_VIDEO:4",
+      "type": "video",
+      "id": 75475114,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75474453_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75474453_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Can Cuba's economy survive without Venezuelan supply? ",
+    "category": "Globalization",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:cala:CU": "Cuba",
+      "region:cala:VE": "Venezuela",
+      "region:asia:CN": "China",
+      "region:europe:RU": "Russian Federation",
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "Cuba",
+      "Venezuela",
+      "China",
+      "Russian Federation",
+      "United States of America"
+    ],
+    "runningTime": 146,
+    "updateTime": "2026-01-12T12:00:36.721Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75472154&list=REGION_VIDEO:6",
+      "type": "video",
+      "id": 75472154,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75127618_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75127618_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Navi Mumbai: A pioneering initiative for recycling fast fash",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 405,
+    "updateTime": "2026-01-12T11:46:52.317Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75440218&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 75440218,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75452440_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75452440_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Winter storms Goretti and Elli batter Germany, France, UK",
     "category": "Climate",
     "subCategory": null,
@@ -73,41 +233,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75220801_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 88,
-    "updateTime": "2026-01-12T07:52:02.402Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75460546_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75460546_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6154,47 +6279,6 @@
     "language": "en"
   },
   {
-    "titleText": "Mercosur trade pact down to the wire at EU summit",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:cala": "Latin America",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Latin America",
-      "Europe"
-    ],
-    "runningTime": 139,
-    "updateTime": "2025-12-18T16:53:16.108Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75202148&list=REGION_VIDEO:6",
-      "type": "video",
-      "id": 75202148,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75225044_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75225044_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Smog chokes New Delhi despite India's push against pollution",
     "category": "Climate",
     "subCategory": null,
@@ -6543,45 +6627,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75134869_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sumatra residents struggle as aid falls short after cyclone",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 175,
-    "updateTime": "2025-12-13T16:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75130795&list=REGION_VIDEO:4",
-      "type": "video",
-      "id": 75130795,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74966256_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74966256_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12685,7 +12730,7 @@
     "updateTime": "2026-01-12T09:09:11.233Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75425851&list=REPORTS_VIDEO:1",
+      "contentId": "v=75425851&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75425851,
       "launchParam": null
@@ -13100,6 +13145,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75415296_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Der Stromausfall in Berlin und die Folgen",
+    "category": "Technik",
+    "subCategory": "Wirtschaft",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 169,
+    "updateTime": "2026-01-07T15:46:04.424Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75423231&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75423231,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75419002_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75419002_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
