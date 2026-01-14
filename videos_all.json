@@ -1,5 +1,118 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 89,
+    "updateTime": "2026-01-14T19:03:06.9Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75482905_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75482905_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Elections in Uganda marred by violence and intimidation",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 176,
+    "updateTime": "2026-01-14T19:01:40.517Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75509646&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75509646,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75498622_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75498622_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Iran's regime wants to fast-track trials of protesters",
+    "category": "Human Rights",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "Iran"
+    ],
+    "runningTime": 201,
+    "updateTime": "2026-01-14T19:00:02.847Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75509644&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 75509644,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75483555_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75483555_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Better than pizza? Authentic Italian focaccia",
     "category": "Lifestyle",
     "subCategory": "Culture",
@@ -112,41 +225,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75502668_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 89,
-    "updateTime": "2026-01-14T13:12:33.909Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75483499_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75483499_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5849,45 +5927,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/41621096_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "What's behind Nigeria's 'Detty December'?",
-    "category": "Society",
-    "subCategory": "Lifestyle",
-    "region_ids": {
-      "region:africa:NG": "Nigeria"
-    },
-    "regions": [
-      "Nigeria"
-    ],
-    "runningTime": 248,
-    "updateTime": "2025-12-24T09:55:19.443Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75192476&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 75192476,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71158789_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71158789_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11710,47 +11749,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/72996945_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Fooling millions: How AI fakes hijack real wars ",
-    "category": "Digital World",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:IL": "Israel",
-      "region:me:IR": "Iran"
-    },
-    "regions": [
-      "Israel",
-      "Iran"
-    ],
-    "runningTime": 268,
-    "updateTime": "2025-06-26T10:19:43.639Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73047711&list=GLOBAL_TOPIC_VIDEO:6",
-      "type": "video",
-      "id": 73047711,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72906525_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72906525_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
