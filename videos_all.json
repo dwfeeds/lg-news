@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 100,
+    "updateTime": "2026-01-15T19:14:27.313Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75483499_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75483499_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Syria: How do survivors of Alawite mass killings cope?",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Syria"
+    ],
+    "runningTime": 222,
+    "updateTime": "2026-01-15T19:10:42.284Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75526949&list=REGION_VIDEO:9",
+      "type": "video",
+      "id": 75526949,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75526943_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75526943_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Iran's protests in the eyes of the regime",
     "category": "Human Rights",
     "subCategory": "Politics",
@@ -192,41 +266,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75503047_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 89,
-    "updateTime": "2026-01-15T11:59:50.158Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75498891_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75498891_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8732,49 +8771,6 @@
     "language": "en"
   },
   {
-    "titleText": "Pope Leo XIV visits Lebanon",
-    "category": "Religion",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:me:LB": "Lebanon",
-      "region:me": "Middle East",
-      "region:europe:VA": "Vatican"
-    },
-    "regions": [
-      "Lebanon",
-      "Middle East",
-      "Vatican"
-    ],
-    "runningTime": 101,
-    "updateTime": "2025-11-28T18:39:54.944Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74946312&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 74946312,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74901201_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74901201_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Karachi's high-rise skyline comes at the cost of high risk",
     "category": "Society",
     "subCategory": "Human Rights",
@@ -11649,6 +11645,47 @@
       "bgColor": ""
     },
     "language": "en"
+  },
+  {
+    "titleText": "Deshielo entre Washington y Caracas",
+    "category": "Política",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "Estados Unidos",
+      "region:cala:VE": "Venezuela"
+    },
+    "regions": [
+      "Estados Unidos",
+      "Venezuela"
+    ],
+    "runningTime": 127,
+    "updateTime": "2026-01-15T19:10:24.655Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75526886&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75526886,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75510697_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75510697_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "es"
   },
   {
     "titleText": "Pulmón verde en resguardo",
