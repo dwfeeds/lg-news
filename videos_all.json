@@ -1,6 +1,6 @@
 [
   {
-    "titleText": "Deadly train collision kills dozens in southern Spain",
+    "titleText": "Deadly train collision in Spain: What you need to know",
     "category": "Catastrophe",
     "subCategory": null,
     "region_ids": {
@@ -361,10 +361,12 @@
     "category": "Human Rights",
     "subCategory": "Politics",
     "region_ids": {
-      "region:me:IR": "Iran"
+      "region:me:IR": "Iran",
+      "region:europe": "Europe"
     },
     "regions": [
-      "Iran"
+      "Iran",
+      "Europe"
     ],
     "runningTime": 125,
     "updateTime": "2026-01-18T08:40:54.833Z",
@@ -8006,6 +8008,45 @@
     "language": "en"
   },
   {
+    "titleText": "Meet Trev, one of the last pub pianists in England",
+    "category": "Music",
+    "subCategory": "Offbeat",
+    "region_ids": {
+      "region:europe:GB": "United Kingdom"
+    },
+    "regions": [
+      "United Kingdom"
+    ],
+    "runningTime": 130,
+    "updateTime": "2025-12-19T09:08:12.758Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75136622&list=PROFILE_TOPIC_VIDEO:3",
+      "type": "video",
+      "id": 75136622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75115011_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75115011_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Inside Ukraine's search for suspected draft dodgers",
     "category": "Conflicts",
     "subCategory": "Politics",
@@ -12846,7 +12887,7 @@
     "updateTime": "2026-01-17T10:53:15.217Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75533142&list=REPORTS_VIDEO:1",
+      "contentId": "v=75533142&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75533142,
       "launchParam": null
@@ -12924,7 +12965,7 @@
     "updateTime": "2026-01-16T16:54:47.62Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75524510&list=FEATURED_VIDEO:1",
+      "contentId": "v=75524510&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 75524510,
       "launchParam": null
