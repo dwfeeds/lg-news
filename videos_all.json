@@ -1,5 +1,50 @@
 [
   {
+    "titleText": "How liable is Starlink as a wartime communications lifeline?",
+    "category": "Technology",
+    "subCategory": "Conflicts",
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:me:IR": "Iran",
+      "region:europe:UA": "Ukraine",
+      "region:global": "Global"
+    },
+    "regions": [
+      "United States of America",
+      "Iran",
+      "Ukraine",
+      "Global"
+    ],
+    "runningTime": 109,
+    "updateTime": "2026-01-21T09:16:49.469Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75588963&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 75588963,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75547897_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75547897_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Syria: Four-day truce with SDF begins amid US backing",
     "category": "Conflicts",
     "subCategory": null,
@@ -10655,45 +10700,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75075282_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Senate deal to end US shutdown faces tense vote in the House",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "United States of America"
-    ],
-    "runningTime": 103,
-    "updateTime": "2025-11-11T07:49:35.785Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74694667&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 74694667,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74682591_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74682591_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
