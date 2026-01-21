@@ -1,5 +1,83 @@
 [
   {
+    "titleText": "What world leaders are saying as Trump heads to Davos",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:northamerica:US": "United States of America",
+      "region:europe:DK": "Denmark"
+    },
+    "regions": [
+      "Europe",
+      "United States of America",
+      "Denmark"
+    ],
+    "runningTime": 128,
+    "updateTime": "2026-01-21T12:37:33.881Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75593433&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75593433,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75587457_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75587457_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 98,
+    "updateTime": "2026-01-21T12:28:26.633Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75586684_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75586684_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Germany: The world's first vertical solar plant on water ",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -39,51 +117,6 @@
     "language": "en"
   },
   {
-    "titleText": "How liable is Starlink as a wartime communications lifeline?",
-    "category": "Technology",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:me:IR": "Iran",
-      "region:europe:UA": "Ukraine",
-      "region:global": "Global"
-    },
-    "regions": [
-      "United States of America",
-      "Iran",
-      "Ukraine",
-      "Global"
-    ],
-    "runningTime": 109,
-    "updateTime": "2026-01-21T09:16:49.469Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75588963&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 75588963,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75547897_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75547897_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Syria: Four-day truce with SDF begins amid US backing",
     "category": "Conflicts",
     "subCategory": null,
@@ -97,7 +130,7 @@
     "updateTime": "2026-01-21T08:12:02.755Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75587776&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75587776&list=REGION_VIDEO:9",
       "type": "video",
       "id": 75587776,
       "launchParam": null
@@ -155,41 +188,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75582773_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 103,
-    "updateTime": "2026-01-21T07:35:18.555Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75586684_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75586684_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -481,11 +479,13 @@
     "subCategory": null,
     "region_ids": {
       "region:cala:MX": "Mexico",
-      "region:europe:AT": "Austria"
+      "region:europe:AT": "Austria",
+      "region:europe": "Europe"
     },
     "regions": [
       "Mexico",
-      "Austria"
+      "Austria",
+      "Europe"
     ],
     "runningTime": 198,
     "updateTime": "2026-01-20T16:22:00.526Z",
@@ -6560,47 +6560,6 @@
     "language": "en"
   },
   {
-    "titleText": "German pastor embarks on Peace Bike Tour across Africa",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa",
-      "region:africa:GH": "Ghana"
-    },
-    "regions": [
-      "Africa",
-      "Ghana"
-    ],
-    "runningTime": 173,
-    "updateTime": "2026-01-01T11:48:38.589Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75360257&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 75360257,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75343913_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75343913_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US-led talks on Russia's war in Ukraine continue into 2026",
     "category": "Conflicts",
     "subCategory": null,
@@ -7572,7 +7531,7 @@
     "updateTime": "2025-12-26T07:25:29.35Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75308060&list=REGION_VIDEO:6",
+      "contentId": "v=75308060&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75308060,
       "launchParam": null
@@ -7917,45 +7876,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75290539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Conflict casts shadow over Christmas in Lebanon",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 218,
-    "updateTime": "2025-12-23T21:27:40.927Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75290496&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 75290496,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75290517_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75290517_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8555,6 +8475,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75217192_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Inside Ukraine's search for suspected draft dodgers",
+    "category": "Conflicts",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 260,
+    "updateTime": "2025-12-19T08:09:31.505Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75236215&list=GLOBAL_TOPIC_VIDEO:5",
+      "type": "video",
+      "id": 75236215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75235936_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75235936_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10733,47 +10692,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74668381_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Kenya's Greenland Girls School empowers teen mothers ",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenya",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Kenya",
-      "Africa"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-11-09T15:01:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74611842&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 74611842,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74614343_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74614343_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
