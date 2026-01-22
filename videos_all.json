@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 98,
+    "updateTime": "2026-01-22T13:08:32.473Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:11",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75605608_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75605608_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Testing Mitsubishi’s Eclipse Cross Electric",
     "category": "Cars and Transportation",
     "subCategory": null,
@@ -114,41 +149,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75587754_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 98,
-    "updateTime": "2026-01-22T06:41:12.708Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:11",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75598743_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75598743_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5032,47 +5032,6 @@
     "language": "en"
   },
   {
-    "titleText": "Refugees at the forefront of EU summit with Jordan",
-    "category": "Migration",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:me:JO": "Jordan"
-    },
-    "regions": [
-      "Europe",
-      "Jordan"
-    ],
-    "runningTime": 179,
-    "updateTime": "2026-01-08T14:58:45.313Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75437627&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75437627,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75437625_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75437625_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Is Venezuelan oil United States' main interest?",
     "category": "Business",
     "subCategory": null,
@@ -5271,45 +5230,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75311895_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Power outage costs Berlin economy millions of euros",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany"
-    },
-    "regions": [
-      "Germany"
-    ],
-    "runningTime": 169,
-    "updateTime": "2026-01-07T15:31:00.348Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75423922&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75423922,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75390958_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75390958_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -6707,6 +6627,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75359732_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "German pastor embarks on Peace Bike Tour across Africa",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 173,
+    "updateTime": "2026-01-01T11:48:38.589Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75360257&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75360257,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75343913_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75343913_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
