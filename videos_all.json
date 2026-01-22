@@ -1,46 +1,5 @@
 [
   {
-    "titleText": "Trump announces 'framework deal' on Greenland",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 143,
-    "updateTime": "2026-01-22T06:50:49.806Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75600246&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 75600246,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75598747_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75598747_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Top stories in 90 seconds",
     "category": "Video News",
     "subCategory": null,
@@ -10669,7 +10628,7 @@
     "updateTime": "2025-11-09T16:45:06.136Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576610&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=74576610&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 74576610,
       "launchParam": null
@@ -11714,6 +11673,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74301643_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Conflict over fishing turns violent off Gambia's coast",
+    "category": "Society",
+    "subCategory": "Trade",
+    "region_ids": {
+      "region:africa:GM": "The Gambia"
+    },
+    "regions": [
+      "The Gambia"
+    ],
+    "runningTime": 150,
+    "updateTime": "2025-10-11T16:46:46.467Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74298364&list=PROFILE_TOPIC_VIDEO:2",
+      "type": "video",
+      "id": 74298364,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71018250_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71018250_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
