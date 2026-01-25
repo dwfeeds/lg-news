@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 88,
+    "updateTime": "2026-01-25T18:06:57.057Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75647783_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75647783_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Snowstorm paralyzes travel across large parts of US",
     "category": "Climate",
     "subCategory": "Travel",
@@ -32,41 +67,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75646599_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 88,
-    "updateTime": "2026-01-25T12:34:51.617Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75645402_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75645402_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -152,7 +152,7 @@
     "language": "en"
   },
   {
-    "titleText": "Minneapolis ICE shooting sparks protests after nurse killed",
+    "titleText": "Minneapolis shooting sparks protests after nurse killed",
     "category": "Conflicts",
     "subCategory": null,
     "region_ids": {
@@ -12956,7 +12956,7 @@
     "updateTime": "2026-01-25T11:24:07.376Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75625313&list=REPORTS_VIDEO:1",
+      "contentId": "v=75625313&list=FEATURED_VIDEO:1",
       "type": "video",
       "id": 75625313,
       "launchParam": null
@@ -13367,6 +13367,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75532040_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
+    "titleText": "Sundarbans: Eine alte Technik gegen schwindenden Boden ",
+    "category": "Natur und Umwelt",
+    "subCategory": "Klima",
+    "region_ids": {
+      "region:asia:IN": "Indien"
+    },
+    "regions": [
+      "Indien"
+    ],
+    "runningTime": 323,
+    "updateTime": "2026-01-21T07:57:51.545Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75563619&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75563619,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74145224_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74145224_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
