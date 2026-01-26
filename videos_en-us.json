@@ -1,5 +1,38 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "runningTime": 88,
+    "updateTime": "2026-01-26T12:33:00.455Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:9",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75660367_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75660367_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Minneapolis protests intensify after killing footage emerges",
     "category": "Crime",
     "subCategory": "Society",
@@ -26,39 +59,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75653497_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "runningTime": 88,
-    "updateTime": "2026-01-26T07:16:16.623Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:9",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/71768583_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/71768583_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -370,7 +370,7 @@
     "updateTime": "2026-01-21T09:03:56.863Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75544220&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75544220&list=GLOBAL_TOPIC_VIDEO:5",
       "type": "video",
       "id": 75544220,
       "launchParam": null
@@ -568,7 +568,7 @@
     "updateTime": "2026-01-20T10:53:28.12Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75576155,
       "launchParam": null
@@ -601,7 +601,7 @@
     "updateTime": "2026-01-19T19:50:46.818Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75572153&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75572153&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75572153,
       "launchParam": null
@@ -667,7 +667,7 @@
     "updateTime": "2026-01-19T15:08:40.525Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75564660&list=GLOBAL_TOPIC_VIDEO:4",
+      "contentId": "v=75564660&list=GLOBAL_TOPIC_VIDEO:3",
       "type": "video",
       "id": 75564660,
       "launchParam": null
@@ -832,7 +832,7 @@
     "updateTime": "2026-01-15T12:15:14.501Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75506871&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75506871&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75506871,
       "launchParam": null
@@ -898,7 +898,7 @@
     "updateTime": "2026-01-12T12:00:36.721Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75472154&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=75472154&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 75472154,
       "launchParam": null
@@ -2053,7 +2053,7 @@
     "updateTime": "2025-12-04T10:21:22.224Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74946619&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74946619&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74946619,
       "launchParam": null
@@ -2119,7 +2119,7 @@
     "updateTime": "2025-12-02T11:34:11.141Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74908313&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=74908313&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74908313,
       "launchParam": null
@@ -2218,7 +2218,7 @@
     "updateTime": "2025-10-29T14:42:21.394Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74526860&list=GLOBAL_TOPIC_VIDEO:5",
+      "contentId": "v=74526860&list=GLOBAL_TOPIC_VIDEO:4",
       "type": "video",
       "id": 74526860,
       "launchParam": null
@@ -2277,39 +2277,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump's ASEAN visit yields Thai-Cambodian truce, trade deals",
-    "category": "Trade",
-    "subCategory": "Politics",
-    "runningTime": 155,
-    "updateTime": "2025-10-26T13:39:04.938Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74502637&list=GLOBAL_TOPIC_VIDEO:5",
-      "type": "video",
-      "id": 74502637,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74503333_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74503333_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mexico City's 'Trump refugees' cause housing crisis",
     "category": "Society",
     "subCategory": "Business",
@@ -2350,7 +2317,7 @@
     "updateTime": "2025-08-21T21:25:51.776Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:3",
+      "contentId": "v=73725029&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 73725029,
       "launchParam": null
