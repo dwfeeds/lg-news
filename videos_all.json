@@ -4,10 +4,18 @@
     "category": "Politics",
     "subCategory": "Business",
     "region_ids": {
-      "region:europe": "Europe"
+      "region:europe": "Europe",
+      "region:europe:RS": "Serbia",
+      "region:europe:BA": "Bosnia and Herzegovina",
+      "region:europe:MK": "North Macedonia",
+      "region:europe:ME": "Montenegro"
     },
     "regions": [
-      "Europe"
+      "Europe",
+      "Serbia",
+      "Bosnia and Herzegovina",
+      "North Macedonia",
+      "Montenegro"
     ],
     "runningTime": 248,
     "updateTime": "2026-01-27T17:27:20.438Z",
@@ -844,7 +852,7 @@
     "updateTime": "2026-01-26T09:23:34.406Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75638688&list=REGION_VIDEO:7",
+      "contentId": "v=75638688&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 75638688,
       "launchParam": null
@@ -1851,7 +1859,7 @@
   {
     "titleText": "Italy's artistic swimming duo breaks down barriers",
     "category": "Sports",
-    "subCategory": "Society",
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:europe:IT": "Italy"
     },
@@ -1862,7 +1870,7 @@
     "updateTime": "2026-01-23T09:58:39.701Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75541297&list=REGION_VIDEO:7",
+      "contentId": "v=75541297&list=PROFILE_TOPIC_VIDEO:3",
       "type": "video",
       "id": 75541297,
       "launchParam": null
@@ -2891,7 +2899,7 @@
   {
     "titleText": "Living with polio, Pashtun woman pursues table tennis career",
     "category": "Society",
-    "subCategory": null,
+    "subCategory": "Lifestyle",
     "region_ids": {
       "region:asia:PK": "Pakistan"
     },
@@ -4204,6 +4212,45 @@
     "language": "en"
   },
   {
+    "titleText": "How Serbia's student protest movement has changed tactics",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:RS": "Serbia"
+    },
+    "regions": [
+      "Serbia"
+    ],
+    "runningTime": 202,
+    "updateTime": "2026-01-16T16:49:56.896Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75542537&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75542537,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75542483_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75542483_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Iran's exiled opposition remains deeply divided",
     "category": "Politics",
     "subCategory": null,
@@ -4355,6 +4402,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75531049_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Russian infrastructure attacks push Ukrainians to the brink",
+    "category": "Conflicts",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:UA": "Ukraine"
+    },
+    "regions": [
+      "Ukraine"
+    ],
+    "runningTime": 248,
+    "updateTime": "2026-01-16T07:25:54.063Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75531064&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75531064,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75530716_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75530716_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8290,45 +8376,6 @@
     "language": "en"
   },
   {
-    "titleText": "Ukrainians mark fourth Christmas under fire",
-    "category": "Conflicts",
-    "subCategory": "Culture",
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 146,
-    "updateTime": "2025-12-26T09:32:01.212Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75308453&list=PROFILE_TOPIC_VIDEO:3",
-      "type": "video",
-      "id": 75308453,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75307699_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75307699_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Trump ally Nasry Asfura wins disputed Honduras election",
     "category": "Politics",
     "subCategory": null,
@@ -11167,49 +11214,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74608991_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Why Trump's tariffs could throw maritime trade off course",
-    "category": "Trade",
-    "subCategory": "Globalization",
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:asia": "Asia",
-      "region:northamerica": "North America"
-    },
-    "regions": [
-      "Europe",
-      "Asia",
-      "North America"
-    ],
-    "runningTime": 289,
-    "updateTime": "2025-10-30T08:26:15.72Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74531469&list=GLOBAL_TOPIC_VIDEO:8",
-      "type": "video",
-      "id": 74531469,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/72839911_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/72839911_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
