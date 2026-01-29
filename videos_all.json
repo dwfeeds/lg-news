@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 103,
+    "updateTime": "2026-01-29T07:08:44.053Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75507426_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75507426_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Italy: Landslide tears away part of Sicilian town",
+    "category": "Catastrophe",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:IT": "Italy"
+    },
+    "regions": [
+      "Italy"
+    ],
+    "runningTime": 123,
+    "updateTime": "2026-01-29T07:02:48.016Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75706380&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75706380,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75687977_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75687977_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bundestag marks 81 years since the liberation of Auschwitz",
     "category": "History",
     "subCategory": "Politics",
@@ -119,41 +193,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 103,
-    "updateTime": "2026-01-28T19:38:48.728Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75669549_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75669549_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Iran protests: Exiled rapper begs for Donald Trump's help",
     "category": "Politics",
     "subCategory": "Music",
@@ -210,7 +249,7 @@
     "updateTime": "2026-01-28T17:29:04.28Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75702629&list=REGION_VIDEO:8",
+      "contentId": "v=75702629&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 75702629,
       "launchParam": null
@@ -7004,6 +7043,47 @@
     "language": "en"
   },
   {
+    "titleText": "Ghanaian painter makes Guinness World Record history",
+    "category": "Arts",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:GH": "Ghana",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Ghana",
+      "Africa"
+    ],
+    "runningTime": 141,
+    "updateTime": "2026-01-08T18:07:31.299Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75441293&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75441293,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75431929_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75431929_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Colombians march against US aggression in South America",
     "category": "Conflicts",
     "subCategory": null,
@@ -10287,47 +10367,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74995300_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Hope at Chaman border: Volunteers aid Afghan refugees",
-    "category": "Migration",
-    "subCategory": "Conflicts",
-    "region_ids": {
-      "region:asia:PK": "Pakistan",
-      "region:asia:AF": "Afghanistan"
-    },
-    "regions": [
-      "Pakistan",
-      "Afghanistan"
-    ],
-    "runningTime": 126,
-    "updateTime": "2025-12-04T12:55:55.36Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75018237&list=PROFILE_TOPIC_VIDEO:1",
-      "type": "video",
-      "id": 75018237,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75015818_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75015818_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
