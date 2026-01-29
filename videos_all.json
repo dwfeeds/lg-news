@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 103,
+    "updateTime": "2026-01-29T14:01:25.161Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75707871_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75707871_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "What caused earthquakes on Santorini? ",
+    "category": "Nature and Environment",
+    "subCategory": "Science",
+    "region_ids": {
+      "region:europe:GR": "Greece"
+    },
+    "regions": [
+      "Greece"
+    ],
+    "runningTime": 326,
+    "updateTime": "2026-01-29T13:35:21.139Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75629087&list=REGION_VIDEO:7",
+      "type": "video",
+      "id": 75629087,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75607456_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75607456_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Concerns about shady deals ahead of 2026 Winter Olympics",
     "category": "Sports",
     "subCategory": "Business",
@@ -389,41 +463,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75612775_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 103,
-    "updateTime": "2026-01-29T07:08:44.053Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:14",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75507426_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75507426_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3524,45 +3563,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73813094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Russia pummels Ukraine, cutting power in cold snap",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:UA": "Ukraine"
-    },
-    "regions": [
-      "Ukraine"
-    ],
-    "runningTime": 71,
-    "updateTime": "2026-01-20T18:34:07.28Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75584938&list=REGION_VIDEO:7",
-      "type": "video",
-      "id": 75584938,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75575715_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75575715_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14682,6 +14682,47 @@
     "language": "es"
   },
   {
+    "titleText": "Hilferuf: Unterstützung für die Menschen im Iran",
+    "category": "Menschenrechte",
+    "subCategory": null,
+    "region_ids": {
+      "region:me:IR": "Iran",
+      "region:europe:GB": "Vereinigtes Königreich"
+    },
+    "regions": [
+      "Iran",
+      "Vereinigtes Königreich"
+    ],
+    "runningTime": 157,
+    "updateTime": "2026-01-29T14:09:33.649Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75697931&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75697931,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75703438_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75703438_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Ghana setzt gegen die Klimakrise auf Umwelt-Chefs",
     "category": "Klima",
     "subCategory": "Natur und Umwelt",
@@ -15305,47 +15346,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75625101_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "\"Zugriff auf Talente\": EU-Indien-Deal beflügelt Unternehmen ",
-    "category": "Handel",
-    "subCategory": "Wirtschaft",
-    "region_ids": {
-      "region:asia:IN": "Indien",
-      "region:europe:DE": "Deutschland"
-    },
-    "regions": [
-      "Indien",
-      "Deutschland"
-    ],
-    "runningTime": 168,
-    "updateTime": "2026-01-27T09:00:43.156Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75632488&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75632488,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75664393_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75664393_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
