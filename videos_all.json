@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 102,
+    "updateTime": "2026-01-30T07:32:51.32Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75720917_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75720917_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "ICE surveillance: A growing digital dragnet ",
     "category": "Technology",
     "subCategory": "Human Rights",
@@ -34,41 +69,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74822012_7.jpeg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 102,
-    "updateTime": "2026-01-30T00:43:19.515Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75711788_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75711788_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -128,7 +128,7 @@
     "updateTime": "2026-01-29T19:12:41.249Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75720101&list=REGION_VIDEO:7",
+      "contentId": "v=75720101&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75720101,
       "launchParam": null
@@ -362,7 +362,7 @@
     "updateTime": "2026-01-29T11:58:43.128Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75614804&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75614804&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75614804,
       "launchParam": null
@@ -522,7 +522,7 @@
     "updateTime": "2026-01-29T09:27:45.128Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75613188&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75613188&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75613188,
       "launchParam": null
@@ -1211,7 +1211,7 @@
     "updateTime": "2026-01-27T15:14:58.242Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75681287&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75681287&list=REGION_VIDEO:8",
       "type": "video",
       "id": 75681287,
       "launchParam": null
@@ -1406,7 +1406,7 @@
     "updateTime": "2026-01-27T08:08:17.415Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75671257&list=REGION_VIDEO:5",
+      "contentId": "v=75671257&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75671257,
       "launchParam": null
@@ -1484,7 +1484,7 @@
     "updateTime": "2026-01-26T20:44:56.195Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75669285&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75669285&list=REGION_VIDEO:8",
       "type": "video",
       "id": 75669285,
       "launchParam": null
@@ -1527,7 +1527,7 @@
     "updateTime": "2026-01-26T19:01:51.362Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75668772&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=75668772&list=REGION_VIDEO:7",
       "type": "video",
       "id": 75668772,
       "launchParam": null
@@ -1568,7 +1568,7 @@
     "updateTime": "2026-01-26T16:55:40.868Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75665802&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75665802&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75665802,
       "launchParam": null
@@ -1609,7 +1609,7 @@
     "updateTime": "2026-01-26T16:48:11.138Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75631436&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75631436&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75631436,
       "launchParam": null
@@ -2042,7 +2042,7 @@
     "updateTime": "2026-01-26T07:15:45.064Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75656226&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75656226&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75656226,
       "launchParam": null
@@ -2081,7 +2081,7 @@
     "updateTime": "2026-01-25T15:19:08.626Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75651237&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75651237&list=REGION_VIDEO:5",
       "type": "video",
       "id": 75651237,
       "launchParam": null
@@ -2512,7 +2512,7 @@
     "updateTime": "2026-01-23T16:17:45.249Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75629662&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75629662&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75629662,
       "launchParam": null
@@ -2551,7 +2551,7 @@
     "updateTime": "2026-01-23T16:08:12.263Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75629989&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75629989&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75629989,
       "launchParam": null
@@ -2785,7 +2785,7 @@
     "updateTime": "2026-01-23T14:05:10.404Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75618913&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=75618913&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75618913,
       "launchParam": null
@@ -2980,7 +2980,7 @@
     "updateTime": "2026-01-22T19:31:35.05Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75613187&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75613187&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75613187,
       "launchParam": null
@@ -3019,7 +3019,7 @@
     "updateTime": "2026-01-22T19:30:57.033Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75613183&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75613183&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75613183,
       "launchParam": null
@@ -3099,7 +3099,7 @@
     "updateTime": "2026-01-22T17:36:10.909Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75612564&list=REGION_VIDEO:8",
+      "contentId": "v=75612564&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75612564,
       "launchParam": null
@@ -3138,7 +3138,7 @@
     "updateTime": "2026-01-22T15:29:19.399Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75541521&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=75541521&list=REGION_VIDEO:7",
       "type": "video",
       "id": 75541521,
       "launchParam": null
@@ -3369,49 +3369,6 @@
     "language": "en"
   },
   {
-    "titleText": "What world leaders are saying as Trump arrives in Davos",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America",
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Europe",
-      "United States of America",
-      "Denmark"
-    ],
-    "runningTime": 128,
-    "updateTime": "2026-01-21T12:37:33.881Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75593433&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75593433,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75587457_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75587457_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Syria: Four-day truce with SDF begins amid US backing",
     "category": "Conflicts",
     "subCategory": null,
@@ -3522,88 +3479,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75437293_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "EU vows robust response to Trump's threats",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "United States of America"
-    ],
-    "runningTime": 137,
-    "updateTime": "2026-01-20T19:44:39.618Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75585341&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75585341,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/73813094_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/73813094_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "EU center-right politician calls on US to 'come back'",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "United States of America"
-    ],
-    "runningTime": 407,
-    "updateTime": "2026-01-20T17:42:18.762Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75584581&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75584581,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/70716023_6.jpeg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/70716023_7.jpeg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -3870,7 +3745,7 @@
     "updateTime": "2026-01-20T10:53:28.12Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75576155,
       "launchParam": null
@@ -4108,7 +3983,7 @@
     "updateTime": "2026-01-19T19:50:46.818Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75572153&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75572153&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75572153,
       "launchParam": null
@@ -4379,7 +4254,7 @@
     "updateTime": "2026-01-18T19:50:20.586Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75487835&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75487835&list=REGION_VIDEO:8",
       "type": "video",
       "id": 75487835,
       "launchParam": null
@@ -4500,7 +4375,7 @@
     "updateTime": "2026-01-18T13:26:22.127Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75553464&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75553464&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75553464,
       "launchParam": null
@@ -4599,49 +4474,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75544537_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump threatens with new tariffs until he can buy Greenland",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America",
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Europe",
-      "United States of America",
-      "Denmark"
-    ],
-    "runningTime": 129,
-    "updateTime": "2026-01-18T08:20:14.426Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75551846&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75551846,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75549747_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75549747_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4783,7 +4615,7 @@
     "updateTime": "2026-01-17T16:02:19.684Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75548972&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75548972&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75548972,
       "launchParam": null
@@ -4841,41 +4673,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75524041_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Greenland tensions rise as Trump threatens with new tariffs",
-    "category": "[Miscellaneous]",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 167,
-    "updateTime": "2026-01-17T09:19:05.715Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75545824&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75545824,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75546074_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75546074_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4963,49 +4760,6 @@
     "language": "en"
   },
   {
-    "titleText": "Germany joins NATO allies for 'symbolic' Greenland mission",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DE": "Germany",
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Germany",
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 200,
-    "updateTime": "2026-01-16T21:50:16.632Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75544825&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75544825,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75538694_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75538694_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israeli settlers empty last Bedouin village in West Bank ",
     "category": "Conflicts",
     "subCategory": "Human Rights",
@@ -5040,47 +4794,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75544509_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Invasion of Greenland would be 'stupidest own goal' for US",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 586,
-    "updateTime": "2026-01-16T18:05:23.552Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75543427&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75543427,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75535796_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75535796_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -5521,88 +5234,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump's annexation threats leave Greenlanders concerned",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Europe",
-      "United States of America"
-    ],
-    "runningTime": 130,
-    "updateTime": "2026-01-15T11:27:15.863Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75518057&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75518057,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75518602_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75518602_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Denmark boosts military defenses in Greenland",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 107,
-    "updateTime": "2026-01-15T07:22:12.744Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75511811&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75511811,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75513753_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75513753_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Iran's regime wants to fast-track trials of protesters",
     "category": "Human Rights",
     "subCategory": "Conflicts",
@@ -5761,45 +5392,6 @@
     "language": "en"
   },
   {
-    "titleText": "Danish FM heads to US for high-stakes Greenland talks",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Denmark"
-    ],
-    "runningTime": 120,
-    "updateTime": "2026-01-14T09:17:10.236Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75500198&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75500198,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75498891_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75498891_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Grooving for a greener Uganda — climate action center stage",
     "category": "Climate",
     "subCategory": "Nature and Environment",
@@ -5936,7 +5528,7 @@
     "updateTime": "2026-01-13T15:33:29.754Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75479161&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75479161&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75479161,
       "launchParam": null
@@ -6020,7 +5612,7 @@
     "updateTime": "2026-01-13T09:14:28.536Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75477904&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75477904&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75477904,
       "launchParam": null
@@ -6046,49 +5638,6 @@
     "language": "en"
   },
   {
-    "titleText": "Can Europe fend off Trump's interest in acquiring Greenland?",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America",
-      "region:europe": "Europe"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America",
-      "Europe"
-    ],
-    "runningTime": 99,
-    "updateTime": "2026-01-12T22:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75481073&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75481073,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75418831_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75418831_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Germany looks to India to address skilled labor shortage",
     "category": "Migration",
     "subCategory": "Business",
@@ -6104,7 +5653,7 @@
     "updateTime": "2026-01-12T20:00:11.387Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75480879&list=REGION_VIDEO:4",
+      "contentId": "v=75480879&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75480879,
       "launchParam": null
@@ -6186,7 +5735,7 @@
     "updateTime": "2026-01-12T17:54:39.123Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75441660&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75441660&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75441660,
       "launchParam": null
@@ -6227,7 +5776,7 @@
     "updateTime": "2026-01-12T17:54:16.774Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75441659&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75441659&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75441659,
       "launchParam": null
@@ -6268,7 +5817,7 @@
     "updateTime": "2026-01-12T17:53:59.16Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75441662&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75441662&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75441662,
       "launchParam": null
@@ -6346,7 +5895,7 @@
     "updateTime": "2026-01-12T12:46:56.007Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75475114&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75475114&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75475114,
       "launchParam": null
@@ -6393,7 +5942,7 @@
     "updateTime": "2026-01-12T12:00:36.721Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75472154&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75472154&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75472154,
       "launchParam": null
@@ -6588,7 +6137,7 @@
     "updateTime": "2026-01-11T17:54:03.536Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75466868&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75466868&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75466868,
       "launchParam": null
@@ -6770,47 +6319,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump's coveted Greenland is 'greatest' without the US",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 136,
-    "updateTime": "2026-01-10T17:48:23.395Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75461788&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75461788,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75461768_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75461768_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Country music kicks off in Nairobi, Kenya's Nashville",
     "category": "Music",
     "subCategory": null,
@@ -6941,7 +6449,7 @@
     "updateTime": "2026-01-10T08:07:11.517Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75458975&list=REGION_VIDEO:5",
+      "contentId": "v=75458975&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75458975,
       "launchParam": null
@@ -6967,49 +6475,6 @@
     "language": "en"
   },
   {
-    "titleText": "Why NATO can't handle Trump's Greenland gambit",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe": "Europe",
-      "region:northamerica:US": "United States of America",
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Europe",
-      "United States of America",
-      "Denmark"
-    ],
-    "runningTime": 139,
-    "updateTime": "2026-01-09T19:40:51.314Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75457292&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75457292,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75417065_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75417065_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "EU advances Mercosur South America trade deal despite strife",
     "category": "Trade",
     "subCategory": null,
@@ -7025,7 +6490,7 @@
     "updateTime": "2026-01-09T17:20:53.651Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75456468&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75456468&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75456468,
       "launchParam": null
@@ -7044,47 +6509,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75454334_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Some worry Trump could advance Greenland agenda with force",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 141,
-    "updateTime": "2026-01-09T15:55:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75441863&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75441863,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75418859_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75418859_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7124,47 +6548,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75449496_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Trump's Greenland ambitions puts its mineral riches in focus",
-    "category": "Business",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark",
-      "region:northamerica:US": "United States of America"
-    },
-    "regions": [
-      "Denmark",
-      "United States of America"
-    ],
-    "runningTime": 107,
-    "updateTime": "2026-01-09T13:56:35.37Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75437658&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75437658,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75418801_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75418801_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7304,7 +6687,7 @@
     "updateTime": "2026-01-09T10:53:58.648Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75371046&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75371046&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75371046,
       "launchParam": null
@@ -7423,7 +6806,7 @@
     "updateTime": "2026-01-09T03:11:23.009Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75443318&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75443318&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75443318,
       "launchParam": null
@@ -7442,45 +6825,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/73871497_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US 'takeover' of Venezuela: Lessons for Africa and beyond",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Africa"
-    ],
-    "runningTime": 243,
-    "updateTime": "2026-01-08T18:54:20.773Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75441533&list=REGION_VIDEO:8",
-      "type": "video",
-      "id": 75441533,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75441478_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75441478_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7526,6 +6870,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75441119_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Refugees at the forefront of EU summit with Jordan",
+    "category": "Migration",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe": "Europe",
+      "region:me:JO": "Jordan"
+    },
+    "regions": [
+      "Europe",
+      "Jordan"
+    ],
+    "runningTime": 179,
+    "updateTime": "2026-01-08T14:58:45.313Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75437627&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 75437627,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75437625_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75437625_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7820,45 +7205,6 @@
     "language": "en"
   },
   {
-    "titleText": "EU backs Denmark's sovereignty over Greenland amid US aims",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "Denmark"
-    ],
-    "runningTime": 172,
-    "updateTime": "2026-01-07T08:29:16.787Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75415533&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75415533,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75415296_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75415296_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "US Republicans divided over Maduro capture",
     "category": "Politics",
     "subCategory": null,
@@ -7915,7 +7261,7 @@
     "updateTime": "2026-01-06T12:25:12.195Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75406676&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=75406676&list=REGION_VIDEO:5",
       "type": "video",
       "id": 75406676,
       "launchParam": null
@@ -8001,7 +7347,7 @@
     "updateTime": "2026-01-06T10:54:39.416Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75404348&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75404348&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75404348,
       "launchParam": null
@@ -8081,7 +7427,7 @@
     "updateTime": "2026-01-05T18:17:17.017Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75400450&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=75400450&list=REGION_VIDEO:5",
       "type": "video",
       "id": 75400450,
       "launchParam": null
@@ -9878,7 +9224,7 @@
     "updateTime": "2025-12-23T15:40:42.347Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75265462&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75265462&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75265462,
       "launchParam": null
@@ -9986,47 +9332,6 @@
     "language": "en"
   },
   {
-    "titleText": "Trump's appointment of envoy to Greenland sparks anger",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:europe:DK": "Denmark"
-    },
-    "regions": [
-      "United States of America",
-      "Denmark"
-    ],
-    "runningTime": 115,
-    "updateTime": "2025-12-22T21:17:43.14Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75276442&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 75276442,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75210993_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75210993_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Venezuelan oil: China says US violating international law",
     "category": "Conflicts",
     "subCategory": null,
@@ -10061,6 +9366,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75256144_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Afghan refugees at risk as deportations surge in Pakistan",
+    "category": "Politics",
+    "subCategory": "Migration",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "Germany",
+      "Afghanistan"
+    ],
+    "runningTime": 156,
+    "updateTime": "2025-12-22T15:39:31.39Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75264109&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 75264109,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74534419_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74534419_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10624,45 +9970,6 @@
     "language": "en"
   },
   {
-    "titleText": "Sumatra residents struggle as aid falls short after cyclone",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 175,
-    "updateTime": "2025-12-13T16:05:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75130795&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 75130795,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74966256_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74966256_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Israeli family waits for remains of last hostage",
     "category": "Conflicts",
     "subCategory": "Human Rights",
@@ -10702,45 +10009,6 @@
     "language": "en"
   },
   {
-    "titleText": "In Gaza, flooded shelters make life unbearable for displaced",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 161,
-    "updateTime": "2025-12-12T10:42:56.735Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75126714&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 75126714,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75124053_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75124053_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Mali uses AI to bring local language books into schools",
     "category": "Education",
     "subCategory": "Society",
@@ -10754,7 +10022,7 @@
     "updateTime": "2025-12-11T16:12:30.348Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75117407&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=75117407&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75117407,
       "launchParam": null
@@ -10793,7 +10061,7 @@
     "updateTime": "2025-12-11T15:48:44.422Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75115526&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75115526&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 75115526,
       "launchParam": null
@@ -10858,6 +10126,45 @@
     "language": "en"
   },
   {
+    "titleText": "Romania: Illegal clearing threatens ancient forests",
+    "category": "Business",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:RO": "Romania"
+    },
+    "regions": [
+      "Romania"
+    ],
+    "runningTime": 319,
+    "updateTime": "2025-12-10T23:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75037827&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75037827,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75016216_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75016216_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "German foreign medical worker program mired in bureaucracy",
     "category": "Business",
     "subCategory": "Health",
@@ -10877,7 +10184,7 @@
     "updateTime": "2025-12-09T14:30:04.597Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74978324&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=74978324&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74978324,
       "launchParam": null
@@ -10903,22 +10210,22 @@
     "language": "en"
   },
   {
-    "titleText": "Sumatra landslide survivors criticize deforestation",
-    "category": "Nature and Environment",
-    "subCategory": null,
+    "titleText": "Berlin initiative helps immigrant moms find their feet",
+    "category": "Society",
+    "subCategory": "Migration",
     "region_ids": {
-      "region:asia:ID": "Indonesia"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Indonesia"
+      "Germany"
     ],
-    "runningTime": 124,
-    "updateTime": "2025-12-07T10:26:16.075Z",
+    "runningTime": 93,
+    "updateTime": "2025-12-09T13:32:04.454Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75050629&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75076302&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 75050629,
+      "id": 75076302,
       "launchParam": null
     },
     "providerLogo": {
@@ -10928,130 +10235,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74995389_6.jpg",
+      "url": "https://static.dw.com/image/75075891_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74995389_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Survivor of deadly Indonesia floods faces uncertain future",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 141,
-    "updateTime": "2025-12-05T17:43:02.473Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75039957&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 75039957,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75040052_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75040052_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Sri Lanka reels from floods, hundreds still missing",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:LK": "Sri Lanka"
-    },
-    "regions": [
-      "Sri Lanka"
-    ],
-    "runningTime": 103,
-    "updateTime": "2025-12-05T13:36:00.891Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75035975&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 75035975,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74994240_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74994240_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Flood rescue efforts intensify in Indonesia",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 144,
-    "updateTime": "2025-12-04T17:29:13.944Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75023930&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 75023930,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74995300_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74995300_7.jpg",
+      "url": "https://static.dw.com/image/75075891_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11074,7 +10264,7 @@
     "updateTime": "2025-12-04T12:55:55.36Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75018237&list=PROFILE_TOPIC_VIDEO:1",
+      "contentId": "v=75018237&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 75018237,
       "launchParam": null
@@ -11119,7 +10309,7 @@
     "updateTime": "2025-12-04T10:21:22.224Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74946619&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74946619&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74946619,
       "launchParam": null
@@ -11145,22 +10335,22 @@
     "language": "en"
   },
   {
-    "titleText": "Indonesia flood crisis: Delayed disaster status draws anger",
-    "category": "Catastrophe",
-    "subCategory": "Nature and Environment",
+    "titleText": "Europe's asylum system is 'broken': Denmark's Stoklund",
+    "category": "Migration",
+    "subCategory": "Politics",
     "region_ids": {
-      "region:asia:ID": "Indonesia"
+      "region:europe:DK": "Denmark"
     },
     "regions": [
-      "Indonesia"
+      "Denmark"
     ],
-    "runningTime": 120,
-    "updateTime": "2025-12-03T14:58:27.409Z",
+    "runningTime": 547,
+    "updateTime": "2025-12-02T17:11:38.051Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75002357&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=74989965&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 75002357,
+      "id": 74989965,
       "launchParam": null
     },
     "providerLogo": {
@@ -11170,13 +10360,13 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74995157_6.jpg",
+      "url": "https://static.dw.com/image/74989959_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74995157_7.jpg",
+      "url": "https://static.dw.com/image/74989959_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11240,7 +10430,7 @@
     "updateTime": "2025-12-01T14:39:13.159Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74929046&list=PROFILE_TOPIC_VIDEO:4",
+      "contentId": "v=74929046&list=PROFILE_TOPIC_VIDEO:1",
       "type": "video",
       "id": 74929046,
       "launchParam": null
@@ -11266,45 +10456,6 @@
     "language": "en"
   },
   {
-    "titleText": "Southeast Asia battles flood recovery as death toll rises",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:ID": "Indonesia"
-    },
-    "regions": [
-      "Indonesia"
-    ],
-    "runningTime": 128,
-    "updateTime": "2025-12-01T13:41:18.124Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74969878&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74969878,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74966591_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74966591_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Can an AI chatbot really become my friend?",
     "category": "Digital World",
     "subCategory": "Lifestyle",
@@ -11318,7 +10469,7 @@
     "updateTime": "2025-12-01T11:09:38.422Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932284&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74932284&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74932284,
       "launchParam": null
@@ -11359,7 +10510,7 @@
     "updateTime": "2025-12-01T11:09:27.273Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932287&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74932287&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74932287,
       "launchParam": null
@@ -11385,22 +10536,22 @@
     "language": "en"
   },
   {
-    "titleText": "Philippines flood corruption scandal sparks Manila protests",
-    "category": "Society",
-    "subCategory": "Corruption",
+    "titleText": "Venezuelan migrants in Colombia brace as US pressure grows",
+    "category": "Migration",
+    "subCategory": "Conflicts",
     "region_ids": {
-      "region:asia:PH": "Philippines"
+      "region:cala:VE": "Venezuela"
     },
     "regions": [
-      "Philippines"
+      "Venezuela"
     ],
-    "runningTime": 105,
-    "updateTime": "2025-11-30T16:48:55.972Z",
+    "runningTime": 138,
+    "updateTime": "2025-11-30T20:54:32.047Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74959591&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=74960414&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 74959591,
+      "id": 74960414,
       "launchParam": null
     },
     "providerLogo": {
@@ -11410,13 +10561,52 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74956234_6.jpg",
+      "url": "https://static.dw.com/image/74960352_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74956234_7.jpg",
+      "url": "https://static.dw.com/image/74960352_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Gender selection in Northern Cyprus raises questions",
+    "category": "Society",
+    "subCategory": null,
+    "region_ids": {
+      "region:europe:CY": "Cyprus"
+    },
+    "regions": [
+      "Cyprus"
+    ],
+    "runningTime": 377,
+    "updateTime": "2025-11-30T15:51:51.856Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74839726&list=PROFILE_TOPIC_VIDEO:1",
+      "type": "video",
+      "id": 74839726,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74821788_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74821788_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11459,45 +10649,6 @@
     "language": "en"
   },
   {
-    "titleText": "State of emergency as floods hit parts of southeast Asia",
-    "category": "Catastrophe",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:asia:TH": "Thailand"
-    },
-    "regions": [
-      "Thailand"
-    ],
-    "runningTime": 161,
-    "updateTime": "2025-11-29T09:19:15.223Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74949107&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74949107,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74948749_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74948749_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Tricks that keep us hooked on chatbots",
     "category": "Digital World",
     "subCategory": "Society",
@@ -11511,7 +10662,7 @@
     "updateTime": "2025-11-28T16:29:50.083Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932295&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74932295&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74932295,
       "launchParam": null
@@ -11554,7 +10705,7 @@
     "updateTime": "2025-11-28T16:28:55.855Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74932294&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74932294&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74932294,
       "launchParam": null
@@ -11593,7 +10744,7 @@
     "updateTime": "2025-11-28T08:50:10.417Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74833409&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74833409&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74833409,
       "launchParam": null
@@ -11632,7 +10783,7 @@
     "updateTime": "2025-11-27T13:17:59.271Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74641518&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74641518&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74641518,
       "launchParam": null
@@ -11658,45 +10809,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gaza faces harshest winter since Israel-Hamas conflict began",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 91,
-    "updateTime": "2025-11-26T16:24:02.408Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74910072&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74910072,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74901975_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74901975_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Australian researchers turn to AI to save coral reefs",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -11706,7 +10818,7 @@
     "updateTime": "2025-11-26T08:29:00.507Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74900878&list=GLOBAL_TOPIC_VIDEO:6",
+      "contentId": "v=74900878&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 74900878,
       "launchParam": null
@@ -11725,6 +10837,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/68833456_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "'Don't send us back': Afghan women in India fear deportation",
+    "category": "Migration",
+    "subCategory": "Human Rights",
+    "region_ids": {
+      "region:asia:IN": "India",
+      "region:asia:AF": "Afghanistan"
+    },
+    "regions": [
+      "India",
+      "Afghanistan"
+    ],
+    "runningTime": 202,
+    "updateTime": "2025-11-25T19:07:46.329Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74897504&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74897504,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74894645_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74894645_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11753,7 +10906,7 @@
     "updateTime": "2025-11-24T16:13:10.885Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74843427&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74843427&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74843427,
       "launchParam": null
@@ -11796,7 +10949,7 @@
     "updateTime": "2025-11-23T18:36:01.534Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74854983&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74854983&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74854983,
       "launchParam": null
@@ -11822,22 +10975,22 @@
     "language": "en"
   },
   {
-    "titleText": "Protecting the rainforest: Manila's green heroines",
-    "category": "Nature and Environment",
-    "subCategory": "Society",
+    "titleText": "How Syrian doctors feel about Germany's migration debate",
+    "category": "Migration",
+    "subCategory": "Politics",
     "region_ids": {
-      "region:asia:PH": "Philippines"
+      "region:europe:DE": "Germany"
     },
     "regions": [
-      "Philippines"
+      "Germany"
     ],
-    "runningTime": 382,
-    "updateTime": "2025-11-21T09:59:21.473Z",
+    "runningTime": 330,
+    "updateTime": "2025-11-22T16:35:48.456Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74752472&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=74751615&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
-      "id": 74752472,
+      "id": 74751615,
       "launchParam": null
     },
     "providerLogo": {
@@ -11847,13 +11000,132 @@
       "bgColor": ""
     },
     "image": {
-      "url": "https://static.dw.com/image/74780894_6.jpg",
+      "url": "https://static.dw.com/image/74776048_6.jpg",
       "width": 940,
       "height": 529,
       "bgColor": ""
     },
     "image4k": {
-      "url": "https://static.dw.com/image/74780894_7.jpg",
+      "url": "https://static.dw.com/image/74776048_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US immigration raids target Democratic-run Charlotte",
+    "category": "Migration",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 257,
+    "updateTime": "2025-11-21T15:50:19.415Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74841669&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74841669,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74840441_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74840441_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "A recipe for more equality",
+    "category": "Society",
+    "subCategory": "Equality",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 135,
+    "updateTime": "2025-11-21T13:26:44.458Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74824507&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74824507,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74824203_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74824203_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Many Syrians living in Germany want to stay",
+    "category": "Migration",
+    "subCategory": "Politics",
+    "region_ids": {
+      "region:europe:DE": "Germany",
+      "region:me:SY": "Syria"
+    },
+    "regions": [
+      "Germany",
+      "Syria"
+    ],
+    "runningTime": 175,
+    "updateTime": "2025-11-18T15:14:53.645Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74783293&list=GLOBAL_TOPIC_VIDEO:6",
+      "type": "video",
+      "id": 74783293,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74779932_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74779932_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -11900,45 +11172,6 @@
     "language": "en"
   },
   {
-    "titleText": "Gazans face new hazards from flooding, broken infrastructure",
-    "category": "Health",
-    "subCategory": "Nature and Environment",
-    "region_ids": {
-      "region:me:PS": "Palestinian Territories"
-    },
-    "regions": [
-      "Palestinian Territories"
-    ],
-    "runningTime": 161,
-    "updateTime": "2025-11-16T15:57:29.128Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74767317&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74767317,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74747803_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74747803_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Miscarriage: Common. Not your fault. Let's talk.",
     "category": "Health",
     "subCategory": null,
@@ -11971,45 +11204,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75075282_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Philippines counts cost of second typhoon in days",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:PH": "Philippines"
-    },
-    "regions": [
-      "Philippines"
-    ],
-    "runningTime": 142,
-    "updateTime": "2025-11-10T20:47:03.175Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74692884&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74692884,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74687065_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74687065_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12071,7 +11265,7 @@
     "updateTime": "2025-11-09T16:45:06.136Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576610&list=GLOBAL_TOPIC_VIDEO:11",
+      "contentId": "v=74576610&list=PROFILE_TOPIC_VIDEO:2",
       "type": "video",
       "id": 74576610,
       "launchParam": null
@@ -12097,47 +11291,6 @@
     "language": "en"
   },
   {
-    "titleText": "Kenya's Greenland Girls School empowers teen mothers ",
-    "category": "Society",
-    "subCategory": null,
-    "region_ids": {
-      "region:africa:KE": "Kenya",
-      "region:africa": "Africa"
-    },
-    "regions": [
-      "Kenya",
-      "Africa"
-    ],
-    "runningTime": 111,
-    "updateTime": "2025-11-09T15:01:00Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74611842&list=GLOBAL_TOPIC_VIDEO:11",
-      "type": "video",
-      "id": 74611842,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74614343_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74614343_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "What's fueling economic growth in Spain?",
     "category": "Business",
     "subCategory": "Migration",
@@ -12153,7 +11306,7 @@
     "updateTime": "2025-11-09T10:15:06.694Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74565745&list=PROFILE_TOPIC_VIDEO:2",
+      "contentId": "v=74565745&list=GLOBAL_TOPIC_VIDEO:6",
       "type": "video",
       "id": 74565745,
       "launchParam": null
@@ -12259,84 +11412,6 @@
     "language": "en"
   },
   {
-    "titleText": "Typhoon Kalmaegi kills at least 5 in Vietnam",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:VN": "Vietnam"
-    },
-    "regions": [
-      "Vietnam"
-    ],
-    "runningTime": 140,
-    "updateTime": "2025-11-07T21:05:29.663Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74669452&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74669452,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74657958_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74657958_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Brazil's $125 billion plan to save the world's rainforests",
-    "category": "Nature and Environment",
-    "subCategory": "Climate",
-    "region_ids": {
-      "region:cala:BR": "Brazil"
-    },
-    "regions": [
-      "Brazil"
-    ],
-    "runningTime": 570,
-    "updateTime": "2025-11-07T17:45:33.508Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74662937&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74662937,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/69883069_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/69883069_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "India: as New Delhi chokes, air quality data under scrutiny",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -12376,45 +11451,6 @@
     "language": "en"
   },
   {
-    "titleText": "Hurricane Melissa's severity linked to global warming: Study",
-    "category": "Climate",
-    "subCategory": "Catastrophe",
-    "region_ids": {
-      "region:cala:JM": "Jamaica"
-    },
-    "regions": [
-      "Jamaica"
-    ],
-    "runningTime": 136,
-    "updateTime": "2025-11-07T08:33:14.154Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74654137&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74654137,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74552577_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74552577_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Pakistan: Lahore attempts to tackle smog with mist machines",
     "category": "Nature and Environment",
     "subCategory": null,
@@ -12447,47 +11483,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74649193_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Vietnam battered by Typhoon Kalmaegi ",
-    "category": "Catastrophe",
-    "subCategory": null,
-    "region_ids": {
-      "region:asia:VN": "Vietnam",
-      "region:asia": "Asia"
-    },
-    "regions": [
-      "Vietnam",
-      "Asia"
-    ],
-    "runningTime": 133,
-    "updateTime": "2025-11-06T21:12:39.824Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74650131&list=GLOBAL_TOPIC_VIDEO:10",
-      "type": "video",
-      "id": 74650131,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74645091_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74645091_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -12588,7 +11583,7 @@
     "updateTime": "2025-11-04T16:11:24.235Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74576972&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74576972&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74576972,
       "launchParam": null
@@ -12672,7 +11667,7 @@
     "updateTime": "2025-10-30T08:26:15.72Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74531469&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74531469&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74531469,
       "launchParam": null
@@ -12715,7 +11710,7 @@
     "updateTime": "2025-10-29T14:42:21.394Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74526860&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74526860&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74526860,
       "launchParam": null
@@ -12836,7 +11831,7 @@
     "updateTime": "2025-10-27T11:32:36.87Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74488483&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74488483&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74488483,
       "launchParam": null
@@ -12875,7 +11870,7 @@
     "updateTime": "2025-10-26T14:23:55.929Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=74456434&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=74456434&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 74456434,
       "launchParam": null
@@ -13600,6 +12595,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/74102937_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "How a Pakistan project helps female doctors get back to work",
+    "category": "Society",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:asia:PK": "Pakistan"
+    },
+    "regions": [
+      "Pakistan"
+    ],
+    "runningTime": 255,
+    "updateTime": "2025-09-19T14:05:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74061529&list=PROFILE_TOPIC_VIDEO:4",
+      "type": "video",
+      "id": 74061529,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74060631_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74060631_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
