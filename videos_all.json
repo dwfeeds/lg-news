@@ -1,5 +1,46 @@
 [
   {
+    "titleText": "Does Donald Trump have a coherent Iran strategy?",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America",
+      "region:me:IR": "Iran"
+    },
+    "regions": [
+      "United States of America",
+      "Iran"
+    ],
+    "runningTime": 143,
+    "updateTime": "2026-01-30T20:05:15.868Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75736215&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75736215,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75488077_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75488077_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Taiwan simulates response to Chinese invasion",
     "category": "Politics",
     "subCategory": null,
@@ -6835,7 +6876,7 @@
     "updateTime": "2026-01-09T14:30:11.916Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75454464&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75454464&list=REGION_VIDEO:9",
       "type": "video",
       "id": 75454464,
       "launchParam": null
@@ -9625,45 +9666,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75290539_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Conflict casts shadow over Christmas in Lebanon",
-    "category": "Conflicts",
-    "subCategory": null,
-    "region_ids": {
-      "region:me:LB": "Lebanon"
-    },
-    "regions": [
-      "Lebanon"
-    ],
-    "runningTime": 218,
-    "updateTime": "2025-12-23T21:27:40.927Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75290496&list=REGION_VIDEO:9",
-      "type": "video",
-      "id": 75290496,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75290517_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75290517_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
