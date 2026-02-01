@@ -1,40 +1,5 @@
 [
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2026-02-01T12:45:36.664Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75738927_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75738927_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "How this architect is building Senegal's future",
     "category": "Architecture",
     "subCategory": "Society",
@@ -13620,6 +13585,45 @@
     "language": "es"
   },
   {
+    "titleText": "Wie Künstliche Intelligenz Deutschlands Wildtiere schützt",
+    "category": "Natur und Umwelt",
+    "subCategory": "Panorama",
+    "region_ids": {
+      "region:europe:DE": "Deutschland"
+    },
+    "regions": [
+      "Deutschland"
+    ],
+    "runningTime": 434,
+    "updateTime": "2026-02-01T14:03:12.78Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75660303&list=FEATURED_VIDEO:1",
+      "type": "video",
+      "id": 75660303,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75616815_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75616815_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Vom Außenseiter zum gefragten Model: Ein Indonesier in Paris",
     "category": "Lifestyle",
     "subCategory": "Gesellschaft",
@@ -13752,7 +13756,7 @@
     "updateTime": "2026-01-31T07:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75703947&list=FEATURED_VIDEO:1",
+      "contentId": "v=75703947&list=REPORTS_VIDEO:1",
       "type": "video",
       "id": 75703947,
       "launchParam": null
@@ -14130,45 +14134,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75678071_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "Kerala und die ungewisse Zukunft des Kautschuks",
-    "category": "Gesellschaft",
-    "subCategory": "Natur und Umwelt",
-    "region_ids": {
-      "region:asia:IN": "Indien"
-    },
-    "regions": [
-      "Indien"
-    ],
-    "runningTime": 368,
-    "updateTime": "2026-01-28T14:02:09.463Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75660514&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75660514,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75106358_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75106358_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
