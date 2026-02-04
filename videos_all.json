@@ -1,5 +1,79 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 97,
+    "updateTime": "2026-02-04T11:31:45.79Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:13",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75240417_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75240417_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "US cold snap helps curb Florida's invasive iguana numbers",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:northamerica:US": "United States of America"
+    },
+    "regions": [
+      "United States of America"
+    ],
+    "runningTime": 94,
+    "updateTime": "2026-02-04T11:18:47.519Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75798176&list=REGION_VIDEO:5",
+      "type": "video",
+      "id": 75798176,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75796035_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75796035_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Burundi: The Church joins the fight against plastic waste",
     "category": "Nature and Environment",
     "subCategory": "Society",
@@ -13,7 +87,7 @@
     "updateTime": "2026-02-04T10:34:07.832Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75699117&list=REGION_VIDEO:8",
+      "contentId": "v=75699117&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75699117,
       "launchParam": null
@@ -119,41 +193,6 @@
     "language": "en"
   },
   {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 97,
-    "updateTime": "2026-02-04T06:54:47.92Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:13",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75778068_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75778068_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
     "titleText": "Russia's peace bid in doubt ahead of trilateral talks",
     "category": "Conflicts",
     "subCategory": null,
@@ -167,7 +206,7 @@
     "updateTime": "2026-02-03T20:39:38.894Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75791065&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75791065&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75791065,
       "launchParam": null
@@ -206,7 +245,7 @@
     "updateTime": "2026-02-03T19:08:25.725Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75790809&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75790809&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75790809,
       "launchParam": null
@@ -329,7 +368,7 @@
     "updateTime": "2026-02-03T11:32:21.561Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75783162&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75783162&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75783162,
       "launchParam": null
@@ -649,7 +688,7 @@
     "updateTime": "2026-02-02T15:13:30.933Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75768001&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75768001&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75768001,
       "launchParam": null
@@ -1010,7 +1049,7 @@
     "updateTime": "2026-02-01T20:24:43.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75754551&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75754551&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75754551,
       "launchParam": null
@@ -1172,7 +1211,7 @@
     "updateTime": "2026-02-01T09:30:38.236Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75746744&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75746744&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75746744,
       "launchParam": null
@@ -1211,7 +1250,7 @@
     "updateTime": "2026-02-01T09:23:11.188Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75746729&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75746729&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75746729,
       "launchParam": null
@@ -1650,7 +1689,7 @@
     "updateTime": "2026-01-30T21:02:01.386Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75736557&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75736557&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75736557,
       "launchParam": null
@@ -1929,7 +1968,7 @@
     "updateTime": "2026-01-30T11:36:33.553Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75688931&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75688931&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75688931,
       "launchParam": null
@@ -2288,7 +2327,7 @@
     "updateTime": "2026-01-29T13:00:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75630077&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75630077&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75630077,
       "launchParam": null
@@ -2887,7 +2926,7 @@
     "updateTime": "2026-01-28T07:11:41.137Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75593772&list=REGION_VIDEO:8",
+      "contentId": "v=75593772&list=GLOBAL_TOPIC_VIDEO:8",
       "type": "video",
       "id": 75593772,
       "launchParam": null
@@ -3611,7 +3650,7 @@
     "updateTime": "2026-01-26T10:11:20.193Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75660853&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75660853&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75660853,
       "launchParam": null
@@ -3966,7 +4005,7 @@
     "updateTime": "2026-01-24T13:55:05.841Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75640276&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75640276&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75640276,
       "launchParam": null
@@ -4237,7 +4276,7 @@
     "updateTime": "2026-01-23T18:41:01.447Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75634204&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75634204&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75634204,
       "launchParam": null
@@ -4510,7 +4549,7 @@
     "updateTime": "2026-01-23T15:12:37.805Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75629536&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75629536&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75629536,
       "launchParam": null
@@ -4568,6 +4607,45 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75635274_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "No option but to disappear, says Uganda's Bobi Wine",
+    "category": "Politics",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 324,
+    "updateTime": "2026-01-23T13:14:09.106Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75624269&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75624269,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75524463_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75524463_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -4733,6 +4811,47 @@
     "language": "en"
   },
   {
+    "titleText": "Kenya's talent heads to Germany's hospitality sector",
+    "category": "Migration",
+    "subCategory": "Business",
+    "region_ids": {
+      "region:africa:KE": "Kenya",
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Kenya",
+      "Germany"
+    ],
+    "runningTime": 147,
+    "updateTime": "2026-01-22T17:36:10.909Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75612564&list=REGION_VIDEO:8",
+      "type": "video",
+      "id": 75612564,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75609500_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75609500_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Why does Moldova’s president support unification with Romani",
     "category": "Politics",
     "subCategory": null,
@@ -4742,7 +4861,7 @@
     "updateTime": "2026-01-22T16:33:52.383Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75611847&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75611847&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75611847,
       "launchParam": null
@@ -5101,7 +5220,7 @@
     "updateTime": "2026-01-20T18:34:07.28Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75584938&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75584938&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75584938,
       "launchParam": null
@@ -5306,7 +5425,7 @@
     "updateTime": "2026-01-20T10:53:28.12Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75576155&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75576155,
       "launchParam": null
@@ -5858,7 +5977,7 @@
     "updateTime": "2026-01-17T10:52:33.966Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75540239&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=75540239&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 75540239,
       "launchParam": null
@@ -6096,7 +6215,7 @@
     "updateTime": "2026-01-16T07:25:54.063Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75531064&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75531064&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75531064,
       "launchParam": null
@@ -6451,7 +6570,7 @@
     "updateTime": "2026-01-13T17:17:20.67Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75495194&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75495194&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75495194,
       "launchParam": null
@@ -6470,6 +6589,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75480523_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "One woman's mission to rethink recycling in Nigeria's cities",
+    "category": "Nature and Environment",
+    "subCategory": "Technology",
+    "region_ids": {
+      "region:africa:NG": "Nigeria",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Nigeria",
+      "Africa"
+    ],
+    "runningTime": 324,
+    "updateTime": "2026-01-13T11:29:42.518Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75440814&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 75440814,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75439013_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75439013_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -7165,7 +7325,7 @@
     "updateTime": "2026-01-09T10:53:58.648Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75371046&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75371046&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75371046,
       "launchParam": null
@@ -7538,7 +7698,7 @@
     "updateTime": "2026-01-07T07:21:03.844Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75415103&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75415103&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75415103,
       "launchParam": null
@@ -7557,47 +7717,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75410944_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "US Republicans divided over Maduro capture",
-    "category": "Politics",
-    "subCategory": null,
-    "region_ids": {
-      "region:northamerica:US": "United States of America",
-      "region:cala:VE": "Venezuela"
-    },
-    "regions": [
-      "United States of America",
-      "Venezuela"
-    ],
-    "runningTime": 163,
-    "updateTime": "2026-01-06T21:15:29.539Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75413855&list=REGION_VIDEO:5",
-      "type": "video",
-      "id": 75413855,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74623960_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74623960_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -8131,7 +8250,7 @@
     "updateTime": "2026-01-03T08:08:35.506Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75373925&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75373925&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75373925,
       "launchParam": null
@@ -8248,7 +8367,7 @@
     "updateTime": "2026-01-02T07:44:17.117Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75363692&list=GLOBAL_TOPIC_VIDEO:10",
+      "contentId": "v=75363692&list=GLOBAL_TOPIC_VIDEO:11",
       "type": "video",
       "id": 75363692,
       "launchParam": null
@@ -8486,7 +8605,7 @@
     "updateTime": "2025-12-27T13:19:16.298Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75316500&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=75316500&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 75316500,
       "launchParam": null
@@ -9399,6 +9518,47 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/62250852_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Environmental journalists drive change in Ghana ",
+    "category": "Climate",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:GH": "Ghana"
+    },
+    "regions": [
+      "Africa",
+      "Ghana"
+    ],
+    "runningTime": 404,
+    "updateTime": "2025-11-19T08:58:52.603Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74736899&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74736899,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74733875_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74733875_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -10508,6 +10668,162 @@
     "language": "en"
   },
   {
+    "titleText": "Too hot for males — Kenya faces a sea turtle crisis",
+    "category": "Nature and Environment",
+    "subCategory": "Climate",
+    "region_ids": {
+      "region:africa:KE": "Kenya"
+    },
+    "regions": [
+      "Kenya"
+    ],
+    "runningTime": 304,
+    "updateTime": "2025-09-24T14:57:08.416Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74066557&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74066557,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74055970_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74055970_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany's recycling system: sorting trash and saving cash",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 342,
+    "updateTime": "2025-09-24T09:09:42.77Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74048892&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74048892,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/74049606_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/74049606_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Kutlwano Monyai: Art, ancestry and plastic truths ",
+    "category": "Culture",
+    "subCategory": "Arts",
+    "region_ids": {
+      "region:africa:ZA": "South Africa"
+    },
+    "regions": [
+      "South Africa"
+    ],
+    "runningTime": 340,
+    "updateTime": "2025-09-19T10:09:32.281Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=74023146&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 74023146,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73785725_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73785725_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Why our planet is drowning in plastic",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 515,
+    "updateTime": "2025-08-25T14:39:07.981Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73737043&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73737043,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73526481_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73526481_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Aid cuts deepen Rohingya refugee crisis in Bangladesh",
     "category": "Migration",
     "subCategory": null,
@@ -10521,7 +10837,7 @@
     "updateTime": "2025-08-23T16:33:35.369Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73742422&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73742422&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 73742422,
       "launchParam": null
@@ -10547,6 +10863,45 @@
     "language": "en"
   },
   {
+    "titleText": "Why is Indonesia burning mountains of foreign plastic waste?",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:asia:ID": "Indonesia"
+    },
+    "regions": [
+      "Indonesia"
+    ],
+    "runningTime": 223,
+    "updateTime": "2025-08-14T13:40:40.875Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73634309&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73634309,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73633315_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73633315_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Rohingya women in Bangladeshi camps lack toilets",
     "category": "Society",
     "subCategory": "Health",
@@ -10562,7 +10917,7 @@
     "updateTime": "2025-08-14T07:10:20.377Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73631740&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73631740&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 73631740,
       "launchParam": null
@@ -10588,6 +10943,45 @@
     "language": "en"
   },
   {
+    "titleText": "Global plastic crisis deepens as nations struggle to respond",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:global": "Global"
+    },
+    "regions": [
+      "Global"
+    ],
+    "runningTime": 155,
+    "updateTime": "2025-08-05T09:23:04.602Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73531375&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73531375,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/65755860_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/65755860_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Fact check: Trans athlete ban — fair or not?",
     "category": "Sports",
     "subCategory": "Diversity",
@@ -10601,7 +10995,7 @@
     "updateTime": "2025-08-05T08:42:09.634Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73530553&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=73530553&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 73530553,
       "launchParam": null
@@ -10744,6 +11138,47 @@
     "language": "en"
   },
   {
+    "titleText": "3D printing plastic waste into new, useful objects",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:SN": "Senegal"
+    },
+    "regions": [
+      "Africa",
+      "Senegal"
+    ],
+    "runningTime": 140,
+    "updateTime": "2025-07-09T09:41:35.509Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=73137173&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 73137173,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/73157271_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/73157271_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "UNICEF funding cut could end education for Rohingya kids",
     "category": "Education",
     "subCategory": "Migration",
@@ -10759,7 +11194,7 @@
     "updateTime": "2025-06-30T18:58:45.58Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73095696&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73095696&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 73095696,
       "launchParam": null
@@ -10798,7 +11233,7 @@
     "updateTime": "2025-06-27T11:41:53.968Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=73065644&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=73065644&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 73065644,
       "launchParam": null
@@ -10837,7 +11272,7 @@
     "updateTime": "2025-06-19T21:50:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72899673&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72899673&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72899673,
       "launchParam": null
@@ -10863,6 +11298,47 @@
     "language": "en"
   },
   {
+    "titleText": "Worms to the rescue – using enzymes to tackle plastic waste ",
+    "category": "Science",
+    "subCategory": "Nature and Environment",
+    "region_ids": {
+      "region:europe:FR": "France",
+      "region:europe": "Europe"
+    },
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "runningTime": 298,
+    "updateTime": "2025-06-17T11:12:48.46Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72902808&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72902808,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72926153_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72926153_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Bangladesh: Could the UN help the Rohingya return home?",
     "category": "Conflicts",
     "subCategory": null,
@@ -10878,7 +11354,7 @@
     "updateTime": "2025-06-12T09:43:42.745Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72880971&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72880971&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72880971,
       "launchParam": null
@@ -10904,6 +11380,86 @@
     "language": "en"
   },
   {
+    "titleText": "Ghanaians look for organic alternatives to plastic packaging",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:GH": "Ghana",
+      "region:africa": "Africa"
+    },
+    "regions": [
+      "Ghana",
+      "Africa"
+    ],
+    "runningTime": 261,
+    "updateTime": "2025-05-22T12:57:14.874Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72557253&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72557253,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72543636_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72543636_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Delhi artist turns plastic waste into sculptures ",
+    "category": "Nature and Environment",
+    "subCategory": "Arts",
+    "region_ids": {
+      "region:asia:IN": "India"
+    },
+    "regions": [
+      "India"
+    ],
+    "runningTime": 354,
+    "updateTime": "2025-05-12T09:59:21.71Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72489131&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72489131,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72487679_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72487679_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Myanmar earthquake: How Mandalay looks a month on",
     "category": "Catastrophe",
     "subCategory": "Nature and Environment",
@@ -10917,7 +11473,7 @@
     "updateTime": "2025-04-25T13:50:39.988Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72355477&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72355477&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72355477,
       "launchParam": null
@@ -10956,7 +11512,7 @@
     "updateTime": "2025-04-18T12:14:12.499Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72282682&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72282682&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72282682,
       "launchParam": null
@@ -10995,7 +11551,7 @@
     "updateTime": "2025-04-16T07:30:29.903Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72146381&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=72146381&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 72146381,
       "launchParam": null
@@ -11034,7 +11590,7 @@
     "updateTime": "2025-04-09T14:32:54.756Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72189269&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72189269&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72189269,
       "launchParam": null
@@ -11060,6 +11616,45 @@
     "language": "en"
   },
   {
+    "titleText": "Colombian village gets creative with plastic on its beaches",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:cala:CO": "Colombia"
+    },
+    "regions": [
+      "Colombia"
+    ],
+    "runningTime": 493,
+    "updateTime": "2025-04-07T00:30:00Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=72146336&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 72146336,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/72127701_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/72127701_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Myanmar refugees in Thailand share quake victims' pain",
     "category": "Catastrophe",
     "subCategory": "Politics",
@@ -11075,7 +11670,7 @@
     "updateTime": "2025-04-05T18:32:33.845Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72144170&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72144170&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72144170,
       "launchParam": null
@@ -11114,7 +11709,7 @@
     "updateTime": "2025-04-05T12:07:41.721Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72149185&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72149185&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72149185,
       "launchParam": null
@@ -11153,7 +11748,7 @@
     "updateTime": "2025-04-02T23:21:19.87Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72121991&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72121991&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72121991,
       "launchParam": null
@@ -11194,7 +11789,7 @@
     "updateTime": "2025-04-01T08:09:37.737Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72103177&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72103177&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72103177,
       "launchParam": null
@@ -11233,7 +11828,7 @@
     "updateTime": "2025-03-31T17:16:29.765Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72101255&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72101255&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72101255,
       "launchParam": null
@@ -11268,7 +11863,7 @@
     "updateTime": "2025-03-30T19:05:36.373Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72090519&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72090519&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72090519,
       "launchParam": null
@@ -11309,7 +11904,7 @@
     "updateTime": "2025-03-29T15:01:00.17Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72083092&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72083092&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72083092,
       "launchParam": null
@@ -11348,7 +11943,7 @@
     "updateTime": "2025-03-29T10:17:37.56Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72081512&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72081512&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72081512,
       "launchParam": null
@@ -11389,7 +11984,7 @@
     "updateTime": "2025-03-28T12:34:51.664Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=72070192&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=72070192&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 72070192,
       "launchParam": null
@@ -11428,7 +12023,7 @@
     "updateTime": "2025-03-10T12:33:22.748Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71858618&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71858618&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 71858618,
       "launchParam": null
@@ -11473,7 +12068,7 @@
     "updateTime": "2025-03-07T13:46:14.516Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71859904&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=71859904&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 71859904,
       "launchParam": null
@@ -11512,7 +12107,7 @@
     "updateTime": "2025-02-18T16:49:44.428Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71664218&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=71664218&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 71664218,
       "launchParam": null
@@ -11538,6 +12133,123 @@
     "language": "en"
   },
   {
+    "titleText": "Zimbabwe: Clear-up campaign in Victoria Falls",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa:ZW": "Zimbabwe"
+    },
+    "regions": [
+      "Zimbabwe"
+    ],
+    "runningTime": 319,
+    "updateTime": "2025-02-17T10:28:36.747Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71581838&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71581838,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71581792_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71581792_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Uganda farmer grows natural substitute for plastic bottles",
+    "category": "Nature and Environment",
+    "subCategory": null,
+    "region_ids": {
+      "region:africa:UG": "Uganda"
+    },
+    "regions": [
+      "Uganda"
+    ],
+    "runningTime": 139,
+    "updateTime": "2025-02-04T10:40:58.905Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71436067&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71436067,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/71434351_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/71434351_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Germany: How can hospitals better manage medical waste?",
+    "category": "Nature and Environment",
+    "subCategory": "Health",
+    "region_ids": {
+      "region:europe:DE": "Germany"
+    },
+    "regions": [
+      "Germany"
+    ],
+    "runningTime": 376,
+    "updateTime": "2025-02-03T08:21:26.146Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=71471540&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 71471540,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70422012_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70422012_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Myanmar journalists fight for truth from exile",
     "category": "Conflicts",
     "subCategory": null,
@@ -11551,7 +12263,7 @@
     "updateTime": "2025-01-21T08:41:27.362Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70889394&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=70889394&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 70889394,
       "launchParam": null
@@ -11590,7 +12302,7 @@
     "updateTime": "2024-12-27T17:21:27.065Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69570428&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69570428&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69570428,
       "launchParam": null
@@ -11629,7 +12341,7 @@
     "updateTime": "2024-12-24T13:13:26.252Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71153529&list=GLOBAL_TOPIC_VIDEO:9",
+      "contentId": "v=71153529&list=GLOBAL_TOPIC_VIDEO:10",
       "type": "video",
       "id": 71153529,
       "launchParam": null
@@ -11670,7 +12382,7 @@
     "updateTime": "2024-12-17T11:51:13.005Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=71015410&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=71015410&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 71015410,
       "launchParam": null
@@ -11696,6 +12408,86 @@
     "language": "en"
   },
   {
+    "titleText": "Lesotho activist challenges youth to tackle plastic waste",
+    "category": "Nature and Environment",
+    "subCategory": "Innovation",
+    "region_ids": {
+      "region:africa:LS": "Lesotho"
+    },
+    "regions": [
+      "Lesotho"
+    ],
+    "runningTime": 372,
+    "updateTime": "2024-10-10T08:50:44.68Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70329692&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 70329692,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/70325679_6.jpeg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/70325679_7.jpeg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
+    "titleText": "Liberia: Creating jobs by upcycling plastic waste",
+    "category": "Nature and Environment",
+    "subCategory": "Society",
+    "region_ids": {
+      "region:africa": "Africa",
+      "region:africa:LR": "Liberia"
+    },
+    "regions": [
+      "Africa",
+      "Liberia"
+    ],
+    "runningTime": 126,
+    "updateTime": "2024-09-18T08:58:47.872Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=70247167&list=GLOBAL_TOPIC_VIDEO:8",
+      "type": "video",
+      "id": 70247167,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/68652744_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/68652744_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Drawing to a close, Paris Paralympics leave their mark",
     "category": "Sports",
     "subCategory": null,
@@ -11709,7 +12501,7 @@
     "updateTime": "2024-09-08T13:11:11.945Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=70165458&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=70165458&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 70165458,
       "launchParam": null
@@ -11748,7 +12540,7 @@
     "updateTime": "2024-08-12T15:17:07.493Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69923606&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69923606&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69923606,
       "launchParam": null
@@ -11787,7 +12579,7 @@
     "updateTime": "2024-08-08T22:30:00Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69831436&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69831436&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69831436,
       "launchParam": null
@@ -11826,7 +12618,7 @@
     "updateTime": "2024-08-08T14:53:16.513Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69892359&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69892359&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69892359,
       "launchParam": null
@@ -11865,7 +12657,7 @@
     "updateTime": "2024-07-28T09:44:17.537Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69779241&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69779241&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69779241,
       "launchParam": null
@@ -11908,7 +12700,7 @@
     "updateTime": "2024-07-25T13:29:51.934Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69765951&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69765951&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69765951,
       "launchParam": null
@@ -11949,7 +12741,7 @@
     "updateTime": "2024-07-24T14:22:40.1Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69733820&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69733820&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69733820,
       "launchParam": null
@@ -11990,7 +12782,7 @@
     "updateTime": "2024-07-19T18:28:18.083Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69716571&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69716571&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69716571,
       "launchParam": null
@@ -12029,7 +12821,7 @@
     "updateTime": "2024-07-18T15:25:33.227Z",
     "onClick": {
       "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=69706232&list=GLOBAL_TOPIC_VIDEO:8",
+      "contentId": "v=69706232&list=GLOBAL_TOPIC_VIDEO:9",
       "type": "video",
       "id": 69706232,
       "launchParam": null
