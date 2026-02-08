@@ -1,5 +1,40 @@
 [
   {
+    "titleText": "Top stories in 90 seconds",
+    "category": "Video News",
+    "subCategory": null,
+    "region_ids": {},
+    "regions": [],
+    "runningTime": 94,
+    "updateTime": "2026-02-08T05:17:58.029Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=49496622&list=NEWS_VIDEO:12",
+      "type": "video",
+      "id": 49496622,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75852901_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75852901_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "en"
+  },
+  {
     "titleText": "Berlin sees thousands rally for freedom in Iran",
     "category": "Politics",
     "subCategory": "Society",
@@ -34,41 +69,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/75855100_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "en"
-  },
-  {
-    "titleText": "Top stories in 90 seconds",
-    "category": "Video News",
-    "subCategory": null,
-    "region_ids": {},
-    "regions": [],
-    "runningTime": 107,
-    "updateTime": "2026-02-07T20:24:40.078Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=49496622&list=NEWS_VIDEO:12",
-      "type": "video",
-      "id": 49496622,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/75852901_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/75852901_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
@@ -14755,6 +14755,47 @@
     "language": "es"
   },
   {
+    "titleText": "Palästinenserin sprich über ihr Leiden in israelischer Haft",
+    "category": "Menschenrechte",
+    "subCategory": "Politik",
+    "region_ids": {
+      "region:me:IL": "Israel",
+      "region:me:PS": "Palästinensische Gebiete"
+    },
+    "regions": [
+      "Israel",
+      "Palästinensische Gebiete"
+    ],
+    "runningTime": 218,
+    "updateTime": "2026-02-08T05:34:58.011Z",
+    "onClick": {
+      "targetAppId": "com.dw.app.dwforsmarttv",
+      "contentId": "v=75824324&list=REPORTS_VIDEO:1",
+      "type": "video",
+      "id": 75824324,
+      "launchParam": null
+    },
+    "providerLogo": {
+      "url": "https://dwapps.de/feed/dw_white_800.png",
+      "width": 800,
+      "height": 800,
+      "bgColor": ""
+    },
+    "image": {
+      "url": "https://static.dw.com/image/75839055_6.jpg",
+      "width": 940,
+      "height": 529,
+      "bgColor": ""
+    },
+    "image4k": {
+      "url": "https://static.dw.com/image/75839055_7.jpg",
+      "width": 3997,
+      "height": 2250,
+      "bgColor": ""
+    },
+    "language": "de"
+  },
+  {
     "titleText": "Zensur bei TikTok nach Eigentümerwechsel?",
     "category": "Politik",
     "subCategory": "Meinungsfreiheit",
@@ -15296,47 +15337,6 @@
     },
     "image4k": {
       "url": "https://static.dw.com/image/65193299_7.jpg",
-      "width": 3997,
-      "height": 2250,
-      "bgColor": ""
-    },
-    "language": "de"
-  },
-  {
-    "titleText": "USA wollen Chinas Übermacht bei Seltenen Erden kontern",
-    "category": "Handel",
-    "subCategory": "Globalisierung",
-    "region_ids": {
-      "region:asia:CN": "China",
-      "region:northamerica:US": "Vereinigte Staaten von Amerika"
-    },
-    "regions": [
-      "China",
-      "Vereinigte Staaten von Amerika"
-    ],
-    "runningTime": 103,
-    "updateTime": "2026-02-04T12:45:38.537Z",
-    "onClick": {
-      "targetAppId": "com.dw.app.dwforsmarttv",
-      "contentId": "v=75798263&list=REPORTS_VIDEO:1",
-      "type": "video",
-      "id": 75798263,
-      "launchParam": null
-    },
-    "providerLogo": {
-      "url": "https://dwapps.de/feed/dw_white_800.png",
-      "width": 800,
-      "height": 800,
-      "bgColor": ""
-    },
-    "image": {
-      "url": "https://static.dw.com/image/74612119_6.jpg",
-      "width": 940,
-      "height": 529,
-      "bgColor": ""
-    },
-    "image4k": {
-      "url": "https://static.dw.com/image/74612119_7.jpg",
       "width": 3997,
       "height": 2250,
       "bgColor": ""
